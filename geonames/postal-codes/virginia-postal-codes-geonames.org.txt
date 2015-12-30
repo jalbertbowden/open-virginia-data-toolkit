@@ -1,0 +1,1357 @@
+US	23214	Richmond	Virginia	VA	Accomack County	001			37.5593	-77.4471	
+US	23301	Accomac	Virginia	VA	Accomack	001			37.7159	-75.6803	
+US	23302	Assawoman	Virginia	VA	Accomack	001			37.8658	-75.5277	
+US	23303	Atlantic	Virginia	VA	Accomack	001			37.9073	-75.5089	
+US	23306	Belle Haven	Virginia	VA	Accomack	001			37.5645	-75.8694	
+US	23308	Bloxom	Virginia	VA	Accomack	001			37.8273	-75.6156	
+US	23336	Chincoteague Island	Virginia	VA	Accomack	001			37.9487	-75.4363	
+US	23337	Wallops Island	Virginia	VA	Accomack	001			37.9186	-75.4905	
+US	23341	Craddockville	Virginia	VA	Accomack	001			37.5773	-75.8646	
+US	23345	Davis Wharf	Virginia	VA	Accomack	001			37.7382	-75.7014	
+US	23356	Greenbackville	Virginia	VA	Accomack	001			38.0064	-75.4029	
+US	23357	Greenbush	Virginia	VA	Accomack	001			37.7681	-75.6664	
+US	23358	Hacksneck	Virginia	VA	Accomack	001			37.6393	-75.865	
+US	23359	Hallwood	Virginia	VA	Accomack	001			37.8837	-75.6041	
+US	23389	Harborton	Virginia	VA	Accomack	001			37.6562	-75.8488	
+US	23395	Horntown	Virginia	VA	Accomack	001			37.9699	-75.4716	
+US	23396	Oak Hall	Virginia	VA	Accomack	001			37.9237	-75.5551	
+US	23399	Jenkins Bridge	Virginia	VA	Accomack	001			37.9162	-75.6168	
+US	23401	Keller	Virginia	VA	Accomack	001			37.5966	-75.7893	
+US	23403	Lee Mont	Virginia	VA	Accomack County	001			37.7786	-75.6811	
+US	23404	Locustville	Virginia	VA	Accomack	001			37.6534	-75.6735	
+US	23407	Mappsville	Virginia	VA	Accomack	001			37.8389	-75.5634	
+US	23409	Mears	Virginia	VA	Accomack	001			37.8692	-75.6354	
+US	23410	Melfa	Virginia	VA	Accomack	001			37.6407	-75.7454	
+US	23412	Modest Town	Virginia	VA	Accomack	001			37.7904	-75.6035	
+US	23414	Nelsonia	Virginia	VA	Accomack	001			37.8169	-75.5832	
+US	23415	New Church	Virginia	VA	Accomack	001			37.9525	-75.5112	
+US	23416	Oak Hall	Virginia	VA	Accomack	001			37.9229	-75.5386	
+US	23417	Onancock	Virginia	VA	Accomack	001			37.7102	-75.7528	
+US	23418	Onley	Virginia	VA	Accomack	001			37.6704	-75.6992	
+US	23420	Painter	Virginia	VA	Accomack	001			37.5828	-75.8066	
+US	23421	Parksley	Virginia	VA	Accomack	001			37.7744	-75.6386	
+US	23422	Pungoteague	Virginia	VA	Accomack	001			37.6162	-75.7915	
+US	23423	Quinby	Virginia	VA	Accomack	001			37.5423	-75.7412	
+US	23426	Sanford	Virginia	VA	Accomack	001			37.9229	-75.6781	
+US	23427	Saxis	Virginia	VA	Accomack	001			37.9264	-75.722	
+US	23440	Tangier	Virginia	VA	Accomack	001			37.8245	-75.993	
+US	23441	Tasley	Virginia	VA	Accomack	001			37.7323	-75.6773	
+US	23442	Temperanceville	Virginia	VA	Accomack	001			37.8954	-75.5528	
+US	23480	Wachapreague	Virginia	VA	Accomack	001			37.6044	-75.6925	
+US	23481	Carrsville	Virginia	VA	Accomack County	001			36.709	-76.8702	
+US	23483	Wattsville	Virginia	VA	Accomack	001			37.9437	-75.5023	
+US	23488	Withams	Virginia	VA	Accomack	001			37.9482	-75.6019	
+US	22901	Charlottesville	Virginia	VA	Albemarle	003			38.0936	-78.5611	
+US	22909	Charlottesville	Virginia	VA	Albemarle	003			38.0245	-78.4482	
+US	22911	Charlottesville	Virginia	VA	Albemarle	003			38.0995	-78.4085	
+US	22924	Batesville	Virginia	VA	Albemarle	003			38.0013	-78.7271	
+US	22929	Cobham	Virginia	VA	Albemarle County	003			38.0362	-78.382	
+US	22931	Covesville	Virginia	VA	Albemarle	003			37.908	-78.7127	
+US	22932	Crozet	Virginia	VA	Albemarle	003			38.1296	-78.7106	
+US	22936	Earlysville	Virginia	VA	Albemarle	003			38.1578	-78.4919	
+US	22937	Esmont	Virginia	VA	Albemarle	003			37.8125	-78.6106	
+US	22940	Free Union	Virginia	VA	Albemarle	003			38.1944	-78.5849	
+US	22943	Greenwood	Virginia	VA	Albemarle	003			38.0415	-78.7833	
+US	22945	Ivy	Virginia	VA	Albemarle	003			38.0654	-78.5958	
+US	22946	Keene	Virginia	VA	Albemarle	003			37.856	-78.5699	
+US	22947	Keswick	Virginia	VA	Albemarle	003			38.0531	-78.3396	
+US	22959	North Garden	Virginia	VA	Albemarle	003			37.9336	-78.6351	
+US	22987	White Hall	Virginia	VA	Albemarle	003			38.1799	-78.6189	
+US	24562	Howardsville	Virginia	VA	Albemarle	003			37.7511	-78.6313	
+US	24590	Scottsville	Virginia	VA	Albemarle	003			37.8049	-78.474	
+US	24422	Clifton Forge	Virginia	VA	Alleghany County	005			37.8203	-79.8054	
+US	24448	Iron Gate	Virginia	VA	Alleghany	005			37.7965	-79.786	
+US	24457	Low Moor	Virginia	VA	Alleghany	005			37.7804	-79.8828	
+US	24474	Selma	Virginia	VA	Alleghany	005			37.8062	-79.8404	
+US	23002	Amelia Court House	Virginia	VA	Amelia	007			37.3428	-77.9841	
+US	23083	Jetersville	Virginia	VA	Amelia	007			37.3176	-78.104	
+US	23105	Mannboro	Virginia	VA	Amelia	007			37.345	-77.9449	
+US	24521	Amherst	Virginia	VA	Amherst	009			37.6027	-79.0506	
+US	24533	Clifford	Virginia	VA	Amherst	009			37.538	-78.9463	
+US	24572	Madison Heights	Virginia	VA	Amherst	009			37.4531	-79.1141	
+US	24574	Monroe	Virginia	VA	Amherst	009			37.5414	-79.1703	
+US	24595	Sweet Briar	Virginia	VA	Amherst	009			37.5674	-79.0756	
+US	23939	Evergreen	Virginia	VA	Appomattox	011			37.3772	-78.8065	
+US	23958	Pamplin	Virginia	VA	Appomattox	011			37.2653	-78.6517	
+US	24522	Appomattox	Virginia	VA	Appomattox	011			37.353	-78.8224	
+US	24593	Spout Spring	Virginia	VA	Appomattox	011			37.3643	-78.9059	
+US	22201	Arlington	Virginia	VA	Arlington	013			38.8871	-77.0932	
+US	22202	Arlington	Virginia	VA	Arlington	013			38.8565	-77.0592	
+US	22203	Arlington	Virginia	VA	Arlington	013			38.8738	-77.1142	
+US	22204	Arlington	Virginia	VA	Arlington	013			38.859	-77.0997	
+US	22205	Arlington	Virginia	VA	Arlington	013			38.8836	-77.1395	
+US	22206	Arlington	Virginia	VA	Arlington	013			38.8415	-77.0905	
+US	22207	Arlington	Virginia	VA	Arlington	013			38.9033	-77.1263	
+US	22209	Arlington	Virginia	VA	Arlington	013			38.8926	-77.0753	
+US	22210	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22211	Ft Myer	Virginia	VA	Arlington	013			38.8787	-77.0774	
+US	22212	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22213	Arlington	Virginia	VA	Arlington	013			38.8954	-77.1633	
+US	22214	Arlington	Virginia	VA	Arlington	013			38.8688	-77.0739	
+US	22215	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22216	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22217	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22218	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22219	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22222	Arlington	Virginia	VA	Arlington	013			38.8615	-77.0536	
+US	22223	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22225	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22226	Arlington	Virginia	VA	Arlington	013			38.8834	-77.1028	
+US	22227	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22229	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22230	Arlington	Virginia	VA	Arlington	013			38.8797	-77.1108	
+US	22234	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22240	Arlington	Virginia	VA	Arlington	013			38.8566	-77.0518	
+US	22241	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22242	Arlington	Virginia	VA	Arlington	013			38.8509	-77.0523	
+US	22243	Arlington	Virginia	VA	Arlington	013			38.8605	-77.0516	
+US	22244	Arlington	Virginia	VA	Arlington	013			38.8545	-77.052	
+US	22245	Arlington	Virginia	VA	Arlington	013			38.8518	-77.0523	
+US	22246	Arlington	Virginia	VA	Arlington	013			38.8808	-77.1129	
+US	22843	Mount Solon	Virginia	VA	Augusta	015			38.3328	-79.1028	
+US	22939	Fishersville	Virginia	VA	Augusta	015			38.0964	-78.9929	
+US	22952	Lyndhurst	Virginia	VA	Augusta	015			37.9744	-78.9361	
+US	24407	Staunton	Virginia	VA	Augusta	015			38.1797	-79.1413	
+US	24411	Augusta Springs	Virginia	VA	Augusta	015			38.0917	-79.3224	
+US	24421	Churchville	Virginia	VA	Augusta	015			38.2346	-79.1791	
+US	24430	Craigsville	Virginia	VA	Augusta	015			38.0768	-79.3619	
+US	24431	Crimora	Virginia	VA	Augusta	015			38.1684	-78.8413	
+US	24432	Deerfield	Virginia	VA	Augusta	015			38.1842	-79.4152	
+US	24437	Fort Defiance	Virginia	VA	Augusta	015			38.2109	-78.9326	
+US	24440	Greenville	Virginia	VA	Augusta	015			38.0018	-79.1359	
+US	24444	Hightown	Virginia	VA	Augusta County	015			38.4664	-79.5995	
+US	24459	Middlebrook	Virginia	VA	Augusta	015			38.0242	-79.2812	
+US	24463	Mint Spring	Virginia	VA	Augusta	015			38.1797	-79.1413	
+US	24467	Mount Sidney	Virginia	VA	Augusta	015			38.2612	-78.973	
+US	24469	New Hope	Virginia	VA	Augusta	015			38.1797	-79.1413	
+US	24475	Spottswood	Virginia	VA	Augusta	015			37.9684	-79.2211	
+US	24476	Steeles Tavern	Virginia	VA	Augusta	015			37.9705	-79.2233	
+US	24477	Stuarts Draft	Virginia	VA	Augusta	015			38.0144	-79.0298	
+US	24479	Swoope	Virginia	VA	Augusta	015			38.1591	-79.1873	
+US	24482	Verona	Virginia	VA	Augusta	015			38.2037	-79.0059	
+US	24485	West Augusta	Virginia	VA	Augusta	015			38.2744	-79.3201	
+US	24486	Weyers Cave	Virginia	VA	Augusta	015			38.2931	-78.9235	
+US	22549	Shiloh	Virginia	VA	Bath County	017			38.2213	-77.1112	
+US	24412	Bacova	Virginia	VA	Bath	017			38.0553	-79.7464	
+US	24445	Hot Springs	Virginia	VA	Bath	017			37.9638	-79.8717	
+US	24460	Millboro	Virginia	VA	Bath	017			38.0553	-79.7464	
+US	24484	Warm Springs	Virginia	VA	Bath	017			38.1437	-79.8207	
+US	24487	Williamsville	Virginia	VA	Bath	017			38.1898	-79.5879	
+US	24095	Goodview	Virginia	VA	Bedford	019			37.2123	-79.7429	
+US	24101	Hardy	Virginia	VA	Bedford	019			37.2145	-79.8127	
+US	24104	Huddleston	Virginia	VA	Bedford	019			37.1442	-79.491	
+US	24121	Moneta	Virginia	VA	Bedford	019			37.1784	-79.6521	
+US	24122	Montvale	Virginia	VA	Bedford	019			37.407	-79.7175	
+US	24174	Thaxton	Virginia	VA	Bedford	019			37.36	-79.6522	
+US	24178	Villamont	Virginia	VA	Bedford	019			37.3105	-79.7898	
+US	24526	Big Island	Virginia	VA	Bedford	019			37.5306	-79.3827	
+US	24536	Coleman Falls	Virginia	VA	Bedford	019			37.4887	-79.3158	
+US	24551	Forest	Virginia	VA	Bedford	019			37.3379	-79.2791	
+US	24556	Goode	Virginia	VA	Bedford	019			37.3755	-79.4039	
+US	24570	Lowry	Virginia	VA	Bedford	019			37.3484	-79.4271	
+US	24314	Bastian	Virginia	VA	Bland	021			37.1574	-81.1989	
+US	24315	Bland	Virginia	VA	Bland	021			37.1376	-81.0201	
+US	24318	Ceres	Virginia	VA	Bland	021			37.0046	-81.3643	
+US	24366	Rocky Gap	Virginia	VA	Bland	021			37.2578	-81.1159	
+US	24019	Roanoke	Virginia	VA	Botetourt	023			37.3515	-79.9052	
+US	24050	Roanoke	Virginia	VA	Botetourt	023			37.5551	-79.7862	
+US	24064	Blue Ridge	Virginia	VA	Botetourt	023			37.3885	-79.8172	
+US	24066	Buchanan	Virginia	VA	Botetourt	023			37.5479	-79.7123	
+US	24077	Cloverdale	Virginia	VA	Botetourt	023			37.3726	-79.9013	
+US	24083	Daleville	Virginia	VA	Botetourt	023			37.4125	-79.9211	
+US	24085	Eagle Rock	Virginia	VA	Botetourt	023			37.6667	-79.8172	
+US	24090	Fincastle	Virginia	VA	Botetourt	023			37.4911	-79.8511	
+US	24130	Oriskany	Virginia	VA	Botetourt	023			37.5551	-79.7862	
+US	24175	Troutville	Virginia	VA	Botetourt	023			37.4019	-79.8786	
+US	24438	Glen Wilton	Virginia	VA	Botetourt	023			37.5551	-79.7862	
+US	23821	Alberta	Virginia	VA	Brunswick	025			36.8806	-77.9055	
+US	23843	Dolphin	Virginia	VA	Brunswick	025			36.8318	-77.7887	
+US	23845	Ebony	Virginia	VA	Brunswick	025			36.5722	-77.9888	
+US	23856	Freeman	Virginia	VA	Brunswick	025			36.7893	-77.7208	
+US	23857	Gasburg	Virginia	VA	Brunswick	025			36.5856	-77.8836	
+US	23868	Lawrenceville	Virginia	VA	Brunswick	025			36.7342	-77.8136	
+US	23873	Meredithville	Virginia	VA	Brunswick	025			36.8088	-77.9544	
+US	23876	Rawlings	Virginia	VA	Brunswick	025			36.953	-77.8237	
+US	23887	Valentines	Virginia	VA	Brunswick	025			36.565	-77.8384	
+US	23889	Warfield	Virginia	VA	Brunswick	025			36.9011	-77.7673	
+US	23893	White Plains	Virginia	VA	Brunswick	025			36.6335	-77.9592	
+US	23920	Brodnax	Virginia	VA	Brunswick	025			36.7319	-77.9898	
+US	24239	Davenport	Virginia	VA	Buchanan	027			37.1134	-82.1501	
+US	24603	Big Rock	Virginia	VA	Buchanan	027			37.3532	-82.1968	
+US	24614	Grundy	Virginia	VA	Buchanan	027			37.2967	-82.1061	
+US	24618	Harman	Virginia	VA	Buchanan	027			37.288	-82.0274	
+US	24620	Hurley	Virginia	VA	Buchanan	027			37.4017	-82.0262	
+US	24624	Keen Mountain	Virginia	VA	Buchanan	027			37.288	-82.0274	
+US	24627	Mavisdale	Virginia	VA	Buchanan	027			37.288	-82.0274	
+US	24628	Maxie	Virginia	VA	Buchanan	027			37.288	-82.0274	
+US	24631	Oakwood	Virginia	VA	Buchanan	027			37.2138	-81.9917	
+US	24634	Pilgrims Knob	Virginia	VA	Buchanan	027			37.2746	-81.9024	
+US	24639	Raven	Virginia	VA	Buchanan	027			37.1481	-81.8896	
+US	24646	Rowe	Virginia	VA	Buchanan	027			37.1276	-82.0274	
+US	24647	Shortt Gap	Virginia	VA	Buchanan	027			37.288	-82.0274	
+US	24656	Vansant	Virginia	VA	Buchanan	027			37.1738	-82.1277	
+US	24657	Whitewood	Virginia	VA	Buchanan	027			37.2251	-81.8605	
+US	24658	Wolford	Virginia	VA	Buchanan	027			37.288	-82.0274	
+US	23004	Arvonia	Virginia	VA	Buckingham	029			37.6714	-78.3889	
+US	23123	New Canton	Virginia	VA	Buckingham	029			37.6645	-78.3112	
+US	23911	Andersonville	Virginia	VA	Buckingham County	029			37.4671	-78.569	
+US	23921	Buckingham	Virginia	VA	Buckingham	029			37.5833	-78.5985	
+US	23936	Dillwyn	Virginia	VA	Buckingham	029			37.4124	-78.4349	
+US	24512	Lynchburg	Virginia	VA	Campbell	031			37.2425	-79.1098	
+US	24513	Lynchburg	Virginia	VA	Campbell	031			37.2458	-79.1335	
+US	24517	Altavista	Virginia	VA	Campbell	031			37.1222	-79.2911	
+US	24528	Brookneal	Virginia	VA	Campbell	031			37.0827	-78.9227	
+US	24538	Concord	Virginia	VA	Campbell	031			37.337	-78.9804	
+US	24550	Evington	Virginia	VA	Campbell	031			37.261	-79.2317	
+US	24554	Gladys	Virginia	VA	Campbell	031			37.1386	-79.1048	
+US	24569	Long Island	Virginia	VA	Campbell	031			37.0644	-79.1219	
+US	24571	Lynch Station	Virginia	VA	Campbell	031			37.1528	-79.3297	
+US	24576	Naruna	Virginia	VA	Campbell	031			37.2458	-79.1335	
+US	24588	Rustburg	Virginia	VA	Campbell	031			37.2545	-79.1215	
+US	22427	Bowling Green	Virginia	VA	Caroline	033			38.0137	-77.1802	
+US	22428	Bowling Green	Virginia	VA	Caroline	033			38.0145	-77.3559	
+US	22446	Corbin	Virginia	VA	Caroline	033			38.1718	-77.4082	
+US	22501	Ladysmith	Virginia	VA	Caroline	033			38.0159	-77.5593	
+US	22514	Milford	Virginia	VA	Caroline	033			38.0058	-77.3185	
+US	22535	Port Royal	Virginia	VA	Caroline	033			38.1621	-77.1837	
+US	22538	Rappahannock Academy	Virginia	VA	Caroline	033			38.2079	-77.2502	
+US	22546	Ruther Glen	Virginia	VA	Caroline	033			37.9451	-77.4714	
+US	22552	Sparta	Virginia	VA	Caroline	033			38.0094	-77.2251	
+US	22580	Woodford	Virginia	VA	Caroline	033			38.0847	-77.4399	
+US	24317	Cana	Virginia	VA	Carroll	035			36.5957	-80.6705	
+US	24325	Dugspur	Virginia	VA	Carroll	035			36.8145	-80.6123	
+US	24328	Fancy Gap	Virginia	VA	Carroll	035			36.664	-80.6907	
+US	24343	Hillsville	Virginia	VA	Carroll	035			36.7442	-80.7197	
+US	24351	Lambsburg	Virginia	VA	Carroll	035			36.5775	-80.7601	
+US	24352	Laurel Fork	Virginia	VA	Carroll	035			36.7073	-80.5148	
+US	24381	Woodlawn	Virginia	VA	Carroll	035			36.7879	-80.8824	
+US	23030	Charles City	Virginia	VA	Charles City	036			37.3663	-77.1082	
+US	23147	Ruthville	Virginia	VA	Charles City	036			37.3796	-77.0348	
+US	23923	Charlotte Court House	Virginia	VA	Charlotte	037			37.0879	-78.6378	
+US	23934	Cullen	Virginia	VA	Charlotte	037			37.1552	-78.6459	
+US	23937	Drakes Branch	Virginia	VA	Charlotte	037			36.9688	-78.5615	
+US	23947	Keysville	Virginia	VA	Charlotte	037			37.0411	-78.4699	
+US	23959	Phenix	Virginia	VA	Charlotte	037			37.0925	-78.7912	
+US	23962	Randolph	Virginia	VA	Charlotte	037			36.9515	-78.7054	
+US	23963	Red House	Virginia	VA	Charlotte	037			37.1914	-78.8145	
+US	23964	Red Oak	Virginia	VA	Charlotte	037			36.7724	-78.6321	
+US	23967	Saxe	Virginia	VA	Charlotte	037			36.9053	-78.6321	
+US	23976	Wylliesburg	Virginia	VA	Charlotte	037			36.8391	-78.5982	
+US	23112	Midlothian	Virginia	VA	Chesterfield	041			37.431	-77.6545	
+US	23113	Midlothian	Virginia	VA	Chesterfield	041			37.5109	-77.6429	
+US	23114	Midlothian	Virginia	VA	Chesterfield	041			37.4815	-77.6419	
+US	23120	Moseley	Virginia	VA	Chesterfield	041			37.426	-77.7585	
+US	23234	Richmond	Virginia	VA	Chesterfield	041			37.4373	-77.4788	
+US	23235	Richmond	Virginia	VA	Chesterfield	041			37.5133	-77.5646	
+US	23236	Richmond	Virginia	VA	Chesterfield	041			37.4782	-77.5854	
+US	23237	Richmond	Virginia	VA	Chesterfield	041			37.4011	-77.4615	
+US	23297	Richmond	Virginia	VA	Chesterfield	041			37.3897	-77.5613	
+US	23831	Chester	Virginia	VA	Chesterfield	041			37.3429	-77.4156	
+US	23832	Chesterfield	Virginia	VA	Chesterfield	041			37.3923	-77.5668	
+US	23836	Chester	Virginia	VA	Chesterfield	041			37.3475	-77.3386	
+US	23838	Chesterfield	Virginia	VA	Chesterfield	041			37.3333	-77.6343	
+US	22611	Berryville	Virginia	VA	Clarke	043			39.1532	-77.9688	
+US	22620	Boyce	Virginia	VA	Clarke	043			39.0698	-78.0203	
+US	22646	Millwood	Virginia	VA	Clarke	043			39.1219	-77.9901	
+US	22663	White Post	Virginia	VA	Clarke	043			39.058	-78.1105	
+US	24127	New Castle	Virginia	VA	Craig	045			37.4871	-80.1704	
+US	24131	Paint Bank	Virginia	VA	Craig	045			37.5745	-80.2544	
+US	22701	Culpeper	Virginia	VA	Culpeper	047			38.5117	-77.9928	
+US	22713	Boston	Virginia	VA	Culpeper	047			38.5382	-78.1423	
+US	22714	Brandy Station	Virginia	VA	Culpeper	047			38.511	-77.9037	
+US	22718	Elkwood	Virginia	VA	Culpeper	047			38.4652	-77.817	
+US	22724	Jeffersonton	Virginia	VA	Culpeper	047			38.6256	-77.9069	
+US	22726	Lignum	Virginia	VA	Culpeper	047			38.3956	-77.83	
+US	22729	Mitchells	Virginia	VA	Culpeper	047			38.3744	-78.0105	
+US	22733	Rapidan	Virginia	VA	Culpeper	047			38.3392	-78.0476	
+US	22735	Reva	Virginia	VA	Culpeper	047			38.4604	-78.1572	
+US	22736	Richardsville	Virginia	VA	Culpeper	047			38.3924	-77.7195	
+US	22737	Rixeyville	Virginia	VA	Culpeper	047			38.5852	-78.0282	
+US	22741	Stevensburg	Virginia	VA	Culpeper	047			38.4441	-77.8842	
+US	23027	Cartersville	Virginia	VA	Cumberland	049			37.6479	-78.1389	
+US	23037	Cologne	Virginia	VA	Cumberland County	049			37.5559	-76.6834	
+US	23040	Cumberland	Virginia	VA	Cumberland	049			37.5019	-78.2581	
+US	24217	Bee	Virginia	VA	Dickenson	051			37.1014	-82.1856	
+US	24220	Birchleaf	Virginia	VA	Dickenson	051			37.1394	-82.2433	
+US	24226	Clinchco	Virginia	VA	Dickenson	051			37.1406	-82.3425	
+US	24228	Clintwood	Virginia	VA	Dickenson	051			37.1592	-82.4453	
+US	24256	Haysi	Virginia	VA	Dickenson	051			37.2206	-82.2853	
+US	24269	Mc Clure	Virginia	VA	Dickenson	051			37.0814	-82.3806	
+US	24272	Nora	Virginia	VA	Dickenson	051			37.0182	-82.35	
+US	24289	Trammel	Virginia	VA	Dickenson	051			37.1309	-82.3449	
+US	24607	Breaks	Virginia	VA	Dickenson	051			37.1309	-82.3449	
+US	23822	Ammon	Virginia	VA	Dinwiddie	053			37.0724	-77.6475	
+US	23830	Carson	Virginia	VA	Dinwiddie	053			37.0393	-77.4351	
+US	23833	Church Road	Virginia	VA	Dinwiddie	053			37.195	-77.6646	
+US	23840	Dewitt	Virginia	VA	Dinwiddie	053			37.0535	-77.6426	
+US	23841	Dinwiddie	Virginia	VA	Dinwiddie	053			37.0833	-77.5585	
+US	23850	Ford	Virginia	VA	Dinwiddie	053			37.1349	-77.7364	
+US	23872	Mc Kenney	Virginia	VA	Dinwiddie	053			36.9986	-77.7396	
+US	23885	Sutherland	Virginia	VA	Dinwiddie	053			37.1901	-77.5655	
+US	23894	Wilsons	Virginia	VA	Dinwiddie	053			37.1157	-77.8352	
+US	22436	Caret	Virginia	VA	Essex	057			38.0247	-77.0371	
+US	22437	Center Cross	Virginia	VA	Essex	057			37.7929	-76.7548	
+US	22438	Champlain	Virginia	VA	Essex	057			38.0214	-76.9719	
+US	22439	Chance	Virginia	VA	Essex County	057			38.0841	-77.0211	
+US	22454	Dunnsville	Virginia	VA	Essex	057			37.8527	-76.8475	
+US	22476	Hustle	Virginia	VA	Essex	057			38.0329	-77.0633	
+US	22504	Laneview	Virginia	VA	Essex	057			37.7681	-76.7117	
+US	22509	Loretto	Virginia	VA	Essex	057			38.0789	-77.0485	
+US	22559	Supply	Virginia	VA	Essex County	057			38.0825	-77.1097	
+US	22560	Tappahannock	Virginia	VA	Essex	057			37.9146	-76.9125	
+US	23115	Millers Tavern	Virginia	VA	Essex	057			37.8364	-76.9138	
+US	20120	Centreville	Virginia	VA	Fairfax	059			38.8448	-77.467	
+US	20121	Centreville	Virginia	VA	Fairfax	059			38.8195	-77.4558	
+US	20122	Centreville	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20124	Clifton	Virginia	VA	Fairfax	059			38.7818	-77.3818	
+US	20151	Chantilly	Virginia	VA	Fairfax	059			38.8867	-77.4457	
+US	20153	Chantilly	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20170	Herndon	Virginia	VA	Fairfax	059			38.9839	-77.3675	
+US	20171	Herndon	Virginia	VA	Fairfax	059			38.9252	-77.3928	
+US	20172	Herndon	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20190	Reston	Virginia	VA	Fairfax	059			38.9615	-77.3418	
+US	20191	Reston	Virginia	VA	Fairfax	059			38.9318	-77.3527	
+US	20192	Herndon	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20193	Reston	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20194	Reston	Virginia	VA	Fairfax	059			38.9807	-77.3419	
+US	20195	Reston	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20196	Reston	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22003	Annandale	Virginia	VA	Fairfax	059			38.8307	-77.2142	
+US	22009	Burke	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22015	Burke	Virginia	VA	Fairfax	059			38.7894	-77.2818	
+US	22016	Calverton	Virginia	VA	Fairfax County	059			38.6319	-77.6707	
+US	22020	Centreville	Virginia	VA	Fairfax County	059			38.8406	-77.448	
+US	22021	Chantilly	Virginia	VA	Fairfax County	059			38.8858	-77.4311	
+US	22022	Chantilly	Virginia	VA	Fairfax County	059			38.8941	-77.4312	
+US	22027	Dunn Loring	Virginia	VA	Fairfax	059			38.8954	-77.2214	
+US	22032	Fairfax	Virginia	VA	Fairfax	059			38.8177	-77.2925	
+US	22033	Fairfax	Virginia	VA	Fairfax	059			38.8776	-77.3885	
+US	22034	Fairfax	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22035	Fairfax	Virginia	VA	Fairfax	059			38.8557	-77.3616	
+US	22036	Fairfax	Virginia	VA	Fairfax	059			38.7351	-77.0797	
+US	22037	Fairfax	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22039	Fairfax Station	Virginia	VA	Fairfax	059			38.7602	-77.3064	
+US	22041	Falls Church	Virginia	VA	Fairfax	059			38.8502	-77.1448	
+US	22042	Falls Church	Virginia	VA	Fairfax	059			38.8635	-77.1939	
+US	22043	Falls Church	Virginia	VA	Fairfax	059			38.8994	-77.1895	
+US	22044	Falls Church	Virginia	VA	Fairfax	059			38.8589	-77.1548	
+US	22047	Falls Church	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22060	Fort Belvoir	Virginia	VA	Fairfax	059			38.6947	-77.1433	
+US	22066	Great Falls	Virginia	VA	Fairfax	059			39.0039	-77.3083	
+US	22067	Greenway	Virginia	VA	Fairfax	059			38.9645	-77.2331	
+US	22070	Herndon	Virginia	VA	Fairfax County	059			38.9776	-77.386	
+US	22071	Herndon	Virginia	VA	Fairfax County	059			38.9201	-77.3951	
+US	22079	Lorton	Virginia	VA	Fairfax	059			38.6929	-77.204	
+US	22081	Merrifield	Virginia	VA	Fairfax	059			38.8739	-77.2345	
+US	22082	Merrifield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22090	Reston	Virginia	VA	Fairfax County	059			38.9624	-77.3392	
+US	22091	Reston	Virginia	VA	Fairfax County	059			38.9357	-77.3508	
+US	22092	Herndon	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22094	Reston	Virginia	VA	Fairfax County	059			38.9758	-77.3504	
+US	22095	Herndon	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22096	Reston	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22101	Mc Lean	Virginia	VA	Fairfax	059			38.9326	-77.1706	
+US	22102	Mc Lean	Virginia	VA	Fairfax	059			38.953	-77.2295	
+US	22103	West Mclean	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22106	Mc Lean	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22107	McLean	Virginia	VA	Fairfax County	059			38.9363	-77.1882	
+US	22108	McLean	Virginia	VA	Fairfax County	059			38.9363	-77.1882	
+US	22109	Mc Lean	Virginia	VA	Fairfax	059			38.9202	-77.229	
+US	22116	Merrifield	Virginia	VA	Fairfax	059			38.8715	-77.2344	
+US	22118	Merrifield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22119	Merrifield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22120	Merrifield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22121	Mount Vernon	Virginia	VA	Fairfax	059			38.8309	-77.4323	
+US	22122	Newington	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22124	Oakton	Virginia	VA	Fairfax	059			38.8852	-77.3233	
+US	22150	Springfield	Virginia	VA	Fairfax	059			38.7797	-77.1866	
+US	22151	Springfield	Virginia	VA	Fairfax	059			38.8029	-77.2116	
+US	22152	Springfield	Virginia	VA	Fairfax	059			38.7757	-77.2337	
+US	22153	Springfield	Virginia	VA	Fairfax	059			38.7449	-77.237	
+US	22156	Springfield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22158	Springfield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22159	Springfield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22160	Springfield	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22161	Springfield	Virginia	VA	Fairfax	059			38.8075	-77.2194	
+US	22180	Vienna	Virginia	VA	Fairfax	059			38.8935	-77.2532	
+US	22181	Vienna	Virginia	VA	Fairfax	059			38.8977	-77.288	
+US	22182	Vienna	Virginia	VA	Fairfax	059			38.928	-77.2649	
+US	22183	Vienna	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22184	Vienna	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22185	Vienna	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22199	Lorton	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	22303	Alexandria	Virginia	VA	Fairfax	059			38.7912	-77.0814	
+US	22306	Alexandria	Virginia	VA	Fairfax	059			38.7589	-77.0873	
+US	22307	Alexandria	Virginia	VA	Fairfax	059			38.7714	-77.0657	
+US	22308	Alexandria	Virginia	VA	Fairfax	059			38.7316	-77.0604	
+US	22309	Alexandria	Virginia	VA	Fairfax	059			38.7192	-77.1073	
+US	22310	Alexandria	Virginia	VA	Fairfax	059			38.7794	-77.1194	
+US	22312	Alexandria	Virginia	VA	Fairfax	059			38.8191	-77.1484	
+US	22315	Alexandria	Virginia	VA	Fairfax	059			38.7596	-77.1485	
+US	22321	Alexandria	Virginia	VA	Fairfax	059			38.8318	-77.2888	
+US	20115	Marshall	Virginia	VA	Fauquier	061			38.8405	-77.8911	
+US	20116	Marshall	Virginia	VA	Fauquier	061			38.8537	-77.8601	
+US	20119	Catlett	Virginia	VA	Fauquier	061			38.637	-77.6383	
+US	20128	Orlean	Virginia	VA	Fauquier	061			38.7416	-77.9774	
+US	20130	Paris	Virginia	VA	Fauquier	061			39.0048	-77.9546	
+US	20137	Broad Run	Virginia	VA	Fauquier	061			38.8195	-77.7368	
+US	20138	Calverton	Virginia	VA	Fauquier	061			38.6338	-77.6869	
+US	20139	Casanova	Virginia	VA	Fauquier	061			38.6543	-77.7025	
+US	20140	Rectortown	Virginia	VA	Fauquier	061			38.9163	-77.8648	
+US	20144	Delaplane	Virginia	VA	Fauquier	061			38.9113	-77.9674	
+US	20184	Upperville	Virginia	VA	Fauquier	061			38.9627	-77.8847	
+US	20185	Upperville	Virginia	VA	Fauquier	061			38.993	-77.8799	
+US	20186	Warrenton	Virginia	VA	Fauquier	061			38.6898	-77.8361	
+US	20187	Warrenton	Virginia	VA	Fauquier	061			38.7153	-77.7417	
+US	20188	Warrenton	Virginia	VA	Fauquier	061			38.7656	-77.8203	
+US	20198	The Plains	Virginia	VA	Fauquier	061			38.8707	-77.7608	
+US	22014	Broad Run	Virginia	VA	Fauquier County	061			38.8292	-77.6864	
+US	22017	Casanova	Virginia	VA	Fauquier County	061			38.6575	-77.7171	
+US	22019	Catlett	Virginia	VA	Fauquier County	061			38.6352	-77.6506	
+US	22115	Marshall	Virginia	VA	Fauquier County	061			38.8288	-77.891	
+US	22128	Orlean	Virginia	VA	Fauquier County	061			38.7497	-77.9621	
+US	22130	Paris	Virginia	VA	Fauquier County	061			38.9964	-77.9256	
+US	22140	Rectortown	Virginia	VA	Fauquier County	061			38.9211	-77.8615	
+US	22176	Upperville	Virginia	VA	Fauquier County	061			39.0065	-77.8531	
+US	22186	Warrenton	Virginia	VA	Fauquier County	061			38.7259	-77.7689	
+US	22639	Hume	Virginia	VA	Fauquier	061			38.8273	-77.9949	
+US	22643	Markham	Virginia	VA	Fauquier	061			38.8955	-78.0044	
+US	22712	Bealeton	Virginia	VA	Fauquier	061			38.5453	-77.7561	
+US	22720	Goldvein	Virginia	VA	Fauquier	061			38.4725	-77.6423	
+US	22728	Midland	Virginia	VA	Fauquier	061			38.5671	-77.7127	
+US	22734	Remington	Virginia	VA	Fauquier	061			38.5309	-77.8037	
+US	22739	Somerville	Virginia	VA	Fauquier	061			38.5059	-77.5956	
+US	22742	Sumerduck	Virginia	VA	Fauquier	061			38.4674	-77.7044	
+US	24072	Check	Virginia	VA	Floyd	063			37.0446	-80.228	
+US	24079	Copper Hill	Virginia	VA	Floyd	063			37.0556	-80.1525	
+US	24091	Floyd	Virginia	VA	Floyd	063			36.8957	-80.3275	
+US	24105	Indian Valley	Virginia	VA	Floyd	063			36.899	-80.5757	
+US	24380	Willis	Virginia	VA	Floyd	063			36.8749	-80.4909	
+US	22963	Palmyra	Virginia	VA	Fluvanna	065			37.8931	-78.3386	
+US	22974	Troy	Virginia	VA	Fluvanna	065			37.9636	-78.2535	
+US	23022	Bremo Bluff	Virginia	VA	Fluvanna	065			37.7453	-78.2672	
+US	23055	Fork Union	Virginia	VA	Fluvanna	065			37.7715	-78.2355	
+US	23084	Kents Store	Virginia	VA	Fluvanna	065			37.8942	-78.1208	
+US	24065	Boones Mill	Virginia	VA	Franklin	067			37.1331	-79.9556	
+US	24067	Callaway	Virginia	VA	Franklin	067			37.0285	-80.0496	
+US	24088	Ferrum	Virginia	VA	Franklin	067			36.9168	-80.0349	
+US	24092	Glade Hill	Virginia	VA	Franklin	067			36.9859	-79.773	
+US	24102	Henry	Virginia	VA	Franklin	067			36.8393	-79.9904	
+US	24137	Penhook	Virginia	VA	Franklin	067			36.9201	-79.6645	
+US	24146	Redwood	Virginia	VA	Franklin	067			37.0069	-79.9139	
+US	24151	Rocky Mount	Virginia	VA	Franklin	067			36.9891	-79.884	
+US	24176	Union Hall	Virginia	VA	Franklin	067			37.0131	-79.6864	
+US	24184	Wirtz	Virginia	VA	Franklin	067			37.0818	-79.7573	
+US	22141	Round Hill	Virginia	VA	Frederick County	069			39.1124	-77.785	
+US	22602	Winchester	Virginia	VA	Frederick	069			39.1501	-78.269	
+US	22603	Winchester	Virginia	VA	Frederick	069			39.264	-78.1989	
+US	22622	Brucetown	Virginia	VA	Frederick	069			39.2543	-78.0664	
+US	22624	Clear Brook	Virginia	VA	Frederick	069			39.2655	-78.0988	
+US	22625	Cross Junction	Virginia	VA	Frederick	069			39.3744	-78.3081	
+US	22637	Gore	Virginia	VA	Frederick	069			39.2887	-78.3417	
+US	22638	Winchester	Virginia	VA	Frederick	069			39.2369	-78.2885	
+US	22645	Middletown	Virginia	VA	Frederick	069			39.0367	-78.2815	
+US	22654	Star Tannery	Virginia	VA	Frederick	069			39.0908	-78.4343	
+US	22655	Stephens City	Virginia	VA	Frederick	069			39.0834	-78.1907	
+US	22656	Stephenson	Virginia	VA	Frederick	069			39.1973	-78.0941	
+US	24086	Eggleston	Virginia	VA	Giles	071			37.2743	-80.6343	
+US	24093	Glen Lyn	Virginia	VA	Giles	071			37.3669	-80.8634	
+US	24094	Goldbond	Virginia	VA	Giles	071			37.3853	-80.5906	
+US	24124	Narrows	Virginia	VA	Giles	071			37.3198	-80.8548	
+US	24128	Newport	Virginia	VA	Giles	071			37.3069	-80.5099	
+US	24134	Pearisburg	Virginia	VA	Giles	071			37.3041	-80.7267	
+US	24136	Pembroke	Virginia	VA	Giles	071			37.3312	-80.5975	
+US	24147	Rich Creek	Virginia	VA	Giles	071			37.385	-80.8227	
+US	24150	Ripplemead	Virginia	VA	Giles	071			37.3665	-80.6717	
+US	24167	Staffordsville	Virginia	VA	Giles	071			37.2491	-80.7344	
+US	23001	Achilles	Virginia	VA	Gloucester	073			37.2882	-76.426	
+US	23003	Ark	Virginia	VA	Gloucester	073			37.4323	-76.6016	
+US	23017	Bellamy	Virginia	VA	Gloucester	073			37.4182	-76.5084	
+US	23018	Bena	Virginia	VA	Gloucester	073			37.4182	-76.5084	
+US	23050	Dutton	Virginia	VA	Gloucester	073			37.5001	-76.454	
+US	23061	Gloucester	Virginia	VA	Gloucester	073			37.4126	-76.5464	
+US	23062	Gloucester Point	Virginia	VA	Gloucester	073			37.2585	-76.4959	
+US	23072	Hayes	Virginia	VA	Gloucester	073			37.2916	-76.4905	
+US	23107	Maryus	Virginia	VA	Gloucester	073			37.2864	-76.4048	
+US	23122	Naxera	Virginia	VA	Gloucester County	073			37.3404	-76.4473	
+US	23131	Ordinary	Virginia	VA	Gloucester	073			37.3122	-76.5188	
+US	23154	Schley	Virginia	VA	Gloucester	073			37.4182	-76.5084	
+US	23155	Severn	Virginia	VA	Gloucester	073			37.4182	-76.5084	
+US	23178	Ware Neck	Virginia	VA	Gloucester	073			37.4004	-76.4529	
+US	23183	White Marsh	Virginia	VA	Gloucester	073			37.3632	-76.5325	
+US	23184	Wicomico	Virginia	VA	Gloucester	073			37.3221	-76.5319	
+US	23190	Woods Cross Roads	Virginia	VA	Gloucester	073			37.482	-76.6362	
+US	23191	Zanoni	Virginia	VA	Gloucester	073			37.4182	-76.5084	
+US	23014	Beaumont	Virginia	VA	Goochland	075			37.7338	-77.8881	
+US	23038	Columbia	Virginia	VA	Goochland	075			37.7147	-78.1794	
+US	23039	Crozier	Virginia	VA	Goochland	075			37.6718	-77.794	
+US	23054	Fife	Virginia	VA	Goochland	075			37.7338	-77.8881	
+US	23063	Goochland	Virginia	VA	Goochland	075			37.7688	-78.0112	
+US	23065	Gum Spring	Virginia	VA	Goochland	075			37.7982	-77.9375	
+US	23067	Hadensville	Virginia	VA	Goochland	075			37.8252	-77.9899	
+US	23102	Maidens	Virginia	VA	Goochland	075			37.7126	-77.8315	
+US	23103	Manakin Sabot	Virginia	VA	Goochland	075			37.638	-77.7077	
+US	23129	Oilville	Virginia	VA	Goochland	075			37.7011	-77.7906	
+US	23153	Sandy Hook	Virginia	VA	Goochland	075			37.7799	-77.9405	
+US	23160	State Farm	Virginia	VA	Goochland	075			37.7338	-77.8881	
+US	23238	Richmond	Virginia	VA	Goochland	075			37.5974	-77.6463	
+US	24292	Whitetop	Virginia	VA	Grayson	077			36.6106	-81.5839	
+US	24326	Elk Creek	Virginia	VA	Grayson	077			36.7306	-81.1915	
+US	24330	Fries	Virginia	VA	Grayson	077			36.7247	-81.0042	
+US	24348	Independence	Virginia	VA	Grayson	077			36.6294	-81.1582	
+US	24363	Mouth Of Wilson	Virginia	VA	Grayson	077			36.6104	-81.3955	
+US	24378	Trout Dale	Virginia	VA	Grayson	077			36.6855	-81.435	
+US	24379	Volney	Virginia	VA	Grayson	077			36.6828	-81.2578	
+US	22935	Dyke	Virginia	VA	Greene	079			38.2705	-78.5578	
+US	22965	Quinque	Virginia	VA	Greene	079			38.3301	-78.475	
+US	22968	Ruckersville	Virginia	VA	Greene	079			38.2586	-78.4074	
+US	22973	Stanardsville	Virginia	VA	Greene	079			38.3121	-78.482	
+US	23870	Jarratt	Virginia	VA	Greensville	081			36.7215	-77.532	
+US	23879	Skippers	Virginia	VA	Greensville	081			36.5958	-77.5921	
+US	24520	Alton	Virginia	VA	Halifax	083			36.5894	-79.0202	
+US	24534	Clover	Virginia	VA	Halifax	083			36.8637	-78.7862	
+US	24535	Cluster Springs	Virginia	VA	Halifax	083			36.6113	-78.9455	
+US	24539	Crystal Hill	Virginia	VA	Halifax	083			36.8513	-78.9179	
+US	24558	Halifax	Virginia	VA	Halifax	083			36.7626	-78.9415	
+US	24577	Nathalie	Virginia	VA	Halifax	083			36.9356	-78.972	
+US	24585	Republican Grove	Virginia	VA	Halifax	083			36.8015	-78.8839	
+US	24589	Scottsburg	Virginia	VA	Halifax	083			36.7862	-78.7866	
+US	24592	South Boston	Virginia	VA	Halifax	083			36.6963	-78.9188	
+US	24596	Turbeville	Virginia	VA	Halifax County	083			36.7717	-78.9221	
+US	24597	Vernon Hill	Virginia	VA	Halifax	083			36.7853	-79.1095	
+US	24598	Virgilina	Virginia	VA	Halifax	083			36.6062	-78.7605	
+US	23005	Ashland	Virginia	VA	Hanover	085			37.7395	-77.4784	
+US	23015	Beaverdam	Virginia	VA	Hanover	085			37.9038	-77.6308	
+US	23047	Doswell	Virginia	VA	Hanover	085			37.8417	-77.5125	
+US	23059	Glen Allen	Virginia	VA	Hanover	085			37.7284	-77.5544	
+US	23069	Hanover	Virginia	VA	Hanover	085			37.7701	-77.3216	
+US	23111	Mechanicsville	Virginia	VA	Hanover	085			37.6281	-77.3395	
+US	23116	Mechanicsville	Virginia	VA	Hanover	085			37.6691	-77.3294	
+US	23146	Rockville	Virginia	VA	Hanover	085			37.7337	-77.7	
+US	23162	Studley	Virginia	VA	Hanover	085			37.7722	-77.4526	
+US	23192	Montpelier	Virginia	VA	Hanover	085			37.8177	-77.6924	
+US	23058	Glen Allen	Virginia	VA	Henrico	087			37.5313	-77.4161	
+US	23060	Glen Allen	Virginia	VA	Henrico	087			37.6628	-77.534	
+US	23075	Highland Springs	Virginia	VA	Henrico	087			37.5437	-77.3226	
+US	23150	Sandston	Virginia	VA	Henrico	087			37.5157	-77.2758	
+US	23226	Richmond	Virginia	VA	Henrico	087			37.5825	-77.5197	
+US	23227	Richmond	Virginia	VA	Henrico	087			37.6247	-77.4351	
+US	23228	Richmond	Virginia	VA	Henrico	087			37.625	-77.4959	
+US	23229	Richmond	Virginia	VA	Henrico	087			37.5957	-77.5704	
+US	23230	Richmond	Virginia	VA	Henrico	087			37.5921	-77.4952	
+US	23231	Richmond	Virginia	VA	Henrico	087			37.4915	-77.368	
+US	23233	Richmond	Virginia	VA	Henrico	087			37.6455	-77.6266	
+US	23242	Richmond	Virginia	VA	Henrico	087			37.5313	-77.4161	
+US	23250	Richmond	Virginia	VA	Henrico	087			37.5075	-77.3329	
+US	23255	Richmond	Virginia	VA	Henrico	087			37.5313	-77.4161	
+US	23280	Richmond	Virginia	VA	Henrico	087			37.6376	-77.4684	
+US	23288	Richmond	Virginia	VA	Henrico	087			37.5313	-77.4161	
+US	23289	Richmond	Virginia	VA	Henrico	087			37.5313	-77.4161	
+US	23294	Richmond	Virginia	VA	Henrico	087			37.6329	-77.5451	
+US	24054	Axton	Virginia	VA	Henry	089			36.6548	-79.7396	
+US	24055	Bassett	Virginia	VA	Henry	089			36.7534	-80.0055	
+US	24078	Collinsville	Virginia	VA	Henry	089			36.7238	-79.9142	
+US	24089	Fieldale	Virginia	VA	Henry	089			36.7064	-79.9652	
+US	24148	Ridgeway	Virginia	VA	Henry	089			36.5874	-79.8686	
+US	24165	Spencer	Virginia	VA	Henry	089			36.5968	-80.0373	
+US	24168	Stanleytown	Virginia	VA	Henry	089			36.7348	-79.9465	
+US	24413	Blue Grass	Virginia	VA	Highland	091			38.5152	-79.5613	
+US	24433	Doe Hill	Virginia	VA	Highland	091			38.4207	-79.4629	
+US	24442	Head Waters	Virginia	VA	Highland	091			38.2946	-79.4353	
+US	24458	Mc Dowell	Virginia	VA	Highland	091			38.3266	-79.4988	
+US	24465	Monterey	Virginia	VA	Highland	091			38.4058	-79.5941	
+US	24468	Mustoe	Virginia	VA	Highland	091			38.386	-79.5592	
+US	23304	Battery Park	Virginia	VA	Isle of Wight	093			36.9898	-76.5723	
+US	23314	Carrollton	Virginia	VA	Isle of Wight	093			36.955	-76.543	
+US	23315	Carrsville	Virginia	VA	Isle of Wight	093			36.7454	-76.8365	
+US	23397	Isle Of Wight	Virginia	VA	Isle of Wight	093			36.8989	-76.6877	
+US	23424	Rescue	Virginia	VA	Isle of Wight	093			36.9969	-76.5645	
+US	23430	Smithfield	Virginia	VA	Isle of Wight	093			36.9811	-76.6368	
+US	23431	Smithfield	Virginia	VA	Isle of Wight	093			36.8989	-76.6877	
+US	23487	Windsor	Virginia	VA	Isle of Wight	093			36.8369	-76.7324	
+US	23898	Zuni	Virginia	VA	Isle of Wight	093			36.8437	-76.811	
+US	23081	Jamestown	Virginia	VA	James City	095			37.2235	-76.7833	
+US	23127	Norge	Virginia	VA	James City	095			37.3105	-76.7468	
+US	23168	Toano	Virginia	VA	James City	095			37.3901	-76.8253	
+US	23185	Williamsburg	Virginia	VA	James City	095			37.2732	-76.7324	
+US	23188	Williamsburg	Virginia	VA	James City	095			37.3178	-76.7634	
+US	22024	Clifton	Virginia	VA	King and Queen County	097			38.7953	-77.3977	
+US	23013	Bavon	Virginia	VA	King and Queen County	097			37.3267	-76.281	
+US	23023	Bruington	Virginia	VA	King and Queen	097			37.7801	-76.9402	
+US	23029	Cauthornville	Virginia	VA	King and Queen County	097			37.859	-77.0396	
+US	23085	King And Queen Court Hous	Virginia	VA	King and Queen	097			37.7065	-76.8413	
+US	23091	Little Plymouth	Virginia	VA	King and Queen	097			37.6642	-76.8255	
+US	23108	Mascot	Virginia	VA	King and Queen	097			37.6068	-76.7383	
+US	23110	Mattaponi	Virginia	VA	King and Queen	097			37.6135	-76.8101	
+US	23126	Newtown	Virginia	VA	King and Queen	097			37.9226	-77.1449	
+US	23148	Saint Stephens Church	Virginia	VA	King and Queen	097			37.8479	-77.055	
+US	23156	Shacklefords	Virginia	VA	King and Queen	097			37.5213	-76.7099	
+US	23161	Stevensville	Virginia	VA	King and Queen	097			37.7146	-76.9352	
+US	23177	Walkerton	Virginia	VA	King and Queen	097			37.7554	-77.0185	
+US	23216	Richmond	Virginia	VA	King and Queen County	097			37.5593	-77.4471	
+US	22448	Dahlgren	Virginia	VA	King George	099			38.3375	-77.0429	
+US	22451	Dogue	Virginia	VA	King George	099			38.2711	-77.1726	
+US	22481	Jersey	Virginia	VA	King George	099			38.2711	-77.1726	
+US	22485	King George	Virginia	VA	King George	099			38.2811	-77.126	
+US	22526	Ninde	Virginia	VA	King George	099			38.2711	-77.1726	
+US	22544	Rollins Fork	Virginia	VA	King George	099			38.2711	-77.1726	
+US	22547	Sealston	Virginia	VA	King George	099			38.2711	-77.1726	
+US	23009	Aylett	Virginia	VA	King William	101			37.8221	-77.1885	
+US	23016	Beaverlett	Virginia	VA	King William County	101			37.4159	-76.3224	
+US	23080	James Store	Virginia	VA	King William County	101			37.487	-76.4636	
+US	23086	King William	Virginia	VA	King William	101			37.7202	-77.0998	
+US	23106	Manquin	Virginia	VA	King William	101			37.7184	-77.186	
+US	23181	West Point	Virginia	VA	King William	101			37.5556	-76.8237	
+US	22480	Irvington	Virginia	VA	Lancaster	103			37.6645	-76.416	
+US	22482	Kilmarnock	Virginia	VA	Lancaster	103			37.7162	-76.382	
+US	22503	Lancaster	Virginia	VA	Lancaster	103			37.7395	-76.5002	
+US	22507	Lively	Virginia	VA	Lancaster	103			37.7572	-76.5118	
+US	22513	Merry Point	Virginia	VA	Lancaster	103			37.7503	-76.5096	
+US	22517	Mollusk	Virginia	VA	Lancaster	103			37.7503	-76.5781	
+US	22523	Morattico	Virginia	VA	Lancaster	103			37.7928	-76.6093	
+US	22528	Nuttsville	Virginia	VA	Lancaster	103			37.7132	-76.4099	
+US	22576	Weems	Virginia	VA	Lancaster	103			37.6847	-76.4313	
+US	22578	White Stone	Virginia	VA	Lancaster	103			37.6886	-76.3616	
+US	24218	Ben Hur	Virginia	VA	Lee	105			36.7435	-83.2234	
+US	24221	Blackwater	Virginia	VA	Lee	105			36.639	-82.9866	
+US	24243	Dryden	Virginia	VA	Lee	105			36.7818	-82.9305	
+US	24248	Ewing	Virginia	VA	Lee	105			36.6237	-83.5047	
+US	24263	Jonesville	Virginia	VA	Lee	105			36.6896	-83.1362	
+US	24265	Keokee	Virginia	VA	Lee	105			36.8239	-82.9772	
+US	24277	Pennington Gap	Virginia	VA	Lee	105			36.7508	-83.0223	
+US	24281	Rose Hill	Virginia	VA	Lee	105			36.6583	-83.3486	
+US	24282	Saint Charles	Virginia	VA	Lee	105			36.8315	-83.0518	
+US	20101	Dulles	Virginia	VA	Loudoun	107			39.0021	-77.4421	
+US	20102	Dulles	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	20103	Dulles	Virginia	VA	Loudoun	107			38.9962	-77.45	
+US	20104	Dulles	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	20105	Aldie	Virginia	VA	Loudoun	107			38.9577	-77.6038	
+US	20107	Arcola	Virginia	VA	Loudoun	107			38.9683	-77.5333	
+US	20117	Middleburg	Virginia	VA	Loudoun	107			39.0296	-77.6938	
+US	20118	Middleburg	Virginia	VA	Loudoun	107			39.0075	-77.7656	
+US	20129	Paeonian Springs	Virginia	VA	Loudoun	107			39.1603	-77.6097	
+US	20131	Philomont	Virginia	VA	Loudoun	107			39.058	-77.7434	
+US	20132	Purcellville	Virginia	VA	Loudoun	107			39.1436	-77.7342	
+US	20134	Purcellville	Virginia	VA	Loudoun	107			39.1522	-77.7026	
+US	20135	Bluemont	Virginia	VA	Loudoun	107			39.0823	-77.8467	
+US	20141	Round Hill	Virginia	VA	Loudoun	107			39.1164	-77.7802	
+US	20142	Round Hill	Virginia	VA	Loudoun	107			39.1307	-77.7747	
+US	20146	Ashburn	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	20147	Ashburn	Virginia	VA	Loudoun	107			39.0373	-77.4805	
+US	20148	Ashburn	Virginia	VA	Loudoun	107			39.0142	-77.5285	
+US	20149	Ashburn	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	20152	Chantilly	Virginia	VA	Loudoun	107			38.8976	-77.5092	
+US	20158	Hamilton	Virginia	VA	Loudoun	107			39.1383	-77.6573	
+US	20159	Hamilton	Virginia	VA	Loudoun	107			39.1339	-77.6621	
+US	20160	Lincoln	Virginia	VA	Loudoun	107			39.0985	-77.6883	
+US	20163	Sterling	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	20164	Sterling	Virginia	VA	Loudoun	107			39.023	-77.3994	
+US	20165	Sterling	Virginia	VA	Loudoun	107			39.0472	-77.3866	
+US	20166	Sterling	Virginia	VA	Loudoun	107			38.9814	-77.4723	
+US	20167	Sterling	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	20175	Leesburg	Virginia	VA	Loudoun	107			39.042	-77.6054	
+US	20176	Leesburg	Virginia	VA	Loudoun	107			39.1821	-77.5359	
+US	20177	Leesburg	Virginia	VA	Loudoun	107			39.1581	-77.6669	
+US	20178	Leesburg	Virginia	VA	Loudoun	107			39.0729	-77.608	
+US	20180	Lovettsville	Virginia	VA	Loudoun	107			39.2204	-77.6596	
+US	20189	Dulles	Virginia	VA	Loudoun	107			39.009	-77.4421	
+US	20197	Waterford	Virginia	VA	Loudoun	107			39.1882	-77.63	
+US	20199	Dulles	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	22001	Aldie	Virginia	VA	Loudoun County	107			38.9604	-77.6005	
+US	22010	Arcola	Virginia	VA	Loudoun County	107			38.9729	-77.535	
+US	22012	Bluemont	Virginia	VA	Loudoun County	107			39.096	-77.8338	
+US	22068	Hamilton	Virginia	VA	Loudoun County	107			39.1363	-77.6637	
+US	22075	Leesburg	Virginia	VA	Loudoun County	107			39.1144	-77.5652	
+US	22078	Lincoln	Virginia	VA	Loudoun County	107			39.1364	-77.7157	
+US	22080	Lovettsville	Virginia	VA	Loudoun County	107			39.2653	-77.638	
+US	22093	Ashburn	Virginia	VA	Loudoun	107			39.0853	-77.6452	
+US	22117	Middleburg	Virginia	VA	Loudoun County	107			38.9966	-77.7327	
+US	22129	Paeonian Springs	Virginia	VA	Loudoun County	107			39.16	-77.6172	
+US	22131	Philomont	Virginia	VA	Loudoun County	107			39.0561	-77.7404	
+US	22132	Purcellville	Virginia	VA	Loudoun County	107			39.1572	-77.7228	
+US	22170	Sterling	Virginia	VA	Loudoun County	107			39.0215	-77.3986	
+US	22190	Waterford	Virginia	VA	Loudoun County	107			39.1999	-77.6197	
+US	23024	Bumpass	Virginia	VA	Louisa	109			37.8984	-77.7966	
+US	23042	Dabneys	Virginia	VA	Louisa County	109			37.7546	-77.8152	
+US	23093	Louisa	Virginia	VA	Louisa	109			38.0132	-78.0347	
+US	23117	Mineral	Virginia	VA	Louisa	109			37.9986	-77.8781	
+US	23170	Trevilians	Virginia	VA	Louisa	109			37.9408	-77.997	
+US	23938	Dundas	Virginia	VA	Lunenburg	111			36.9053	-78.01	
+US	23941	Fort Mitchell	Virginia	VA	Lunenburg	111			36.9481	-78.2483	
+US	23944	Kenbridge	Virginia	VA	Lunenburg	111			36.933	-78.1242	
+US	23952	Lunenburg	Virginia	VA	Lunenburg	111			36.9291	-78.2915	
+US	23974	Victoria	Virginia	VA	Lunenburg	111			36.9835	-78.2372	
+US	22709	Aroda	Virginia	VA	Madison	113			38.3256	-78.2366	
+US	22711	Banco	Virginia	VA	Madison	113			38.4285	-78.2678	
+US	22715	Brightwood	Virginia	VA	Madison	113			38.4114	-78.1698	
+US	22719	Etlan	Virginia	VA	Madison	113			38.5095	-78.2638	
+US	22721	Graves Mill	Virginia	VA	Madison	113			38.4285	-78.2678	
+US	22722	Haywood	Virginia	VA	Madison	113			38.4285	-78.2678	
+US	22723	Hood	Virginia	VA	Madison	113			38.3967	-78.4322	
+US	22725	Leon	Virginia	VA	Madison	113			38.4285	-78.2678	
+US	22727	Madison	Virginia	VA	Madison	113			38.37	-78.2976	
+US	22730	Oakpark	Virginia	VA	Madison	113			38.3674	-78.1628	
+US	22731	Pratts	Virginia	VA	Madison	113			38.3366	-78.2573	
+US	22732	Radiant	Virginia	VA	Madison	113			38.3146	-78.1899	
+US	22738	Rochelle	Virginia	VA	Madison	113			38.3215	-78.3042	
+US	22743	Syria	Virginia	VA	Madison	113			38.4972	-78.3229	
+US	22748	Wolftown	Virginia	VA	Madison	113			38.3727	-78.3805	
+US	22948	Locust Dale	Virginia	VA	Madison	113			38.3572	-78.1229	
+US	22953	Madison Mills	Virginia	VA	Madison	113			38.4285	-78.2678	
+US	22989	Woodberry Forest	Virginia	VA	Madison	113			38.2912	-78.1225	
+US	23020	Blakes	Virginia	VA	Mathews County	115			37.5067	-76.3663	
+US	23021	Bohannon	Virginia	VA	Mathews	115			37.3905	-76.3614	
+US	23025	Cardinal	Virginia	VA	Mathews	115			37.4128	-76.3616	
+US	23035	Cobbs Creek	Virginia	VA	Mathews	115			37.4959	-76.3863	
+US	23045	Diggs	Virginia	VA	Mathews	115			37.4296	-76.2629	
+US	23056	Foster	Virginia	VA	Mathews	115			37.4103	-76.2941	
+US	23064	Grimstead	Virginia	VA	Mathews	115			37.4961	-76.3	
+US	23066	Gwynn	Virginia	VA	Mathews	115			37.5006	-76.2904	
+US	23068	Hallieford	Virginia	VA	Mathews	115			37.4103	-76.2941	
+US	23076	Hudgins	Virginia	VA	Mathews	115			37.4766	-76.3089	
+US	23109	Mathews	Virginia	VA	Mathews	115			37.4383	-76.3544	
+US	23118	Mobjack	Virginia	VA	Mathews County	115			37.3776	-76.3552	
+US	23119	Moon	Virginia	VA	Mathews	115			37.4487	-76.2766	
+US	23125	New Point	Virginia	VA	Mathews	115			37.3438	-76.2878	
+US	23128	North	Virginia	VA	Mathews	115			37.4401	-76.4238	
+US	23130	Onemo	Virginia	VA	Mathews	115			37.3985	-76.2941	
+US	23138	Port Haywood	Virginia	VA	Mathews	115			37.3556	-76.2923	
+US	23163	Susan	Virginia	VA	Mathews	115			37.3508	-76.3161	
+US	23915	Baskerville	Virginia	VA	Mecklenburg	117			36.7236	-78.279	
+US	23917	Boydton	Virginia	VA	Mecklenburg	117			36.6544	-78.3752	
+US	23919	Bracey	Virginia	VA	Mecklenburg	117			36.5763	-78.1059	
+US	23924	Chase City	Virginia	VA	Mecklenburg	117			36.8053	-78.4553	
+US	23927	Clarksville	Virginia	VA	Mecklenburg	117			36.6107	-78.5121	
+US	23950	La Crosse	Virginia	VA	Mecklenburg	117			36.6613	-78.0754	
+US	23968	Skipwith	Virginia	VA	Mecklenburg	117			36.7317	-78.5306	
+US	23970	South Hill	Virginia	VA	Mecklenburg	117			36.7124	-78.1534	
+US	24529	Buffalo Junction	Virginia	VA	Mecklenburg	117			36.6168	-78.6093	
+US	24580	Nelson	Virginia	VA	Mecklenburg	117			36.5586	-78.671	
+US	23031	Christchurch	Virginia	VA	Middlesex	119			37.5984	-76.4476	
+US	23032	Church View	Virginia	VA	Middlesex	119			37.675	-76.6629	
+US	23043	Deltaville	Virginia	VA	Middlesex	119			37.5549	-76.3468	
+US	23070	Hardyville	Virginia	VA	Middlesex	119			37.5512	-76.3844	
+US	23071	Hartfield	Virginia	VA	Middlesex	119			37.5594	-76.4769	
+US	23079	Jamaica	Virginia	VA	Middlesex	119			37.73	-76.689	
+US	23092	Locust Hill	Virginia	VA	Middlesex	119			37.5826	-76.4984	
+US	23149	Saluda	Virginia	VA	Middlesex	119			37.5949	-76.5921	
+US	23169	Topping	Virginia	VA	Middlesex	119			37.6009	-76.4575	
+US	23175	Urbanna	Virginia	VA	Middlesex	119			37.6356	-76.5918	
+US	23176	Wake	Virginia	VA	Middlesex	119			37.5681	-76.4323	
+US	23179	Warner	Virginia	VA	Middlesex County	119			37.6514	-76.6469	
+US	23180	Water View	Virginia	VA	Middlesex	119			37.7105	-76.6227	
+US	24023	Roanoke	Virginia	VA	Montgomery	121			37.2107	-80.4062	
+US	24060	Blacksburg	Virginia	VA	Montgomery	121			37.2563	-80.4347	
+US	24061	Blacksburg	Virginia	VA	Montgomery	121			37.1791	-80.3515	
+US	24062	Blacksburg	Virginia	VA	Montgomery	121			37.1742	-80.3957	
+US	24063	Blacksburg	Virginia	VA	Montgomery	121			37.1742	-80.3957	
+US	24068	Christiansburg	Virginia	VA	Montgomery	121			37.1548	-80.4184	
+US	24073	Christiansburg	Virginia	VA	Montgomery	121			37.1353	-80.4188	
+US	24111	Mc Coy	Virginia	VA	Montgomery	121			37.1742	-80.3957	
+US	24138	Pilot	Virginia	VA	Montgomery	121			37.0565	-80.3229	
+US	24149	Riner	Virginia	VA	Montgomery	121			37.0322	-80.4353	
+US	24162	Shawsville	Virginia	VA	Montgomery	121			37.1466	-80.2715	
+US	22920	Afton	Virginia	VA	Nelson	125			37.9626	-78.841	
+US	22922	Arrington	Virginia	VA	Nelson	125			37.6902	-78.9479	
+US	22938	Faber	Virginia	VA	Nelson	125			37.8475	-78.7565	
+US	22949	Lovingston	Virginia	VA	Nelson	125			37.7924	-78.8684	
+US	22951	Lowesville	Virginia	VA	Nelson County	125			37.7526	-79.088	
+US	22954	Massies Mill	Virginia	VA	Nelson	125			37.7891	-79.0125	
+US	22958	Nellysford	Virginia	VA	Nelson	125			37.902	-78.9004	
+US	22964	Piney River	Virginia	VA	Nelson	125			37.8036	-78.9591	
+US	22967	Roseland	Virginia	VA	Nelson	125			37.8077	-78.9712	
+US	22969	Schuyler	Virginia	VA	Nelson	125			37.7976	-78.6925	
+US	22971	Shipman	Virginia	VA	Nelson	125			37.76	-78.8105	
+US	22976	Tyro	Virginia	VA	Nelson	125			37.8391	-79.0693	
+US	24464	Montebello	Virginia	VA	Nelson	125			37.8654	-79.0804	
+US	24553	Gladstone	Virginia	VA	Nelson	125			37.5473	-78.8508	
+US	24581	Norwood	Virginia	VA	Nelson	125			37.6408	-78.8038	
+US	24599	Wingina	Virginia	VA	Nelson	125			37.6415	-78.7557	
+US	23011	Barhamsville	Virginia	VA	New Kent	127			37.4617	-76.8321	
+US	23089	Lanexa	Virginia	VA	New Kent	127			37.4194	-76.9027	
+US	23124	New Kent	Virginia	VA	New Kent	127			37.553	-77.0742	
+US	23140	Providence Forge	Virginia	VA	New Kent	127			37.4259	-77.0711	
+US	23141	Quinton	Virginia	VA	New Kent	127			37.5185	-77.1486	
+US	23307	Birdsnest	Virginia	VA	Northampton	131			37.4321	-75.9043	
+US	23310	Cape Charles	Virginia	VA	Northampton	131			37.2799	-75.9721	
+US	23313	Capeville	Virginia	VA	Northampton	131			37.2019	-75.9524	
+US	23316	Cheriton	Virginia	VA	Northampton	131			37.2943	-75.9619	
+US	23347	Eastville	Virginia	VA	Northampton	131			37.3561	-75.9649	
+US	23350	Exmore	Virginia	VA	Northampton	131			37.5117	-75.8526	
+US	23354	Franktown	Virginia	VA	Northampton	131			37.4588	-75.9007	
+US	23398	Jamesville	Virginia	VA	Northampton	131			37.5343	-75.8771	
+US	23405	Machipongo	Virginia	VA	Northampton	131			37.4014	-75.9082	
+US	23408	Marionville	Virginia	VA	Northampton	131			37.4556	-75.8473	
+US	23413	Nassawadox	Virginia	VA	Northampton	131			37.4728	-75.858	
+US	23419	Oyster	Virginia	VA	Northampton	131			37.3074	-75.9269	
+US	23429	Seaview	Virginia	VA	Northampton	131			37.2711	-75.9536	
+US	23443	Townsend	Virginia	VA	Northampton	131			37.1882	-75.969	
+US	23482	Wardtown	Virginia	VA	Northampton	131			37.274	-75.8691	
+US	23484	Weirwood	Virginia	VA	Northampton County	131			37.4629	-75.8885	
+US	23486	Willis Wharf	Virginia	VA	Northampton	131			37.5189	-75.8105	
+US	22432	Burgess	Virginia	VA	Northumberland	133			37.8687	-76.3542	
+US	22435	Callao	Virginia	VA	Northumberland	133			37.9773	-76.5732	
+US	22456	Edwardsville	Virginia	VA	Northumberland	133			37.8523	-76.4051	
+US	22473	Heathsville	Virginia	VA	Northumberland	133			37.9072	-76.4178	
+US	22511	Lottsburg	Virginia	VA	Northumberland	133			37.9792	-76.5018	
+US	22530	Ophelia	Virginia	VA	Northumberland	133			37.9094	-76.2934	
+US	22539	Reedville	Virginia	VA	Northumberland	133			37.857	-76.2829	
+US	22579	Wicomico Church	Virginia	VA	Northumberland	133			37.8025	-76.3636	
+US	23824	Blackstone	Virginia	VA	Nottoway	135			37.0916	-77.9851	
+US	23825	Blackstone	Virginia	VA	Nottoway County	135			37.0862	-77.9955	
+US	23922	Burkeville	Virginia	VA	Nottoway	135			37.1952	-78.1961	
+US	23930	Crewe	Virginia	VA	Nottoway	135			37.1657	-78.1059	
+US	23955	Nottoway	Virginia	VA	Nottoway	135			37.1161	-78.0578	
+US	22433	Burr Hill	Virginia	VA	Orange	137			38.3446	-77.8719	
+US	22508	Locust Grove	Virginia	VA	Orange	137			38.3352	-77.7709	
+US	22542	Rhoadesville	Virginia	VA	Orange	137			38.2863	-77.923	
+US	22567	Unionville	Virginia	VA	Orange	137			38.2383	-77.9193	
+US	22568	Mine Run	Virginia	VA	Orange County	137			38.2664	-77.8183	
+US	22923	Barboursville	Virginia	VA	Orange	137			38.2095	-78.3098	
+US	22942	Gordonsville	Virginia	VA	Orange	137			38.1759	-78.1815	
+US	22957	Montpelier Station	Virginia	VA	Orange	137			38.227	-78.1768	
+US	22960	Orange	Virginia	VA	Orange	137			38.2192	-78.0461	
+US	22972	Somerset	Virginia	VA	Orange	137			38.1997	-78.2394	
+US	22650	Rileyville	Virginia	VA	Page	139			38.7564	-78.3873	
+US	22835	Luray	Virginia	VA	Page	139			38.6548	-78.4596	
+US	22849	Shenandoah	Virginia	VA	Page	139			38.501	-78.609	
+US	22851	Stanley	Virginia	VA	Page	139			38.566	-78.5093	
+US	22171	The Plains	Virginia	VA	Patrick County	141			38.8769	-77.7671	
+US	24053	Ararat	Virginia	VA	Patrick	141			36.6139	-80.5093	
+US	24076	Claudville	Virginia	VA	Patrick	141			36.5977	-80.3682	
+US	24082	Critz	Virginia	VA	Patrick	141			36.6211	-80.1298	
+US	24120	Meadows Of Dan	Virginia	VA	Patrick	141			36.725	-80.4022	
+US	24133	Patrick Springs	Virginia	VA	Patrick	141			36.6744	-80.1388	
+US	24171	Stuart	Virginia	VA	Patrick	141			36.6517	-80.2392	
+US	24177	Vesta	Virginia	VA	Patrick	141			36.7241	-80.3581	
+US	24185	Woolwine	Virginia	VA	Patrick	141			36.7921	-80.2774	
+US	23137	Plain View	Virginia	VA	Pittsylvania County	143			37.5048	-76.7097	
+US	24069	Cascade	Virginia	VA	Pittsylvania	143			36.5927	-79.6574	
+US	24139	Pittsville	Virginia	VA	Pittsylvania	143			36.9716	-79.4794	
+US	24161	Sandy Level	Virginia	VA	Pittsylvania	143			36.991	-79.5614	
+US	24527	Blairs	Virginia	VA	Pittsylvania	143			36.7102	-79.3381	
+US	24530	Callands	Virginia	VA	Pittsylvania	143			36.7647	-79.6288	
+US	24531	Chatham	Virginia	VA	Pittsylvania	143			36.831	-79.4297	
+US	24549	Dry Fork	Virginia	VA	Pittsylvania	143			36.743	-79.458	
+US	24557	Gretna	Virginia	VA	Pittsylvania	143			36.9695	-79.3389	
+US	24563	Hurt	Virginia	VA	Pittsylvania	143			37.0798	-79.3	
+US	24565	Java	Virginia	VA	Pittsylvania	143			36.8586	-79.187	
+US	24566	Keeling	Virginia	VA	Pittsylvania	143			36.7156	-79.2783	
+US	24586	Ringgold	Virginia	VA	Pittsylvania	143			36.6035	-79.2988	
+US	24594	Sutherlin	Virginia	VA	Pittsylvania	143			36.6258	-79.195	
+US	23101	Macon	Virginia	VA	Powhatan	145			37.5533	-77.893	
+US	23139	Powhatan	Virginia	VA	Powhatan	145			37.5564	-77.8798	
+US	23901	Farmville	Virginia	VA	Prince Edward	147			37.3027	-78.4076	
+US	23909	Farmville	Virginia	VA	Prince Edward	147			37.3016	-78.3949	
+US	23935	Darlington Heights	Virginia	VA	Prince Edward County	147			36.8637	-76.4673	
+US	23942	Green Bay	Virginia	VA	Prince Edward	147			37.1234	-78.3072	
+US	23943	Hampden Sydney	Virginia	VA	Prince Edward	147			37.2381	-78.4618	
+US	23954	Meherrin	Virginia	VA	Prince Edward	147			37.1013	-78.3874	
+US	23960	Prospect	Virginia	VA	Prince Edward	147			37.3058	-78.5462	
+US	23966	Rice	Virginia	VA	Prince Edward	147			37.2721	-78.2793	
+US	23801	Fort Lee	Virginia	VA	Prince George	149			37.2447	-77.3341	
+US	23842	Disputanta	Virginia	VA	Prince George	149			37.1483	-77.2732	
+US	23875	Prince George	Virginia	VA	Prince George	149			37.2333	-77.2747	
+US	20136	Bristow	Virginia	VA	Prince William	153			38.7343	-77.5474	
+US	20143	Catharpin	Virginia	VA	Prince William	153			38.8455	-77.5669	
+US	20155	Gainesville	Virginia	VA	Prince William	153			38.8157	-77.6216	
+US	20156	Gainesville	Virginia	VA	Prince William	153			38.7219	-77.4669	
+US	20168	Haymarket	Virginia	VA	Prince William	153			38.7219	-77.4669	
+US	20169	Haymarket	Virginia	VA	Prince William	153			38.8674	-77.6445	
+US	20181	Nokesville	Virginia	VA	Prince William	153			38.7	-77.5483	
+US	20182	Nokesville	Virginia	VA	Prince William	153			38.7009	-77.5857	
+US	22011	Ashburn	Virginia	VA	Prince William County	153			39.0337	-77.4957	
+US	22013	Bristow	Virginia	VA	Prince William County	153			38.731	-77.5474	
+US	22018	Catharpin	Virginia	VA	Prince William County	153			38.8547	-77.5624	
+US	22025	Dumfries	Virginia	VA	Prince William County	153			38.5993	-77.3403	
+US	22026	Dumfries	Virginia	VA	Prince William	153			38.5669	-77.2921	
+US	22065	Gainesville	Virginia	VA	Prince William County	153			38.8254	-77.6202	
+US	22069	Haymarket	Virginia	VA	Prince William County	153			38.8717	-77.6468	
+US	22123	Nokesville	Virginia	VA	Prince William County	153			38.6919	-77.5611	
+US	22125	Occoquan	Virginia	VA	Prince William	153			38.6816	-77.2605	
+US	22134	Quantico	Virginia	VA	Prince William	153			38.531	-77.3358	
+US	22135	Quantico	Virginia	VA	Prince William	153			38.7219	-77.4669	
+US	22172	Triangle	Virginia	VA	Prince William	153			38.5509	-77.3229	
+US	22191	Woodbridge	Virginia	VA	Prince William	153			38.6356	-77.2683	
+US	22192	Woodbridge	Virginia	VA	Prince William	153			38.676	-77.3163	
+US	22193	Woodbridge	Virginia	VA	Prince William	153			38.6438	-77.3451	
+US	22194	Woodbridge	Virginia	VA	Prince William	153			38.7219	-77.4669	
+US	22195	Woodbridge	Virginia	VA	Prince William	153			38.7219	-77.4669	
+US	24058	Belspring	Virginia	VA	Pulaski	155			37.1982	-80.6151	
+US	24084	Dublin	Virginia	VA	Pulaski	155			37.0989	-80.6697	
+US	24126	Newbern	Virginia	VA	Pulaski	155			37.0692	-80.6891	
+US	24129	New River	Virginia	VA	Pulaski	155			37.0964	-80.6081	
+US	24132	Parrott	Virginia	VA	Pulaski	155			37.2048	-80.6205	
+US	24301	Pulaski	Virginia	VA	Pulaski	155			37.0567	-80.771	
+US	24324	Draper	Virginia	VA	Pulaski	155			36.9697	-80.8188	
+US	24347	Hiwassee	Virginia	VA	Pulaski	155			36.9756	-80.6695	
+US	20106	Amissville	Virginia	VA	Rappahannock	157			38.6842	-78.0168	
+US	22002	Amissville	Virginia	VA	Rappahannock	157			38.6914	-78.137	
+US	22623	Chester Gap	Virginia	VA	Rappahannock	157			38.8537	-78.1412	
+US	22627	Flint Hill	Virginia	VA	Rappahannock	157			38.7337	-78.0756	
+US	22640	Huntly	Virginia	VA	Rappahannock	157			38.8129	-78.1165	
+US	22716	Castleton	Virginia	VA	Rappahannock	157			38.6032	-78.1208	
+US	22740	Sperryville	Virginia	VA	Rappahannock	157			38.6203	-78.2466	
+US	22746	Viewtown	Virginia	VA	Rappahannock	157			38.6457	-78.0258	
+US	22747	Washington	Virginia	VA	Rappahannock	157			38.7078	-78.1566	
+US	22749	Woodville	Virginia	VA	Rappahannock	157			38.6482	-78.1739	
+US	22460	Farnham	Virginia	VA	Richmond	159			37.874	-76.605	
+US	22461	Foneswood	Virginia	VA	Richmond County	159			38.1046	-76.9011	
+US	22472	Haynesville	Virginia	VA	Richmond	159			37.9505	-76.6367	
+US	22548	Sharps	Virginia	VA	Richmond	159			37.8376	-76.6948	
+US	22570	Village	Virginia	VA	Richmond	159			37.9472	-76.6154	
+US	22572	Warsaw	Virginia	VA	Richmond	159			37.9695	-76.7665	
+US	24018	Roanoke	Virginia	VA	Roanoke	161			37.2503	-80.0525	
+US	24020	Roanoke	Virginia	VA	Roanoke	161			37.3589	-79.9448	
+US	24059	Bent Mountain	Virginia	VA	Roanoke	161			37.1549	-80.1215	
+US	24070	Catawba	Virginia	VA	Roanoke	161			37.3696	-80.1284	
+US	24087	Elliston	Virginia	VA	Roanoke	161			37.2257	-80.1848	
+US	24179	Vinton	Virginia	VA	Roanoke	161			37.2757	-79.8775	
+US	24415	Brownsburg	Virginia	VA	Rockbridge	163			37.9265	-79.3292	
+US	24435	Fairfield	Virginia	VA	Rockbridge	163			37.8778	-79.2979	
+US	24439	Goshen	Virginia	VA	Rockbridge	163			37.9878	-79.4773	
+US	24472	Raphine	Virginia	VA	Rockbridge	163			37.9374	-79.2219	
+US	24473	Rockbridge Baths	Virginia	VA	Rockbridge	163			37.8965	-79.3874	
+US	24483	Vesuvius	Virginia	VA	Rockbridge	163			37.8378	-79.2135	
+US	24555	Glasgow	Virginia	VA	Rockbridge	163			37.643	-79.459	
+US	24578	Natural Bridge	Virginia	VA	Rockbridge	163			37.6606	-79.533	
+US	24579	Natural Bridge Station	Virginia	VA	Rockbridge	163			37.598	-79.525	
+US	22802	Harrisonburg	Virginia	VA	Rockingham	165			38.4905	-78.8179	
+US	22811	Bergton	Virginia	VA	Rockingham	165			38.7925	-78.9668	
+US	22812	Bridgewater	Virginia	VA	Rockingham	165			38.3859	-78.9937	
+US	22815	Broadway	Virginia	VA	Rockingham	165			38.6083	-78.7875	
+US	22820	Criders	Virginia	VA	Rockingham	165			38.7497	-78.9974	
+US	22821	Dayton	Virginia	VA	Rockingham	165			38.4707	-79.085	
+US	22827	Elkton	Virginia	VA	Rockingham	165			38.4025	-78.6321	
+US	22830	Fulks Run	Virginia	VA	Rockingham	165			38.6339	-78.9358	
+US	22831	Hinton	Virginia	VA	Rockingham	165			38.5689	-79.0885	
+US	22832	Keezletown	Virginia	VA	Rockingham	165			38.4659	-78.7499	
+US	22833	Lacey Spring	Virginia	VA	Rockingham	165			38.5284	-78.8552	
+US	22834	Linville	Virginia	VA	Rockingham	165			38.5557	-78.8961	
+US	22840	Mc Gaheysville	Virginia	VA	Rockingham	165			38.3712	-78.7411	
+US	22841	Mount Crawford	Virginia	VA	Rockingham	165			38.3457	-78.8957	
+US	22846	Penn Laird	Virginia	VA	Rockingham	165			38.375	-78.7795	
+US	22848	Pleasant Valley	Virginia	VA	Rockingham	165			38.3847	-78.8914	
+US	22850	Singers Glen	Virginia	VA	Rockingham	165			38.5574	-78.9227	
+US	22853	Timberville	Virginia	VA	Rockingham	165			38.6476	-78.7717	
+US	24441	Grottoes	Virginia	VA	Rockingham	165			38.2484	-78.8255	
+US	24471	Port Republic	Virginia	VA	Rockingham	165			38.3226	-78.7886	
+US	24224	Castlewood	Virginia	VA	Russell	167			36.8764	-82.2876	
+US	24225	Cleveland	Virginia	VA	Russell	167			36.9502	-82.1318	
+US	24237	Dante	Virginia	VA	Russell	167			37.0054	-82.2815	
+US	24260	Honaker	Virginia	VA	Russell	167			37.0395	-82.0246	
+US	24266	Lebanon	Virginia	VA	Russell	167			36.8809	-82.0956	
+US	24280	Rosedale	Virginia	VA	Russell	167			36.9509	-81.9649	
+US	24649	Swords Creek	Virginia	VA	Russell	167			37.0738	-81.9084	
+US	24244	Duffield	Virginia	VA	Scott	169			36.7114	-82.8337	
+US	24245	Dungannon	Virginia	VA	Scott	169			36.8242	-82.496	
+US	24250	Fort Blackmore	Virginia	VA	Scott	169			36.7438	-82.6102	
+US	24251	Gate City	Virginia	VA	Scott	169			36.646	-82.6112	
+US	24258	Hiltons	Virginia	VA	Scott	169			36.6498	-82.4299	
+US	24271	Nickelsville	Virginia	VA	Scott	169			36.7502	-82.4202	
+US	24290	Weber City	Virginia	VA	Scott	169			36.6137	-82.5618	
+US	22626	Fishers Hill	Virginia	VA	Shenandoah	171			38.9834	-78.4038	
+US	22641	Strasburg	Virginia	VA	Shenandoah	171			39.0808	-78.3913	
+US	22644	Maurertown	Virginia	VA	Shenandoah	171			38.9441	-78.4658	
+US	22652	Fort Valley	Virginia	VA	Shenandoah	171			38.8407	-78.4276	
+US	22657	Strasburg	Virginia	VA	Shenandoah	171			38.9884	-78.3386	
+US	22660	Toms Brook	Virginia	VA	Shenandoah	171			38.9476	-78.4331	
+US	22664	Woodstock	Virginia	VA	Shenandoah	171			38.887	-78.5217	
+US	22810	Basye	Virginia	VA	Shenandoah	171			38.8089	-78.7776	
+US	22824	Edinburg	Virginia	VA	Shenandoah	171			38.8432	-78.6003	
+US	22842	Mount Jackson	Virginia	VA	Shenandoah	171			38.7857	-78.6803	
+US	22844	New Market	Virginia	VA	Shenandoah	171			38.6606	-78.6714	
+US	22845	Orkney Springs	Virginia	VA	Shenandoah	171			38.7937	-78.8111	
+US	22847	Quicksburg	Virginia	VA	Shenandoah	171			38.7201	-78.7213	
+US	24311	Atkins	Virginia	VA	Smyth	173			36.8665	-81.4048	
+US	24316	Broadford	Virginia	VA	Smyth	173			36.9546	-81.673	
+US	24319	Chilhowie	Virginia	VA	Smyth	173			36.7719	-81.6651	
+US	24354	Marion	Virginia	VA	Smyth	173			36.8273	-81.5349	
+US	24370	Saltville	Virginia	VA	Smyth	173			36.8927	-81.7402	
+US	24373	Seven Mile Ford	Virginia	VA	Smyth	173			36.8264	-81.5492	
+US	24375	Sugar Grove	Virginia	VA	Smyth	173			36.7736	-81.4084	
+US	23827	Boykins	Virginia	VA	Southampton	175			36.5951	-77.1975	
+US	23828	Branchville	Virginia	VA	Southampton	175			36.5787	-77.2704	
+US	23829	Capron	Virginia	VA	Southampton	175			36.7243	-77.2394	
+US	23837	Courtland	Virginia	VA	Southampton	175			36.7225	-77.0783	
+US	23844	Drewryville	Virginia	VA	Southampton	175			36.6854	-77.3591	
+US	23859	Handsom	Virginia	VA	Southampton County	175			36.6088	-77.0238	
+US	23866	Ivor	Virginia	VA	Southampton	175			36.9071	-76.8861	
+US	23874	Newsoms	Virginia	VA	Southampton	175			36.6148	-77.1069	
+US	23878	Sedley	Virginia	VA	Southampton	175			36.7908	-77.0125	
+US	22407	Fredericksburg	Virginia	VA	Spotsylvania	177			38.2688	-77.5476	
+US	22408	Fredericksburg	Virginia	VA	Spotsylvania	177			38.2481	-77.4681	
+US	22412	Fredericksburg	Virginia	VA	Spotsylvania	177			38.1847	-77.6626	
+US	22534	Partlow	Virginia	VA	Spotsylvania	177			38.0641	-77.6586	
+US	22551	Spotsylvania	Virginia	VA	Spotsylvania County	177			38.162	-77.6854	
+US	22553	Spotsylvania	Virginia	VA	Spotsylvania	177			38.271	-77.6447	
+US	22565	Thornburg	Virginia	VA	Spotsylvania	177			38.1372	-77.5189	
+US	22403	Fredericksburg	Virginia	VA	Stafford	179			38.4173	-77.4608	
+US	22405	Fredericksburg	Virginia	VA	Stafford	179			38.3365	-77.4366	
+US	22406	Fredericksburg	Virginia	VA	Stafford	179			38.3796	-77.5349	
+US	22430	Brooke	Virginia	VA	Stafford	179			38.3857	-77.3743	
+US	22463	Garrisonville	Virginia	VA	Stafford	179			38.4684	-77.4612	
+US	22471	Hartwood	Virginia	VA	Stafford	179			38.3993	-77.5814	
+US	22545	Ruby	Virginia	VA	Stafford	179			38.5086	-77.543	
+US	22554	Stafford	Virginia	VA	Stafford	179			38.4586	-77.4306	
+US	22555	Stafford	Virginia	VA	Stafford	179			38.4173	-77.4608	
+US	22556	Stafford	Virginia	VA	Stafford County	179			38.4718	-77.5102	
+US	23839	Dendron	Virginia	VA	Surry	181			37.0981	-76.8966	
+US	23846	Elberon	Virginia	VA	Surry	181			37.0701	-76.8337	
+US	23881	Spring Grove	Virginia	VA	Surry	181			37.1901	-76.9923	
+US	23883	Surry	Virginia	VA	Surry	181			37.126	-76.7651	
+US	23899	Claremont	Virginia	VA	Surry	181			37.199	-76.9842	
+US	23867	Jarratt	Virginia	VA	Sussex	183			36.8191	-77.4832	
+US	23882	Stony Creek	Virginia	VA	Sussex	183			36.9361	-77.4443	
+US	23884	Sussex	Virginia	VA	Sussex	183			36.9457	-77.2539	
+US	23888	Wakefield	Virginia	VA	Sussex	183			36.9757	-76.979	
+US	23890	Waverly	Virginia	VA	Sussex	183			37.025	-77.1055	
+US	23891	Waverly	Virginia	VA	Sussex	183			37.0508	-77.2124	
+US	23897	Yale	Virginia	VA	Sussex	183			36.8373	-77.287	
+US	24377	Tannersville	Virginia	VA	Tazewell	185			36.9763	-81.628	
+US	24601	Amonate	Virginia	VA	Tazewell	185			37.1355	-81.5634	
+US	24602	Bandy	Virginia	VA	Tazewell	185			37.1661	-81.6508	
+US	24604	Bishop	Virginia	VA	Tazewell	185			37.2033	-81.5575	
+US	24605	Bluefield	Virginia	VA	Tazewell	185			37.1724	-81.5071	
+US	24606	Boissevain	Virginia	VA	Tazewell	185			37.1355	-81.5634	
+US	24608	Burkes Garden	Virginia	VA	Tazewell	185			37.1355	-81.5634	
+US	24609	Cedar Bluff	Virginia	VA	Tazewell	185			37.0791	-81.7668	
+US	24612	Doran	Virginia	VA	Tazewell	185			37.0945	-81.818	
+US	24613	Falls Mills	Virginia	VA	Tazewell	185			37.271	-81.3182	
+US	24619	Horsepen	Virginia	VA	Tazewell	185			37.1355	-81.5634	
+US	24622	Jewell Ridge	Virginia	VA	Tazewell	185			37.2094	-81.7956	
+US	24630	North Tazewell	Virginia	VA	Tazewell	185			37.1756	-81.5399	
+US	24635	Pocahontas	Virginia	VA	Tazewell	185			37.3054	-81.3425	
+US	24637	Pounding Mill	Virginia	VA	Tazewell	185			37.0596	-81.7301	
+US	24640	Red Ash	Virginia	VA	Tazewell	185			37.1355	-81.5634	
+US	24641	Richlands	Virginia	VA	Tazewell	185			37.0941	-81.8123	
+US	24651	Tazewell	Virginia	VA	Tazewell	185			37.1078	-81.51	
+US	22610	Bentonville	Virginia	VA	Warren	187			38.8187	-78.2757	
+US	22630	Front Royal	Virginia	VA	Warren	187			38.9268	-78.1796	
+US	22642	Linden	Virginia	VA	Warren	187			38.8812	-78.0478	
+US	22649	Middletown	Virginia	VA	Warren	187			39.0048	-78.2478	
+US	22651	Front Royal	Virginia	VA	Warren County	187			38.918	-78.1946	
+US	24210	Abingdon	Virginia	VA	Washington	191			36.6916	-82.02	
+US	24211	Abingdon	Virginia	VA	Washington	191			36.6673	-81.9648	
+US	24212	Abingdon	Virginia	VA	Washington	191			36.6909	-81.9708	
+US	24236	Damascus	Virginia	VA	Washington	191			36.6403	-81.7776	
+US	24270	Mendota	Virginia	VA	Washington	191			36.7223	-82.2649	
+US	24327	Emory	Virginia	VA	Washington	191			36.78	-81.8171	
+US	24340	Glade Spring	Virginia	VA	Washington	191			36.7779	-81.7676	
+US	24361	Meadowview	Virginia	VA	Washington	191			36.7612	-81.8512	
+US	22442	Coles Point	Virginia	VA	Westmoreland	193			38.1218	-76.7903	
+US	22443	Colonial Beach	Virginia	VA	Westmoreland	193			38.1792	-76.9959	
+US	22469	Hague	Virginia	VA	Westmoreland	193			38.0573	-76.6616	
+US	22488	Kinsale	Virginia	VA	Westmoreland	193			38.0505	-76.5855	
+US	22520	Montross	Virginia	VA	Westmoreland	193			38.1105	-76.7828	
+US	22524	Mount Holly	Virginia	VA	Westmoreland	193			38.1182	-76.6805	
+US	22529	Oldhams	Virginia	VA	Westmoreland	193			38.0181	-76.6861	
+US	22558	Stratford	Virginia	VA	Westmoreland	193			38.1218	-76.7903	
+US	22577	Sandy Point	Virginia	VA	Westmoreland	193			38.0673	-76.5503	
+US	22581	Zacata	Virginia	VA	Westmoreland	193			38.1218	-76.7903	
+US	22421	Kilmarnock	Virginia	VA	Wise County	195			37.8085	-76.5081	
+US	24215	Andover	Virginia	VA	Wise	195			36.9234	-82.7964	
+US	24216	Appalachia	Virginia	VA	Wise	195			36.9438	-82.7976	
+US	24219	Big Stone Gap	Virginia	VA	Wise	195			36.8581	-82.7627	
+US	24230	Coeburn	Virginia	VA	Wise	195			36.9605	-82.4735	
+US	24246	East Stone Gap	Virginia	VA	Wise	195			36.8644	-82.7375	
+US	24249	Appalachia	Virginia	VA	Wise County	195			36.9323	-82.7873	
+US	24279	Pound	Virginia	VA	Wise	195			37.0927	-82.6016	
+US	24283	Saint Paul	Virginia	VA	Wise	195			36.9323	-82.3418	
+US	24285	Stonega	Virginia	VA	Wise	195			36.9509	-82.7867	
+US	24293	Wise	Virginia	VA	Wise	195			36.975	-82.5947	
+US	24312	Austinville	Virginia	VA	Wythe	197			36.8195	-80.8583	
+US	24313	Barren Springs	Virginia	VA	Wythe	197			36.9078	-80.809	
+US	24322	Cripple Creek	Virginia	VA	Wythe	197			36.8086	-81.1039	
+US	24323	Crockett	Virginia	VA	Wythe	197			36.8768	-81.2089	
+US	24350	Ivanhoe	Virginia	VA	Wythe	197			36.8272	-80.9779	
+US	24360	Max Meadows	Virginia	VA	Wythe	197			36.9056	-80.9244	
+US	24368	Rural Retreat	Virginia	VA	Wythe	197			36.8836	-81.2879	
+US	24374	Speedwell	Virginia	VA	Wythe	197			36.7998	-81.1834	
+US	24382	Wytheville	Virginia	VA	Wythe	197			36.9407	-81.0941	
+US	23090	Lightfoot	Virginia	VA	York	199			37.2359	-76.4456	
+US	23690	Yorktown	Virginia	VA	York	199			37.2287	-76.5423	
+US	23691	Yorktown	Virginia	VA	York	199			37.2517	-76.552	
+US	23692	Yorktown	Virginia	VA	York	199			37.1686	-76.4581	
+US	23693	Yorktown	Virginia	VA	York	199			37.1256	-76.4469	
+US	23694	Lackey	Virginia	VA	York	199			37.2232	-76.559	
+US	23696	Seaford	Virginia	VA	York	199			37.1885	-76.429	
+US	22301	Alexandria	Virginia	VA	Alexandria (city)	510			38.82	-77.0589	
+US	22302	Alexandria	Virginia	VA	Alexandria (city)	510			38.8276	-77.0896	
+US	22304	Alexandria	Virginia	VA	Alexandria (city)	510			38.8149	-77.121	
+US	22305	Alexandria	Virginia	VA	Alexandria (city)	510			38.8372	-77.064	
+US	22311	Alexandria	Virginia	VA	Alexandria (city)	510			38.832	-77.12	
+US	22313	Alexandria	Virginia	VA	Alexandria (city)	510			38.8158	-77.0901	
+US	22314	Alexandria	Virginia	VA	Alexandria (city)	510			38.806	-77.0529	
+US	22320	Alexandria	Virginia	VA	Alexandria (city)	510			38.8044	-77.0467	
+US	22331	Alexandria	Virginia	VA	Alexandria (city)	510			38.8013	-77.0707	
+US	22332	Alexandria	Virginia	VA	Alexandria (city)	510			38.8031	-77.0727	
+US	22333	Alexandria	Virginia	VA	Alexandria (city)	510			38.8158	-77.0901	
+US	22334	Alexandria	Virginia	VA	Alexandria (city)	510			38.8158	-77.0901	
+US	22336	Alexandria	Virginia	VA	Alexandria (city)	510			38.8158	-77.0901	
+US	22350	Alexandria	Virginia	VA	Alexandria City	510			38.8045	-77.0509	
+US	24523	Bedford	Virginia	VA	Bedford (city)	515			37.3153	-79.5331	
+US	24201	Bristol	Virginia	VA	Bristol (city)	520			36.6181	-82.1823	
+US	24202	Bristol	Virginia	VA	Bristol (city)	520			36.6609	-82.2126	
+US	24203	Bristol	Virginia	VA	Bristol (city)	520			36.7616	-81.9687	
+US	24209	Bristol	Virginia	VA	Bristol (city)	520			36.7616	-81.9687	
+US	24416	Buena Vista	Virginia	VA	Buena Vista (city)	530			37.7396	-79.3523	
+US	22902	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0266	-78.4805	
+US	22903	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0339	-78.4924	
+US	22904	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0401	-78.4851	
+US	22905	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0401	-78.4851	
+US	22906	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0401	-78.4851	
+US	22907	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0401	-78.4851	
+US	22908	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0401	-78.4851	
+US	22910	Charlottesville	Virginia	VA	Charlottesville (city)	540			38.0401	-78.4851	
+US	23320	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.7352	-76.2384	
+US	23321	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.8012	-76.423	
+US	23322	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.6434	-76.242	
+US	23323	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.7634	-76.3397	
+US	23324	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.8056	-76.2666	
+US	23325	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.814	-76.2406	
+US	23326	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.777	-76.2394	
+US	23327	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.7085	-76.2785	
+US	23328	Chesapeake	Virginia	VA	Chesapeake (city)	550			36.7085	-76.2785	
+US	23834	Colonial Heights	Virginia	VA	Colonial Heights (city	570			37.27	-77.4038	
+US	24426	Covington	Virginia	VA	Covington (city)	580			37.7802	-79.987	
+US	24540	Danville	Virginia	VA	Danville (city)	590			36.6218	-79.4124	
+US	24541	Danville	Virginia	VA	Danville (city)	590			36.5779	-79.4411	
+US	24543	Danville	Virginia	VA	Danville (city)	590			36.5927	-79.411	
+US	24544	Danville	Virginia	VA	Danville (city)	590			36.5927	-79.411	
+US	23847	Emporia	Virginia	VA	Emporia (city)	595			36.6857	-77.563	
+US	22030	Fairfax	Virginia	VA	Fairfax (city)	600			38.8458	-77.3242	
+US	22031	Fairfax	Virginia	VA	Fairfax (city)	600			38.8604	-77.2649	
+US	22038	Fairfax	Virginia	VA	Fairfax (city)	600			38.8528	-77.302	
+US	22040	Falls Church	Virginia	VA	Falls Church (city)	610			38.8842	-77.1718	
+US	22046	Falls Church	Virginia	VA	Falls Church (city)	610			38.8856	-77.1802	
+US	23851	Franklin	Virginia	VA	Franklin (city)	620			36.6786	-76.9391	
+US	22401	Fredericksburg	Virginia	VA	Fredericksburg (city)	630			38.2995	-77.4772	
+US	22402	Fredericksburg	Virginia	VA	Fredericksburg (city)	630			38.2996	-77.4897	
+US	22404	Fredericksburg	Virginia	VA	Fredericksburg (city)	630			38.2983	-77.4899	
+US	24333	Galax	Virginia	VA	Galax (city)	640			36.6565	-80.9117	
+US	23630	Hampton	Virginia	VA	Hampton (city)	650			37.0727	-76.3899	
+US	23631	Hampton	Virginia	VA	Hampton (city)	650			37.0727	-76.3899	
+US	23651	Fort Monroe	Virginia	VA	Hampton (city)	650			37.018	-76.3044	
+US	23653	Hampton	Virginia	VA	Hampton (city)	650			37.0727	-76.3899	
+US	23661	Hampton	Virginia	VA	Hampton (city)	650			37.0074	-76.3801	
+US	23663	Hampton	Virginia	VA	Hampton (city)	650			37.0318	-76.3199	
+US	23664	Hampton	Virginia	VA	Hampton (city)	650			37.0566	-76.2966	
+US	23665	Hampton	Virginia	VA	Hampton (city)	650			37.0831	-76.36	
+US	23666	Hampton	Virginia	VA	Hampton (city)	650			37.0462	-76.4096	
+US	23667	Hampton	Virginia	VA	Hampton (city)	650			37.0193	-76.3318	
+US	23668	Hampton	Virginia	VA	Hampton (city)	650			37.0206	-76.3377	
+US	23669	Hampton	Virginia	VA	Hampton (city)	650			37.0436	-76.3426	
+US	23670	Hampton	Virginia	VA	Hampton (city)	650			37.0727	-76.3899	
+US	23681	Hampton	Virginia	VA	Hampton (city)	650			37.0727	-76.3899	
+US	22801	Harrisonburg	Virginia	VA	Harrisonburg (city)	660			38.4489	-78.8714	
+US	22803	Harrisonburg	Virginia	VA	City of Harrisonburg	660			38.469	-78.8325	
+US	22807	Harrisonburg	Virginia	VA	Harrisonburg (city)	660			38.4409	-78.8742	
+US	23860	Hopewell	Virginia	VA	Hopewell (city)	670			37.2876	-77.295	
+US	24450	Lexington	Virginia	VA	Lexington (city)	678			37.7885	-79.4581	
+US	24501	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.353	-79.1557	
+US	24502	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.3825	-79.2181	
+US	24503	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.4376	-79.205	
+US	24504	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.361	-79.0544	
+US	24505	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.4009	-79.1785	
+US	24506	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.3817	-79.161	
+US	24514	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.4009	-79.1785	
+US	24515	Lynchburg	Virginia	VA	Lynchburg (city)	680			37.4009	-79.1785	
+US	20108	Manassas	Virginia	VA	Manassas (city)	683			38.7447	-77.4872	
+US	20109	Manassas	Virginia	VA	Manassas (city)	683			38.793	-77.5266	
+US	20110	Manassas	Virginia	VA	Manassas (city)	683			38.7492	-77.4878	
+US	22110	Manassas	Virginia	VA	City of Manassas	683			38.7678	-77.4901	
+US	22111	Manassas	Virginia	VA	City of Manassas	683			38.7202	-77.4391	
+US	20111	Manassas	Virginia	VA	Manassas Park (city)	685			38.7707	-77.4494	
+US	20112	Manassas	Virginia	VA	Manassas Park (city)	685			38.6665	-77.4248	
+US	20113	Manassas	Virginia	VA	Manassas Park (city)	685			38.7709	-77.4494	
+US	24112	Martinsville	Virginia	VA	Martinsville (city)	690			36.6871	-79.8691	
+US	24113	Martinsville	Virginia	VA	Martinsville (city)	690			36.6796	-79.8652	
+US	24114	Martinsville	Virginia	VA	Martinsville (city)	690			36.6796	-79.8652	
+US	24115	Martinsville	Virginia	VA	Martinsville (city)	690			36.6796	-79.8652	
+US	23600	Newport News	Virginia	VA	City of Newport News	700			36.9786	-76.4283	
+US	23601	Newport News	Virginia	VA	Newport News (city)	700			37.058	-76.4607	
+US	23602	Newport News	Virginia	VA	Newport News (city)	700			37.1132	-76.5179	
+US	23603	Newport News	Virginia	VA	Newport News (city)	700			37.1989	-76.5821	
+US	23604	Fort Eustis	Virginia	VA	Newport News (city)	700			37.1574	-76.5845	
+US	23605	Newport News	Virginia	VA	Newport News (city)	700			37.0156	-76.4332	
+US	23606	Newport News	Virginia	VA	Newport News (city)	700			37.0768	-76.4967	
+US	23607	Newport News	Virginia	VA	Newport News (city)	700			36.9864	-76.4165	
+US	23608	Newport News	Virginia	VA	Newport News (city)	700			37.1526	-76.542	
+US	23609	Newport News	Virginia	VA	Newport News (city)	700			37.1959	-76.5248	
+US	23612	Newport News	Virginia	VA	Newport News (city)	700			37.1959	-76.5248	
+US	23628	Newport News	Virginia	VA	Newport News (city)	700			37.1959	-76.5248	
+US	23500	Norfolk	Virginia	VA	City of Norfolk	710			36.8466	-76.2855	
+US	23501	Norfolk	Virginia	VA	Norfolk (city)	710			36.8959	-76.2085	
+US	23502	Norfolk	Virginia	VA	Norfolk (city)	710			36.8546	-76.2143	
+US	23503	Norfolk	Virginia	VA	Norfolk (city)	710			36.9442	-76.252	
+US	23504	Norfolk	Virginia	VA	Norfolk (city)	710			36.8586	-76.2686	
+US	23505	Norfolk	Virginia	VA	Norfolk (city)	710			36.9168	-76.2875	
+US	23506	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23507	Norfolk	Virginia	VA	Norfolk (city)	710			36.8645	-76.3004	
+US	23508	Norfolk	Virginia	VA	Norfolk (city)	710			36.8859	-76.3004	
+US	23509	Norfolk	Virginia	VA	Norfolk (city)	710			36.8787	-76.2604	
+US	23510	Norfolk	Virginia	VA	Norfolk (city)	710			36.8529	-76.2878	
+US	23511	Norfolk	Virginia	VA	Norfolk (city)	710			36.9356	-76.3034	
+US	23512	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23513	Norfolk	Virginia	VA	Norfolk (city)	710			36.8914	-76.2396	
+US	23514	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23515	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23517	Norfolk	Virginia	VA	Norfolk (city)	710			36.8695	-76.2945	
+US	23518	Norfolk	Virginia	VA	Norfolk (city)	710			36.9202	-76.216	
+US	23519	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23520	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23523	Norfolk	Virginia	VA	Norfolk (city)	710			36.8294	-76.2701	
+US	23529	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23530	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23541	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	23551	Norfolk	Virginia	VA	Norfolk (city)	710			36.9312	-76.2397	
+US	24273	Norton	Virginia	VA	Norton (city)	720			36.9378	-82.6249	
+US	23803	Petersburg	Virginia	VA	Petersburg (city)	730			37.2123	-77.4814	
+US	23804	Petersburg	Virginia	VA	Petersburg (city)	730			37.2048	-77.3928	
+US	23805	Petersburg	Virginia	VA	Petersburg (city)	730			37.1819	-77.3854	
+US	23806	Petersburg	Virginia	VA	Petersburg (city)	730			37.2048	-77.3928	
+US	23662	Poquoson	Virginia	VA	Poquoson (city)	735			37.1313	-76.3807	
+US	23701	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8089	-76.3671	
+US	23702	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8035	-76.327	
+US	23703	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8695	-76.3869	
+US	23704	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8298	-76.3146	
+US	23705	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8686	-76.3552	
+US	23707	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8362	-76.344	
+US	23708	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8686	-76.3552	
+US	23709	Portsmouth	Virginia	VA	Portsmouth (city)	740			36.8686	-76.3552	
+US	24141	Radford	Virginia	VA	Radford (city)	750			37.1197	-80.5565	
+US	24142	Radford	Virginia	VA	Radford (city)	750			37.1387	-80.548	
+US	24143	Radford	Virginia	VA	Radford (city)	750			37.1226	-80.5629	
+US	23173	University Of Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23201	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23202	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23203	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23204	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23205	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23206	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23207	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23208	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23209	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23210	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23211	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23212	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23213	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23215	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23217	Richmond	Virginia	VA	City of Richmond	760			37.5593	-77.4471	
+US	23218	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23219	Richmond	Virginia	VA	Richmond (city)	760			37.5463	-77.4378	
+US	23220	Richmond	Virginia	VA	Richmond (city)	760			37.5498	-77.4588	
+US	23221	Richmond	Virginia	VA	Richmond (city)	760			37.5583	-77.4845	
+US	23222	Richmond	Virginia	VA	Richmond (city)	760			37.5748	-77.4267	
+US	23223	Richmond	Virginia	VA	Richmond (city)	760			37.5477	-77.3948	
+US	23224	Richmond	Virginia	VA	Richmond (city)	760			37.4955	-77.471	
+US	23225	Richmond	Virginia	VA	Richmond (city)	760			37.5158	-77.5047	
+US	23232	Richmond	Virginia	VA	Richmond (city)	760			37.5202	-77.4084	
+US	23240	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23241	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23249	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23260	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23261	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23266	Richmond	Virginia	VA	Richmond (city)	760			37.5679	-77.5283	
+US	23269	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23270	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23272	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23273	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23274	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23275	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23276	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23277	Richmond	Virginia	VA	City of Richmond	760			37.5535	-77.4604	
+US	23278	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23279	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23282	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23284	Richmond	Virginia	VA	Richmond (city)	760			37.5494	-77.4512	
+US	23285	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23286	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23290	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23291	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23292	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23293	Richmond	Virginia	VA	Richmond (city)	760			37.5242	-77.4932	
+US	23295	Richmond	Virginia	VA	City of Richmond	760			37.5532	-77.4621	
+US	23298	Richmond	Virginia	VA	Richmond (city)	760			37.5406	-77.4316	
+US	24000	Roanoke	Virginia	VA	City of Roanoke	770			37.2707	-79.9415	
+US	24001	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24002	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24003	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24004	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24005	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24006	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24007	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24008	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24009	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24010	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24011	Roanoke	Virginia	VA	Roanoke (city)	770			37.269	-79.942	
+US	24012	Roanoke	Virginia	VA	Roanoke (city)	770			37.3029	-79.9322	
+US	24013	Roanoke	Virginia	VA	Roanoke (city)	770			37.2677	-79.9247	
+US	24014	Roanoke	Virginia	VA	Roanoke (city)	770			37.2327	-79.9463	
+US	24015	Roanoke	Virginia	VA	Roanoke (city)	770			37.2584	-79.9807	
+US	24016	Roanoke	Virginia	VA	Roanoke (city)	770			37.2704	-79.9535	
+US	24017	Roanoke	Virginia	VA	Roanoke (city)	770			37.2937	-79.9902	
+US	24022	Roanoke	Virginia	VA	Roanoke (city)	770			37.2784	-79.9332	
+US	24024	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24025	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24026	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24027	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24028	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24029	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24030	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24031	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24032	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24033	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24034	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24035	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24036	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24037	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24038	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24040	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24042	Roanoke	Virginia	VA	Roanoke (city)	770			37.2717	-79.9392	
+US	24043	Roanoke	Virginia	VA	Roanoke (city)	770			37.2692	-79.9399	
+US	24044	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24045	Roanoke	Virginia	VA	Roanoke (city)	770			37.2686	-79.9407	
+US	24048	Roanoke	Virginia	VA	Roanoke (city)	770			37.2742	-79.9579	
+US	24153	Salem	Virginia	VA	Salem (city)	775			37.2853	-80.0692	
+US	24155	Salem	Virginia	VA	Salem (city)	775			37.2884	-80.0671	
+US	24156	Salem	Virginia	VA	Salem (city)	775			37.2884	-80.0671	
+US	24157	Salem	Virginia	VA	Salem (city)	775			37.2884	-80.0671	
+US	24401	Staunton	Virginia	VA	Staunton (city)	790			38.1574	-79.0651	
+US	24402	Staunton	Virginia	VA	Staunton (city)	790			38.1593	-79.0629	
+US	23432	Suffolk	Virginia	VA	Suffolk (city)	800			36.8668	-76.5598	
+US	23433	Suffolk	Virginia	VA	Suffolk (city)	800			36.909	-76.4929	
+US	23434	Suffolk	Virginia	VA	Suffolk (city)	800			36.7304	-76.5931	
+US	23435	Suffolk	Virginia	VA	Suffolk (city)	800			36.8544	-76.4664	
+US	23436	Suffolk	Virginia	VA	Suffolk (city)	800			36.8926	-76.5142	
+US	23437	Suffolk	Virginia	VA	Suffolk (city)	800			36.6526	-76.792	
+US	23438	Suffolk	Virginia	VA	Suffolk (city)	800			36.5913	-76.6871	
+US	23439	Suffolk	Virginia	VA	Suffolk (city)	800			36.7461	-76.6653	
+US	23453	Virginia Beach	Virginia	VA	City of Suffolk	800			36.776	-76.0766	
+US	23450	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.844	-76.1204	
+US	23451	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8585	-76.0019	
+US	23452	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8348	-76.0961	
+US	23454	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8282	-76.0237	
+US	23455	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8881	-76.1446	
+US	23456	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7341	-76.0359	
+US	23457	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.6224	-76.0249	
+US	23458	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8474	-76.1558	
+US	23459	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.9216	-76.0171	
+US	23460	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.808	-76.0284	
+US	23461	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7754	-75.9633	
+US	23462	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8392	-76.1522	
+US	23463	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7957	-76.0126	
+US	23464	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7978	-76.1759	
+US	23465	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8512	-76.1692	
+US	23466	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7957	-76.0126	
+US	23467	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7957	-76.0126	
+US	23468	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.8439	-76.1424	
+US	23471	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7957	-76.0126	
+US	23479	Virginia Beach	Virginia	VA	Virginia Beach (city)	810			36.7957	-76.0126	
+US	23521	Norfolk	Virginia	VA	Virginia Beach (city)	810			36.9131	-76.1472	
+US	22980	Waynesboro	Virginia	VA	Waynesboro (city)	820			38.0774	-78.9035	
+US	23186	Williamsburg	Virginia	VA	Williamsburg (city)	830			37.3105	-76.7468	
+US	23187	Williamsburg	Virginia	VA	Williamsburg (city)	830			37.3105	-76.7468	
+US	22601	Winchester	Virginia	VA	Winchester (city)	840			39.1858	-78.1827	
+US	22604	Winchester	Virginia	VA	Winchester (city)	840			39.1676	-78.1686	
