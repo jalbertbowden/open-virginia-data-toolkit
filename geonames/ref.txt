@@ -1,0 +1,11 @@
+
+GeoNames.org
+
+
+Gazetteer Data
+http://download.geonames.org/export/dump/
+http://download.geonames.org/export/dump/US.zip
+
+Postal Codes
+http://download.geonames.org/export/zip/
+http://download.geonames.org/export/zip/US.zip
