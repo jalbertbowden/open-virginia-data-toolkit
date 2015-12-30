@@ -1,0 +1,1246 @@
+U.S.	ZIP	Codes	(ZCTAs)	Showing	What	States	and Counties	It	Intersects	With	1
+Extracted	from	Census	Bureau	ZCTA-based	Files,	2000	Census
+
+	Portion	of
+	Census	2k	Census	2k
+	100%	Pop	in	Pop	of	ZCTA
+	ZIP	Code	ZCTA/County	in	this
+	(ZCTA)	County	intersection	County
+	20105	Loudoun	VA	1,311	1.000	
+	20106	Culpeper	VA	2,116	0.575	
+	20106	Rappahannock	VA	1,383	0.376	
+	20106	Fauquier	VA	181	0.049	
+	20109	Prince William	VA	29,380	1.000	
+	20110	Manassas City	VA	35,135	0.897	
+	20110	Prince William	VA	4,051	0.103	
+	20111	Prince William	VA	14,161	0.579	
+	20111	Manassas Park City	VA	10,290	0.421	
+	20112	Prince William	VA	19,000	1.000	
+	20115	Fauquier	VA	5,546	1.000	
+	20117	Loudoun	VA	2,577	0.962	
+	20117	Fauquier	VA	102	0.038	
+	20118	Loudoun	VA	117	0.582	
+	20118	Fauquier	VA	84	0.418	
+	20119	Fauquier	VA	3,607	0.998	
+	20119	Prince William	VA	8	0.002	
+	20120	Fairfax	VA	34,360	1.000	
+	20120	Loudoun	VA	12	0.000	
+	20121	Fairfax	VA	26,043	1.000	
+	20124	Fairfax	VA	14,863	1.000	
+	20129	Loudoun	VA	215	1.000	
+	20130	Fauquier	VA	46	0.687	
+	20130	Clarke	VA	19	0.284	
+	20130	Loudoun	VA	2	0.030	
+	20132	Loudoun	VA	9,245	1.000	
+	20135	Clarke	VA	1,801	0.659	
+	20135	Loudoun	VA	932	0.341	
+	20136	Prince William	VA	8,910	1.000	
+	20137	Fauquier	VA	1,196	0.718	
+	20137	Prince William	VA	469	0.282	
+	20138	Fauquier	VA	143	1.000	
+	20139	Fauquier	VA	36	1.000	
+	20140	Fauquier	VA	35	1.000	
+	20141	Loudoun	VA	3,091	1.000	
+	20143	Prince William	VA	932	1.000	
+	20144	Fauquier	VA	965	1.000	
+	20147	Loudoun	VA	29,767	1.000	
+	20148	Loudoun	VA	3,840	1.000	
+	20151	Fairfax	VA	17,162	1.000	
+	20152	Loudoun	VA	6,595	1.000	
+	20155	Prince William	VA	6,438	1.000	
+	20158	Loudoun	VA	2,925	1.000	
+	20164	Loudoun	VA	34,325	1.000	
+	20165	Loudoun	VA	27,323	1.000	
+	20166	Loudoun	VA	4,030	1.000	
+	20169	Prince William	VA	5,702	1.000	
+	20170	Fairfax	VA	38,114	1.000	
+	20171	Fairfax	VA	33,811	1.000	
+	20175	Loudoun	VA	17,125	1.000	
+	20176	Loudoun	VA	19,410	1.000	
+	20180	Loudoun	VA	4,413	1.000	
+	20181	Prince William	VA	5,625	0.891	
+	20181	Fauquier	VA	685	0.109	
+	20184	Fauquier	VA	474	0.750	
+	20184	Loudoun	VA	158	0.250	
+	20186	Fauquier	VA	11,118	0.998	
+	20186	Culpeper	VA	20	0.002	
+	20187	Fauquier	VA	12,886	1.000	
+	20190	Fairfax	VA	14,258	1.000	
+	20191	Fairfax	VA	28,881	1.000	
+	20194	Fairfax	VA	12,666	1.000	
+	20197	Loudoun	VA	1,115	1.000	
+	20198	Fauquier	VA	2,112	1.000
+	22003	Fairfax	VA	53,029	1.000	
+	22015	Fairfax	VA	42,938	1.000	
+	22026	Prince William	VA	22,026	1.000	
+	22027	Fairfax	VA	1,377	1.000	
+	22030	Fairfax	VA	22,660	0.575	
+	22030	Fairfax City	VA	16,771	0.425	
+	22031	Fairfax	VA	22,865	0.854	
+	22031	Fairfax City	VA	3,903	0.146	
+	22032	Fairfax	VA	28,062	0.971	
+	22032	Fairfax City	VA	824	0.029	
+	22033	Fairfax	VA	33,043	1.000	
+	22039	Fairfax	VA	18,471	1.000	
+	22041	Fairfax	VA	26,966	1.000	
+	22042	Fairfax	VA	30,308	0.994	
+	22042	Falls Church City	VA	197	0.006	
+	22043	Fairfax	VA	22,815	1.000	
+	22044	Fairfax	VA	11,913	0.909	
+	22044	Falls Church City	VA	1,196	0.091	
+	22046	Falls Church City	VA	8,984	0.630	
+	22046	Fairfax	VA	5,268	0.370	
+	22060	Fairfax	VA	8,100	1.000	
+	22066	Fairfax	VA	15,887	0.937	
+	22066	Loudoun	VA	1,071	0.063	
+	22079	Fairfax	VA	19,607	1.000	
+	22101	Fairfax	VA	28,400	0.999	
+	22101	Arlington	VA	33	0.001	
+	22102	Fairfax	VA	18,607	1.000	
+	22124	Fairfax	VA	13,867	1.000	
+	22125	Prince William	VA	131	1.000	
+	22134	Prince William	VA	6,906	0.877	
+	22134	Stafford	VA	970	0.123	
+	22150	Fairfax	VA	22,208	1.000	
+	22151	Fairfax	VA	16,587	1.000	
+	22152	Fairfax	VA	28,236	1.000	
+	22153	Fairfax	VA	33,177	1.000	
+	22172	Prince William	VA	5,967	1.000	
+	22180	Fairfax	VA	22,021	1.000	
+	22181	Fairfax	VA	14,527	1.000	
+	22182	Fairfax	VA	22,983	1.000	
+	22191	Prince William	VA	40,018	1.000	
+	22192	Prince William	VA	48,957	1.000	
+	22193	Prince William	VA	62,132	1.000	
+	22201	Arlington	VA	25,338	1.000	
+	22202	Arlington	VA	16,389	1.000	
+	22203	Arlington	VA	18,514	1.000	
+	22204	Arlington	VA	49,828	1.000	
+	22205	Arlington	VA	15,864	1.000	
+	22206	Arlington	VA	18,649	0.982	
+	22206	Alexandria City	VA	351	0.018	
+	22207	Arlington	VA	29,454	0.995	
+	22207	Fairfax	VA	139	0.005	
+	22209	Arlington	VA	11,622	1.000	
+	22211	Arlington	VA	1,293	1.000	
+	22213	Arlington	VA	2,469	1.000	
+	22301	Alexandria City	VA	10,224	1.000	
+	22302	Alexandria City	VA	14,215	0.947	
+	22302	Fairfax	VA	799	0.053	
+	22303	Fairfax	VA	14,268	1.000	
+	22304	Alexandria City	VA	40,602	0.996	
+	22304	Fairfax	VA	161	0.004	
+	22305	Alexandria City	VA	15,687	1.000	
+	22306	Fairfax	VA	28,249	1.000	
+	22307	Fairfax	VA	9,505	1.000	
+	22308	Fairfax	VA	12,554	1.000	
+	22309	Fairfax	VA	29,259	1.000	
+	22310	Fairfax	VA	26,082	1.000	
+	22311	Alexandria City	VA	15,334	0.920	
+	22311	Fairfax	VA	1,331	0.080	
+	22312	Fairfax	VA	21,421	0.755	
+	22312	Alexandria City	VA	6,949	0.245	
+	22314	Alexandria City	VA	24,921	1.000	
+	22315	Fairfax	VA	21,901	1.000	
+	22401	Fredericksburg City	VA	19,279	1.000	
+	22405	Stafford	VA	23,249	1.000	
+	22406	Stafford	VA	11,560	0.999	
+	22406	Fauquier	VA	14	0.001	
+	22407	Spotsylvania	VA	41,472	1.000	
+	22408	Spotsylvania	VA	18,243	0.992	
+	22408	Caroline	VA	140	0.008	
+	22427	Caroline	VA	3,345	1.000	
+	22432	Northumberland VA	337	1.000	
+	22433	Orange	VA	105	1.000	
+	22435	Northumberland VA	2,078	1.000	
+	22436	Essex	VA	560	1.000	
+	22437	Essex	VA	494	0.807	
+	22437	King and Queen VA	118	0.193	
+	22438	Essex	VA	491	0.903	
+	22438	Caroline	VA	53	0.097	
+	22443	Westmoreland VA	7,547	1.000	
+	22448	King George	VA	998	1.000	
+	22454	Essex	VA	1,998	1.000	
+	22460	Richmond	VA	1,944	1.000	
+	22469	Westmoreland VA	2,037	1.000	
+	22473	Northumberland VA	5,166	1.000	
+	22476	Essex	VA	428	1.000	
+	22480	Lancaster	VA	863	1.000	
+	22482	Lancaster	VA	1,692	0.615	
+	22482	Northumberland VA	1,060	0.385	
+	22485	King George	VA	15,805	1.000	
+	22488	Westmoreland VA	1,490	1.000	
+	22503	Lancaster	VA	4,496	1.000	
+	22504	Essex	VA	300	0.880	
+	22504	Middlesex	VA	41	0.120	
+	22507	Lancaster	VA	54	1.000	
+	22508	Orange	VA	7,068	0.929	
+	22508	Spotsylvania	VA	537	0.071	
+	22509	Essex	VA	46	1.000	
+	22511	Northumberland VA	1,278	1.000	
+	22514	Caroline	VA	2,124	0.987	
+	22514	King and Queen VA	28	0.013	
+	22520	Westmoreland VA	5,112	0.999	
+	22520	Richmond	VA	4	0.001	
+	22529	Westmoreland VA	107	1.000	
+	22534	Spotsylvania	VA	2,083	1.000	
+	22535	Caroline	VA	467	1.000	
+	22538	Caroline	VA	264	1.000	
+	22539	Northumberland VA	2,315	1.000	
+	22542	Orange	VA	1,606	1.000	
+	22546	Caroline	VA	9,964	0.988	
+	22546	Hanover	VA	123	0.012	
+	22548	Richmond	VA	11	1.000	
+	22553	Spotsylvania	VA	25,027	1.000	
+	22554	Stafford	VA	56,667	0.998	
+	22554	Fauquier	VA	92	0.002	
+	22560	Essex	VA	5,533	0.977	
+	22560	King and Queen VA	131	0.023	
+	22567	Orange	VA	1,934	0.997	
+	22567	Spotsylvania	VA	6	0.003	
+	22572	Richmond	VA	6,850	0.942	
+	22572	Westmoreland VA	425	0.058	
+	22576	Lancaster	VA	1,765	1.000	
+	22578	Lancaster	VA	2,697	1.000	
+	22579	Northumberland VA	25	1.000	
+	22580	Caroline	VA	4,226	0.897	
+	22580	Spotsylvania	VA	486	0.103	
+	22601	Winchester City	VA	23,585	0.965	
+	22601	Frederick	VA	854	0.035	
+	22602	Frederick	VA	21,246	1.000	
+	22603	Frederick	VA	11,412	1.000	
+	22610	Warren	VA	1,655	1.000	
+	22611	Clarke	VA	7,601	1.000	
+	22620	Clarke	VA	2,332	1.000	
+	22624	Frederick	VA	2,237	1.000	
+	22625	Frederick	VA	2,896	1.000	
+	22626	Shenandoah	VA	22	1.000	
+	22627	Rappahannock	VA	540	1.000	
+	22630	Warren	VA	25,370	0.979	
+	22630	Rappahannock	VA	489	0.019	
+	22630	Clarke	VA	48	0.002	
+	22637	Frederick	VA	1,655	1.000	
+	22639	Fauquier	VA	512	1.000	
+	22640	Rappahannock	VA	577	1.000	
+	22641	Shenandoah	VA	163	1.000	
+	22642	Warren	VA	2,938	0.833	
+	22642	Fauquier	VA	591	0.167	
+	22643	Fauquier	VA	110	1.000	
+	22644	Shenandoah	VA	1,984	1.000	
+	22645	Frederick	VA	2,183	0.747	
+	22645	Warren	VA	731	0.250	
+	22645	Shenandoah	VA	7	0.002	
+	22646	Clarke	VA	106	1.000	
+	22650	Page	VA	1,023	1.000	
+	22652	Shenandoah	VA	1,143	1.000	
+	22654	Frederick	VA	374	0.753	
+	22654	Shenandoah	VA	123	0.247	
+	22655	Frederick	VA	13,331	0.994	
+	22655	Warren	VA	86	0.006	
+	22656	Frederick	VA	2,030	1.000	
+	22657	Shenandoah	VA	7,234	0.905	
+	22657	Warren	VA	757	0.095	
+	22660	Shenandoah	VA	1,492	1.000	
+	22663	Frederick	VA	991	0.556	
+	22663	Clarke	VA	745	0.418	
+	22663	Warren	VA	47	0.026	
+	22664	Shenandoah	VA	7,413	1.000	
+	22701	Culpeper	VA	21,176	0.965	
+	22701	Orange	VA	675	0.031	
+	22701	Madison	VA	97	0.004	
+	22709	Madison	VA	806	1.000	
+	22711	Madison	VA	281	1.000	
+	22712	Fauquier	VA	6,884	1.000	
+	22713	Culpeper	VA	497	0.680	
+	22713	Rappahannock	VA	234	0.320	
+	22714	Culpeper	VA	732	1.000	
+	22715	Madison	VA	1,394	1.000	
+	22716	Rappahannock	VA	951	1.000	
+	22718	Culpeper	VA	666	1.000	
+	22719	Madison	VA	196	1.000	
+	22720	Fauquier	VA	965	1.000	
+	22722	Madison	VA	59	1.000	
+	22723	Madison	VA	79	1.000	
+	22724	Culpeper	VA	1,914	1.000	
+	22726	Culpeper	VA	795	1.000	
+	22727	Madison	VA	4,507	1.000	
+	22728	Fauquier	VA	2,764	1.000	
+	22729	Culpeper	VA	78	1.000	
+	22730	Madison	VA	224	1.000	
+	22731	Madison	VA	329	1.000	
+	22732	Madison	VA	273	1.000	
+	22733	Culpeper	VA	2,024	0.802	
+	22733	Orange	VA	370	0.147	
+	22733	Madison	VA	129	0.051	
+	22734	Fauquier	VA	2,268	0.955	
+	22734	Culpeper	VA	107	0.045	
+	22735	Madison	VA	1,143	0.523	
+	22735	Culpeper	VA	1,041	0.477	
+	22736	Culpeper	VA	211	1.000	
+	22737	Culpeper	VA	2,458	1.000	
+	22738	Madison	VA	1,073	1.000	
+	22740	Rappahannock	VA	1,202	0.880	
+	22740	Madison	VA	138	0.101	
+	22740	Culpeper	VA	26	0.019	
+	22741	Culpeper	VA	209	1.000	
+	22742	Fauquier	VA	1,723	1.000	
+	22743	Madison	VA	370	1.000	
+	22746	Culpeper	VA	192	0.508	
+	22746	Rappahannock	VA	186	0.492	
+	22747	Rappahannock	VA	1,100	1.000	
+	22749	Rappahannock	VA	321	1.000	
+	22801	Harrisonburg City	VA	26,610	0.789	
+	22801	Rockingham	VA	7,133	0.211	
+	22802	Harrisonburg City	VA	13,858	0.642	
+	22802	Rockingham	VA	7,714	0.358	
+	22810	Shenandoah	VA	746	1.000	
+	22811	Rockingham	VA	483	1.000	
+	22812	Rockingham	VA	7,611	0.903	
+	22812	Augusta	VA	813	0.097	
+	22815	Rockingham	VA	6,831	0.996	
+	22815	Shenandoah	VA	25	0.004	
+	22820	Rockingham	VA	297	1.000	
+	22821	Rockingham	VA	5,543	1.000	
+	22824	Shenandoah	VA	5,420	1.000	
+	22827	Rockingham	VA	10,537	0.948	
+	22827	Page	VA	581	0.052	
+	22830	Rockingham	VA	1,500	1.000	
+	22831	Rockingham	VA	669	1.000	
+	22832	Rockingham	VA	701	1.000	
+	22834	Rockingham	VA	1,420	1.000	
+	22835	Page	VA	11,557	1.000	
+	22840	Rockingham	VA	3,554	1.000	
+	22841	Rockingham	VA	2,690	0.995	
+	22841	Augusta	VA	13	0.005	
+	22842	Shenandoah	VA	4,563	1.000	
+	22843	Augusta	VA	2,694	1.000	
+	22844	Shenandoah	VA	3,657	0.917	
+	22844	Rockingham	VA	330	0.083	
+	22845	Shenandoah	VA	34	1.000	
+	22846	Rockingham	VA	894	1.000	
+	22847	Shenandoah	VA	1,012	1.000	
+	22849	Page	VA	4,466	0.981	
+	22849	Rockingham	VA	86	0.019	
+	22850	Rockingham	VA	899	1.000	
+	22851	Page	VA	5,550	1.000	
+	22853	Rockingham	VA	3,966	0.991	
+	22853	Shenandoah	VA	37	0.009	
+	22901	Albemarle	VA	25,241	0.821	
+	22901	Charlottesville City	VA	5,512	0.179	
+	22902	Charlottesville City	VA	10,914	0.591	
+	22902	Albemarle	VA	7,546	0.409	
+	22902	Fluvanna	VA	8	0.000	
+	22903	Charlottesville City	VA	28,623	0.760	
+	22903	Albemarle	VA	9,043	0.240	
+	22911	Albemarle	VA	12,074	1.000	
+	22920	Nelson	VA	2,288	0.676	
+	22920	Albemarle	VA	1,096	0.324	
+	22922	Nelson	VA	1,911	0.953	
+	22922	Amherst	VA	94	0.047	
+	22923	Orange	VA	1,339	0.382	
+	22923	Greene	VA	1,189	0.340	
+	22923	Albemarle	VA	973	0.278	
+	22924	Albemarle	VA	59	1.000	
+	22931	Albemarle	VA	319	1.000	
+	22932	Albemarle	VA	5,229	1.000	
+	22935	Albemarle	VA	500	0.627	
+	22935	Greene	VA	298	0.373	
+	22936	Albemarle	VA	4,389	1.000	
+	22937	Albemarle	VA	1,269	1.000	
+	22938	Nelson	VA	1,291	0.970	
+	22938	Albemarle	VA	40	0.030	
+	22939	Augusta	VA	3,513	1.000	
+	22940	Albemarle	VA	974	0.859	
+	22940	Greene	VA	160	0.141	
+	22942	Orange	VA	3,934	0.542	
+	22942	Louisa	VA	2,905	0.400	
+	22942	Albemarle	VA	421	0.058	
+	22943	Albemarle	VA	547	1.000	
+	22946	Albemarle	VA	149	1.000	
+	22947	Albemarle	VA	3,225	0.879	
+	22947	Fluvanna	VA	348	0.095	
+	22947	Louisa	VA	95	0.026	
+	22948	Madison	VA	292	1.000	
+	22949	Nelson	VA	1,245	1.000	
+	22952	Augusta	VA	1,787	0.997	
+	22952	Nelson	VA	5	0.003	
+	22954	Nelson	VA	112	1.000	
+	22957	Orange	VA	30	1.000	
+	22958	Nelson	VA	1,600	0.977	
+	22958	Augusta	VA	37	0.023	
+	22959	Albemarle	VA	1,836	1.000	
+	22960	Orange	VA	8,455	0.895	
+	22960	Madison	VA	813	0.086	
+	22960	Spotsylvania	VA	175	0.019	
+	22963	Fluvanna	VA	11,164	1.000	
+	22964	Nelson	VA	75	1.000	
+	22967	Nelson	VA	1,740	0.880	
+	22967	Amherst	VA	237	0.120	
+	22968	Greene	VA	8,313	0.974	
+	22968	Albemarle	VA	223	0.026	
+	22969	Nelson	VA	640	0.504	
+	22969	Albemarle	VA	631	0.496	
+	22971	Nelson	VA	1,903	1.000	
+	22972	Orange	VA	365	0.922	
+	22972	Madison	VA	31	0.078	
+	22973	Greene	VA	5,284	1.000	
+	22974	Fluvanna	VA	3,174	0.803	
+	22974	Louisa	VA	414	0.105	
+	22974	Albemarle	VA	366	0.093	
+	22976	Nelson	VA	318	1.000	
+	22980	Waynesboro City	VA	19,520	0.643	
+	22980	Augusta	VA	10,821	0.357	
+	22989	Madison	VA	213	1.000	
+	23001	Gloucester	VA	28	1.000	
+	23002	Amelia	VA	9,053	1.000	
+	23004	Buckingham	VA	1,056	1.000	
+	23005	Hanover	VA	14,572	1.000	
+	23009	King William	VA	4,940	1.000	
+	23011	New Kent	VA	1,011	1.000	
+	23015	Hanover	VA	3,037	0.760	
+	23015	Spotsylvania	VA	559	0.140	
+	23015	Caroline	VA	371	0.093	
+	23015	Louisa	VA	31	0.008	
+	23021	Mathews	VA	344	1.000	
+	23022	Fluvanna	VA	656	1.000	
+	23023	King and Queen VA	137	1.000	
+	23024	Louisa	VA	5,236	0.824	
+	23024	Spotsylvania	VA	1,001	0.158	
+	23024	Hanover	VA	114	0.018	
+	23025	Mathews	VA	416	1.000	
+	23027	Cumberland VA	1,254	1.000	
+	23030	Charles	City	VA	4,711	1.000	
+	23032	Middlesex	VA	345	0.935	
+	23032	King and Queen VA	24	0.065	
+	23035	Mathews	VA	1,396	1.000	
+	23038	Goochland VA	861	0.502	
+	23038	Cumberland VA	550	0.321	
+	23038	Fluvanna	VA	303	0.177	
+	23039	Goochland VA	950	1.000	
+	23040	Cumberland VA	3,564	0.938	
+	23040	Buckingham	VA	237	0.062	
+	23043	Middlesex	VA	1,716	1.000	
+	23045	Mathews	VA	192	1.000	
+	23047	Hanover	VA	1,608	0.884	
+	23047	Caroline	VA	211	0.116	
+	23050	Mathews	VA	357	0.960	
+	23050	Gloucester	VA	15	0.040	
+	23055	Fluvanna	VA	1,148	1.000	
+	23056	Mathews	VA	385	1.000	
+	23059	Henrico	VA	12,652	0.814	
+	23059	Hanover	VA	2,888	0.186	
+	23060	Henrico	VA	26,899	1.000	
+	23061	Gloucester	VA	19,263	1.000	
+	23062	Gloucester	VA	2,523	1.000	
+	23063	Goochland VA	4,612	1.000	
+	23064	Mathews	VA	187	1.000	
+	23065	Goochland VA	903	0.595	
+	23065	Louisa	VA	615	0.405	
+	23066	Mathews	VA	498	1.000	
+	23068	Mathews	VA	404	1.000	
+	23069	Hanover	VA	2,121	0.566	
+	23069	Caroline	VA	956	0.255	
+	23069	King William	VA	668	0.178	
+	23070	Middlesex	VA	280	1.000	
+	23071	Middlesex	VA	1,049	1.000	
+	23072	Gloucester	VA	11,863	1.000	
+	23075	Henrico	VA	9,791	1.000	
+	23076	Mathews	VA	564	1.000	
+	23079	Middlesex	VA	281	1.000	
+	23083	Amelia	VA	1,796	0.997	
+	23083	Nottoway	VA	6	0.003	
+	23084	Fluvanna	VA	935	0.744	
+	23084	Louisa	VA	176	0.140	
+	23084	Goochland VA	145	0.115	
+	23085	King and Queen VA	457	1.000	
+	23086	King William	VA	2,330	1.000	
+	23089	New Kent	VA	2,736	0.667	
+	23089	James City	VA	1,367	0.333	
+	23091	King and Queen VA	292	1.000	
+	23092	Middlesex	VA	692	1.000	
+	23093	Louisa	VA	9,552	0.953	
+	23093	Goochland VA	443	0.044	
+	23093	Fluvanna	VA	24	0.002	
+	23102	Goochland VA	2,434	0.879	
+	23102	Louisa	VA	237	0.086	
+	23102	Hanover	VA	98	0.035	
+	23103	Goochland VA	3,499	1.000	
+	23106	King William	VA	944	1.000	
+	23108	King and Queen VA	148	1.000	
+	23109	Mathews	VA	1,924	1.000	
+	23110	King and Queen VA	512	1.000	
+	23111	Hanover	VA	30,764	1.000	
+	23112	Chesterfield	VA	38,795	1.000	
+	23113	Chesterfield	VA	29,799	0.963	
+	23113	Powhatan	VA	1,147	0.037	
+	23113	Richmond City	VA	13	0.000	
+	23115	King and Queen VA	95	0.872	
+	23115	Essex	VA	14	0.128	
+	23116	Hanover	VA	22,771	1.000	
+	23117	Louisa	VA	6,181	0.857	
+	23117	Spotsylvania	VA	806	0.112	
+	23117	Goochland VA	224	0.031	
+	23119	Mathews	VA	280	1.000	
+	23120	Chesterfield	VA	2,315	0.836	
+	23120	Powhatan	VA	454	0.164	
+	23123	Buckingham	VA	1,644	0.964	
+	23123	Cumberland VA	62	0.036	
+	23124	New Kent	VA	2,810	0.968	
+	23124	Hanover	VA	93	0.032	
+	23125	Mathews	VA	119	1.000	
+	23126	King and Queen VA	554	1.000	
+	23128	Mathews	VA	568	0.724	
+	23128	Gloucester	VA	216	0.276	
+	23129	Goochland VA	336	1.000	
+	23130	Mathews	VA	126	1.000	
+	23138	Mathews	VA	1,254	1.000	
+	23139	Powhatan	VA	20,776	0.989	
+	23139	Cumberland VA	232	0.011	
+	23140	Charles	City	VA	1,857	0.549	
+	23140	New Kent	VA	1,528	0.451	
+	23141	New Kent	VA	4,903	1.000	
+	23146	Hanover	VA	2,496	0.880	
+	23146	Goochland VA	341	0.120	
+	23148	King and Queen VA	1,458	0.921
+	23148	Essex	VA	125	0.079	
+	23149	Middlesex	VA	1,393	0.549	
+	23149	Gloucester	VA	785	0.309	
+	23149	King and Queen VA	361	0.142	
+	23150	Henrico	VA	11,014	1.000	
+	23153	Goochland VA	583	1.000	
+	23156	King and Queen VA	1,575	1.000	
+	23161	King and Queen VA	132	1.000	
+	23163	Mathews	VA	193	1.000	
+	23168	James City	VA	4,326	1.000	
+	23169	Middlesex	VA	1,165	1.000	
+	23175	Middlesex	VA	1,868	1.000	
+	23176	Middlesex	VA	666	1.000	
+	23177	King and Queen VA	608	0.576	
+	23177	King William	VA	447	0.424	
+	23178	Gloucester	VA	43	1.000	
+	23180	Middlesex	VA	436	1.000	
+	23181	King William	VA	3,817	0.890	
+	23181	New Kent	VA	474	0.110	
+	23184	Gloucester	VA	44	1.000	
+	23185	James City	VA	21,514	0.578	
+	23185	Williamsburg City	VA	8,642	0.232	
+	23185	York	VA	7,008	0.188	
+	23185	Charles	City	VA	61	0.002	
+	23186	Williamsburg City	VA	3,307	1.000	
+	23188	James City	VA	20,895	0.891	
+	23188	York	VA	2,497	0.107	
+	23188	Williamsburg City	VA	49	0.002	
+	23192	Hanover	VA	5,635	0.968	
+	23192	Louisa	VA	185	0.032	
+	23219	Richmond City	VA	2,410	1.000	
+	23220	Richmond City	VA	29,846	1.000	
+	23221	Richmond City	VA	13,645	1.000	
+	23222	Richmond City	VA	20,440	0.745	
+	23222	Henrico	VA	6,998	0.255	
+	23223	Richmond City	VA	22,884	0.525	
+	23223	Henrico	VA	20,746	0.475	
+	23224	Richmond City	VA	29,641	0.924	
+	23224	Chesterfield	VA	2,431	0.076	
+	23225	Richmond City	VA	33,951	0.897	
+	23225	Chesterfield	VA	3,905	0.103	
+	23226	Richmond City	VA	10,741	0.596	
+	23226	Henrico	VA	7,280	0.404	
+	23227	Henrico	VA	12,327	0.542	
+	23227	Richmond City	VA	10,399	0.458	
+	23228	Henrico	VA	31,822	1.000	
+	23229	Henrico	VA	31,051	1.000	
+	23230	Henrico	VA	4,860	0.707	
+	23230	Richmond City	VA	2,012	0.293	
+	23231	Henrico	VA	22,317	0.819	
+	23231	Richmond City	VA	4,639	0.170	
+	23231	Charles	City	VA	297	0.011	
+	23233	Henrico	VA	48,980	0.970	
+	23233	Goochland VA	1,532	0.030	
+	23234	Chesterfield	VA	26,437	0.694	
+	23234	Richmond City	VA	11,663	0.306	
+	23235	Chesterfield	VA	24,107	0.814	
+	23235	Richmond City	VA	5,506	0.186	
+	23236	Chesterfield	VA	23,855	1.000	
+	23237	Chesterfield	VA	20,321	1.000	
+	23294	Henrico	VA	15,563	1.000	
+	23301	Accomack	VA	1,979	1.000	
+	23302	Accomack	VA	89	1.000	
+	23303	Accomack	VA	539	1.000	
+	23304	Isle of Wight	VA	126	1.000	
+	23306	Accomack	VA	926	1.000	
+	23307	Northampton	VA	999	1.000	
+	23308	Accomack	VA	2,592	1.000	
+	23310	Northampton	VA	5,704	1.000	
+	23314	Isle of Wight	VA	4,401	1.000	
+	23315	Isle of Wight	VA	1,288	1.000	
+	23316	Northampton	VA	148	1.000	
+	23320	Chesapeake City	VA	44,439	1.000	
+	23321	Chesapeake City	VA	30,098	1.000	
+	23322	Chesapeake City	VA	54,622	1.000	
+	23323	Chesapeake City	VA	31,336	1.000	
+	23324	Chesapeake City	VA	22,072	1.000	
+	23325	Chesapeake City	VA	16,617	1.000	
+	23336	Accomack	VA	4,324	1.000	
+	23337	Accomack	VA	434	1.000	
+	23347	Northampton	VA	260	1.000	
+	23350	Northampton	VA	3,643	1.000	
+	23354	Northampton	VA	314	1.000	
+	23356	Accomack	VA	612	1.000	
+	23357	Accomack	VA	532	1.000	
+	23358	Accomack	VA	111	1.000	
+	23359	Accomack	VA	776	1.000	
+	23389	Accomack	VA	229	1.000	
+	23395	Accomack	VA	3,954	1.000	
+	23401	Accomack	VA	220	1.000	
+	23404	Accomack	VA	100	1.000	
+	23405	Northampton	VA	851	1.000	
+	23407	Accomack	VA	155	1.000	
+	23409	Accomack	VA	176	1.000	
+	23410	Accomack	VA	2,482	1.000	
+	23413	Northampton	VA	1,174	1.000	
+	23415	Accomack	VA	2,082	1.000	
+	23416	Accomack	VA	281	1.000	
+	23417	Accomack	VA	4,100	1.000	
+	23418	Accomack	VA	768	1.000	
+	23420	Accomack	VA	3,004	1.000	
+	23421	Accomack	VA	4,325	1.000	
+	23423	Accomack	VA	419	1.000	
+	23426	Accomack	VA	203	1.000	
+	23427	Accomack	VA	337	1.000	
+	23430	Isle of Wight	VA	15,141	1.000	
+	23432	Suffolk City	VA	1,040	1.000	
+	23433	Suffolk City	VA	1,270	1.000	
+	23434	Suffolk City	VA	40,157	1.000	
+	23435	Suffolk City	VA	15,089	1.000	
+	23436	Suffolk City	VA	742	1.000	
+	23437	Suffolk City	VA	3,965	1.000	
+	23438	Suffolk City	VA	1,414	1.000	
+	23440	Accomack	VA	693	1.000	
+	23441	Accomack	VA	86	1.000	
+	23442	Accomack	VA	1,268	1.000	
+	23451	Virginia	Beach City	VA	41,499	1.000	
+	23452	Virginia	Beach City	VA	61,108	1.000	
+	23454	Virginia	Beach City	VA	63,196	1.000	
+	23455	Virginia	Beach City	VA	43,440	1.000	
+	23456	Virginia	Beach City	VA	75,824	1.000	
+	23457	Virginia	Beach City	VA	3,785	1.000	
+	23459	Virginia	Beach City	VA	1,035	1.000	
+	23461	Virginia	Beach City	VA	843	1.000	
+	23462	Virginia	Beach City	VA	58,852	1.000	
+	23464	Virginia	Beach City	VA	71,741	1.000	
+	23480	Accomack	VA	270	1.000	
+	23487	Isle of Wight	VA	5,586	1.000	
+	23488	Accomack	VA	239	1.000	
+	23502	Norfolk City	VA	21,342	1.000	
+	23503	Norfolk City	VA	46,859	1.000	
+	23504	Norfolk City	VA	23,557	1.000	
+	23505	Norfolk City	VA	29,621	1.000	
+	23507	Norfolk City	VA	6,660	1.000	
+	23508	Norfolk City	VA	17,925	1.000	
+	23509	Norfolk City	VA	12,774	1.000	
+	23510	Norfolk City	VA	5,191	1.000	
+	23513	Norfolk City	VA	29,181	1.000	
+	23517	Norfolk City	VA	4,055	1.000	
+	23518	Norfolk City	VA	29,784	1.000	
+	23521	Virginia	Beach City	VA	3,934	1.000	
+	23523	Norfolk City	VA	7,454	1.000	
+	23601	Newport News City	VA	25,017	1.000	
+	23602	Newport News City	VA	41,289	1.000	
+	23603	Newport News City	VA	3,733	1.000	
+	23604	Newport News City	VA	5,738	1.000	
+	23605	Newport News City	VA	10,672	0.747	
+	23605	Hampton City	VA	3,614	0.253	
+	23606	Newport News City	VA	25,771	1.000	
+	23607	Newport News City	VA	26,234	1.000	
+	23608	Newport News City	VA	41,696	1.000	
+	23651	Hampton City	VA	1,253	1.000	
+	23661	Hampton City	VA	14,744	1.000	
+	23662	Poquoson City	VA	11,566	1.000	
+	23663	Hampton City	VA	16,227	1.000	
+	23664	Hampton City	VA	10,579	1.000	
+	23665	Hampton City	VA	9,185	0.629	
+	23665	York	VA	5,415	0.371	
+	23666	Hampton City	VA	48,680	1.000	
+	23669	Hampton City	VA	42,155	1.000	
+	23690	York	VA	2,577	1.000	
+	23691	York	VA	158	1.000	
+	23692	York	VA	16,661	1.000	
+	23693	York	VA	18,540	1.000	
+	23696	York	VA	3,441	1.000	
+	23701	Portsmouth City	VA	27,298	1.000	
+	23702	Portsmouth City	VA	11,430	1.000	
+	23703	Portsmouth City	VA	27,625	1.000	
+	23704	Portsmouth City	VA	19,166	1.000	
+	23707	Portsmouth City	VA	14,867	1.000	
+	23708	Portsmouth City	VA	179	1.000	
+	23801	Prince George	VA	7,269	1.000	
+	23803	Petersburg City	VA	20,877	0.504	
+	23803	Chesterfield	VA	11,051	0.267	
+	23803	Dinwiddie	VA	9,474	0.229	
+	23805	Petersburg City	VA	12,863	0.718	
+	23805	Prince George	VA	3,813	0.213	
+	23805	Dinwiddie	VA	1,243	0.069	
+	23821	Brunswick	VA	1,580	1.000	
+	23824	Nottoway	VA	6,776	0.957	
+	23824	Brunswick	VA	237	0.033	
+	23824	Lunenburg	VA	68	0.010	
+	23827	Southampton	VA	1,464	1.000	
+	23828	Southampton	VA	497	1.000	
+	23829	Southampton	VA	2,677	1.000	
+	23830	Prince George	VA	515	0.421	
+	23830	Dinwiddie	VA	513	0.419	
+	23830	Sussex	VA	196	0.160	
+	23831	Chesterfield	VA	24,798	1.000	
+	23832	Chesterfield	VA	25,743	1.000	
+	23833	Dinwiddie	VA	1,933	0.928	
+	23833	Amelia	VA	151	0.072	
+	23834	Colonial Heights City	VA	16,897	0.691	
+	23834	Chesterfield	VA	7,545	0.309	
+	23836	Chesterfield	VA	8,377	1.000	
+	23837	Southampton	VA	3,747	0.981	
+	23837	Sussex	VA	73	0.019	
+	23838	Chesterfield	VA	10,424	1.000	
+	23839	Surry	VA	966	1.000	
+	23840	Dinwiddie	VA	1,528	1.000	
+	23841	Dinwiddie	VA	3,188	1.000	
+	23842	Prince George	VA	5,207	0.942	
+	23842	Sussex	VA	293	0.053	
+	23842	Surry	VA	28	0.005	
+	23843	Brunswick	VA	709	1.000	
+	23844	Southampton	VA	787	1.000	
+	23845	Brunswick	VA	295	1.000	
+	23846	Surry	VA	833	1.000	
+	23847	Greensville	VA	9,837	0.611	
+	23847	Emporia City	VA	5,665	0.352	
+	23847	Brunswick	VA	273	0.017	
+	23847	Southampton	VA	193	0.012	
+	23847	Sussex	VA	122	0.008	
+	23850	Dinwiddie	VA	712	0.759	
+	23850	Amelia	VA	226	0.241	
+	23851	Franklin City	VA	8,346	0.623	
+	23851	Southampton	VA	3,717	0.277	
+	23851	Isle of Wight	VA	1,334	0.100	
+	23856	Brunswick	VA	1,310	0.964	
+	23856	Greensville	VA	49	0.036	
+	23857	Brunswick	VA	489	1.000	
+	23860	Hopewell City	VA	22,354	0.823	
+	23860	Prince George	VA	4,819	0.177	
+	23866	Southampton	VA	1,453	0.781	
+	23866	Isle of Wight	VA	407	0.219	
+	23867	Sussex	VA	1,232	0.532	
+	23867	Greensville	VA	1,085	0.468	
+	23868	Brunswick	VA	8,025	1.000	
+	23872	Dinwiddie	VA	2,193	1.000	
+	23874	Southampton	VA	940	1.000	
+	23875	Prince George	VA	8,849	1.000	
+	23876	Brunswick	VA	454	1.000	
+	23878	Southampton	VA	1,139	0.997	
+	23878	Sussex	VA	4	0.003	
+	23879	Greensville	VA	589	1.000	
+	23881	Prince George	VA	2,575	0.576	
+	23881	Surry	VA	1,897	0.424	
+	23882	Sussex	VA	1,899	0.774	
+	23882	Dinwiddie	VA	556	0.226	
+	23883	Surry	VA	2,185	1.000	
+	23885	Dinwiddie	VA	2,538	1.000	
+	23887	Brunswick	VA	550	1.000	
+	23888	Sussex	VA	1,840	0.800	
+	23888	Surry	VA	250	0.109	
+	23888	Southampton	VA	209	0.091	
+	23889	Brunswick	VA	610	1.000	
+	23890	Sussex	VA	6,254	0.944	
+	23890	Surry	VA	371	0.056	
+	23893	Brunswick	VA	583	1.000	
+	23894	Dinwiddie	VA	655	1.000	
+	23897	Sussex	VA	591	1.000	
+	23898	Isle of Wight	VA	1,445	0.687	
+	23898	Southampton	VA	659	0.313	
+	23899	Surry	VA	299	1.000	
+	23901	Prince Edward	VA	10,347	0.708	
+	23901	Cumberland VA	3,255	0.223	
+	23901	Buckingham	VA	1,009	0.069	
+	23915	Mecklenburg	VA	1,297	1.000	
+	23917	Mecklenburg	VA	3,767	1.000	
+	23919	Mecklenburg	VA	1,828	0.951	
+	23919	Brunswick	VA	95	0.049	
+	23920	Brunswick	VA	2,659	0.738	
+	23920	Mecklenburg	VA	792	0.220	
+	23920	Lunenburg	VA	152	0.042	
+	23921	Buckingham	VA	1,862	1.000	
+	23922	Nottoway	VA	3,098	0.862	
+	23922	Prince Edward	VA	497	0.138	
+	23923	Charlotte	VA	2,125	0.973	
+	23923	Prince Edward	VA	59	0.027	
+	23924	Mecklenburg	VA	6,070	0.935	
+	23924	Lunenburg	VA	257	0.040	
+	23924	Charlotte	VA	162	0.025	
+	23927	Mecklenburg	VA	4,456	1.000	
+	23930	Nottoway	VA	5,822	1.000	
+	23934	Charlotte	VA	444	0.600	
+	23934	Prince Edward	VA	296	0.400	
+	23936	Buckingham	VA	7,485	0.987	
+	23936	Cumberland VA	100	0.013	
+	23937	Charlotte	VA	1,741	0.864	
+	23937	Lunenburg	VA	273	0.136	
+	23938	Brunswick	VA	279	0.708	
+	23938	Lunenburg	VA	115	0.292	
+	23939	Appomattox	VA	119	1.000	
+	23942	Prince Edward	VA	781	0.676	
+	23942	Lunenburg	VA	375	0.324	
+	23943	Prince Edward	VA	1,080	1.000	
+	23944	Lunenburg	VA	4,321	1.000	
+	23947	Charlotte	VA	2,478	0.556	
+	23947	Lunenburg	VA	1,467	0.329	
+	23947	Prince Edward	VA	511	0.115	
+	23950	Mecklenburg	VA	2,940	0.916	
+	23950	Brunswick	VA	271	0.084	
+	23952	Lunenburg	VA	174	1.000	
+	23954	Prince Edward	VA	1,270	0.691	
+	23954	Lunenburg	VA	568	0.309	
+	23958	Prince Edward	VA	1,460	0.488	
+	23958	Appomattox	VA	1,292	0.432	
+	23958	Charlotte	VA	242	0.081	
+	23959	Charlotte	VA	1,306	1.000	
+	23960	Prince Edward	VA	1,710	0.989	
+	23960	Appomattox	VA	19	0.011	
+	23962	Charlotte	VA	122	1.000	
+	23963	Charlotte	VA	424	0.806	
+	23963	Campbell	VA	58	0.110	
+	23963	Appomattox	VA	44	0.084	
+	23964	Charlotte	VA	1,315	0.917	
+	23964	Mecklenburg	VA	119	0.083	
+	23966	Prince Edward	VA	1,709	0.897	
+	23966	Amelia	VA	174	0.091	
+	23966	Nottoway	VA	23	0.012	
+	23967	Charlotte	VA	1,454	1.000	
+	23968	Mecklenburg	VA	912	1.000	
+	23970	Mecklenburg	VA	7,728	0.955	
+	23970	Lunenburg	VA	364	0.045	
+	23974	Lunenburg	VA	5,012	1.000	
+	23976	Charlotte	VA	157	1.000	
+	24011	Roanoke City	VA	75	1.000	
+	24012	Roanoke City	VA	20,566	0.753	
+	24012	Roanoke	VA	5,858	0.214	
+	24012	Botetourt	VA	890	0.033	
+	24013	Roanoke City	VA	7,984	1.000	
+	24014	Roanoke City	VA	11,333	0.503	
+	24014	Roanoke	VA	11,204	0.497	
+	24015	Roanoke City	VA	15,307	0.984	
+	24015	Roanoke	VA	248	0.016	
+	24016	Roanoke City	VA	9,572	1.000	
+	24017	Roanoke City	VA	23,236	1.000	
+	24018	Roanoke	VA	25,067	0.868	
+	24018	Roanoke City	VA	3,810	0.132	
+	24019	Roanoke	VA	17,415	0.709	
+	24019	Botetourt	VA	4,117	0.168	
+	24019	Roanoke City	VA	3,028	0.123	
+	24020	Roanoke	VA	131	1.000	
+	24053	Patrick	VA	2,759	0.982	
+	24053	Carroll	VA	52	0.018	
+	24054	Henry	VA	5,145	0.789	
+	24054	Pittsylvania	VA	1,377	0.211	
+	24055	Henry	VA	13,805	0.956	
+	24055	Patrick	VA	349	0.024	
+	24055	Franklin	VA	290	0.020	
+	24058	Pulaski	VA	176	1.000	
+	24059	Roanoke	VA	844	1.000	
+	24060	Montgomery	VA	48,532	1.000	
+	24064	Botetourt	VA	3,612	0.759	
+	24064	Bedford	VA	1,148	0.241	
+	24065	Franklin	VA	4,701	0.829	
+	24065	Roanoke	VA	968	0.171	
+	24066	Botetourt	VA	4,520	0.994	
+	24066	Rockbridge	VA	26	0.006	
+	24067	Franklin	VA	2,184	1.000	
+	24069	Pittsylvania	VA	2,136	1.000	
+	24070	Roanoke	VA	956	0.777	
+	24070	Craig	VA	273	0.222	
+	24070	Montgomery	VA	1	0.001	
+	24072	Floyd	VA	949	1.000	
+	24073	Montgomery	VA	25,200	1.000	
+	24076	Patrick	VA	913	1.000	
+	24077	Botetourt	VA	596	1.000	
+	24078	Henry	VA	7,629	1.000	
+	24079	Floyd	VA	1,669	0.995	
+	24079	Roanoke	VA	9	0.005	
+	24082	Patrick	VA	357	1.000	
+	24083	Botetourt	VA	1,985	1.000	
+	24084	Pulaski	VA	11,077	1.000	
+	24085	Botetourt	VA	2,223	1.000	
+	24086	Giles	VA	203	1.000	
+	24087	Montgomery	VA	3,726	0.984	
+	24087	Roanoke	VA	60	0.016	
+	24088	Franklin	VA	4,124	0.962	
+	24088	Patrick	VA	162	0.038	
+	24089	Henry	VA	2,520	1.000	
+	24090	Botetourt	VA	3,951	1.000	
+	24091	Floyd	VA	6,318	0.993	
+	24091	Patrick	VA	44	0.007	
+	24092	Franklin	VA	2,571	1.000	
+	24093	Giles	VA	338	1.000	
+	24094	Giles	VA	67	1.000	
+	24095	Bedford	VA	4,255	1.000	
+	24101	Franklin	VA	4,247	0.833	
+	24101	Bedford	VA	843	0.165	
+	24101	Roanoke	VA	10	0.002	
+	24102	Franklin	VA	1,696	0.933	
+	24102	Henry	VA	122	0.067	
+	24104	Bedford	VA	3,396	1.000	
+	24105	Floyd	VA	400	0.935	
+	24105	Carroll	VA	28	0.065	
+	24112	Henry	VA	18,696	0.537	
+	24112	Martinsville City	VA	15,416	0.443	
+	24112	Franklin	VA	705	0.020	
+	24120	Patrick	VA	1,464	0.757	
+	24120	Floyd	VA	274	0.142	
+	24120	Carroll	VA	196	0.101	
+	24121	Bedford	VA	5,883	0.684	
+	24121	Franklin	VA	2,722	0.316	
+	24122	Bedford	VA	2,019	1.000	
+	24124	Giles	VA	4,315	0.987	
+	24124	Bland VA	59	0.013	
+	24127	Craig	VA	4,207	1.000	
+	24128	Giles	VA	1,431	0.755	
+	24128	Craig	VA	463	0.244	
+	24128	Montgomery	VA	2	0.001	
+	24131	Craig	VA	148	1.000	
+	24132	Pulaski	VA	491	1.000	
+	24133	Patrick	VA	2,578	1.000	
+	24134	Giles	VA	5,603	1.000	
+	24136	Giles	VA	3,077	1.000	
+	24137	Franklin	VA	2,013	0.819	
+	24137	Pittsylvania	VA	444	0.181	
+	24138	Montgomery	VA	895	0.561	
+	24138	Floyd	VA	700	0.439	
+	24139	Pittsylvania	VA	477	0.914	
+	24139	Bedford	VA	45	0.086	
+	24141	Radford City	VA	13,104	0.690	
+	24141	Pulaski	VA	4,689	0.247	
+	24141	Montgomery	VA	1,142	0.060	
+	24141	Floyd	VA	54	0.003	
+	24142	Radford City	VA	2,755	1.000	
+	24147	Giles	VA	994	1.000	
+	24148	Henry	VA	8,528	1.000	
+	24149	Montgomery	VA	1,677	0.624	
+	24149	Floyd	VA	1,012	0.376	
+	24150	Giles	VA	352	1.000	
+	24151	Franklin	VA	17,760	1.000	
+	24153	Salem City	VA	24,747	0.695	
+	24153	Roanoke	VA	10,807	0.304	
+	24153	Botetourt	VA	38	0.001	
+	24161	Pittsylvania	VA	375	1.000	
+	24162	Montgomery	VA	2,320	1.000	
+	24165	Henry	VA	1,080	0.661	
+	24165	Patrick	VA	555	0.339	
+	24167	Giles	VA	252	1.000	
+	24168	Henry	VA	380	1.000	
+	24171	Patrick	VA	9,151	1.000	
+	24174	Bedford	VA	2,429	1.000	
+	24175	Botetourt	VA	8,319	0.994	
+	24175	Roanoke	VA	52	0.006	
+	24176	Franklin	VA	1,024	1.000	
+	24179	Roanoke	VA	12,149	0.689	
+	24179	Bedford	VA	5,473	0.311	
+	24184	Franklin	VA	3,249	1.000	
+	24185	Patrick	VA	1,075	1.000	
+	24201	Bristol City	VA	16,604	1.000	
+	24202	Washington	VA	11,037	0.894	
+	24202	Bristol City	VA	763	0.062	
+	24202	Scott	VA	540	0.044	
+	24210	Washington	VA	14,723	1.000	
+	24211	Washington	VA	9,104	1.000	
+	24215	Wise	VA	98	1.000	
+	24216	Wise	VA	3,158	1.000	
+	24217	Dickenson	VA	524	1.000	
+	24218	Lee	VA	91	1.000	
+	24219	Wise	VA	9,719	0.877	
+	24219	Lee	VA	1,364	0.123	
+	24220	Dickenson	VA	761	1.000	
+	24221	Scott	VA	614	0.524	
+	24221	Lee	VA	558	0.476	
+	24224	Russell	VA	6,828	1.000	
+	24225	Russell	VA	2,015	0.999	
+	24225	Dickenson	VA	2	0.001	
+	24226	Dickenson	VA	1,908	1.000	
+	24228	Dickenson	VA	7,516	1.000	
+	24230	Wise	VA	7,621	0.808	
+	24230	Dickenson	VA	1,664	0.176	
+	24230	Scott	VA	152	0.016	
+	24236	Washington	VA	3,174	1.000	
+	24237	Dickenson	VA	682	0.550	
+	24237	Russell	VA	559	0.450	
+	24239	Buchanan	VA	285	1.000	
+	24243	Lee	VA	2,337	1.000	
+	24244	Scott	VA	4,261	0.804	
+	24244	Lee	VA	1,036	0.196	
+	24245	Scott	VA	1,170	1.000	
+	24248	Lee	VA	2,601	1.000	
+	24250	Scott	VA	1,411	1.000	
+	24251	Scott	VA	8,930	1.000	
+	24256	Dickenson	VA	2,506	0.952	
+	24256	Buchanan	VA	127	0.048	
+	24258	Scott	VA	1,500	1.000	
+	24260	Russell	VA	4,917	0.800	
+	24260	Buchanan	VA	1,229	0.200	
+	24263	Lee	VA	5,544	1.000	
+	24265	Lee	VA	818	1.000	
+	24266	Russell	VA	8,912	1.000	
+	24269	Dickenson	VA	146	1.000	
+	24270	Washington	VA	485	1.000	
+	24271	Scott	VA	2,692	1.000	
+	24272	Dickenson	VA	566	1.000	
+	24273	Norton City	VA	3,900	0.610	
+	24273	Wise	VA	2,492	0.390	
+	24277	Lee	VA	5,784	1.000	
+	24279	Wise	VA	4,730	1.000	
+	24280	Russell	VA	667	1.000	
+	24281	Lee	VA	2,397	1.000	
+	24282	Lee	VA	1,059	1.000	
+	24283	Wise	VA	1,815	0.866	
+	24283	Russell	VA	242	0.115	
+	24283	Dickenson	VA	39	0.019	
+	24285	Wise	VA	64	1.000	
+	24290	Scott	VA	2,100	1.000	
+	24292	Grayson	VA	614	1.000	
+	24293	Wise	VA	10,426	1.000	
+	24293	Norton City	VA	4	0.000	
+	24301	Pulaski	VA	15,129	1.000	
+	24311	Smyth	VA	2,116	1.000	
+	24312	Carroll	VA	1,550	0.635	
+	24312	Wythe	VA	891	0.365	
+	24313	Wythe	VA	807	1.000	
+	24314	Bland VA	1,438	0.929	
+	24314	Tazewell	VA	110	0.071	
+	24315	Bland VA	3,834	0.994	
+	24315	Giles	VA	25	0.006	
+	24316	Tazewell	VA	25	0.962	
+	24316	Smyth	VA	1	0.038	
+	24317	Carroll	VA	3,963	1.000	
+	24318	Bland VA	396	0.584	
+	24318	Smyth	VA	282	0.416	
+	24319	Smyth	VA	6,714	0.925	
+	24319	Washington	VA	541	0.075	
+	24322	Wythe	VA	291	1.000	
+	24323	Wythe	VA	1,020	1.000	
+	24324	Pulaski	VA	1,891	0.800	
+	24324	Wythe	VA	472	0.200	
+	24325	Carroll	VA	978	1.000	
+	24326	Grayson	VA	1,214	1.000	
+	24327	Washington	VA	476	1.000	
+	24328	Carroll	VA	1,621	1.000	
+	24330	Grayson	VA	3,075	0.801	
+	24330	Carroll	VA	766	0.199	
+	24333	Galax City	VA	6,837	0.388	
+	24333	Carroll	VA	5,734	0.325	
+	24333	Grayson	VA	5,072	0.287	
+	24340	Washington	VA	5,416	1.000	
+	24343	Carroll	VA	8,629	0.992	
+	24343	Wythe	VA	69	0.008	
+	24347	Pulaski	VA	1,674	0.898	
+	24347	Montgomery	VA	134	0.072	
+	24347	Carroll	VA	57	0.031	
+	24348	Grayson	VA	4,245	1.000	
+	24350	Wythe	VA	724	0.586	
+	24350	Carroll	VA	416	0.337	
+	24350	Grayson	VA	95	0.077	
+	24351	Carroll	VA	562	1.000	
+	24352	Carroll	VA	985	0.989	
+	24352	Floyd	VA	11	0.011	
+	24354	Smyth	VA	15,793	1.000	
+	24360	Wythe	VA	5,247	1.000	
+	24361	Washington	VA	5,035	1.000	
+	24363	Grayson	VA	1,471	1.000	
+	24366	Bland VA	1,144	1.000	
+	24368	Wythe	VA	3,541	0.855	
+	24368	Smyth	VA	601	0.145	
+	24370	Smyth	VA	5,772	0.838	
+	24370	Washington	VA	1,112	0.162	
+	24374	Wythe	VA	836	1.000	
+	24375	Smyth	VA	1,528	1.000	
+	24377	Tazewell	VA	392	1.000	
+	24378	Grayson	VA	2,131	0.886	
+	24378	Smyth	VA	274	0.114	
+	24380	Floyd	VA	2,487	0.971	
+	24380	Carroll	VA	73	0.029	
+	24381	Carroll	VA	3,635	1.000	
+	24382	Wythe	VA	13,701	1.000	
+	24401	Staunton City	VA	23,853	0.703	
+	24401	Augusta	VA	10,077	0.297	
+	24412	Bath	VA	89	1.000	
+	24413	Highland VA	202	1.000	
+	24415	Rockbridge	VA	21	1.000	
+	24416	Buena	Vista City	VA	6,349	0.736	
+	24416	Rockbridge	VA	2,278	0.264	
+	24421	Augusta	VA	3,840	1.000	
+	24422	Clifton	Forge City	VA	4,289	0.610	
+	24422	Alleghany	VA	2,508	0.357	
+	24422	Botetourt	VA	230	0.033	
+	24426	Alleghany	VA	9,197	0.593	
+	24426	Covington City	VA	6,303	0.407	
+	24430	Augusta	VA	2,377	1.000	
+	24431	Augusta	VA	2,603	1.000	
+	24432	Augusta	VA	329	1.000	
+	24433	Highland VA	122	1.000	
+	24435	Rockbridge	VA	1,719	1.000	
+	24437	Augusta	VA	793	1.000	
+	24439	Rockbridge	VA	1,020	0.739	
+	24439	Augusta	VA	360	0.261	
+	24440	Augusta	VA	2,726	1.000	
+	24441	Rockingham	VA	3,302	0.614	
+	24441	Augusta	VA	2,080	0.386	
+	24442	Highland VA	124	1.000	
+	24445	Bath	VA	2,102	0.808	
+	24445	Alleghany	VA	500	0.192	
+	24448	Alleghany	VA	310	0.954	
+	24448	Botetourt	VA	15	0.046	
+	24450	Rockbridge	VA	8,644	0.557	
+	24450	Lexington City	VA	6,867	0.443	
+	24457	Alleghany	VA	225	1.000	
+	24458	Highland VA	522	1.000	
+	24459	Augusta	VA	757	0.986	
+	24459	Rockbridge	VA	11	0.014	
+	24460	Bath	VA	1,763	1.000	
+	24463	Augusta	VA	19	1.000	
+	24464	Nelson	VA	95	1.000	
+	24465	Highland VA	1,513	1.000	
+	24467	Augusta	VA	1,904	1.000	
+	24471	Rockingham	VA	1,316	1.000	
+	24472	Rockbridge	VA	1,252	0.560	
+	24472	Augusta	VA	984	0.440	
+	24473	Rockbridge	VA	904	1.000	
+	24474	Alleghany	VA	186	1.000	
+	24475	Augusta	VA	306	1.000	
+	24477	Augusta	VA	8,760	1.000	
+	24479	Augusta	VA	1,326	1.000	
+	24482	Augusta	VA	4,296	1.000	
+	24483	Rockbridge	VA	408	0.703	
+	24483	Amherst	VA	109	0.188	
+	24483	Nelson	VA	63	0.109	
+	24484	Bath	VA	886	1.000	
+	24485	Augusta	VA	341	1.000	
+	24486	Augusta	VA	2,018	0.936	
+	24486	Rockingham	VA	139	0.064	
+	24487	Bath	VA	208	0.797	
+	24487	Highland VA	53	0.203	
+	24501	Lynchburg City	VA	21,524	0.850	
+	24501	Campbell	VA	3,803	0.150	
+	24502	Lynchburg City	VA	21,913	0.671	
+	24502	Campbell	VA	9,604	0.294	
+	24502	Bedford	VA	1,139	0.035	
+	24503	Lynchburg City	VA	14,242	0.808	
+	24503	Bedford	VA	3,391	0.192	
+	24504	Lynchburg City	VA	7,394	0.768	
+	24504	Campbell	VA	2,099	0.218	
+	24504	Appomattox	VA	137	0.014	
+	24517	Campbell	VA	5,431	1.000	
+	24520	Halifax	VA	2,498	1.000	
+	24521	Amherst	VA	9,656	0.979	
+	24521	Nelson	VA	203	0.021	
+	24522	Appomattox	VA	8,619	0.989	
+	24522	Buckingham	VA	97	0.011	
+	24523	Bedford	VA	11,725	0.651	
+	24523	Bedford City	VA	6,299	0.349	
+	24526	Bedford	VA	1,854	1.000	
+	24527	Pittsylvania	VA	2,883	1.000	
+	24528	Campbell	VA	2,973	0.856	
+	24528	Charlotte	VA	502	0.144	
+	24529	Mecklenburg	VA	1,682	1.000	
+	24530	Pittsylvania	VA	968	0.975	
+	24530	Henry	VA	25	0.025	
+	24531	Pittsylvania	VA	8,714	1.000	
+	24533	Amherst	VA	89	1.000	
+	24534	Halifax	VA	2,170	1.000	
+	24536	Bedford	VA	215	1.000	
+	24538	Campbell	VA	2,621	0.717	
+	24538	Appomattox	VA	1,036	0.283	
+	24539	Halifax	VA	156	1.000	
+	24540	Danville City	VA	22,158	0.653	
+	24540	Pittsylvania	VA	11,766	0.347	
+	24541	Danville City	VA	26,253	0.846	
+	24541	Pittsylvania	VA	4,761	0.154	
+	24549	Pittsylvania	VA	4,203	1.000	
+	24550	Campbell	VA	6,862	0.954	
+	24550	Bedford	VA	331	0.046	
+	24551	Bedford	VA	13,122	0.799	
+	24551	Campbell	VA	3,098	0.189	
+	24551	Lynchburg City	VA	196	0.012	
+	24553	Nelson	VA	529	0.300	
+	24553	Appomattox	VA	502	0.285	
+	24553	Amherst	VA	397	0.225	
+	24553	Buckingham	VA	333	0.189	
+	24554	Campbell	VA	4,138	1.000	
+	24555	Rockbridge	VA	1,911	1.000	
+	24556	Bedford	VA	2,757	1.000	
+	24557	Pittsylvania	VA	8,137	0.999	
+	24557	Halifax	VA	8	0.001	
+	24558	Halifax	VA	6,535	1.000	
+	24562	Buckingham	VA	161	0.634	
+	24562	Nelson	VA	65	0.256	
+	24562	Albemarle	VA	28	0.110	
+	24563	Pittsylvania	VA	5,592	1.000	
+	24565	Pittsylvania	VA	1,299	0.967	
+	24565	Halifax	VA	44	0.033	
+	24566	Pittsylvania	VA	1,413	1.000	
+	24569	Pittsylvania	VA	619	0.620	
+	24569	Halifax	VA	209	0.209	
+	24569	Campbell	VA	171	0.171	
+	24571	Campbell	VA	1,478	0.810	
+	24571	Bedford	VA	346	0.190	
+	24572	Amherst	VA	16,765	1.000	
+	24574	Amherst	VA	3,687	1.000	
+	24577	Halifax	VA	5,529	1.000	
+	24578	Rockbridge	VA	992	1.000	
+	24579	Rockbridge	VA	1,622	1.000	
+	24580	Mecklenburg	VA	785	1.000	
+	24581	Nelson	VA	25	1.000	
+	24586	Pittsylvania	VA	5,229	1.000	
+	24588	Campbell	VA	8,742	1.000	
+	24589	Halifax	VA	2,382	1.000	
+	24590	Albemarle	VA	3,058	0.447	
+	24590	Fluvanna	VA	2,287	0.334	
+	24590	Buckingham	VA	1,494	0.218	
+	24592	Halifax	VA	14,312	1.000	
+	24593	Appomattox	VA	1,937	1.000	
+	24594	Pittsylvania	VA	1,279	0.735	
+	24594	Halifax	VA	462	0.265	
+	24595	Amherst	VA	860	1.000	
+	24597	Halifax	VA	1,137	0.940	
+	24597	Pittsylvania	VA	73	0.060	
+	24598	Halifax	VA	1,913	0.998	
+	24598	Mecklenburg	VA	4	0.002	
+	24599	Nelson	VA	337	0.579	
+	24599	Buckingham	VA	245	0.421	
+	24601	Tazewell	VA	172	1.000	
+	24602	Tazewell	VA	771	1.000	
+	24603	Buchanan	VA	1,678	1.000	
+	24604	Tazewell	VA	336	1.000	
+	24605	Tazewell	VA	10,018	1.000	
+	24606	Tazewell	VA	484	1.000	
+	24607	Buchanan	VA	323	0.800	
+	24607	Dickenson	VA	81	0.200	
+	24609	Tazewell	VA	5,925	0.657	
+	24609	Russell	VA	3,096	0.343	
+	24612	Tazewell	VA	276	1.000	
+	24613	Tazewell	VA	1,260	1.000	
+	24614	Buchanan	VA	9,608	1.000	
+	24620	Buchanan	VA	3,119	1.000	
+	24622	Tazewell	VA	644	0.512	
+	24622	Buchanan	VA	615	0.488	
+	24624	Buchanan	VA	70	1.000	
+	24628	Buchanan	VA	358	1.000	
+	24630	Tazewell	VA	6,102	1.000	
+	24631	Buchanan	VA	2,720	1.000	
+	24634	Buchanan	VA	479	1.000	
+	24635	Tazewell	VA	689	1.000	
+	24637	Tazewell	VA	2,657	1.000	
+	24639	Tazewell	VA	1,624	0.481	
+	24639	Buchanan	VA	1,099	0.326	
+	24639	Russell	VA	653	0.193	
+	24641	Tazewell	VA	7,073	1.000	
+	24646	Buchanan	VA	777	0.985	
+	24646	Russell	VA	12	0.015	
+	24649	Russell	VA	2,407	1.000	
+	24651	Tazewell	VA	6,040	1.000	
+	24656	Buchanan	VA	4,006	1.000
+	24657	Buchanan	VA	485	1.000
+	37642	Scott	VA	33	1.000
