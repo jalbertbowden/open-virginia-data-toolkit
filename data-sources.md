@@ -30,3 +30,7 @@
 [Local Registration Authority Locations - Virginia](http://offices.sc.egov.usda.gov/locator/app?service=page/LraServiceCenters&state=VA3&stateName=Eastern%20Virginia&stateCode=51)  
 [Drought Resources](https://vafarmbureau.org/Agriculture/DroughtResources.aspx)  
 [Farm to Table Report - Virginia Food System Council](http://virginiafoodsystemcouncil.org/wp-content/uploads/2012/03/VA_Farm_to_Table.pdf)  
+[Level III Ecoregions of Virginia](http://catalog.data.gov/dataset/level-iii-ecoregions-of-virginia)  
+[2010 ARRA Lidar: Eleven Counties in Virginia](http://catalog.data.gov/dataset/2010-arra-lidar-eleven-county-virginia3d5c9)  
+[Plant Hardiness Map 72DPI](http://planthardiness.ars.usda.gov/PHZMWeb/Images/72DPI/va.jpg)  
+[Plant Hardiness Map 300DPI](http://planthardiness.ars.usda.gov/PHZMWeb/Images/300dpi/VA.jpg)  
