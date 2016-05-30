@@ -29,6 +29,9 @@ Geography/GIS
 
 
 [AFWS (Automated Flood Warning Systems](http://water.weather.gov/afws/region.php?state=va)  
+[Historical instantaneous flow data for Virginia: Instantaneous Data Archive - IDA](http://ida.water.usgs.gov/ida/index.cfm?ncd=51)
+[USGS Threatened and Endangered Stations in Virginia](http://streamstats09.cr.usgs.gov/ThreatenedGages/gmaps/va_gm_base.html)  
+[Virginia River Forecasts - National Weather Service Advanced Hydrologic Prediction Service](http://water.weather.gov/ahps/region.php?state=va)  
 
 
 [DOF Parcel Data - Links to Virginia County and City Localities](http://www.dof.virginia.gov/gis/parcel-data.htm)
