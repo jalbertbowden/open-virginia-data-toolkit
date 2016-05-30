@@ -9,16 +9,6 @@
 [Virginia P.L. 94-171 Voting District/State Legislative District Reference Maps (2010 Census)](https://www.census.gov/geo/maps-data/maps/2010ref/st51_vtd_sld.html)  
 [Virginia Voting District/State Legislative District Reference Maps (2010 Census) FTP](http://www2.census.gov/geo/maps/pl10map/vtd_sld/st51_va/)  
 
-Localities  
-  
-
-Newport News  
-[Open Budget Portal - Newport News](https://www.nngov.com/1901/Open-Budget-Portal)  
-  
-Richmond  
-[Richmond Data FTP](ftp://ftp.ci.richmond.va.us/)  
-[Real Estate Search Program - City of Richmond](http://eservices.ci.richmond.va.us/applications/propertysearch/)  
-
 Geography/GIS  
 
 [Virginia Geographic Alliance - Radford](https://php.radford.edu/~vga/)  
@@ -27,6 +17,9 @@ Geography/GIS
 [AFWS KML (River Stage)](http://water.weather.gov/afws/afws_kml.php?state=va&amp;fcst_type=river)  
 [AFWS Shapefile (Precipitation)](http://water.weather.gov/afws/download_file.php?state=va&amp;fcst_type=precip)  
 
+[Virginia - NED Shaded Relief - USGS EROS Center](http://eros.usgs.gov/imagegallery/states-ned-shaded-relief#http://eros.usgs.gov/sites/all/files/external/imagegallery/2547)  
+[Virginia NED Shaded Relief JPG](http://earthexplorer.usgs.gov/download/external/options/PAO/PM-VA-SHADED-RELIEF-JPG/WW)  
+[Virginia NED Shaded Relief TIF](http://earthexplorer.usgs.gov/download/external/options/PAO/PM-VA-SHADED-RELIEF-TIFF/WW)  
 
 [AFWS (Automated Flood Warning Systems](http://water.weather.gov/afws/region.php?state=va)  
 [Historical instantaneous flow data for Virginia: Instantaneous Data Archive - IDA](http://ida.water.usgs.gov/ida/index.cfm?ncd=51)  
