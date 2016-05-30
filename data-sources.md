@@ -1,4 +1,11 @@
-# Virginia Open Data Sources
+# Virginia Open Data Sources  
+  
+## Census Data  
+  
+### Census 2000  
+[State Legislative Districts (SLD) – Hundred Percent - Census 2000](http://www2.census.gov/census_2000/datasets/State_Legislative_Districts/SLD_HundredPercent/Virginia/)  
+[Virginia P.L. 94-171 Voting District/State Legislative District Reference Maps (2010 Census)](https://www.census.gov/geo/maps-data/maps/2010ref/st51_vtd_sld.html)  
+[Virginia Voting District/State Legislative District Reference Maps (2010 Census) FTP](http://www2.census.gov/geo/maps/pl10map/vtd_sld/st51_va/)  
 
 [Virginia Soil Surveys](http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=VA)
 
