@@ -19,3 +19,5 @@
 [Virginia Farm Service Agency](http://www.fsa.usda.gov/FSA/stateoffapp?mystate=va&area=home&subject=landing&topic=landing)  
 [Virginia County PCP Data](http://www.fsa.usda.gov/FSA/ldppcpStateInfo?mystate=va&area=home&subject=cpcp&topic=landing)  
 [Local Registration Authority Locations - Virginia](http://offices.sc.egov.usda.gov/locator/app?service=page/LraServiceCenters&state=VA3&stateName=Eastern%20Virginia&stateCode=51)  
+[Drought Resources](https://vafarmbureau.org/Agriculture/DroughtResources.aspx)  
+[Farm to Table Report - Virginia Food System Council](http://virginiafoodsystemcouncil.org/wp-content/uploads/2012/03/VA_Farm_to_Table.pdf)  
