@@ -23,7 +23,15 @@ Geography/GIS
 
 [Virginia Geographic Alliance - Radford](https://php.radford.edu/~vga/)  
 [GIS - Norfolk District - US Army Corps of Engineers](http://gis.nao.usace.army.mil/ESDS/SurveysIndex.aspx)  
+[AFWS KML (Precipitation)](http://water.weather.gov/afws/afws_kml.php?state=va&fcst_type=precip)  
+[AFWS KML (River Stage)](http://water.weather.gov/afws/afws_kml.php?state=va&amp;fcst_type=river)  
+[AFWS Shapefile (Precipitation)](http://water.weather.gov/afws/download_file.php?state=va&amp;fcst_type=precip)  
 
+
+[AFWS (Automated Flood Warning Systems](http://water.weather.gov/afws/region.php?state=va)  
+
+
+[DOF Parcel Data - Links to Virginia County and City Localities](http://www.dof.virginia.gov/gis/parcel-data.htm)
 
 
 [Virginia Soil Surveys](http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=VA)
