@@ -9,6 +9,23 @@
 [Virginia P.L. 94-171 Voting District/State Legislative District Reference Maps (2010 Census)](https://www.census.gov/geo/maps-data/maps/2010ref/st51_vtd_sld.html)  
 [Virginia Voting District/State Legislative District Reference Maps (2010 Census) FTP](http://www2.census.gov/geo/maps/pl10map/vtd_sld/st51_va/)  
 
+Localities  
+  
+
+Newport News  
+[Open Budget Portal - Newport News](https://www.nngov.com/1901/Open-Budget-Portal)  
+  
+Richmond  
+[Richmond Data FTP](ftp://ftp.ci.richmond.va.us/) 
+[Real Estate Search Program - City of Richmond](http://eservices.ci.richmond.va.us/applications/propertysearch/)  
+
+Geography/GIS  
+
+[Virginia Geographic Alliance - Radford](https://php.radford.edu/~vga/)  
+[GIS - Norfolk District - US Army Corps of Engineers](http://gis.nao.usace.army.mil/ESDS/SurveysIndex.aspx)  
+
+
+
 [Virginia Soil Surveys](http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=VA)
 
 [Archived NAIP Quarter Quad and Photocenter Shapefiles](http://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/archived-naip-qq-and-photocenter-shapefiles/index)  
