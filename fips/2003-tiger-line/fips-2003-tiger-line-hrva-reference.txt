@@ -1,0 +1,20 @@
+FIPS County State FIPS County State
+A-38 2003 TIGER/Line® Files
+51 067 Franklin VA
+51 073 Gloucester VA
+51 093 Isle of Wight VA
+51 095 James City VA
+51 115 Mathews VA
+51 175 Southampton VA
+51 181 Surry VA
+51 199 York VA
+51 550 Chesapeake VA
+51 620 Franklin VA
+51 650 Hampton VA
+51 700 Newport News VA
+51 710 Norfolk VA
+51 735 Poquoson VA
+51 740 Portsmouth VA
+51 800 Suffolk VA
+51 810 Virginia Beach VA
+51 830 Williamsburg VA

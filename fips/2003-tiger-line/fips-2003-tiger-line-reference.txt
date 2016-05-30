@@ -1,0 +1,138 @@
+FIPS County State FIPS County State
+A-38 2003 TIGER/Line® Files
+51 001 Accomack VA
+51 003 Albemarle VA
+51 005 Alleghany VA
+51 007 Amelia VA
+51 009 Amherst VA
+51 011 Appomattox VA
+51 013 Arlington VA
+51 015 Augusta VA
+51 017 Bath VA
+51 019 Bedford VA
+51 021 Bland VA
+51 023 Botetourt VA
+51 025 Brunswick VA
+51 027 Buchanan VA
+51 029 Buckingham VA
+51 031 Campbell VA
+51 033 Caroline VA
+51 035 Carroll VA
+51 036 Charles City VA
+51 037 Charlotte VA
+51 041 Chesterfield VA
+51 043 Clarke VA
+51 045 Craig VA
+51 047 Culpeper VA
+51 049 Cumberland VA
+51 051 Dickenson VA
+51 053 Dinwiddie VA
+51 057 Essex VA
+51 059 Fairfax VA
+51 061 Fauquier VA
+51 063 Floyd VA
+51 065 Fluvanna VA
+51 067 Franklin VA
+51 069 Frederick VA
+51 071 Giles VA
+51 073 Gloucester VA
+51 075 Goochland VA
+51 077 Grayson VA
+51 079 Greene VA
+51 081 Greensville VA
+51 083 Halifax VA
+51 085 Hanover VA
+51 087 Henrico VA
+51 089 Henry VA
+51 091 Highland VA
+51 093 Isle of Wight VA
+51 095 James City VA
+51 097 King and Queen VA
+51 099 King George VA
+51 101 King William VA
+51 103 Lancaster VA
+51 105 Lee VA
+51 107 Loudoun VA
+51 109 Louisa VA
+51 111 Lunenburg VA
+51 113 Madison VA
+51 115 Mathews VA
+51 117 Mecklenburg VA
+51 119 Middlesex VA
+51 121 Montgomery VA
+51 125 Nelson VA
+FIPS County State FIPS County State
+State and County Codes and Names A-39
+51 127 New Kent VA
+51 131 Northampton VA
+51 133 Northumberland VA
+51 135 Nottoway VA
+51 137 Orange VA
+51 139 Page VA
+51 141 Patrick VA
+51 143 Pittsylvania VA
+51 145 Powhatan VA
+51 147 Prince Edward VA
+51 149 Prince George VA
+51 153 Prince William VA
+51 155 Pulaski VA
+51 157 Rappahannock VA
+51 159 Richmond VA
+51 161 Roanoke VA
+51 163 Rockbridge VA
+51 165 Rockingham VA
+51 167 Russell VA
+51 169 Scott VA
+51 171 Shenandoah VA
+51 173 Smyth VA
+51 175 Southampton VA
+51 177 Spotsylvania VA
+51 179 Stafford VA
+51 181 Surry VA
+51 183 Sussex VA
+51 185 Tazewell VA
+51 187 Warren VA
+51 191 Washington VA
+51 193 Westmoreland VA
+51 195 Wise VA
+51 197 Wythe VA
+51 199 York VA
+51 510 Alexandria VA
+51 515 Bedford VA
+51 520 Bristol VA
+51 530 Buena Vista VA
+51 540 Charlottesville VA
+51 550 Chesapeake VA
+51 570 Colonial Heights VA
+51 580 Covington VA
+51 590 Danville VA
+51 595 Emporia VA
+51 600 Fairfax VA
+51 610 Falls Church VA
+51 620 Franklin VA
+51 630 Fredericksburg VA
+51 640 Galax VA
+51 650 Hampton VA
+51 660 Harrisonburg VA
+51 670 Hopewell VA
+51 678 Lexington VA
+51 680 Lynchburg VA
+51 683 Manassas VA
+51 685 Manassas Park VA
+51 690 Martinsville VA
+51 700 Newport News VA
+51 710 Norfolk VA
+51 720 Norton VA
+51 730 Petersburg VA
+51 735 Poquoson VA
+51 740 Portsmouth VA
+51 750 Radford VA
+51 760 Richmond VA
+51 770 Roanoke VA
+51 775 Salem VA
+51 790 Staunton VA
+51 800 Suffolk VA
+51 810 Virginia Beach VA
+51 820 Waynesboro VA
+51 830 Williamsburg VA
+51 840 Winchester VA
