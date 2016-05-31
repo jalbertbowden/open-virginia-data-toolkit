@@ -1,0 +1,332 @@
+Town,"New  
+Department of 
+Taxation 
+Locality Code","Obsolete
+Department
+of Motor
+Vehicles
+Locality Code"
+Accomack,51001,N01
+Albemarle,51003,N02
+Alleghany,51005,N03
+Amelia,51007,N04
+Amherst,51009,N05
+Appomattox,51011,N06
+Arlington,51013,N07
+Augusta,51015,N08
+Bath,51017,N09
+Bedford (County),51019,N10
+Bland,51021,N11
+Botetourt,51023,N12
+Brunswick,51025,N13
+Buchanan,51027,N14
+Buckingham,51029,N15
+Campbell,51031,N16
+Caroline,51033,N17
+Carroll,51035,N18
+Charles City,51036,N19
+Charlotte,51037,N20
+Chesterfield,51041,N21
+Clarke,51043,N22
+Craig,51045,N23
+Culpeper,51047,N24
+Cumberland,51049,N25
+Dickenson,51051,N26
+Dinwiddie,51053,N27
+Essex,51057,N28
+Fairfax (County),51059,N29
+Fauquier,51061,N30
+Floyd,51063,N31
+Fluvanna,51065,N32
+Franklin (County),51067,N33
+Frederick,51069,N34
+Giles,51071,N35
+Gloucester,51073,N36
+Goochland,51075,N37
+Grayson,51077,N38
+Greene,51079,N39
+Greensville,51081,N40
+Halifax,51083,N41
+Hanover,51085,N42
+Henrico,51087,N43
+Henry,51089,N44
+Highland,51091,N45
+Isle Of Wight,51093,N46
+James City,51095,N47
+King George,51099,N49
+King And Queen,51097,N48
+King William,51101,N50
+Lancaster,51103,N51
+Lee,51105,N52
+Loudoun,51107,N53
+Louisa,51109,N54
+Lunenburg,51111,N55
+Madison,51113,N56
+Mathews,51115,N57
+Mecklenburg,51117,N58
+Middlesex,51119,N59
+Montgomery,51121,N60
+Nelson,51125,N61
+New Kent,51127,N62
+Northampton,51131,N63
+Northumberland,51133,N64
+Nottoway,51135,N65
+Orange,51137,N66
+Page,51139,N67
+Patrick,51141,N68
+Pittsylvania,51143,N69
+Powhatan,51145,N70
+Prince Edward,51147,N71
+Prince George,51149,N72
+Prince William,51153,N73
+Pulaski,51155,N74
+Rappahannock,51157,N75
+Richmond (County),51159,N76
+Roanoke (County),51161,N77
+Rockbridge,51163,N78
+Rockingham,51165,N79
+Russell,51167,N80
+Scott,51169,N81
+Shenandoah,51171,N82
+Smyth,51173,N83
+Southampton,51175,N84
+Spotsylvania,51177,N85
+Stafford,51179,N86
+Surry,51181,N87
+Sussex,51183,N88
+Tazewell,51185,N89
+Warren,51187,N90
+Washington,51191,N91
+Westmoreland,51193,N92
+Wise,51195,N93
+Wythe,51197,N94
+York,51199,N95
+Alexandria,51510,C01
+Bristol,51520,C03
+Buena Vista,51530,C04
+Charlottesville,51540,C05
+Chesapeake,51550,C06
+Colonial Heights,51570,C08
+Covington,51580,C09
+Danville,51590,C10
+Emporia,51595,C11
+Fairfax (City),51600,C12
+Falls Church,51610,C13
+Franklin (City),51620,C14
+Fredericksburg,51630,C15
+Galax,51640,C16
+Hampton,51650,C17
+Harrisonburg,51660,C18
+Hopewell,51670,C19
+Lexington,51678,C20
+Lynchburg,51680,C21
+Manassas,51683,C22
+Manassas Park,51685,C23
+Martinsville,51690,C24
+Newport News,51700,C25
+Norfolk,51710,C26
+Norton,51720,C27
+Petersburg,51730,C28
+Poquoson,51735,C29
+Portsmouth,51740,C30
+Radford,51750,C31
+Richmond (City),51760,C32
+Roanoke (City),51770,C33
+Salem,51775,C34
+Staunton,51790,C36
+Suffolk,51800,C37
+Virginia Beach,51810,C38
+Waynesboro,51820,C39
+Williamsburg,51830,C40
+Winchester,51840,C41
+Abingdon,51300,T01
+Accomac,51301,T02
+Alberta,51302,T03
+Altavista,51303,T04
+Amherst,51304,T05
+Appalachia,51305,T06
+Appomattox,51306,T07
+Ashland,51307,T08
+Bedford,51494,
+Belle Haven,51308,T09
+Berryville,51309,T10
+Big Stone Gap,51310,T11
+Blacksburg,51311,T12
+Blackstone,51312,T13
+Bloxom,51313,T14
+Bluefield,51314,T15
+Boones Mill,51315,T16
+Bowling Green,51316,T17
+Boyce,51317,T18
+Boydton,51318,T19
+Boykins,51319,T20
+Branchville,51320,T21
+Bridgewater,51321,T22
+Broadnax,51323,T24
+Broadway,51322,T23
+Brookneal,51324,T25
+Buchanan,51325,T26
+Burkeville,51326,T27
+Cape Charles,51327,T28
+Capron,51328,T29
+Cedar Bluff,51329,T30
+Charlotte Court Hous,51330,T31
+Chase City,51331,T32
+Chatham,51332,T33
+Cheriton,51333,T34
+Chilhowie,51334,T35
+Chincoteague,51335,T36
+Christiansburg,51336,T37
+Claremont,51337,T38
+Clarksville,51338,T39
+Cleveland,51339,T40
+Clifton,51340,T41
+Clifton Forge,51493,N/A
+Clinchco,51490,N/A
+Clinchport,51341,T42
+Clintwood,51342,T43
+Coeburn,51344,T45
+Colonial Beach,51345,T46
+Columbia,51346,T47
+Courtland,51347,T48
+Craigsville,51348,T49
+Crewe,51349,T50
+Culpeper,51350,T51
+Damascus,51351,T52
+Dayton,51352,T53
+Dendron,51353,T54
+Dillwyn,51354,T55
+Drakes Branch,51355,T56
+Dublin,51357,T58
+Duffield,51358,T59
+Dumfries,51359,T60
+Dungannon,51360,T61
+Eastville,51361,T62
+Edinburg,51362,T63
+Elkton,51363,T64
+Exmore,51364,T65
+Farmville,51365,T66
+Fincastle,51366,T67
+Floyd,51367,T68
+Fries,51368,T69
+Front Royal,51369,T70
+Gate City,51370,T71
+Glade Spring,51371,T72
+Glasgow,51372,T73
+Glen Lyn,51373,T74
+Gordonsville,51374,T75
+Goshen,51375,T76
+Gretna,51376,T77
+Grottoes,51377,T78
+Grundy,51378,T79
+Halifax,51379,T80
+Hallwood,51380,T81
+Hamilton,51381,T82
+Haymarket,51382,T83
+Haysi,51383,T84
+Herndon,51384,T85
+Hillsboro,51385,T86
+Hillsville,51386,T87
+Honaker,51387,T88
+Hurt,51388,T89
+Independence,51389,T90
+Iron Gate,51390,T91
+Irvington,51391,T92
+Ivor,51392,T93
+Jarratt,51393,T94
+Jonesville,51394,T95
+Keller,51395,T96
+Kenbridge,51396,T97
+Keysville,51397,T98
+Kilmarnock,51398,T99
+La Crosse,51399,U01
+Lawrenceville,51400,U02
+Lebanon,51401,U03
+Leesburg,51402,U04
+Louisa,51403,U05
+Lovettsville,51404,U06
+Luray,51405,U07
+Madison,51406,U08
+Marion,51407,U09
+McKenney,51408,U10
+Melfa,51409,U11
+Middleburg,51410,U12
+Middletown,51411,U13
+Mineral,51412,U14
+Monterey,51413,U15
+Montross,51414,U16
+Mount Crawford,51415,U17
+Mount Jackson,51416,U18
+Narrows,51417,U19
+Nassawadox,51418,U20
+New Castle,51419,U21
+New Market,51420,U22
+Newsoms,51421,U23
+Nickelsville,51422,U24
+Occoquan,51423,U25
+Onancock,51424,U26
+Onley,51425,U27
+Orange,51426,U28
+Painter,51427,U29
+Pamplin City,51428,U30
+Parksley,51429,U31
+Pearisburg,51430,U32
+Pembroke,51431,U33
+Pennington Gap,51432,U34
+Phenix,51433,U35
+Pocahontas,51434,U36
+Port Royal,51435,U37
+Pound,51436,U38
+Pulaski,51437,U39
+Purcellville,51438,U40
+Quantico,51439,U41
+Remington,51440,U42
+Rich Creek,51441,U43
+Richlands,51442,U44
+Ridgeway,51443,U45
+Rocky Mount,51444,U46
+Round Hill,51445,U47
+Rural Retreat,51446,U48
+Saint Charles,51447,U49
+Saint Paul,51448,U50
+Saltville,51449,U51
+Saxis,51450,U52
+Scottsburg,51451,U53
+Scottsville,51452,U54
+Shenandoah,51453,U55
+Smithfield,51454,U56
+South Boston,51492,U91
+South Hill,51455,U57
+Stanardsville,51456,U58
+Stanley,51457,U59
+Stephens City,51458,U60
+Stony Creek,51459,U61
+Strasburg,51460,U62
+Stuart,51461,U63
+Surry,51462,U64
+Tangier,51463,U65
+Tappahannock,51464,U66
+Tazewell,51465,U67
+The Plains,51466,U68
+Timberville,51467,U69
+Toms Brook,51468,U70
+Troutdale,51469,U71
+Troutville,51470,U72
+Urbanna,51471,U73
+Victoria,51472,U74
+Vienna,51473,U75
+Vinton,51474,U76
+Virgilina,51475,U77
+Wachapreague,51476,U78
+Wakefield,51477,U79
+Warrenton,51478,U80
+Warsaw,51479,U81
+Washington,51480,U82
+Waverly,51481,U83
+Weber City,51482,U84
+West Point,51483,U85
+White Stone,51484,U86
+Windsor,51485,U87
+Wise,51486,U88
+Woodstock,51487,U89
+Wytheville,51488,U90
