@@ -31,7 +31,7 @@ Geography/GIS
 [Maps - Employment, wages, and establishment counts in hurricane flood zones - QCEW](http://www.bls.gov/cew/hurricane_zones/maps.htm#Virginia)  
 [Data - Employment, wages, and establishment counts in hurricane flood zones - QCEW](http://www.bls.gov/cew/hurricane_zones/data/virginia.htm)  
 [SLR - Sea Level Rise Data](	https://coast.noaa.gov/slrdata/)  
-
+[Sea Level Rise and Coastal Flood Web Tools Comparison Matrix - Virginia](http://sealevel.climatecentral.org/matrix/VA.html)  
 [QCEW State and County Map Application: Virginia, US: 12 month percent change in employment, Total, all industries Total Covered Sep 2014-Sep 2015 (p) : U.S. Bureau of Labor Statistics](http://beta.bls.gov/maps/cew/VA?period=2015-Q3&industry=10&geo_id=51000&chartData=3&distribution=Quantiles&pos_color=blue&neg_color=orange&showHideChart=show&ownerType=0)  
 
 [DOF Parcel Data - Links to Virginia County and City Localities](http://www.dof.virginia.gov/gis/parcel-data.htm)
