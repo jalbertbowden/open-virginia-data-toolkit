@@ -1,3 +1,7 @@
 [Facebook MRC](https://www.facebook.com/MRCVirginia)  
 [Twitter MRC](https://twitter.com/VaMRC)  
 [YouTube MRC](https://www.youtube.com/user/VirginiaMRC)  
+[VDH Facebook](http://www.facebook.com/VDHgov)  
+[VDH Twitter](https://twitter.com/vdhgov)  
+[VDH Beach Monitoring Twitter](https://twitter.com/vdhbeach)  
+[VDH Youtube](https://www.youtube.com/channel/UCKhLlujgbrx7hsyH5cXTnKQ)  
