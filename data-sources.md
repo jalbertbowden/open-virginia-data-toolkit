@@ -26,6 +26,12 @@ Geography/GIS
 [USGS Threatened and Endangered Stations in Virginia](http://streamstats09.cr.usgs.gov/ThreatenedGages/gmaps/va_gm_base.html)  
 [Virginia River Forecasts - National Weather Service Advanced Hydrologic Prediction Service](http://water.weather.gov/ahps/region.php?state=va)  
 
+[Virginia - Office for Coastal Management - NOAA](https://coast.noaa.gov/states/virginia/)
+
+[Maps - Employment, wages, and establishment counts in hurricane flood zones - QCEW](http://www.bls.gov/cew/hurricane_zones/maps.htm#Virginia)  
+[Data - Employment, wages, and establishment counts in hurricane flood zones - QCEW](http://www.bls.gov/cew/hurricane_zones/data/virginia.htm)  
+
+[QCEW State and County Map Application: Virginia, US: 12 month percent change in employment, Total, all industries Total Covered Sep 2014-Sep 2015 (p) : U.S. Bureau of Labor Statistics](http://beta.bls.gov/maps/cew/VA?period=2015-Q3&industry=10&geo_id=51000&chartData=3&distribution=Quantiles&pos_color=blue&neg_color=orange&showHideChart=show&ownerType=0)  
 
 [DOF Parcel Data - Links to Virginia County and City Localities](http://www.dof.virginia.gov/gis/parcel-data.htm)
 
