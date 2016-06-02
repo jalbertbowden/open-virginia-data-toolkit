@@ -1,5 +1,7 @@
 # Virginia State and Local Government Social Media Accounts  
 
+[Connect with Chesapeake](http://www.cityofchesapeake.net/government/City-Departments/Departments/Information-Technology-Department/Connect-with-Chesapeake.htm)  
+
 [Harrisonburg's YouTube Channel](http://www.youtube.com/harrisonburgvirginia)  
 [Harrisonburg on Flickr](http://www.flickr.com/photos/harrisonburgva/sets)  
 [Harrisonburg on Pinterest](http://pinterest.com/harrisonburgva/)  
