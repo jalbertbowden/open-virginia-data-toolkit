@@ -1,5 +1,8 @@
 # Virginia Census Data  
 
+[State Facts for Students](https://www.census.gov/schools/facts/virginia.html)  
+
+
 ## [LEHD CES Census Data](http://lehd.ces.census.gov/)  
 
 [Virginia LEHD State Partners](http://lehd.ces.census.gov/state_partners/state.html#!va)  
