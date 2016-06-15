@@ -7,6 +7,7 @@
 
 [Virginia LEHD State Partners](http://lehd.ces.census.gov/state_partners/state.html#!va)  
 [Virginia LEHD Data](http://lehd.ces.census.gov/pub/va/)  
+[Label Geography CSV Virginia LEHD Dataset](http://lehd.ces.census.gov/data/schema/latest/va/label_geography.csv)  
 
   
 ### Census 2000  
