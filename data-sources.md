@@ -1,5 +1,10 @@
 # Virginia Open Data Sources  
   
+## Data Feeds 
+[Virginia Keyword Value Feed - NODC Geoportal GeoRSS](http://data.nodc.noaa.gov/geoportal/rest/find/document?searchText=Virginia&f=csv)  
+[Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
+
+  
 ## Census Data  
   
 ### Census 2000  
