@@ -4,15 +4,6 @@
 [Virginia Keyword Value Feed - NODC Geoportal GeoRSS](http://data.nodc.noaa.gov/geoportal/rest/find/document?searchText=Virginia&f=csv)  
 [Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
 
-  
-## Census Data  
-  
-### Census 2000  
-[State Legislative Districts (SLD) – Hundred Percent - Census 2000](http://www2.census.gov/census_2000/datasets/State_Legislative_Districts/SLD_HundredPercent/Virginia/)  
-  
-### Census 2010  
-[Virginia P.L. 94-171 Voting District/State Legislative District Reference Maps (2010 Census)](https://www.census.gov/geo/maps-data/maps/2010ref/st51_vtd_sld.html)  
-[Virginia Voting District/State Legislative District Reference Maps (2010 Census) FTP](http://www2.census.gov/geo/maps/pl10map/vtd_sld/st51_va/)  
 
 Geography/GIS  
 
