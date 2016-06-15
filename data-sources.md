@@ -5,9 +5,15 @@
 [Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
 
 [Conservation Priorities in Virginia](http://www.landscope.org/virginia/priorities)  
+[Virginia NPL (National Priorities List)](http://www.epa.gov/superfund/national-priorities-list-npl-sites-state#VA)  
+
+[Youth Violence Project - Curry School of Education](http://curry.virginia.edu/research/labs/youth-violence-project)  
+
+
 
 Geography/GIS  
 
+[Map | Virginia Natural Heritage Data Explorer - DCR](https://vanhde.org/content/map)  
 [Virginia Geographic Alliance - Radford](https://php.radford.edu/~vga/)  
 [GIS - Norfolk District - US Army Corps of Engineers](http://gis.nao.usace.army.mil/ESDS/SurveysIndex.aspx)  
 [AFWS KML (Precipitation)](http://water.weather.gov/afws/afws_kml.php?state=va&fcst_type=precip)  
