@@ -11,6 +11,12 @@
 [Shenandoah National Park Wildfires - EPOD - a service of USRA](http://epod.usra.edu/blog/2000/11/shenandoah-national-park-wildfires.html)  
 [SeaWIFS View of Fire in the Shenandoah National Park. 2000-11-02. NASA/GSFC and ORBIMAGE](http://epod.typepad.com/.a/6a0105371bb32c970b01157162754a970c-pi)  
 
+[VCU Commons flickr](https://www.flickr.com/photos/vcucommons/)  
+[EROS Image Gallery - Featuring Earth as Art 2 - States - Landsat 7 Collection](http://web.archive.org/web/20060827070216/http://edcw2ks15.cr.usgs.gov:8090/imagegallery/silverstream/pages/pgImageDisplay.html?CollectionID=18)  
+[Virginia.org Press Room Image Library](http://www.virginia.org/pressroom/image_library.asp)  
+[NASA Visible Earth: The Sinuous Shenandoah](http://visibleearth.nasa.gov/view.php?id=84837)  
+[The Sinuous Shenandoah : Image of the Day](http://earthobservatory.nasa.gov/IOTD/view.php?id=84837&src=ve)  
+
   
 ## Open Virginia Video  
 
