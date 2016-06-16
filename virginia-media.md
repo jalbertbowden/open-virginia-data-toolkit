@@ -20,4 +20,7 @@
   
 ## Open Virginia Video  
 
+[VIMS OspreyCam](https://www.youtube.com/watch?v=VVNaekW2GqQ)  
+[Critter Cams - Wildlife Center of Virginia](http://wildlifecenter.org/critter-corner/critter-cam-landing)  
+
 ## Open Virginia Cams/Webcams  
