@@ -17,6 +17,10 @@
 [NASA Visible Earth: The Sinuous Shenandoah](http://visibleearth.nasa.gov/view.php?id=84837)  
 [The Sinuous Shenandoah : Image of the Day](http://earthobservatory.nasa.gov/IOTD/view.php?id=84837&src=ve)  
 
+### Search for Open Virginia Images/Imagery  
+
+[Search NASA Landsat Image Gallery for Keyword "Virginia"](http://landsat.visibleearth.nasa.gov/search.php?cx=002358070019171462865%3Ajkcajjtgk4q&cof=FORID%3A9&q=Virginia&sa=search)    
+
   
 ## Open Virginia Video  
 
