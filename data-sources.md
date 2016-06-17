@@ -11,7 +11,7 @@
 [Youth Violence Project - Curry School of Education](http://curry.virginia.edu/research/labs/youth-violence-project)  
 [Data - Code for Hampton Roads (Redirects)](http://data.codeforhamptonroads.org/)  
 
-## Virginia Coasts,Coastline,Beach,Beachline, Oceanfront, Bayfront, Bay, Rivers, Lakes, and Ponds  
+## Virginia Coasts, Coastline, Beach, Beachline, Oceanfront, Bayfront, Bay, Rivers, Lakes, and Ponds  
 [Accessing the Virginia Coast](http://www.virginiacoastalaccess.net/)  
 [Virginia - Office for Coastal Management - NOAA](https://coast.noaa.gov/states/virginia/)
 
@@ -67,6 +67,9 @@ dotgov GIS - Then and Now
 
 # Virginia Water Data, References and Resources  
 
+## Virginia Water Community
+[Norfolk District - USACE](http://www.nao.usace.army.mil//)  
+ 
 ## Virginia Water Data
 [Major USGS Water Resources Links for: 02080208 - Hampton Roads](http://water.usgs.gov/lookup/getwatershed?02080208)
 [NAO Basins - Water Control - Norfolk District Corps of Engineers](http://www.nab-wc.usace.army.mil/nao/index.html)  
