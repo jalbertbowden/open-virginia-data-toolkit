@@ -22,3 +22,12 @@
 
 [Nelson Scenic Loop](http://www.nelsonscenicloop.com/)  
 [Nelson Scenic Loop Map](http://www.nelsonscenicloop.com/LoopAll1.png)  
+[Nelson Scenic Loop Map](http://www.rockfishvalley.org/blog/nelson-scenic-loop-map/)  
+[Nelson Scenic Loop - Google My Maps](https://www.google.com/maps/d/u/0/viewer?mid=178LbVHDaMH9lUTUZ7N0oEkq045A&hl=en)  
+Nelson Scenic Loop Scenic Byways:  
+151 Patrick Henry Highway  
+56 Crabtree Falls Highway  
+664 Beech Grove Road  
+Blue Ridge Parkway  
+
+
