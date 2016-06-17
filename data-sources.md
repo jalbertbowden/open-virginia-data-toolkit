@@ -3,12 +3,13 @@
 ## Data Feeds 
 [Virginia Keyword Value Feed - NODC Geoportal GeoRSS](http://data.nodc.noaa.gov/geoportal/rest/find/document?searchText=Virginia&f=csv)  
 [Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
+[Feed - GTFS Data Exchange - Hampton Roads Transit (HRT)](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/feed)  
 
 [Conservation Priorities in Virginia](http://www.landscope.org/virginia/priorities)  
 [Virginia NPL (National Priorities List)](http://www.epa.gov/superfund/national-priorities-list-npl-sites-state#VA)  
 [Chesapeake Open Data Portal](http://www.cityofchesapeake.net/government/City-Departments/Departments/Information-Technology-Department/open-data-portal.htm)  
 [Youth Violence Project - Curry School of Education](http://curry.virginia.edu/research/labs/youth-violence-project)  
-
+[Data - Code for Hampton Roads (Redirects)](http://data.codeforhamptonroads.org/)  
 
 ## Virginia Coasts,Coastline,Beach,Beachline, Oceanfront, Bayfront, Bay, Rivers, Lakes, and Ponds  
 [Accessing the Virginia Coast](http://www.virginiacoastalaccess.net/)  
@@ -32,6 +33,17 @@ Geography/GIS
 [AFWS KML (Precipitation)](http://water.weather.gov/afws/afws_kml.php?state=va&fcst_type=precip)  
 [AFWS KML (River Stage)](http://water.weather.gov/afws/afws_kml.php?state=va&amp;fcst_type=river)  
 [AFWS Shapefile (Precipitation)](http://water.weather.gov/afws/download_file.php?state=va&amp;fcst_type=precip)  
+
+
+
+dotgov GIS  
+[Virginia Economic Development Partnership (VEDP) GIS](http://gis.yesvirginia.org/) 
+dotgov GIS - Then and Now  
+[Chesapeake GIS Used to Charge $45 - Datasets Now Offered to Public at no Cost at Chesapeake's Open GIS Data Portal](http://web.archive.org/web/20111101091514/http://www.cityofchesapeake.net/Government/City-Departments/Departments/Information-Technology-Department/02gis/gis-purchase.htm)  
+
+
+
+
 
 [Virginia - NED Shaded Relief - USGS EROS Center](http://eros.usgs.gov/imagegallery/states-ned-shaded-relief#http://eros.usgs.gov/sites/all/files/external/imagegallery/2547)  
 [Virginia NED Shaded Relief JPG](http://earthexplorer.usgs.gov/download/external/options/PAO/PM-VA-SHADED-RELIEF-JPG/WW)  
