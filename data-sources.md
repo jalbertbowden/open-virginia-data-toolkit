@@ -13,6 +13,8 @@
 
 ## Virginia Coasts,Coastline,Beach,Beachline, Oceanfront, Bayfront, Bay, Rivers, Lakes, and Ponds  
 [Accessing the Virginia Coast](http://www.virginiacoastalaccess.net/)  
+[Virginia - Office for Coastal Management - NOAA](https://coast.noaa.gov/states/virginia/)
+
 
 
 
@@ -62,7 +64,31 @@ dotgov GIS - Then and Now
 [USGS Threatened and Endangered Stations in Virginia](http://streamstats09.cr.usgs.gov/ThreatenedGages/gmaps/va_gm_base.html)  
 [Virginia River Forecasts - National Weather Service Advanced Hydrologic Prediction Service](http://water.weather.gov/ahps/region.php?state=va)  
 
-[Virginia - Office for Coastal Management - NOAA](https://coast.noaa.gov/states/virginia/)
+
+# Virginia Water Data, References and Resources  
+
+## Virginia Water Data
+[Major USGS Water Resources Links for: 02080208 - Hampton Roads](http://water.usgs.gov/lookup/getwatershed?02080208)
+[NAO Basins - Water Control - Norfolk District Corps of Engineers](http://www.nab-wc.usace.army.mil/nao/index.html)  
+
+## Norfolk USACE NAO Basins Detailed Real Time Data
+
+[Albemarle Sound Basin](http://www.nab-wc.usace.army.mil/nao/albe.html)  
+[James River Basin](http://www.nab-wc.usace.army.mil/nao/jame.html)  
+[Rappahanock River Basin](http://www.nab-wc.usace.army.mil/nao/rapp.html
+[Chowan River Basin](http://www.nab-wc.usace.army.mil/nao/chow.html)  
+
+## Norfolk USACE NAO Basins Data Summaries  
+
+[Albemarle Sound Basin Data Summary - NAO Basins - Norfolk USACE](http://www.nab-wc.usace.army.mil/nao/albepub.html)  
+[Chowan River Basin Data Summary - NAO Basins - Norfolk USACE](http://www.nab-wc.usace.army.mil/nao/chowpub.html)  
+[James River Basin Data Summary - NAO Basins - Norfolk USACE](http://www.nab-wc.usace.army.mil/nao/jamepub.html)  
+[Rappahannock River Basin Data Summary - NAO Basins - Norfolk USACE](http://www.nab-wc.usace.army.mil/nao/rapppub.html)  
+[York River Basin Data Summary - NAO Basins - Norfolk USACE](http://www.nab-wc.usace.army.mil/nao/yorkpub.html)  
+
+[James River Watch](http://jamesriverwatch.org/)
+
+
 
 [Maps - Employment, wages, and establishment counts in hurricane flood zones - QCEW](http://www.bls.gov/cew/hurricane_zones/maps.htm#Virginia)  
 [Data - Employment, wages, and establishment counts in hurricane flood zones - QCEW](http://www.bls.gov/cew/hurricane_zones/data/virginia.htm)  
