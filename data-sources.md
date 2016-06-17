@@ -6,7 +6,7 @@
 
 [Conservation Priorities in Virginia](http://www.landscope.org/virginia/priorities)  
 [Virginia NPL (National Priorities List)](http://www.epa.gov/superfund/national-priorities-list-npl-sites-state#VA)  
-
+[Chesapeake Open Data Portal](http://www.cityofchesapeake.net/government/City-Departments/Departments/Information-Technology-Department/open-data-portal.htm)  
 [Youth Violence Project - Curry School of Education](http://curry.virginia.edu/research/labs/youth-violence-project)  
 
 
