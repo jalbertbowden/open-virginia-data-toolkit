@@ -9,3 +9,13 @@
 
 ## Virginia Roads  
 [Virginia Country Roads](http://www.onlyinyourstate.com/virginia/country-roads-va/)
+
+
+[Virginia Department of Transportation](http://www.virginiadot.org/)  
+[Virginia Transportation Research Council](http://vtrc.virginiadot.org/)  
+
+[ART - Arlington Transit](http://www.arlingtontransit.com/)  
+
+[Hampton Roads Planning District Commission (HRPDC)](http://web.archive.org/web/20150219003352/http://www.hrpdc.org/)  
+[Accomack-Northampton Planning District Commission](http://a-npdc.org/wordpress/)  
+[VA-PDC - Virginia Association of Planning District Commisions](http://www.vapdc.org/)  
