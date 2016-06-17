@@ -27,6 +27,10 @@
 [City of Virginia Beach ADT's: 2012-2016 - Historical Traffic Volume Report - Archived Traffic Count Data - Virginia Beach](http://vbgov.ms2soft.com/tcds/rpt_AADT.aspx?a=72)  
 [Excel Data - City of Virginia Beach ADT's: 2012-2016 - Historical Traffic Volume Report - Archived Traffic Count Data - Virginia Beach](http://vbgov.ms2soft.com/tcds/rpt_AADT.aspx?a=72&xls=1)  
 You can walk the URLs o data by swapping out number in vars appending to URL, ".aspx?a=72", where you swap out "72". Goes up to at least "100"; "01" throws 404.  
+[Hampton Traffic Counts Report](http://va-hampton.civicplus.com/DocumentCenter/Home/View/2342)  
+[Hampton Roads - Traffic Land](http://www.trafficland.com/city/ORF)   
+[Route 13/Wallops Island Access Management Study - VDOT via Wayback Machine](http://web.archive.org/web/20041025023048/http://www.virginiadot.org/projects/wallops/key.html)  
+[Reports and Studies - Measuring the Accessibility of Centers and Corridors in Virginia - vTrans](http://www.vtrans.org/reports_and_studies.asp)  
 
 ## Virginia Airports  
 
@@ -40,18 +44,17 @@ You can walk the URLs o data by swapping out number in vars appending to URL, ".
 [Transform 66 Wisely](http://transform66wisely.org/)  
 
 
-[Route 13/Wallops Island Access Management Study - VDOT via Wayback Machine](http://web.archive.org/web/20041025023048/http://www.virginiadot.org/projects/wallops/key.html)  
-
-
 
 [VTCA - Virginia Transportation Construction Alliance](http://vtcaonline.com/)  
 
 [vTrans - Office of Intermodal Planning and Investment](http://vtrans.org/)  
-[Reports and Studies - Measuring the Accessibility of Centers and Corridors in Virginia - vTrans](http://www.vtrans.org/reports_and_studies.asp)  
+
 
 
 
 [Hampton Traffic Engineering](http://hampton.gov/index.aspx?NID=599)  
-[Hampton Traffic Counts Report](http://va-hampton.civicplus.com/DocumentCenter/Home/View/2342)  
 
-[Hampton Roads - Traffic Land](http://www.trafficland.com/city/ORF)   
+
+
+[The Route of the Three Notch'd Road: A Preliminary Report](http://www.virginiadot.org/VTRC/main/online_reports/pdf/76-r32.pdf)  
+[Turk Mountain Overlook to Rockfish Gap](http://www.guidetosnp.com/web/LogoftheDrive/logs6.aspx) 
