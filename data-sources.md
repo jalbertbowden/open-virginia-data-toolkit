@@ -34,6 +34,14 @@ Geography/GIS
 [AFWS KML (River Stage)](http://water.weather.gov/afws/afws_kml.php?state=va&amp;fcst_type=river)  
 [AFWS Shapefile (Precipitation)](http://water.weather.gov/afws/download_file.php?state=va&amp;fcst_type=precip)  
 
+## Virginia Geology Data  
+[A Tapestry of Time and Terrain: The Union of Two Maps - Geology and Topography](http://web.archive.org/web/20130217103506/http://tapestry.usgs.gov/states/virginia.html)  
+[Worthy Field Locales: the Geology of Virginia - W&M - Christopher M. Bailey](http://web.wm.edu/geology/virginia/field_loc/rfgweb.pdf)  
+
+## Virginia Topology, Altitudes, Summits, Peaks, Mountains, etc.
+
+[Summits of Nelson County, Virginia](http://www.rockfishvalley.org/blog/summits-of-nelson-county/)  
+
 
 
 dotgov GIS  
