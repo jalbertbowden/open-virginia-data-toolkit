@@ -1,10 +1,16 @@
 # Virginia Wildlife Data  
   
 [Atlas of Rare Butterflies, Skippers, Moths, Dragonflies & Damselflies of Virginia](http://www.vararespecies.org/)  
-[Virginia &#124; eBird](http://ebird.org/ebird/subnational1/US-VA?yr=all)
-  
+[Virginia &#124; eBird](http://ebird.org/ebird/subnational1/US-VA?yr=all)  
+[Critter Tracking](http://wildlifecenter.org/critter-corner)    
 [Virginia Wildlife Action Plan](http://www.bewildvirginia.org/wildlifeplan/)  
 
-## Virginia Wildlife Community  
+## Feeds
+[Wildlife Center of VirginiaBlog Feed](http://wildlifecenter.org/blog.xml)  
 
+
+
+
+## Virginia Wildlife Community  
+[Wildlife Center of Virginia](http://wildlifecenter.org/)  
 [The Butterfly Society of Virginia](http://www.butterflysocietyofva.org/)  
