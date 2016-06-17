@@ -11,7 +11,11 @@
 
 ## Virginia EPA Data  
 
-[EPA Region 3 KMZ](https://www3.epa.gov/enviro/html/fii/downloads/region_03.kmz)  
+#### [EPA Geospatial Data Access Project](https://www.epa.gov/enviro/data-downloads)  
+
+[Virginia EPA Region 3 (KMZ) - EPA Region - Provides EPA Regional coverages of a subset of the facilities within FRS. Data files are in KML format only.](https://www3.epa.gov/enviro/html/fii/downloads/region_03.kmz)  
+[Virginia Single - EPA FRS Facilities State Single File CSV Download - A single State level CSV file for all FRS facilities. Each state zip file contains a single file of key facility-level information including facility name and address, geospatial information, affiliated EPA and State programs, and facility industry classifications (SIC and NAICS codes and descriptions).](https://www3.epa.gov/enviro/html/fii/downloads/state_files/state_single_va.zip)  
+[Virginia Combined - EPA State Combined CSV Download Files - A State level collection of CSV files for all FRS facilities containing individual facility name and address, geospatial, facility interests, organizations, industrial classifications (SIC and NAICS), alternative names, contacts, and mailing address files.](https://www3.epa.gov/enviro/html/fii/downloads/state_files/state_combined_va.zip)  
 
 Geography/GIS  
 
