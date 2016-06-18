@@ -11,6 +11,8 @@
 [Maps: Virginia Counties and FIPS COdes (PDF)](http://maps.redcross.org/website/Maps/Images/Virginia/va_cnty.pdf)  
 [County FIPS Code Listing for the State of Virginia - EPA](http://web.archive.org/web/20150312004723/http://www.epa.gov/envirofw/html/codes/va.html)  
 [VDH TR FIPS Codes](https://www.vdh.virginia.gov/OEMS/Training/TPAM/Forms/TR-Fips Codes.pdf)  
+[County FIPS Code Listing for the State of VIRGINIA - EPA](https://www.epa.gov/enviro/county-fips-code-listing-state-virginia)  
+[Virginia FIPS Code Chart - VDH](https://www.vdh.virginia.gov/OEMS/Files_Page/shared/fips.pdf)  
 
 
 [Conservation Priorities in Virginia](http://www.landscope.org/virginia/priorities)  
