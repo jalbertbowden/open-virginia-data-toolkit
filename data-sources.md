@@ -5,6 +5,14 @@
 [Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
 [Feed - GTFS Data Exchange - Hampton Roads Transit (HRT)](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/feed)  
 
+## Virginia FIPS Codes  
+[Maps: Virginia Counties and FIPS Codes](http://www.nws.noaa.gov/mirs/public/prods/maps/cnty_fips_virginia.htm)  
+[Maps: Virginia Counties and FIPS Codes (JPG)](http://www.nws.noaa.gov/mirs/public/prods/maps/map_images/state-maps/cnty_fips/va_cnty.jpg)  
+[Maps: Virginia Counties and FIPS COdes (PDF)](http://maps.redcross.org/website/Maps/Images/Virginia/va_cnty.pdf)  
+[County FIPS Code Listing for the State of Virginia - EPA](http://web.archive.org/web/20150312004723/http://www.epa.gov/envirofw/html/codes/va.html)  
+[VDH TR FIPS Codes](https://www.vdh.virginia.gov/OEMS/Training/TPAM/Forms/TR-Fips Codes.pdf)  
+
+
 [Conservation Priorities in Virginia](http://www.landscope.org/virginia/priorities)  
 [Virginia NPL (National Priorities List)](http://www.epa.gov/superfund/national-priorities-list-npl-sites-state#VA)  
 [Chesapeake Open Data Portal](http://www.cityofchesapeake.net/government/City-Departments/Departments/Information-Technology-Department/open-data-portal.htm)  
