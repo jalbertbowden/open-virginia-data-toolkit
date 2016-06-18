@@ -5,6 +5,18 @@
 [Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
 [Feed - GTFS Data Exchange - Hampton Roads Transit (HRT)](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/feed)  
 
+[Listing of Federal Firearms Licensees (FFLs) - 2016](https://www.atf.gov/firearms/listing-federal-firearms-licensees-ffls-2016)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-01 XLS](https://www.atf.gov/firearms/docs/0116-ffl-list-virginiaxlsx/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-01 TXT](https://www.atf.gov/firearms/docs/0116-ffl-list-virginiatxt/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-02 XLS](https://www.atf.gov/firearms/docs/0216-ffl-list-virginiaxlsx/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-02 TXT](https://www.atf.gov/firearms/docs/0216-ffl-list-virginiatxt/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-03 XLS](https://www.atf.gov/firearms/docs/0316-ffl-list-virginiaxlsx/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-03 TXT](https://www.atf.gov/firearms/docs/0316-ffl-list-virginiatxt/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-04 XLS](https://www.atf.gov/firearms/docs/0416-ffl-list-virginiaxlsx/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-04 TXT](https://www.atf.gov/firearms/docs/0416-ffl-list-virginiatxt/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-05 XLS](https://www.atf.gov/firearms/docs/0516-ffl-list-virginiaxlsx/download)  
+[Virginia Listing of Federal Firearms Licensees (FFLs) 2016-05 TXT](https://www.atf.gov/firearms/docs/0516-ffl-list-virginiatxt/download)  
+
 ## Virginia FIPS Codes  
 [Maps: Virginia Counties and FIPS Codes](http://www.nws.noaa.gov/mirs/public/prods/maps/cnty_fips_virginia.htm)  
 [Maps: Virginia Counties and FIPS Codes (JPG)](http://www.nws.noaa.gov/mirs/public/prods/maps/map_images/state-maps/cnty_fips/va_cnty.jpg)  
