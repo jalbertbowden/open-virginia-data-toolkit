@@ -1,9 +1,5 @@
 # Virginia Open Data Sources  
   
-## Data Feeds 
-[Virginia Keyword Value Feed - NODC Geoportal GeoRSS](http://data.nodc.noaa.gov/geoportal/rest/find/document?searchText=Virginia&f=csv)  
-[Virginia ESI Maps/GIS Data - response.restoration.noaa.gov](http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia)  
-[Feed - GTFS Data Exchange - Hampton Roads Transit (HRT)](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/feed)  
 
 [Listing of Federal Firearms Licensees (FFLs) - 2016](https://www.atf.gov/firearms/listing-federal-firearms-licensees-ffls-2016)  
 [Virginia Listing of Federal Firearms Licensees (FFLs) 2016-01 XLS](https://www.atf.gov/firearms/docs/0116-ffl-list-virginiaxlsx/download)  
