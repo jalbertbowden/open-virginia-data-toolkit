@@ -1,0 +1,7 @@
+Data Source,Feed Title,URL
+Hampton Police Department,Feed - Officer Involved Shootings,https://data.hampton.gov/api/views/nhh2-ywzf/rows.rss
+Hampton Police Department,Feed - Police Shared Calendar,https://data.hampton.gov/api/views/xe6h-9454/rows.rss
+Hampton Police Department,Feed - Quarterly Incidents Report - Listing,https://data.hampton.gov/api/views/r23z-sjdf/rows.rss
+Hampton Roads Transit (HRT),GTFS Data Exchange Feed,http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/feed  
+NODC Geoportal GeoRSS,Virginia Keyword Value Feed,http://data.nodc.noaa.gov/geoportal/rest/find/document?searchText=Virginia&f=csv
+Virginia ESI Maps/GIS Data,response.restoration.noaa.gov,http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia
