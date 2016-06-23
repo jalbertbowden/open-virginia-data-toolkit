@@ -1,6 +1,13 @@
-Locality/Department,URL
-Chesapeake Open GIS Data Portal,http://public.chesva.opendata.arcgis.com/
-Hampton GIS Viewer,http://webgis.hampton.gov/sites/ParcelViewer/
-Norfolk GIS,http://va-norfolk.civicplus.com/index.aspx?NID=1596
-Norfolk Parcel Map Grid (PDFs),http://gis.norfolk.gov/ParcelMaps/quad1.htm
-Norfolk AIR (Address Information Resource),http://norfolkair.norfolk.gov/norfolkair/
+Locality,Title,URL
+Alexandria,GIS Open Data Portal,http://data.alexgis.opendata.arcgis.com/
+Alexandria,GIS Open Data ftp,http://www3.alexandriava.gov/data/GIS/
+Alexandria,GIS Data Fall 2015 (zip),http://www3.alexandriava.gov/data/GIS/GISDataFall2015-Complete.zip
+Alexandria,Energy Data (zip),http://www3.alexandriava.gov/data/GeneralServices/Energy%20Data.zip
+Chesapeake,Open GIS Data Portal,http://public.chesva.opendata.arcgis.com/
+Hampton,GIS Viewer,http://webgis.hampton.gov/sites/ParcelViewer/
+Norfolk,Norfolk GIS Department,http://va-norfolk.civicplus.com/index.aspx?NID=1596
+Norfolk,Norfolk Parcel Map Grid (PDFs),http://gis.norfolk.gov/ParcelMaps/quad1.htm
+Norfolk,Norfolk AIR (Address Information Resource),http://norfolkair.norfolk.gov/norfolkair/
+Norfolk,Norfolk Open GIS Data,http://data.orf.opendata.arcgis.com/
+Virginia Beach,Virginia Beach Open GIS Data,http://gis.data.vbgov.com/
+Virginia,VGIN Geospatial Services,http://www.vita.virginia.gov/isp/default.aspx?id=12096
