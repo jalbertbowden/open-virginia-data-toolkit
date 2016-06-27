@@ -10,7 +10,8 @@
 ## Virginia Roads  
 [Virginia Country Roads](http://www.onlyinyourstate.com/virginia/country-roads-va/)
 
-
+## VDOT  
+[Smart Scale: Funding the Right Transportation Projects](http://www.vasmartscale.org/)  
 [Virginia Department of Transportation](http://www.virginiadot.org/)  
 [Virginia Transportation Research Council](http://vtrc.virginiadot.org/)  
 
