@@ -19,10 +19,21 @@
 
 [@TownofWindsor - Town of Windsor Twitter](https://twitter.com/TownofWindsor)  
 
+
+VAHWDC  	
+[tumblr VAHWDC](http://vahwdc.tumblr.com/)  
+[YouTube VAHWDC](https://www.youtube.com/channel/UCmNwty8TKgkwTu9mhPiJrTg)  
+[tumblr Feed VAHWDC](http://vahwdc.tumblr.com/rss)  
+
+
 [VDH Facebook](http://www.facebook.com/VDHgov)  
 [VDH Twitter](https://twitter.com/vdhgov)  
 [VDH Beach Monitoring Twitter](https://twitter.com/vdhbeach)  
 [VDH Youtube](https://www.youtube.com/channel/UCKhLlujgbrx7hsyH5cXTnKQ)  
+VEC  
+[VECVideographer's YouTube Channel](https://www.youtube.com/channel/UCBzZZXX102KSw3MyJ-7nqzA)  
+[@VirginiaLMI - VEC	Twitter](https://twitter.com/VirginiaLMI)  
+
 
 
 [VEDP's YouTube Channel](http://www.youtube.com/user/VirginiaEconomicDev?feature=watch)  
