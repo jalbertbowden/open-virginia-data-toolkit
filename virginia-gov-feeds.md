@@ -14,4 +14,11 @@
 [DEQ News Feed - Coal ash information](http://www.deq.virginia.gov/lists/?action=show_list&amp;id=36)  
 [DEQ News Clips](http://www.deq.virginia.gov/info/newsclipsrss.php) 
 
+## DMV Feeds  
+[Virginia DMV News and Information Feed](http://www.dmv.state.va.us/about/feeds/rss/dmv.asp)  
+[DMV's Virginia Highway Safety Office Feed](http://www.dmv.state.va.us/about/feeds/rss/_safety.asp)  
+[Notices of Motor Carrier Certificate/License Applicants Feed](http://www.dmv.state.va.us/about/feeds/rss/mcs_authority_notifications.asp)  
+[http://www.dmv.state.va.us/about/#feeds/rss.asp](http://www.dmv.state.va.us/about/#feeds/rss.asp)  
+
+## VDH  
 [VDH - Virginia Department of Health](http://www.vdh.virginia.gov/feed/)  
