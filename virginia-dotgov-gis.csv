@@ -11,5 +11,8 @@ Norfolk,Norfolk AIR (Address Information Resource),http://norfolkair.norfolk.gov
 Norfolk,Norfolk Open GIS Data,http://data.orf.opendata.arcgis.com/
 Staunton, Geographic Information Systems, http://www.staunton.va.us/custom/gis
 Staunton, Maps and Apps, http://gis.ci.staunton.va.us:8087/mapsandapps/
+Staunton, Downloadable Maps Photos (FTP), ftp://64.4.114.181/
+Staunton, Additional Map Layers, http://www.arcgis.com/home/item.html?id=4bf2ba6d92a647b68a4e25566d0f80bf
+Staunton, Service/LayerMap (MapServer) - ArcGIS REST Services Directory, http://gis.ci.staunton.va.us:8087/stagis/rest/services/Services/LayerMap/MapServer
 Virginia Beach,Virginia Beach Open GIS Data,http://gis.data.vbgov.com/
 Virginia,VGIN Geospatial Services,http://www.vita.virginia.gov/isp/default.aspx?id=12096
