@@ -102,6 +102,19 @@ Provides vital statistics at the county level.  Developed by the VCU Center on H
 
 [State and Local Health Statistics Online - VCU Libraries Research Guides](http://guides.library.vcu.edu/c.php?g=47760&p=298735)  
 [Insure More Virginians via Wayback Machine 2009](http://web.archive.org/web/20090615204210/http://insuremorevirginians.net/)  
+[CACV (Cancer Action Coalition of Virginia)](http://cancercoalitionofvirginia.org/)  
+[Virginia Cancer Data - CACV](http://cancercoalitionofvirginia.org/pages/VaCancerData.html)  
+[SeniorNavigator](http://www.virginianavigator.org/sn/senior-navigator-home-page)  
+[Smoke Free](http://www.smokefree.gov/)  
+[Susan G. Komen for the Cure](http://www.komen.org/)  
+[Tobacco Free Kids](http://tobaccofreekids.org)  
+[Virginia Department of Health | Behavioral Risk Factor Surveillance System ](http://www.vdh.virginia.gov/livewell/data/surveys/brfss/)  
+[Virginia Department of Health | Cancer Prevention and Control Program](http://www.vdh.virginia.gov/livewell/programs/cancer/ccc.html)  
+[Virginia Department of Health | Data Charts &amp; Tables](https://www.vdh.virginia.gov/HealthStats/stats.htm)  
+[Virginia Department of Health Division of Health Statistics Statistical Reports and Tables](http://www.vdh.virginia.gov/healthstats/stats.htm)  
+[Virginia Department of Health | Tobacco Use Control Project](http://www.vdh.virginia.gov/livewell/programs/tobacco/about.html)  
+[Virginia Department of Health | Virginia Cancer Registry](http://www.vdh.virginia.gov/livewell/data/records/cancerregistry/)  
+[Virginia Prostate Cancer Coalition](http://vapcacoalition.org/)  
 
 
 
