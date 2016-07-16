@@ -93,6 +93,11 @@ Provides vital statistics at the county level.  Developed by the VCU Center on H
 [Datasets - HealthData.gov](http://www.healthdata.gov/dataset?f%5B0%5D=type%3Adataset)  
 [GIS Resources - Geo-Spatial Data/Resources](http://www.cdc.gov/dhdsp/maps/gisx/resources/geo-spatial-data.html)  
 
+
+## Virginia CDC Data  
+
+[Virginia - State Cancer Facts](https://nccd.cdc.gov/StateCancerFacts/State.aspx?state=Virginia)  
+
 ## References/Resources  
 
 [State and Local Health Statistics Online - VCU Libraries Research Guides](http://guides.library.vcu.edu/c.php?g=47760&p=298735)  
