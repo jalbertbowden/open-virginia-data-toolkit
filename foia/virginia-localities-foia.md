@@ -21,7 +21,11 @@
 [Common Exemptions](http://va-hampton2.civicplus.com/3072/Common-Exemptions)  
 [Policy Regarding the Use of Exemptions](http://va-hampton2.civicplus.com/3081/Policy-Regarding-Exemptions)  
 
-
+## Suffolk  
+[City of Suffolk, Virginia](http://www.suffolkva.us/)  
+[FOIA Rights & Responsibilities - City of Suffolk FOIA Office](http://www.suffolkva.us/foia/)  
+[Email FOIA Office](foia@suffolkva.us)  [Freedom of Information Act Rights &amp; Responsibilities](http://www.suffolkva.us/download_file/view/14500/9286/)  
+[City of Suffolk Freedom of Information Act (FOIA) Request Form (PDF)](http://www.suffolkva.us/download_file/view/12829/9286/128/)  
 
 ## Staunton  
 [Public Records: Freedom of Information Act](http://www.staunton.va.us/directory/departments-a-g/city-manager/public-records-freedom-of-information-act)  
