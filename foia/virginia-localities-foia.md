@@ -1,5 +1,11 @@
 # Virginia Localities (Cities, Counties, and Towns) FOIA  
 
+## Alexandria  
+[Requesting Public Records (FOIA) | City Attorney | City of Alexandria, VA](https://www.alexandriava.gov/FOIA)  
+[FOIA Email](FOIArequests@alexandriava.gov)  
+[Will I Have to Pay for the Records](https://www.alexandriava.gov/FOIA#WillIHavetoPayfortheRecords)  
+[When Can a Request Be Denied?](https://www.alexandriava.gov/FOIA#WhenCanaRequestBeDenied)  
+
 ## Augusta County  
 [Freedom of Information Act (FOIA)](http://www.co.augusta.va.us/Index.aspx?page=312)  
 [FOIA Email](foia@co.augusta.va.us)  
