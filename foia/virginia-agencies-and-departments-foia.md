@@ -16,10 +16,17 @@
 [Northern Regional Office FOIA Email](NROfoia@deq.virginia.gov)  
 [Southwest Regional Office FOIA Email](swrofoia@deq.virginia.gov)  
 [Piedmont Regional Office FOIA Email](profoia@deq.virginia.gov)  
-[Valley Regional Office](vrofoia@deq.virginia.gov)  
-[Blue Ridge Regional Office, Roanoke](foiaroanoke@deq.virginia.gov)  
-[Blue Ridge Regional Office, Lynchburg -- TRY THIS - No clue if it works, just fits the pattern...](foialynchburg@deq.virginia.gov)  
-[Tidewater Regional Office](trofoias@deq.virginia.gov)  
+[Valley Regional Office FOIA Email](vrofoia@deq.virginia.gov)  
+[Blue Ridge Regional Office, Roanoke FOIA Email](foiaroanoke@deq.virginia.gov)  
+[Blue Ridge Regional Office, Lynchburg FOIA Email -- TRY THIS - No clue if it works, just fits the pattern...](foialynchburg@deq.virginia.gov)  
+[Tidewater Regional Office FOIA Email](trofoias@deq.virginia.gov)  
+[DEQ Appendix MM Confidential Information Guidance (PDF)](http://www.deq.virginia.gov/Portals/0/DEQ/Air/appendixmm.pdf)  
+[DEQ FOIA List of Custodians and Coordinators](http://www.deq.virginia.gov/Portals/0/DEQ/ConnectwithDEQ/FreedomofInformationAct/CustAndCoordList.pdf)  
+[Virginia Freedom of Information Act Compliance 2011-10-27](http://www.deq.virginia.gov/Portals/0/DEQ/AboutUs/FOIA/2011_DEQ_FOIA_Policy.pdf)  
+
+## DHCD  
+[Virginia Department of Housing and Community Development](http://www.dhcd.virginia.gov/)  
+[Virginia Freedom of Information ACT (FOIA)](http://www.dhcd.virginia.gov/index.php/component/content/article/142.html)  
 
 ## DMME  
 [Virginia Department of Mines, Minerals and Energy](https://www.dmme.virginia.gov/)  
