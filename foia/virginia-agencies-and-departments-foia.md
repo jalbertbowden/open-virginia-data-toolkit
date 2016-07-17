@@ -4,6 +4,23 @@
 [Virginia Department of Conservation and Recreation](http://www.dcr.virginia.gov/)  
 [Freedom of Information Act](http://www.dcr.virginia.gov/privacy#foia)  
 
+## DEQ  
+[Virginia Department of Environmental Quality](http://www.deq.virginia.gov/ConnectWithDEQ/FreedomOfInformationAct.aspx)  
+[FOIA Request Form (PDF)](http://www.deq.virginia.gov/Portals/0/DEQ/ConnectwithDEQ/FreedomofInformationAct/FOIARequestForm.pdf)  
+[DEQ's Policy](http://www.deq.virginia.gov/ConnectWithDEQ/FreedomofInformationAct/DEQsPolicy.aspx)  
+[DEQ Freedom of Information Act Policy (PDF)](http://www.deq.virginia.gov/Portals/0/DEQ/ConnectwithDEQ/FreedomofInformationAct/DEQFOIAPolicy.pdf)  
+[DEQ Freedom of Information Act Policy Appendix - FOIA Costs (pdf)](http://www.deq.virginia.gov/Portals/0/DEQ/ConnectwithDEQ/FreedomofInformationAct/FOIACosts.pdf)  
+[Making a Request for Records from DEQ](http://www.deq.virginia.gov/ConnectWithDEQ/FreedomofInformationAct/RightsResponsibilities.aspx)  
+[Costs](http://www.deq.virginia.gov/ConnectWithDEQ/FreedomofInformationAct/FOIACosts.aspx)  
+[Regional FOIA Contacts](http://www.deq.virginia.gov/ConnectWithDEQ/FreedomofInformationAct/RegionalFOIAContacts.aspx)  
+[Northern Regional Office FOIA Email](NROfoia@deq.virginia.gov)  
+[Southwest Regional Office FOIA Email](swrofoia@deq.virginia.gov)  
+[Piedmont Regional Office FOIA Email](profoia@deq.virginia.gov)  
+[Valley Regional Office](vrofoia@deq.virginia.gov)  
+[Blue Ridge Regional Office, Roanoke](foiaroanoke@deq.virginia.gov)  
+[Blue Ridge Regional Office, Lynchburg -- TRY THIS - No clue if it works, just fits the pattern...](foialynchburg@deq.virginia.gov)  
+[Tidewater Regional Office](trofoias@deq.virginia.gov)  
+
 ## DMME  
 [Virginia Department of Mines, Minerals and Energy](https://www.dmme.virginia.gov/)  
 [File a FOIA Request](https://www.dmme.virginia.gov/DMLR/DmlrRecordsFOIA.shtml)  
