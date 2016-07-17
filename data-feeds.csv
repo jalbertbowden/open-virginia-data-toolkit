@@ -1,0 +1,21 @@
+Data Source,Feed Title,URL
+Danville Police Department,Feed- Grant Funding,https://performance.danvilleva.gov/api/views/j7fw-vchi/rows.rss
+Danville Police Department,Feed- Property Crimes - Larceny,https://performance.danvilleva.gov/api/views/yhes-5s8j/rows.rss
+Danville Police Department,Feed - Property Crimes - Motor Vehicle Theft,https://performance.danvilleva.gov/api/views/f8qq-ugyy/rows.rss
+Danville Police Department,Feed - Property Crime Rate,https://performance.danvilleva.gov/api/views/cyse-nc7i/rows.rss
+Danville Police Department,Feed - Property Crimes - Arson,https://performance.danvilleva.gov/api/views/5cyg-45x7/rows.rss
+Danville Police Department,Feed - Violent Crimes - Rape,https://performance.danvilleva.gov/api/views/66bz-bjpe/rows.rss
+Danville Police Department,Feed - Violent Crimes - Robbery,https://performance.danvilleva.gov/api/views/4y4c-z8ye/rows.rss
+Danville Police Department,Feed - Chart - Violent Crimes: Robberies,https://performance.danvilleva.gov/api/views/pqm7-ngkd/rows.rss
+Danville Police Department,Feed - Chart - Property Crimes: Larcenies,https://performance.danvilleva.gov/api/views/ve37-ryjc/rows.rss
+Danville Police Department,Feed - Chart - Property Crime Rate,https://performance.danvilleva.gov/api/views/cvkj-xkwu/rows.rss
+Danville Police Department,Feed - Chart - Property Crimes - Arson,https://performance.danvilleva.gov/api/views/wk77-r8t9/rows.rss
+Danville Police Department,Feed - Chart - Property Crime; Motor Vehicle Theft,https://performance.danvilleva.gov/api/views/76c7-6y8s/rows.rss
+Danville Police Department,Feed - Chart - Property Crime: Burglary,https://performance.danvilleva.gov/api/views/amup-sesh/rows.rss
+Danville Police Department,Feed - Chart - Violent Crimes: Rape,https://performance.danvilleva.gov/api/views/2x25-pcyk/rows.rss
+Hampton Police Department,Feed - Officer Involved Shootings,https://data.hampton.gov/api/views/nhh2-ywzf/rows.rss
+Hampton Police Department,Feed - Police Shared Calendar,https://data.hampton.gov/api/views/xe6h-9454/rows.rss
+Hampton Police Department,Feed - Quarterly Incidents Report - Listing,https://data.hampton.gov/api/views/r23z-sjdf/rows.rss
+Hampton Roads Transit (HRT),GTFS Data Exchange Feed,http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/feed  
+NODC Geoportal GeoRSS,Virginia Keyword Value Feed,http://data.nodc.noaa.gov/geoportal/rest/find/document?searchText=Virginia&f=csv
+Virginia ESI Maps/GIS Data,response.restoration.noaa.gov,http://response.restoration.noaa.gov/maps-and-spatial-data/download-esi-maps-and-gis-data.html#Virginia

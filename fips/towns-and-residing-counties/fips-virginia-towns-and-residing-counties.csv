@@ -1,4 +1,4 @@
-,,
+Town,County,FIPS Code
 Abingdon,Washington County,00148
 Accomac,Accomack County,00180
 Alberta,Brunswick County,00724
@@ -24,7 +24,7 @@ Branchville,Southampton County,09208
 Bridgewater,Rockingham County,09656
 Broadway,Rockingham County,10040
 Brodnax,Mecklenburg County,10072
-,Brunswick County,10072
+Brodnax,Brunswick County,10072
 Brookneal,Campbell County,10296
 Buchanan,Botetourt County,10744
 Burkeville,Nottoway County,11560
