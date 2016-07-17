@@ -8,4 +8,6 @@
 [Fauquier County FOIA Request Form](http://www.fauquiercounty.gov/home/showdocument?id=10597)  
 [Fauquier County FOIA Officers](http://www.fauquiercounty.gov/government/departments-a-g/county-attorney/foia-contacts)  
 
-
+## Staunton  
+[Public Records: Freedom of Information Act](http://www.staunton.va.us/directory/departments-a-g/city-manager/public-records-freedom-of-information-act)
+[Making a FOIA Request FAQs - Staunton, Virginia (PDF)](http://www.staunton.va.us/directory/departments-a-g/city-manager/foia-facts)  
