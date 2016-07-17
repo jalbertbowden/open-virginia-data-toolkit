@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en-US" class="bb_wrapper">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Leaflet.js Map</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="wwc-stylee.css" />
+    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+<style>
+  </style>
+  </head>
+  <body>
+  	<div class="content">
+      <header><h1>Leaflet.js Map</h1></header>
+      <aside>
+        <h1><a id="logo" href="https://sunlightfoundation.com">Sunlight Foundation</a></h1>
+        <nav class="nav">
+  	      <ul>
+  	        <li><a href="#blogposts">Open Data Cities</a></li>
+  	        <li><a href="#about">About</a></li>
+  	      </ul>
+  	    </nav>
+      </aside>
+  	  <div class="maincontent">
+  	    <section id="wwc-map">
+          <div id="mapid" style="width:100%; height:800px"></div>
+  	  	</section>
+  	  	<section id="wwc-about">
+  	  	  <h2><a id="about" href="#nogo">About</a></h2>
+          <ul class="xoxo content-list">
+            <li><p>This framework is a result of the work the <a href="">Sunlight Foundation</a> is doing in conjunction with the <a href="">What Works Cities</a> project.</p></li>
+  	  	    <li><p>Launched by Bloomberg Philanthropies in April 2015, What Works Cities is a national initiative to help 100 mid-sized American cities enhance their use of data and evidence to improve services, inform local decision-making and engage residents. We are the nation's most comprehensive initiative helping local leaders identify and invest in what works.</p></li>
+          </ul>
+  	  	</section>
+  	  	<footer>
+          <ul class="xoxo">
+            <li class="wwc-logo-headliner"><a class="wwc-logo" id="wwc-logo-wwc" href="http://whatworkscities.bloomberg.org/"><img src="i/what-works-cities-black-logo-w400.png" alt="What Works Cities" /></a>
+              <a class="wwc-logo" id="wwc-logo-sf" href="https://sunlightfoundation.com"><img src="i/sunlight-foundation-offset-print-logo-w150.png" alt="Sunlight Foundation" /></a></li>
+            <li class="clearboth"><em>In collaboration with</em></li>
+          </ul>
+  	  	</footer>
+  	  </div>
+  	</div>
+<script src="https://code.jquery.com/jquery-1.8.3.min.js" integrity="sha256-YcbK69I5IXQftf/mYD8WY0/KmEDCv1asggHpJk1trM8=" crossorigin="anonymous"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+<-- <script src="jquery.leaflet.wwc.js"></script> -->
+<script>
+    $(document).ready(function(){
+      // url to get geoJSON from
+      // virginia-swimming-advisories-and-monitored-beaches-map-vdh-googlemymap.geojson
+      var jsonURL = "virginia-swimming-advisories-and-monitored-beaches-map-vdh-googlemymap.geojson";
+      // get the getJSON from url
+      $.getJSON(jsonURL, function(data) {
+
+        // gets the locations in the geoJSON that have a city property
+        var locations = [];
+        $.each(data['features'], function(key, val) {
+          if (val['properties'].hasOwnProperty('City') && val['properties']['City'] != '') {
+            locations.push(val);
+          }
+        });
+
+        // set up map
+        var map = L.map('mapid').setView([38, -97], 4);
+        var mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; ' + mapLink + ' Contributors',
+          maxZoom: 18
+        }).addTo(map);
+
+        // set up icons for markers
+        var wwcIcon = L.icon({ iconUrl: 'pin-wwc.png', iconSize: [24, 38] });
+        var odpIcon = L.icon({ iconUrl: 'pin.png', iconSize: [24, 38]});
+
+        // iterate over locations in geoJSON which have cities (previously extracted above) and create markers
+        // on the map. The coordinates are flipped because of translation from lat/lng to x/y coordinates.
+        for (var i = 0; i < locations.length; i++) {
+          // determine which icon to use based on property in geoJSON using ternary operator (shorthand if/else)
+          var icon = locations[i]['properties']['WWC'] == 'True' ? wwcIcon : odpIcon;
+          // get coordinates of location.
+          var coords = locations[i]['geometry']['coordinates'];
+          
+// {"type":"Feature","properties":{
+//		"County":"Montgomery County",
+//		"Date":"12/04/2012",
+//		"Legal Means":"Legislation",
+//		"Policy URL":"http://www6.montgomerycountymd.gov/content/council/pdf/agenda/cm/2012/121126/20121126_GO2.pdf",
+//		"WWC":"False"}
+// // county
+// {"type":"Feature","properties":{"County":"Howard County","Date":"7/7/2014","Legal Means":"Legislation","Policy URL":"https://apps.howardcountymd.gov/olis/LegislationDetail.aspx?LegislationID=839","WWC":"False"}
+// city
+// {"type":"Feature","properties":{"City":"Oakland, CA","Date":"10/15/2013","Legal Means":"Legislation","Policy URL":"http://www.scribd.com/doc/171673962/Resolution-Establishing-An-Open-Data-Policy-For-The-City-Of-Oakland-For-Making-Public-Data-Available-In-Machine-Readable-Formats-Using-Open-Data-Stand","WWC":"False"},"geometry":{"type":"Point","coordinates":[-122.2723388671875,37.814123701604466]}}
+
+// using county here...pretty sure city is needed also...use both or go with "locality"? something else?
+// datetime=\"" . locations[i]['properties']['Date'] + "\"
+// var v01 = "<h1>" + locations[i]['properties']['Date'] + "<b style='font-size:65px; display:block'>v01</b>" + locations[i]['properties']['Policy URL'] + "</h1>";
+          var mapPinDate = "<time datatime=\"" + locations[i]['properties']['Date'] + "\">" + locations[i]['properties']['Date'] + "</time>"; 
+          var mapPinLinkPolicyURL = "<a href=\"" + locations[i]['properties']['Policy URL'] + "\">Policy URL</a>";
+          var mapPinH1 = "<h1 class=\"map-pin-h1\">" + locations[i]['properties']['City'] + "</h1>";
+          
+          // ask andy
+          // var mapPinList = "<ul class\"xoxo map-pin-list\">";
+          // mapPinList += "<li>Link One</li>";
+          // mapPinList += "</ul>";
+          
+          var mapPinList01 = "<ul class\"xoxo map-pin-list\">";
+          var mapPinList02 = "<li>" + mapPinH1 + "</li>";
+          var mapPinList03 = "<li>" + mapPinLinkPolicyURL + "</li>";
+          var mapPinList04 = "<li><b>Date Signed:</b> " + mapPinDate + "</li>";
+          var mapPinList05 = "<li><b>Legal Means</b>: " + locations[i]['properties']['Legal Means'] + "</li>";
+          var mapPinListClose = "</ul>";
+          var mapPinListContent = mapPinList01 + mapPinList02 + mapPinList03 + mapPinList04 + mapPinList05 + mapPinListClose;
+          var mapPinContent = "<div class=\"map-pin-content\">" + mapPinListContent + "</div>";
+          
+
+          // create marker at specified coordinates (swapped to convert lat/lng to x/y) and add popup on click.
+          // var marker = L.marker([coords[1], coords[0]], {icon: icon}).bindPopup('<a href="' + locations[i]['properties']['Policy URL'] + '">Policy Link</a>').addTo(map);
+          var marker = L.marker([coords[1], coords[0]], {icon: icon}).bindPopup(mapPinContent).addTo(map);
+          
+          
+        }
+      });
+    });
+</script>
+  </body>
+</html>

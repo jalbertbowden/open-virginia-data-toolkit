@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Virginia Population Density by Locality &#45; Chloropleth Leaflet Layers Control Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="leaflet.css" />
+    <link rel="stylesheet" href="demo.css" />
+<style>
+*{margin:0; padding:0; border:none}
+html{overflow-y:scroll} /** prevent firefox scrollbar jump. firefox hides vertical scrollbar if content < visibile window by default **/
+body{font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing:antialiased} 
+body:before{content:""; position:fixed; top:20px; left:0; width:100%; height:15px; z-index:100; -webkit-box-shadow:0px 0px 10px rgba(0,0,0,.9); -moz-box-shadow:0px 0px 10px rgba(0,0,0,.9); box-shadow:0px 0px 10px rgba(0,0,0,.9)}
+
+
+
+.main-content{position:relative; top:35px}
+#map{height:100%; min-height:600px}
+
+
+header{position:fixed; height:35px; width:100%; background-color:#fff; z-index:10000}
+header .title{text-indent:1em; height:35px; line-height:35px; font-weight:300; font-family:Arial,Helvetica,sans-serif; font-size:17px;
+color:#000; text-shadow:#333 1px 1px 2px; cursor:pointer; -moz-user-select:none; -webkit-user-select:none; user-select:none; 
+float:left;
+}
+header:before{content:""; position:fixed; top:-15px; left:0; width:100%; height:15px; z-index:100; -webkit-box-shadow:0px 0px 10px rgba(0,0,0,.9); -moz-box-shadow:0px 0px 10px rgba(0,0,0,.9); box-shadow:0px 0px 10px rgba(0,0,0,.9)}
+
+
+.logo{height:100%; float:right; margin-right:1em}
+
+.logo a{display:block; color:#000; height:35px; line-height:35px; font-size:14px; width:93px; text-indent:-9999px; background-position:0 0; background-repeat:no-repeat;
+background-image:url("http://dev.bowdenweb.com/od/heatmap-js/demo/maps_heatmap_layer/code-for-america-brigade-badge-h35.png"); 
+
+/** background-image:url("http://dev.bowdenweb.com/od/cfa/a/i/brigade-captains-trans-035.png");  **/
+}
+
+@media print {
+  html, body {
+    height: auto;
+  }
+
+  #map_canvas,#heatmapArea{
+    height: 650px;
+  }
+}
+
+
+.h1-pagetitle{z-index:10; position:absolute; width:100%; height:30px; background-color:#fff}
+.content .main-content{position:relative;}
+
+.citations,.infolist,.info.legend{list-style-type:none}
+
+
+.citations{height:16px; outline:1px solid #000}
+.citations li{display:block; float:left}
+.citations a{display:block; float:left}
+.seoispretty{text-indent:-9999px; background-position:0 0; display:block; float:left}
+.citations abbr{text-decoration:none; font-variant:small-caps}
+
+.cc-by{background-image:url("http://dev.bowdenweb.com/maps/leaflet/ex/va-counties/cc-by-016.png")}
+.cc-cc{background-image:url("cc-cc-016.png")}
+.leafletjs{background-image:url("leaflet.js-016.png")}
+.osm{background-image:url("osm-logoicon-016.png")}
+
+
+.leafletjs{}
+.osm{}
+.cc{}
+.mapbox{}
+
+
+.infotitle{}
+.infolist{}
+.infolist li{}
+.infolist b{}
+.infolist sup{}
+
+
+
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <header>
+      <h1 class="title">Virginia Population Density by Locality &#45; <b class="titlepiece">Chloropleth Leaflet Layers Control Example</b></h1>
+      <h1 class="logo logovb"><a href="http://codeforvirginiabeach.org/">Code for Virginia Beach &#45; A <abbr title="Code for America">CfA</abbr> Brigade</a></h1>
+      <!-- <h1 class="logo logocfa"><a href="http://codeforamerica.org/" title="Code for America &#124; A New Kind of Public Service">Code for America</a></h1> -->
+    </header>
+      <div class="main-content">
+        <div id="map"></div>
+        <p><cite><a href="http://leafletjs.com/examples/choropleth-example.html">via http://leafletjs.com/examples/choropleth-example.html</a></cite></p>
+      </div>
+    </div>
+  </body>
+<script src="leaflet2.js"></script>
+<script src="population-density.geojson"></script>
+<script>
+var map = L.map('map').setView([37.750, -79.0000], 7);
+L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: '<ul class="citations">' +
+	'<li><a href="http://leafletjs.com">Powered by <b class="seoispretty">Leaflet&#45; A <abbr title="JavaScript">js</abbr> library for interactive maps</b><img src="http://dev.bowdenweb.com/maps/leaflet/ex/va-counties/leaflet.js-016.png" alt="Leaflet.js" /></a></li>' +
+	'<li><a href="http://openstreetmap.org">&#32;Map data &copy;&#32; <b class="seoispretty"><abbr title="OpenStreetMaps">osm</abbr></b><img src="http://dev.bowdenweb.com/maps/leaflet/ex/va-counties/osm-logoicon-016.png" alt="OSM &#45; OpenStreetMaps" /> contributors, </a></li>' +
+	'<li><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><b class="seoispretty"><abbr title="Creative Commons By Share Alike">CC-BY-SA</abbr></b><img src="http://dev.bowdenweb.com/maps/leaflet/ex/va-counties/cc-sa-016.png" alt="CC-BY-SA" /></a></li> ' +
+	'<li><a href="http://mapbox.com">Imagery © <b class="seoispretty">Mapbox</b><img src="http://dev.bowdenweb.com/maps/leaflet/ex/va-counties/mapbox-016.png" alt="Mapbox" /></a></li>',
+	id: 'examples.map-20v6611k'
+}).addTo(map);
+// control that shows state info on hover
+var info = L.control({prefix: 'Leaflet'});
+info.onAdd = function (map) {
+	this._div = L.DomUtil.create('div', 'info');
+	this.update();
+	return this._div;
+};
+info.update = function (props) {
+	this._div.innerHTML = '<h4 class="infotitle">Virginia Population Density</h4><ul class="infolist">' +  (props ?
+	'<li><b>Population Density Rank</b>' + props.popdensityrank + '</li><li><b>Population</b>' + props.population + '</li><li><b>Locality</b>' + props.name + '</li><li><b>Population Density</b>' + props.density + ' people / mi<sup>2</sup></li></ul>'
+	: '<li>Hover over a locality</li></ul>');
+};
+info.addTo(map);
+// get color depending on population density value
+function getColor(d) {
+	return d > 3000 ? '#800026' :
+		d > 2000  ? '#bd0026' :
+		d > 1500  ? '#e31a1c' :
+		d > 1000  ? '#fc4e2a' :
+		d > 750   ? '#fd8d3c' :
+		d > 500   ? '#feb24c' :
+		d > 250   ? '#fed976' :
+		'#ffeda0';
+}
+function style(feature) {
+	return {
+		weight: 2,
+		opacity: 1,
+		color: '#fff',
+		dashArray: '3',
+		fillOpacity: 0.7,
+		fillColor: getColor(feature.properties.density)
+	};
+}
+function highlightFeature(e) {
+	var layer = e.target;
+	layer.setStyle({
+		weight: 5,
+		color: '#666',
+		dashArray: '',
+		fillOpacity: 0.7
+	});
+	if (!L.Browser.ie && !L.Browser.opera) {
+		layer.bringToFront();
+	}
+	info.update(layer.feature.properties);
+}
+var geojson;
+function resetHighlight(e) {
+	geojson.resetStyle(e.target);
+	info.update();
+}
+function zoomToFeature(e) {
+	map.fitBounds(e.target.getBounds());
+}
+function onEachFeature(feature, layer) {
+	layer.on({
+		mouseover: highlightFeature,
+		mouseout: resetHighlight,
+		click: zoomToFeature
+	});
+}
+geojson = L.geoJson(virginiaLocalities, {
+	style: style,
+	onEachFeature: onEachFeature
+}).addTo(map);
+map.attributionControl.addAttribution('<li>Population data &copy;</li><li><a href="http://census.gov/">US Census Bureau</a></li></ul>');
+var legend = L.control({position: 'bottomright'});
+legend.onAdd = function (map) {
+	var mapLegend = L.DomUtil.create('ol', 'info legend'),grades = [0, 250, 500, 750, 1000, 1500, 2000, 3000],labels = [],from, to;
+	for (var i = 0; i < grades.length; i++) {
+		from = grades[i];
+		to = grades[i + 1];
+		labels.push(
+			'<li><i style="background-color:' + getColor(from + 1) + '"></i> ' +
+			from + (to ? '&ndash;' + to : '+'));
+	}
+	mapLegend.innerHTML = labels.join('</li>');
+	return mapLegend;
+};
+legend.addTo(map);
+</script>
+</html>
