@@ -55,6 +55,11 @@
 [en Español (PDF)](http://www.virginiadot.org/info/resources/FOIA_espanol.pdf)  
 
 
+## VEC  
+[Virginia Employment Commission](http://www.vec.virginia.gov/)  
+[Virginia Freedom of Information Act (DOC)](https://www.vec.virginia.gov/docs/generaldocs/documents/freedom_of_information_act.doc)  
+[Virginia Freedom of Information Act (PDF)](https://www.vec.virginia.gov/sites/default/files/documents/Virginia-Freedom-Of-Information-Act.pdf)  
+
 ## VTC
 [Virginia is for Lovers - Virginia Tourism Board](http://www.virginia.org/)    
 [VTC's privacy policy points to VATC's privacy policy](http://www.virginia.org/privacypolicy/)  
