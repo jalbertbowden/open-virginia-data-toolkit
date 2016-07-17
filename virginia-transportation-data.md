@@ -55,6 +55,11 @@ You can walk the URLs o data by swapping out number in vars appending to URL, ".
 
 [Hampton Traffic Engineering](http://hampton.gov/index.aspx?NID=599)  
 
+## [511 Virginia Data](http://www.511virginia.org/)  
+[Travel Times Table](http://www.511virginia.org/mobile/?menu_id=traveltimes)  
+[Road Conditions Table](http://www.511virginia.org/mobile/?menu_id=conditions)  
+[RSS Feeds](http://www.511virginia.org/mobile/?menu_id=rssfeeds)  
+[Incidents Table](http://www.511virginia.org/mobile/?menu_id=incidents)  
 
 
 [The Route of the Three Notch'd Road: A Preliminary Report](http://www.virginiadot.org/VTRC/main/online_reports/pdf/76-r32.pdf)  
