@@ -21,6 +21,18 @@
 [Freedom of Information Act](http://www.vatc.org/about/FOIA/)  
 [VATC FOIA Policy PDF](http://www.vatc.org/uploadedFiles/Administration/About/Administration_and_Finance/documents/FOIAPolicy.pdf)  
 
+## VDOT  
+[Virginia Department of Transportation](http://www.virginiadot.org/)  
+[Freedom of Information](http://www.virginiadot.org/info/foia.asp)  
+[en Español (PDF)](http://www.virginiadot.org/info/resources/FOIA_espanol.pdf)  
+
+
 ## VTC
 [Virginia is for Lovers - Virginia Tourism Board](http://www.virginia.org/)    
 [VTC's privacy policy points to VATC's privacy policy](http://www.virginia.org/privacypolicy/)  
+
+## Virginia 511  
+[Virginia 500 - VDOT Virginia Traffic Information](http://www.511virginia.org/)  
+[Links to "Freedom of Information Act"](http://www.virginiadot.org/info/foia.asp)  
+
+
