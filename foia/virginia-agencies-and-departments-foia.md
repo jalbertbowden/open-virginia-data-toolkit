@@ -45,6 +45,10 @@
 [Freedom of Information Act](http://www.vatc.org/about/FOIA/)  
 [VATC FOIA Policy PDF](http://www.vatc.org/uploadedFiles/Administration/About/Administration_and_Finance/documents/FOIAPolicy.pdf)  
 
+## VDEM  
+[Virginia Department of Emergency Management](http://www.vaemergency.gov/)  
+[FOIA](http://www.vaemergency.gov/content/foia)  
+
 ## VDOT  
 [Virginia Department of Transportation](http://www.virginiadot.org/)  
 [Freedom of Information](http://www.virginiadot.org/info/foia.asp)  
