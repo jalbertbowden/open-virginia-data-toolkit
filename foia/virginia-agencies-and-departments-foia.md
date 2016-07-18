@@ -75,6 +75,10 @@
 [Virginia is for Lovers - Virginia Tourism Board](http://www.virginia.org/)    
 [VTC's privacy policy points to VATC's privacy policy](http://www.virginia.org/privacypolicy/)  
 
+## Governor  
+[Local Government Recommendations - Conflict of Interest Act, Ethics Reform - governor.virginia.gov (PDF)](https://governor.virginia.gov/media/3406/vml-positions-coia-ethics.pdf)  
+[Information We Collect and How We Use It - Web Policy - governor.virginia.gov](https://governor.virginia.gov/web-policy)  
+
 ## Virginia 511  
 [Virginia 500 - VDOT Virginia Traffic Information](http://www.511virginia.org/)  
 [Links to "Freedom of Information Act"](http://www.virginiadot.org/info/foia.asp)  
