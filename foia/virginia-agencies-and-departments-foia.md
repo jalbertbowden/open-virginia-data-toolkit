@@ -39,6 +39,11 @@
 [File a FOIA Request](https://www.dmme.virginia.gov/DMLR/DmlrRecordsFOIA.shtml)  
 [DMME Form](https://www.dmme.virginia.gov/DMLR/pdf/FOIAForm.pdf)  
 
+## DMV  
+[Department of Motor Vehicles](http://www.dmv.virginia.gov/)  
+[Privacy of Records and Freedom of Information Act (FOIA)](http://www.dmv.virginia.gov/general/#foia.asp)  
+[FOIA Email](foia@dmv.virginia.gov)  
+
 ## DOE  
 [Virginia Department of Education](http://www.doe.virginia.gov/)  
 [Virginia Freedom of Information Act (FOIA)](http://www.doe.virginia.gov/home_files/foia.shtml)  
