@@ -71,6 +71,16 @@
 [Virginia Freedom of Information Act (DOC)](https://www.vec.virginia.gov/docs/generaldocs/documents/freedom_of_information_act.doc)  
 [Virginia Freedom of Information Act (PDF)](https://www.vec.virginia.gov/sites/default/files/documents/Virginia-Freedom-Of-Information-Act.pdf)  
 
+## VSB  
+[Virginia State Board](http://www.vsb.org/)  
+[Requesters’ Rights and the VSB’s Responsibilities under the Virginia Freedom of Information Act](http://www.vsb.org/site/public/virginia_foia)  
+[Discovering FOIA (PDF)](http://www.vsb.org/docs/sections/litigation/Winter2009.pdf)  
+discovering-foia-vsb.org-newsletter-2009-winter
+[Use and Enforcement of Records Demands Under the Virginia Freedom of Information Act (PDF)](http://www.vsb.org/docs/valawyermagazine/vl0215-records-foia.pdf)  
+[Legal Ethics Opinion 1566 - Zealous Representation - Duty to Report: Refusal of Local Government Attornety to Comply with Freedom of Information Act Request (PDF)](https://www.vsb.org/docs/LEO/1566.pdf)  
+[Privacy Policy](https://www.vsb.org/site/about/privacy-policy)  
+[Electronic Communications: Special Legal Requirements for Public Records and Meetings - Virginia Lawyer 2014-10 (PDF)](http://www.vsb.org/docs/valawyermagazine/vl1014-tech.pdf)  
+
 ## VTC
 [Virginia is for Lovers - Virginia Tourism Board](http://www.virginia.org/)    
 [VTC's privacy policy points to VATC's privacy policy](http://www.virginia.org/privacypolicy/)  
