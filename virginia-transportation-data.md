@@ -10,6 +10,24 @@
 ## Virginia Roads  
 [Virginia Country Roads](http://www.onlyinyourstate.com/virginia/country-roads-va/)
 
+## HB2
+[HB2 Project Scores (PDF)](virginiahb2.org/documents/hb2_results_print_version.pdf)  
+[HB2 Public Application Tool](http://hb2app.virginiahb2.org/#/)  
+
+## [VTrans - Office of Intermodal Planning and Investments](http://www.vtrans.org/) 
+[VTrans - The commonwealth’s statewide long-range plan, VTrans, provides a blueprint of Virginia's transportation future](http://www.vtrans.org/vtrans.asp)  
+### VTrans Plans  
+VTrans2040](http://www.vtrans.org/vtrans2040.asp)  
+[VTrans2035 Update](http://www.vtrans.org/vtrans2035_update.asp)  
+[VTrans2035](http://www.vtrans.org/vtrans2035.asp)  
+[VTrans2025](http://www.vtrans.org/vtrans2025.asp)  
+[VMTP 2025 Needs Assessment](http://vtrans.org/vtrans_multimodal_transportation_plan_2025_needs_assessment.asp)  
+[Master Rail Plan for the Port of Virginia 2015-04-16 (PDF)](www.vtrans.org/resources/150416_FINAL_Master_Rail_Plan_for_the_Port_of_Virginia-cvr.pdf)  
+
+## [Smart Scale - Funding the Right Transportation Projects in Virginia](http://vasmartscale.org/)  
+[Smart Scale Projects](http://vasmartscale.org/projects/default.asp)  
+
+
 ## VDOT  
 [Smart Scale: Funding the Right Transportation Projects](http://www.vasmartscale.org/)  
 [Virginia Department of Transportation](http://www.virginiadot.org/)  
