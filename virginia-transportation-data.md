@@ -10,6 +10,24 @@
 ## Virginia Roads  
 [Virginia Country Roads](http://www.onlyinyourstate.com/virginia/country-roads-va/)
 
+## HB2
+[HB2 Project Scores (PDF)](virginiahb2.org/documents/hb2_results_print_version.pdf)  
+[HB2 Public Application Tool](http://hb2app.virginiahb2.org/#/)  
+
+## [VTrans - Office of Intermodal Planning and Investments](http://www.vtrans.org/) 
+[VTrans - The commonwealth’s statewide long-range plan, VTrans, provides a blueprint of Virginia's transportation future](http://www.vtrans.org/vtrans.asp)  
+### VTrans Plans  
+VTrans2040](http://www.vtrans.org/vtrans2040.asp)  
+[VTrans2035 Update](http://www.vtrans.org/vtrans2035_update.asp)  
+[VTrans2035](http://www.vtrans.org/vtrans2035.asp)  
+[VTrans2025](http://www.vtrans.org/vtrans2025.asp)  
+[VMTP 2025 Needs Assessment](http://vtrans.org/vtrans_multimodal_transportation_plan_2025_needs_assessment.asp)  
+[Master Rail Plan for the Port of Virginia 2015-04-16 (PDF)](www.vtrans.org/resources/150416_FINAL_Master_Rail_Plan_for_the_Port_of_Virginia-cvr.pdf)  
+
+## [Smart Scale - Funding the Right Transportation Projects in Virginia](http://vasmartscale.org/)  
+[Smart Scale Projects](http://vasmartscale.org/projects/default.asp)  
+
+
 ## VDOT  
 [Smart Scale: Funding the Right Transportation Projects](http://www.vasmartscale.org/)  
 [Virginia Department of Transportation](http://www.virginiadot.org/)  
@@ -64,3 +82,11 @@ You can walk the URLs o data by swapping out number in vars appending to URL, ".
 
 [The Route of the Three Notch'd Road: A Preliminary Report](http://www.virginiadot.org/VTRC/main/online_reports/pdf/76-r32.pdf)  
 [Turk Mountain Overlook to Rockfish Gap](http://www.guidetosnp.com/web/LogoftheDrive/logs6.aspx) 
+
+## Transportation Commentary/Editorials/Opinions/Articles/Literature
+[Virginia’s New Road Funding Process — Less Political but Still Opaque](http://www.baconsrebellion.com/2016/06/virginias-new-road-funding-process-less-political-but-still-opaque.html)  
+[Layne: Revolutionizing Transportation](http://www.richmond.com/opinion/their-opinion/guest-columnists/article_861b7fe4-fd52-5ef2-b0ec-b4940562154d.html)  
+[Governor McAuliffe Announces Virginia's First Transportation Program Based on an Objective, Data-Driven Prioritization Process](https://governor.virginia.gov/newsroom/newsarticle?articleId=15627)  
+["Transportation" Category Archives on Bacon's Rebellion](http://www.baconsrebellion.com/category/transportation)  
+["Infrastructure" Category Archives on Bacon's Rebellion](http://www.baconsrebellion.com/category/infrastructure)  
+
