@@ -1,5 +1,11 @@
 # Virginia Departments/Agencies FOIA  
 
+## DBHDS  
+[Virginia Department of Behavioral Health & Developmental Services](http://www.dbhds.virginia.gov/)  
+[The Virginia Freedom of Information Act - Rigths and Responsibilities](http://www.dbhds.virginia.gov/about-dbhds/foia-requests)  
+[Costs](http://www.dbhds.virginia.gov/about-dbhds/foia-requests#contentTabData3)  
+[Commonly Used Exceptions](http://www.dbhds.virginia.gov/about-dbhds/foia-requests#contentTabData4)  
+
 ## DCR  
 [Virginia Department of Conservation and Recreation](http://www.dcr.virginia.gov/)  
 [Freedom of Information Act](http://www.dcr.virginia.gov/privacy#foia)  
