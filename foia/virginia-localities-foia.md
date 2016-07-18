@@ -48,6 +48,20 @@ https://www.albemarle.org/department.asp?department=ctyatty&relpage=20636
 [Common Exemptions](http://va-hampton2.civicplus.com/3072/Common-Exemptions)  
 [Policy Regarding the Use of Exemptions](http://va-hampton2.civicplus.com/3081/Policy-Regarding-Exemptions)  
 
+## Loudoun County  
+[Virginia Freedom of Information Act (FOIA)](https://www.loudoun.gov/index.aspx?nid=923)  
+[About the Virginia Freedom of Information Act (FOIA)](https://www.loudoun.gov/index.aspx?NID=3860)  
+[Costs for Records Requests](https://www.loudoun.gov/index.aspx?NID=976)  
+[Exemptions Under FOIA](https://www.loudoun.gov/index.aspx?NID=978)  
+[Loudoun County FOIA Officer](https://www.loudoun.gov/index.aspx?NID=3861)  
+[FOIA Email](FOIA@loudoun.gov)  
+[Health Department Freedom of Information (FOIA) Requests](https://www.loudoun.gov/index.aspx?nid=1437)  
+[Health Department Freedom of Information (FOIA) Request Form](https://www.loudoun.gov/DocumentCenter/View/144)  
+[Submit a FOIA/Freedom of Information Act Request - LEx - Loudoun Express Request](http://iframe.publicstuff.com/#/?client_id=1295&request_type_id=27009)  
+[Submit a Request for Public Records](https://www.loudoun.gov/index.aspx?NID=974)  
+[Types of Public Records](https://www.loudoun.gov/index.aspx?NID=977)  
+[Your Rights and Loudoun County’s Responsibilities](https://www.loudoun.gov/index.aspx?NID=973)  
+
 ## Suffolk  
 [FOIA Rights & Responsibilities - City of Suffolk FOIA Office](http://www.suffolkva.us/foia/)  
 [Email FOIA Office](foia@suffolkva.us)  [Freedom of Information Act Rights &amp; Responsibilities](http://www.suffolkva.us/download_file/view/14500/9286/)  
