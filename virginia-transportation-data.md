@@ -64,3 +64,11 @@ You can walk the URLs o data by swapping out number in vars appending to URL, ".
 
 [The Route of the Three Notch'd Road: A Preliminary Report](http://www.virginiadot.org/VTRC/main/online_reports/pdf/76-r32.pdf)  
 [Turk Mountain Overlook to Rockfish Gap](http://www.guidetosnp.com/web/LogoftheDrive/logs6.aspx) 
+
+## Transportation Commentary/Editorials/Opinions/Articles/Literature
+[Virginia’s New Road Funding Process — Less Political but Still Opaque](http://www.baconsrebellion.com/2016/06/virginias-new-road-funding-process-less-political-but-still-opaque.html)  
+[Layne: Revolutionizing Transportation](http://www.richmond.com/opinion/their-opinion/guest-columnists/article_861b7fe4-fd52-5ef2-b0ec-b4940562154d.html)  
+[Governor McAuliffe Announces Virginia's First Transportation Program Based on an Objective, Data-Driven Prioritization Process](https://governor.virginia.gov/newsroom/newsarticle?articleId=15627)  
+["Transportation" Category Archives on Bacon's Rebellion](http://www.baconsrebellion.com/category/transportation)  
+["Infrastructure" Category Archives on Bacon's Rebellion](http://www.baconsrebellion.com/category/infrastructure)  
+
