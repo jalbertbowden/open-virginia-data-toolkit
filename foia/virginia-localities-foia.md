@@ -35,7 +35,9 @@ https://www.albemarle.org/department.asp?department=ctyatty&relpage=20636
 [Fauquier County, VA : FOIA Rights and Responsibilities](http://www.fauquiercounty.gov/government/departments-a-g/county-attorney/foia-r-and-r)  
 [Fauquier County FOIA Request Form](http://www.fauquiercounty.gov/home/showdocument?id=10597)  
 [Fauquier County FOIA Officers](http://www.fauquiercounty.gov/government/departments-a-g/county-attorney/foia-contacts)  
-
+## Greensville County  
+[FOIA - Public Document Request](http://www.greensvillecountyva.gov/index.php/public-information/foia-public-document-request)  
+[FIOA Request Information for Greensville County, including the Treasurer and the Commissioner's Offices (DOCX)](http://www.greensvillecountyva.gov/documents/FOIA_document_6-2016.docx)  
 ## Hampton  
 [Freedom of Information Act](http://www.hampton.gov/1957/Freedom-of-Information-Act)  
 [Ready Access to Public Records - Your FOIA Rights](http://va-hampton2.civicplus.com/3061/Your-FOIA-Rights)  
@@ -67,6 +69,8 @@ https://www.albemarle.org/department.asp?department=ctyatty&relpage=20636
 [Email FOIA Office](foia@suffolkva.us)  [Freedom of Information Act Rights &amp; Responsibilities](http://www.suffolkva.us/download_file/view/14500/9286/)  
 [City of Suffolk Freedom of Information Act (FOIA) Request Form (PDF)](http://www.suffolkva.us/download_file/view/12829/9286/128/)  
 
+## Surry County  
+[FOIA - Freedom of Information Act Requests](http://www.surrycountyva.gov/departments/county-administration/foia---freedom-of-information-act-requests)  
 ## Staunton  
 [Public Records: Freedom of Information Act](http://www.staunton.va.us/directory/departments-a-g/city-manager/public-records-freedom-of-information-act)  
 [Making a FOIA Request FAQs - Staunton, Virginia (PDF)](http://www.staunton.va.us/directory/departments-a-g/city-manager/foia-facts)  
