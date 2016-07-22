@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Virginia Department of Historic Resources</title>
+
+<meta name="description" content="The Virginia Department of Historic Resources is the State Historic Preservation Office. Its mission is to foster, encourage, and support the stewardship of Virginia's significant historic architectural, archaeological, and cultural resources."/>
+
+<meta name="keywords" content="Virginia history, architecture, archaeology, preservation easements, Section 106, environmental review, historic rehabilitation tax credits, Virginia Landmarks Register, National Register in Virginia, historical highway markers, Certified Local Government, preservation easements, slideshows of historic Virginia sites"/>
+
+<!--header -->  
+<meta http-equiv="x-ua-compatible" content="IE=10" />
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+<link href="http://dhr.virginia.gov/css/style.css" rel="stylesheet" />       
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+        
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-16466156-1', 'auto');
+  ga('send', 'pageview');
+  ga('send', {
+  hitType: 'event',
+  eventCategory: 'Error',
+  eventAction: 'Errorpage',
+});
+
+</script>
+  
+</head>
+
+<body>
+
+<header>
+<div id="col-sm-12">
+<div id="stateBanner">
+<div id="commonBanner">
+<link href="http://www.vita.virginia.gov/uploadedFiles/Common_Banner/Common_Banner.css" rel="stylesheet" type="text/css" media="screen" /> 
+<span class="screenReaderOnly"><a title="Skip to Content" href="#skipPoint">Skip to Content</a></span> <div><a class="virginiaLogo" title="Virginia.gov portal" href="http://www.virginia.gov/"> </a></div> <div class="alignLeft"> <a title="Virginia agency websites" href="http://www.virginia.gov/government/state-employees/agency-directory">Agencies</a> | <a title="Virginia Governor" href="https://www.governor.virginia.gov">Governor</a> </div> <div id="virginiaSearch"> <a title="Search Virginia.gov" href="http://www.virginia.gov/search">Search Virginia.gov</a> </div>
+</div>
+
+</div>
+</div>
+<div class="container">
+        
+<div class="row hidden-xs">
+<div class="col-sm-1">
+<img alt="Virginia State Seal" src="http://dhr.virginia.gov/images/Seal_of_Virginia.png"/>
+</div>
+<div class="col-sm-8">
+<a href="http://dhr.virginia.gov/"><img alt="DHR logo" src="http://dhr.virginia.gov/images/dhrlonoandname.png"/></a>
+</div>
+<div class="col-sm-3">
+<form action="http://dhr.virginia.gov/GoogleSearch/DHRsearchPage.html" method="get">
+<label for="searchbox" class="sr-only">Site Search</label>
+    <div class="input-group">
+      <input type="text" class="form-control" name="q" id="searchbox" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default blue" type="submit">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+<br /><a href="https://www.facebook.com/pages/Virginia-Department-of-Historic-Resources/383005701837393?ref=hl"><img src="http://dhr.virginia.gov/images/facebook.png" alt="Follow DHR on Facebook" height="30px"></a>&nbsp;<a href="http://dhr.virginia.gov/rss.xml"><img src="http://dhr.virginia.gov/images/rsss.png" alt="RSS feed" height="30px"></a>
+</div>
+</div>
+</div>
+</header>
+    <div class="dhrBannernavigation navbar navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button><br/>
+          <span class="visible-xs" style="font-family:Times;font-size:95%;margin-left:15px;">Virginia Department of Historic Resources</span>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+		  <li><a href="http://dhr.virginia.gov/">DHR Home</a></li>
+       <li><a href="http://dhr.virginia.gov/homepage_features/what_new1.htm">Past News</a></li>
+       <li><a href="http://dhr.virginia.gov/homepage_general/faq.htm">FAQs</a></li>
+       <li><a href="http://dhr.virginia.gov/homepage_features/calendarTest.html">Calendar</a></li>
+	   <li><a href="http://dhr.virginia.gov/regional_offices/regional_offices.htm">Regional Offices</a></li>
+       <li><a href="http://dhr.virginia.gov/homepage_features/AboutDHR.htm">About DHR</a></li>
+		  		  
+          </ul>
+		  <span class="visible-xs">
+<form action="http://dhr.virginia.gov/GoogleSearch/DHRsearchPage.html" method="get">
+<label for="searchbox" class="sr-only">Site Search</label>
+    <div class="input-group">
+      <input type="text" class="form-control" name="q" id="searchbox" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default blue" type="submit">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+		  <br /><a href="https://www.facebook.com/pages/Virginia-Department-of-Historic-Resources/383005701837393?ref=hl"><img src="http://dhr.virginia.gov/images/facebook.png" alt="Follow DHR on Facebook" height="30px"></a> &nbsp;  &nbsp;  &nbsp; <a href="http://dhr.virginia.gov/rss.xml"><img src="http://dhr.virginia.gov/images/rsss.png" alt="RSS feed" height="30px"></a></span>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </div><!-- /.navbar -->
+	
+    <div class="container">
+ 
+      <div class="row row-offcanvas row-offcanvas-left">
+        
+         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+           <p class="visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas"><i class="glyphicon glyphicon-chevron-left"></i></button>
+          </p>
+          <div class="bodyNav sidebar-nav">
+            <ul class="nav">
+<li><a href="http://dhr.virginia.gov/arch_DHR/archaeo_index.htm">Archaeology</a></li>
+<li><a href="http://dhr.virginia.gov/archives/archiv_info.htm">Archival Research</a></li>
+<li><a href="http://dhr.virginia.gov/registers/boardPage.html">Boards' Activities</a></li>
+<li><a href="http://dhr.virginia.gov/clg/clg.htm">Certified Local Government</a></li>
+<li><a href="http://dhr.virginia.gov/easement/easement.htm">Easements</a></li>
+<li><a href="http://dhr.virginia.gov/review/orc_home.html">Environmental Review</a></li>
+<li><a href="http://dhr.virginia.gov/homepage_general/forms.htm">Forms &amp; Publications</a></li>
+<li><a href="http://dhr.virginia.gov/homepage_general/finance.htm">Grants &amp; Incentives</a></li>
+<li><a href="http://dhr.virginia.gov/hiway_markers/hwmarker_info.htm">Highway Markers</a></li>
+<li><a href="http://dhr.virginia.gov/registers/register.htm">Historic Registers</a></li>
+<li><a href="http://dhr.virginia.gov/StateStewardship/Index.htm">State Stewardship</a></li>
+<li><a href="http://dhr.virginia.gov/survey/Survey1.htm">Survey &amp; Planning</a></li>
+<li><a href="http://dhr.virginia.gov/tax_credits/tax_credit.htm">Tax Credits</a></li>
+<li><a href="http://dhr.virginia.gov/vcris/vcrisHome.htm">VCRIS</a></li>
+            </ul>
+          </div><!--/.well -->
+		  		<br/><a href="http://www.clermontfarm.org/">
+					<img alt="Clermont Logo" src="http://dhr.virginia.gov/clermontforWebsite2.jpg" width="140" /></a><br/><br/>
+					<a href="http://dhr.virginia.gov/50NHPA/50thindex.htm"><img alt="50th Anniversary of the National Historic Preservation Act" src="http://dhr.virginia.gov/images/small-logo-archaeologist.jpg" width="140" /></a>
+        </div><!--/span-->
+        
+        <div class="col-xs-12 col-sm-9">
+          <p class="pull-left visible-xs" style="width: 100%;clear: both;">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle Menu</button>
+          </p>
+<!--/header-->
+					
+			<h1>Error</h1>
+			<input action="action" type="button" value="Go Back" onclick="history.go(-1);" />	
+					<br /><br />
+					We apologize for this error. We've been digging and cannot find the page you requested. 
+					<br /><br />
+
+					You've either discovered a broken link or the page has been removed from our site.   
+<br/><br/>
+Please help us improve the DHR website by contacting <a href="mailto:randy.jones@dhr.virginia.gov">randy.jones@dhr.virginia.gov</a> about this error.
+		
+
+
+<form action="http://dhr.virginia.gov/GoogleSearch/DHRsearchPage.html" method="get">
+<label for="searchbox">Site Search</label>
+    <div class="input-group">
+      <input type="text" class="form-control" name="q" id="searchbox" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default blue" type="submit">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+
+		
+			
+<br />
+					<br />
+
+	<img alt="Image" longdesc="Shows archaeologists digging" src="http://dhr.virginia.gov/images/archaeologistssmall.jpg"/>
+
+			
+				
+		
+		
+
+
+							
+
+<!--#include virtual="/footer.html" -->
