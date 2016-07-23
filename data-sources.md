@@ -22,6 +22,12 @@
 [County FIPS Code Listing for the State of VIRGINIA - EPA](https://www.epa.gov/enviro/county-fips-code-listing-state-virginia)  
 [Virginia FIPS Code Chart - VDH](https://www.vdh.virginia.gov/OEMS/Files_Page/shared/fips.pdf)  
 
+## Fire, Firefighters, Wildfires Open Data in Virginia  
+[VA LODA - Virginia Line of Duty Act Fund](http://valoda.org/)  
+[Virginia List - National Fire Department Census Download](https://apps.usfa.fema.gov/census-download/main/download)  
+[Virginia Station List - National Fire Department Census Download](https://apps.usfa.fema.gov/census-download/main/download)  
+[Fallen Firefighters Search in Virginia](http://www.firehero.org/search-results/?meta_first_name&meta_last_name&tax_department&tax_state=virginia&meta_year_of_death&wpas=1)  
+
 
 [Conservation Priorities in Virginia](http://www.landscope.org/virginia/priorities)  
 [Virginia NPL (National Priorities List)](http://www.epa.gov/superfund/national-priorities-list-npl-sites-state#VA)  
