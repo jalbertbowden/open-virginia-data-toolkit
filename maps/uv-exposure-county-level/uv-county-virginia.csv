@@ -1,0 +1,134 @@
+STATENAME,STATE_ABR,COUNTY_FIPS,COUNTY NAME,UV_ Wh/m²
+Virginia,VA,51001,Accomack,4144
+Virginia,VA,51003,Albemarle,4192
+Virginia,VA,51005,Alleghany,4096
+Virginia,VA,51007,Amelia,4271
+Virginia,VA,51009,Amherst,4260
+Virginia,VA,51011,Appomattox,4320
+Virginia,VA,51013,Arlington,4102
+Virginia,VA,51015,Augusta,4093
+Virginia,VA,51017,Bath,4046
+Virginia,VA,51019,Bedford,4291
+Virginia,VA,51021,Bland,4098
+Virginia,VA,51023,Botetourt,4194
+Virginia,VA,51025,Brunswick,4301
+Virginia,VA,51027,Buchanan,4045
+Virginia,VA,51029,Buckingham,4280
+Virginia,VA,51031,Campbell,4348
+Virginia,VA,51033,Caroline,4180
+Virginia,VA,51035,Carroll,4203
+Virginia,VA,51036,Charles City,4203
+Virginia,VA,51037,Charlotte,4353
+Virginia,VA,51041,Chesterfield,4236
+Virginia,VA,51043,Clarke,4044
+Virginia,VA,51045,Craig,4140
+Virginia,VA,51047,Culpeper,4138
+Virginia,VA,51049,Cumberland,4276
+Virginia,VA,51051,Dickenson,4050
+Virginia,VA,51053,Dinwiddie,4259
+Virginia,VA,51057,Essex,4169
+Virginia,VA,51059,Fairfax,4109
+Virginia,VA,51061,Fauquier,4106
+Virginia,VA,51063,Floyd,4208
+Virginia,VA,51065,Fluvanna,4231
+Virginia,VA,51067,Franklin,4294
+Virginia,VA,51069,Frederick,4001
+Virginia,VA,51071,Giles,4111
+Virginia,VA,51073,Gloucester,4177
+Virginia,VA,51075,Goochland,4231
+Virginia,VA,51077,Grayson,4156
+Virginia,VA,51079,Greene,4127
+Virginia,VA,51081,Greensville,4282
+Virginia,VA,51083,Halifax,4382
+Virginia,VA,51085,Hanover,4204
+Virginia,VA,51087,Henrico,4214
+Virginia,VA,51089,Henry,4335
+Virginia,VA,51091,Highland,3959
+Virginia,VA,51093,Isle of Wight,4213
+Virginia,VA,51095,James City,4191
+Virginia,VA,51097,King and Queen,4177
+Virginia,VA,51099,King George,4159
+Virginia,VA,51101,King William,4187
+Virginia,VA,51103,Lancaster,4162
+Virginia,VA,51105,Lee,4096
+Virginia,VA,51107,Loudoun,4069
+Virginia,VA,51109,Louisa,4202
+Virginia,VA,51111,Lunenburg,4323
+Virginia,VA,51113,Madison,4119
+Virginia,VA,51115,Mathews,4172
+Virginia,VA,51117,Mecklenburg,4352
+Virginia,VA,51119,Middlesex,4170
+Virginia,VA,51121,Montgomery,4183
+Virginia,VA,51125,Nelson,4225
+Virginia,VA,51127,New Kent,4193
+Virginia,VA,51131,Northampton,4164
+Virginia,VA,51133,Northumberland,4154
+Virginia,VA,51135,Nottoway,4292
+Virginia,VA,51137,Orange,4169
+Virginia,VA,51139,Page,4062
+Virginia,VA,51141,Patrick,4278
+Virginia,VA,51143,Pittsylvania,4367
+Virginia,VA,51145,Powhatan,4249
+Virginia,VA,51147,Prince Edward,4319
+Virginia,VA,51149,Prince George,4221
+Virginia,VA,51153,Prince William,4123
+Virginia,VA,51155,Pulaski,4163
+Virginia,VA,51157,Rappahannock,4083
+Virginia,VA,51159,Richmond,4161
+Virginia,VA,51161,Roanoke,4214
+Virginia,VA,51163,Rockbridge,4167
+Virginia,VA,51165,Rockingham,4037
+Virginia,VA,51167,Russell,4078
+Virginia,VA,51169,Scott,4100
+Virginia,VA,51171,Shenandoah,4017
+Virginia,VA,51173,Smyth,4114
+Virginia,VA,51175,Southampton,4245
+Virginia,VA,51177,Spotsylvania,4175
+Virginia,VA,51179,Stafford,4152
+Virginia,VA,51181,Surry,4207
+Virginia,VA,51183,Sussex,4241
+Virginia,VA,51185,Tazewell,4068
+Virginia,VA,51187,Warren,4052
+Virginia,VA,51191,Washington,4118
+Virginia,VA,51193,Westmoreland,4156
+Virginia,VA,51195,Wise,4050
+Virginia,VA,51197,Wythe,4145
+Virginia,VA,51199,York,4187
+Virginia,VA,51510,Alexandria,4111
+Virginia,VA,51515,Bedford,4297
+Virginia,VA,51520,Bristol,4133
+Virginia,VA,51530,Buena Vista,4224
+Virginia,VA,51540,Charlottesville,4199
+Virginia,VA,51550,Chesapeake,4211
+Virginia,VA,51570,Colonial Heights,4231
+Virginia,VA,51580,Covington,4120
+Virginia,VA,51590,Danville,4386
+Virginia,VA,51595,Emporia,4280
+Virginia,VA,51600,Fairfax,4105
+Virginia,VA,51610,Falls Church,4101
+Virginia,VA,51620,Franklin,4239
+Virginia,VA,51630,Fredericksburg,4167
+Virginia,VA,51640,Galax,4198
+Virginia,VA,51650,Hampton,4190
+Virginia,VA,51660,Harrisonburg,4067
+Virginia,VA,51670,Hopewell,4221
+Virginia,VA,51678,Lexington,4194
+Virginia,VA,51680,Lynchburg,4319
+Virginia,VA,51683,Manassas,4122
+Virginia,VA,51685,Manassas Park,4120
+Virginia,VA,51690,Martinsville,4337
+Virginia,VA,51700,Newport News,4192
+Virginia,VA,51710,Norfolk,4195
+Virginia,VA,51720,Norton,4058
+Virginia,VA,51730,Petersburg,4232
+Virginia,VA,51735,Poquoson,4186
+Virginia,VA,51740,Portsmouth,4202
+Virginia,VA,51750,Radford,4178
+Virginia,VA,51760,Richmond,4219
+Virginia,VA,51770,Roanoke,4249
+Virginia,VA,51775,Salem,4229
+Virginia,VA,51790,Staunton,4113
+Virginia,VA,51800,Suffolk,4222
+Virginia,VA,51810,Virginia Beach,4199
+Virginia,VA,51820,Waynesboro,4153
+Virginia,VA,51830,Williamsburg,4189
