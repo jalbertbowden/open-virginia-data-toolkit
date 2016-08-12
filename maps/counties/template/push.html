@@ -36,6 +36,7 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
 
   // data.features.property
   var dataConnector01 = [];
+  var key01 = []
   // load GeoJSON from an external file
   $.getJSON("virginia-counties-census-2000-novars.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
@@ -56,51 +57,35 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
       dataConnector01.push("Population Density Rank: " + this.properties.popdensityrank);
       dataConnector01.push("Density: " + this.properties.density);
       dataConnector01.push("Population: " + this.properties.population);
+      key01.push("County: " + this.properties.County);
 
-
-
-
-    })
-    console.log("JSON Data Connector 01 (ALL): " + dataConnector01);
-  });
-
-  console.log("VAR 01: " + dataConnector01);
-/*
-TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
-TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
-
-connect dataConnector01 values to dataConnector02 values from other json
-  then display when appropriate
-
-TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
-TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
-*/
 
  var dataConnector02 = [];
+ var keys = [];
 $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   $.each(data.Localities, function(entryIndex, entry){
-    console.log("Locality Name: " + this.Locality.LocalityName);
-    console.log("Locality Code: " + this.Locality.LocalityCode);
-    dataConnector02.push("this.Locality.LocalityCode: " + this.Locality.LocalityCode);
-
-    // for.....
-    // value of this.Locality.LocalityCode
-    // if it is equal to key value in first JSON dataset?
-    // yes: grab all associated data from this.Locality.LocalityCode
-    // append to document...somehwere/somehow. map/chart/table/list/whatevs....
-
-
-
-    // console.log("Precints Reporting: " + this.Locality.PrecinctsReporting);
-    // console.log("Precints Reporting: " + data.Localities.PrecinctsReporting);
+    // console.log("Locality Name: " + this.Locality.LocalityName);
+    // console.log("Locality Code: " + this.Locality.LocalityCode);
+    // dataConnector02.push("this.Locality.LocalityCode: " + this.Locality.LocalityCode);
+    dataConnector02.push(this.Locality.LocalityCode);
   })
   console.log("JSON Data Connector 02: " + dataConnector02);
+  console.log("KEY VAR: " + key01);
 
+  console.log("length: " + dataConnector02.length);
 
-// console.log("Precints Reporting: " + data["Localities"]["PrecinctsReporting"]);
+  for (i = 0; i < dataConnector02.length; i++) {
+    keys.push( "<li>Value 01: " + key01[i] + ", Value 02: " + dataConnector02[i] + "</li>" );
+  }
+ 
 
-  console.log(data);
-  console.log(data["ElectionName"]);
+/* SOMETHING LIKE THIS
+  if(key01['properties']['County'] = dataConnector02) {
+
+  }
+  */
+  // console.log(data);
+  // console.log(data["ElectionName"]);
 
   var electionName = data["ElectionName"];
   var electionDate = data["ElectionDate"];
@@ -109,12 +94,9 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   var numberOfSeats = data["NumberOfSeats"];
 
   var jsonOutput = electionName + electionDate + createDate + raceName + numberOfSeats;
-  console.log(jsonOutput);
+  // console.log(jsonOutput);
 
-  console.log(data["Localities"].length);
- // console.log(data["Localities"]["Locality"].length);
- // console.log(data["Localities"]["Locality"]["LocalityCode"].length);
-
+  // console.log(data["Localities"].length);
 
   var items = [];
   for (var i = 0, l = data["Localities"].length; i< l; i++){
@@ -126,11 +108,22 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   $.each( data, function( key, val ) {
     items.push( "<li id='" + key + "'>" + val + "</li>" );
   });
- 
+ /*
   $( "<ul/>", {
     "class": "my-new-list",
     html: items.join( "" )
   }).appendTo( "body" );
+*/
+  $( "<ul/>", {
+    "class": "my-new-list",
+    html: keys.join( "" )
+  }).appendTo( "body" );
+    })
+    // console.log("JSON Data Connector 01 (ALL): " + dataConnector01);
+  });
+
+  // console.log("VAR 01: " + dataConnector01);
+
   
 });
 </script>
