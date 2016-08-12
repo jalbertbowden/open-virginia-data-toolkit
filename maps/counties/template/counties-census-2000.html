@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Virginia - Simple Leaflet Map</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" type="text/css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<style>
+*{margin:0; padding:0; border:none;}
+.content{text-align:center;}
+#leaflet-map{
+  width:1000px; 
+  height:700px;
+}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <div id="leaflet-map"></div>
+    </div>
+  </body>
+<script>
+// virginia setView settings var map = L.map('map').setView([37.750, -79.0000], 7);
+// initialize the map
+var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
+  // load a tile layer
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', 
+    {
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> Imagery Â© <a href="http://cloudmade.com">CloudMade</a>',
+      maxZoom: 17,
+      minZoom: 9
+    }).addTo(map);
+
+
+
+  // data.features.property
+  var dataConnector01 = [];
+
+  // load GeoJSON from an external file
+  $.getJSON("virginia-counties-census-2000-novars.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+    $.each(data.features, function(propertyIndex, property){
+      // console.log("County: " + this.properties.County);
+      dataConnector01.push(this.properties.County);
+    })
+    console.log(dataConnector01);
+  });
+
+/*
+TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
+TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
+
+connect dataConnector01 values to dataConnector02 values from other json
+  then display when appropriate
+
+TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
+TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO TO DO 
+*/
+
+ var dataConnector02 = [];
+$.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
+  $.each(data.Localities, function(entryIndex, entry){
+    var html = "<li class=\"top-level\">" + this.Locality + "</li>";
+    console.log("Locality Name: " + this.Locality.LocalityName);
+    console.log("Locality Code: " + this.Locality.LocalityCode);
+    dataConnector02.push(this.Locality.LocalityCode);
+    // console.log("Precints Reporting: " + this.Locality.PrecinctsReporting);
+    // console.log("Precints Reporting: " + data.Localities.PrecinctsReporting);
+  })
+  console.log(dataConnector02);
+
+
+// console.log("Precints Reporting: " + data["Localities"]["PrecinctsReporting"]);
+
+  console.log(data);
+  console.log(data["ElectionName"]);
+
+  var electionName = data["ElectionName"];
+  var electionDate = data["ElectionDate"];
+  var createDate = data["CreateDate"];
+  var raceName = data["RaceName"];
+  var numberOfSeats = data["NumberOfSeats"];
+
+  var jsonOutput = electionName + electionDate + createDate + raceName + numberOfSeats;
+  console.log(jsonOutput);
+
+  console.log(data["Localities"].length);
+ // console.log(data["Localities"]["Locality"].length);
+ // console.log(data["Localities"]["Locality"]["LocalityCode"].length);
+
+
+  var items = [];
+  for (var i = 0, l = data["Localities"].length; i< l; i++){
+    // console.log(data["Localities"]["Locality"]["LocalityName"])
+     // console.log(data["Localities"]["Locality"]["i"]);
+     // console.log(data["Localities"]["Locality"]["LocalityCode"])
+  }
+
+  $.each( data, function( key, val ) {
+    items.push( "<li id='" + key + "'>" + val + "</li>" );
+  });
+ 
+  $( "<ul/>", {
+    "class": "my-new-list",
+    html: items.join( "" )
+  }).appendTo( "body" );
+  
+});
+</script>
+</html>
