@@ -13,11 +13,20 @@
   width:1000px; 
   height:700px;
 }
+
+
+div.leaflet-map-box{outline:2px dotted #000; padding:30px; width:100%;}
+.leaflet-map-panel-box{width:200px; float:right;}
+div.leaflet-map-box ul{width:50px; margin:10px auto;}
 </style>
   </head>
   <body>
     <div class="content">
-      <div id="leaflet-map"></div>
+      <div class="leaflet-map-box">
+      <div class="leaflet-map-panel-box"></div>
+        <div id="leaflet-map"></div>
+        
+      </div>
     </div>
   </body>
 <script>
@@ -48,44 +57,58 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
       dataConnector01.push("Area: " + this.properties.area);
       dataConnector01.push("Perimeter: " + this.properties.Perimeter);
       dataConnector01.push("c051_D00_: " + this.properties.CO51_D00_);
-      //dataConnector01.push("co51-d00-i: " + this.properties.co51-d00-i);
       dataConnector01.push("State: " + this.properties.State);
       dataConnector01.push("County: " + this.properties.County);
       dataConnector01.push("name: " + this.properties.name);
       dataConnector01.push("lsad: " + this.properties.lsad);
-      //dataConnector01.push("lsad-trans: " + this.properties.lsad-trans);
       dataConnector01.push("Population Density Rank: " + this.properties.popdensityrank);
       dataConnector01.push("Density: " + this.properties.density);
       dataConnector01.push("Population: " + this.properties.population);
-      key01.push("County: " + this.properties.County);
+      key01.push(this.properties.County);
 
 
  var dataConnector02 = [];
+ var dataConnector03 = [];
+ var dataConnector04 = [];
+ var dataConnector05 = [];
+
  var keys = [];
 $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   $.each(data.Localities, function(entryIndex, entry){
-    // console.log("Locality Name: " + this.Locality.LocalityName);
-    // console.log("Locality Code: " + this.Locality.LocalityCode);
-    // dataConnector02.push("this.Locality.LocalityCode: " + this.Locality.LocalityCode);
     dataConnector02.push(this.Locality.LocalityCode);
+    dataConnector03.push(this.Locality.LocalityName);
+    dataConnector04.push(this.Locality.ElectionName);
+    dataConnector05.push(this.Locality.ElectionDate);
   })
   console.log("JSON Data Connector 02: " + dataConnector02);
   console.log("KEY VAR: " + key01);
 
-  console.log("length: " + dataConnector02.length);
 
+  var connections = [];
   for (i = 0; i < dataConnector02.length; i++) {
-    keys.push( "<li>Value 01: " + key01[i] + ", Value 02: " + dataConnector02[i] + "</li>" );
-  }
- 
+    var partA = dataConnector02[0];
+    var partB = key01[i];
+    console.log(key01[i] + ", " + dataConnector02[0]);
 
-/* SOMETHING LIKE THIS
-  if(key01['properties']['County'] = dataConnector02) {
+    
 
+    for (w = 0; w < key01.length; w++){
+      var partC = key01[0];
+      // var connections = [];
+      if (key01[w] === dataConnector02[i]) {
+        console.log("IF STATMENT TEST: " + key01[w] + ", " + dataConnector02[i])
+      // "ElectionName" ElectionDate
+      // connections.push( "<li>" + dataConnector02[i]["ElectionName"] + ", " + dataConnector02[i]["ElectionData"] + ", " + dataConnector02[i]["LocalityCode"] + ", " + dataConnector02[i]["LocalityName"] + "</li>");
+      // console.log(dataConnector02["ElectionName"][i]);
+        connections.push("<li>Fips Code: " + dataConnector02[i] + "</li><li>Locality Name: " + dataConnector03[i]);
+      }
+
+
+
+    }
   }
-  */
-  // console.log(data);
-  // console.log(data["ElectionName"]);
+
+  console.log("length: " + dataConnector02.length);
 
   var electionName = data["ElectionName"];
   var electionDate = data["ElectionDate"];
@@ -94,37 +117,13 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   var numberOfSeats = data["NumberOfSeats"];
 
   var jsonOutput = electionName + electionDate + createDate + raceName + numberOfSeats;
-  // console.log(jsonOutput);
 
-  // console.log(data["Localities"].length);
-
-  var items = [];
-  for (var i = 0, l = data["Localities"].length; i< l; i++){
-    // console.log(data["Localities"]["Locality"]["LocalityName"])
-     // console.log(data["Localities"]["Locality"]["i"]);
-     // console.log(data["Localities"]["Locality"]["LocalityCode"])
-  }
-
-  $.each( data, function( key, val ) {
-    items.push( "<li id='" + key + "'>" + val + "</li>" );
-  });
- /*
-  $( "<ul/>", {
+$( "<ul/>", {
     "class": "my-new-list",
-    html: items.join( "" )
-  }).appendTo( "body" );
-*/
-  $( "<ul/>", {
-    "class": "my-new-list",
-    html: keys.join( "" )
-  }).appendTo( "body" );
+    html: connections.join( "" )
+  }).appendTo(".leaflet-map-panel-box");
     })
-    // console.log("JSON Data Connector 01 (ALL): " + dataConnector01);
   });
-
-  // console.log("VAR 01: " + dataConnector01);
-
-  
 });
 </script>
 </html>
