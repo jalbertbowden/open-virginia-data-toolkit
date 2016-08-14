@@ -1,0 +1,9 @@
+*{margin:0; padding:0; border:none;}
+.content{text-align:center;}
+#leaflet-map{
+  width:1000px; 
+  height:700px;
+}
+div.leaflet-map-box{outline:2px dotted #000; width:100%; position:relative}
+.leaflet-map-panel-box{width:200px; position:absolute; right:0; top:0; z-index:100;}
+div.leaflet-map-box ul{width:50px; margin:10px 0}

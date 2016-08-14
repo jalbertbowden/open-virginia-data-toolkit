@@ -4,27 +4,19 @@
     <meta charset="utf-8" />
     <title>Virginia - Simple Leaflet Map</title>
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" type="text/css" />
+    <link rel="stylesheet" href="leaflet-boilerplate.css" type="text/css" />
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <style>
-*{margin:0; padding:0; border:none;}
-.content{text-align:center;}
-#leaflet-map{
-  width:1000px; 
-  height:700px;
-}
-
-
-div.leaflet-map-box{outline:2px dotted #000; padding:30px; width:100%;}
-.leaflet-map-panel-box{width:200px; float:right;}
-div.leaflet-map-box ul{width:50px; margin:10px auto;}
+.content{width:1000px; height:1000px; /** demo purposes only **/ }
 </style>
   </head>
   <body>
     <div class="content">
       <div class="leaflet-map-box">
+       <div id="leaflet-map" style="height:600px; width:800px;"></div>
       <div class="leaflet-map-panel-box"></div>
-        <div id="leaflet-map"></div>
+       
         
       </div>
     </div>
@@ -81,25 +73,47 @@ geojson = L.geoJson(data, {
 
  var keys = [];
 $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
+  console.log(data.ElectionName);
+  panelList.push("<li>Election Name: " + data.ElectionName + "</li>");
+  panelList.push("<li>Election Date: " + data.ElectionDate + "</li>");
+  panelList.push("<li>Create Date: " + data.CreateDate + "</li>");
+  panelList.push("<li>Race Name: " + data.RaceName + "</li>");
+  panelList.push("<li>Number of Seats: " + data.NumberOfSeats + "</li>");
+  // panelList.push("<li> :" + data.Locality.PrecinctsReporting + "</li>");
+  // console.log(data.Localities)
+  // console.log(data.Localities[PrecinctsReporting]);
+  console.log(data.Localities[0].PrecinctsReporting)
+  panelList.push("<li>PrecinctsReporting: " + data.Localities[0].PrecinctsReporting + "</li>");
+  panelList.push("<li>PrecinctsParticipating: " + data.Localities[0].PrecinctsParticipating + "</li>");
+  panelList.push("<li>LastModified: " + data.Localities[0].LastModified + "</li>");
+
+
+
+
   $.each(data.Localities, function(entryIndex, entry){
+    // console.log(this.Locality[PrecinctsReporting]);
+
+
+
     dataConnector02.push(this.Locality.LocalityCode);
     dataConnector03.push(this.Locality.LocalityName);
     dataConnector04.push(this.Locality.ElectionName);
+    // console.log(this.Locality.ElectionName);
     dataConnector05.push(this.Locality.ElectionDate);
     panelList.push("<li>Locality Code: " + this.Locality.LocalityCode + "</li>");
     panelList.push("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
-    panelList.push("<li>ELection Name: " + this.Locality.ElectionName + "</li>");
-    panelList.push("<li>Election Date: <time>" + this.Locality.ElectionDate + "</time></li>");
+    // panelList.push("<li>Election Name: " + ElectionName + "</li>");
+    // panelList.push("<li>" + dataConnector05[entryIndex] + "</li>");
   })
-  console.log("JSON Data Connector 02: " + dataConnector02);
-  console.log("KEY VAR: " + key01);
+  // console.log("JSON Data Connector 02: " + dataConnector02);
+  // console.log("KEY VAR: " + key01);
 
 
   var connections = [];
   for (i = 0; i < dataConnector02.length; i++) {
     var partA = dataConnector02[0];
     var partB = key01[i];
-    console.log(key01[i] + ", " + dataConnector02[0]);
+    // console.log(key01[i] + ", " + dataConnector02[0]);
 
     
 
@@ -107,13 +121,13 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
       var partC = key01[0];
       // var connections = [];
       if (key01[w] === dataConnector02[i]) {
-        console.log("IF STATMENT TEST: " + key01[w] + ", " + dataConnector02[i])
+        // console.log("IF STATMENT TEST: " + key01[w] + ", " + dataConnector02[i])
         connections.push("<li>Fips Code: " + dataConnector02[i] + "</li><li>Locality Name: " + dataConnector03[i]);
       }
     }
   }
 
-  console.log("length: " + dataConnector02.length);
+  // console.log("length: " + dataConnector02.length);
 
   var electionName = data["ElectionName"];
   var electionDate = data["ElectionDate"];
@@ -124,7 +138,7 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   var jsonOutput = electionName + electionDate + createDate + raceName + numberOfSeats;
 
     $( "<ul/>", {
-    "class": "my-new-list",
+    "class": "leaflet-panel-list",
     html: panelList.join( "" )
   }).appendTo(".leaflet-map-panel-box");
 // panelList
