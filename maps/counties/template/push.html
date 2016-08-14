@@ -9,6 +9,7 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <style>
 .content{width:1000px; height:1000px; /** demo purposes only **/ }
+.ul-panel-content-active{display:none;}
 </style>
   </head>
   <body>
@@ -24,6 +25,12 @@
 <script>
 // virginia setView settings var map = L.map('map').setView([37.750, -79.0000], 7);
 // initialize the map
+  var panelSplash = "<h1>Member Senate of Virginia 017 Elections Results</h1>";
+  var panelContentBox = "<div class=\"leaflet-map-panel-content-box\"><h1>Content Updates Here</h1><div class=\"leaflet-map-panel-content-box-inner\"></div></div>;"
+
+  var panelContent = panelSplash + panelContentBox;
+  $(panelContent).appendTo(".leaflet-map-panel-box");
+
 var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
   // load a tile layer
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', 
@@ -81,6 +88,11 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
       if (!L.Browser.ie && !L.Browser.opera) {
         layer.bringToFront();
       }
+      console.log(layer.feature.properties.County);
+      var hoverContentListID = layer.feature.properties.County;
+      var xxx = "#" + hoverContentListID;
+      console.log(xxx);
+      $(xxx).toggle();
       // THIS IS WHERE THE MAGIC HAPPENS - show content on hover not in dump popup marker box
       // info.update(layer.feature.properties);
     }
@@ -94,12 +106,17 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
 
 
   function onEachFeature(feature, layer) {
-  layer.on({
-    mouseover: highlightFeature,
-    mouseout: resetHighlight
-    // click: zoomToFeature
-  });
-}
+    layer.on({
+      mouseover: highlightFeature,
+      mouseout: resetHighlight
+      // click: zoomToFeature
+    });
+  }
+  function contentOnEachFeature(feature, layer){
+    layer.on("mouseover")
+
+
+  }
 geojson = L.geoJson(data, {
     onEachFeature: onEachFeature,
     style: countyStyle
@@ -117,6 +134,8 @@ geojson = L.geoJson(data, {
  var pushedContentList = [];
 
  var keys = [];
+
+
 $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   // console.log(data.ElectionName);
   panelList.push("<li>Election Name: " + data.ElectionName + "</li>");
@@ -134,7 +153,7 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
 
 
 
-
+var panelContentLists = [];
   $.each(data.Localities, function(entryIndex, entry){
     // console.log(this.Locality[PrecinctsReporting]);
 
@@ -148,14 +167,26 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
     // var panelContentList = document.createElement("ul").setAttribute("class","foo");
     var panelContentList = document.createElement("ul");
     panelContentList.setAttribute("class","ul-panel-content-active");
-    console.log(panelContentList);
+    panelContentListID = this.Locality.LocalityCode;
+    // console.log(panelContentListID);
+    panelContentList.setAttribute("id",panelContentListID);
+    // console.log(panelContentList);
     panelList.push("<li>Locality Code: " + this.Locality.LocalityCode + "</li>");
     panelList.push("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
-    $("<li>Locality Code: " + this.Locality.LocalityCode + "</li>").appendTo(panelContentList);
+    var panelListItems = "<li>Locality Code: " + this.Locality.LocalityCode + "</li> \
+      <li>Locality Name: " + this.Locality.LocalityName + "</li>";
+    $(panelListItems).appendTo(panelContentList);
+    // console.log(panelContentList);
+    panelContentLists.push(panelContentList);
+    $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
+
+    
     // panelContentList.appendTo("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
     // panelList.push("<li>Election Name: " + ElectionName + "</li>");
     // panelList.push("<li>" + dataConnector05[entryIndex] + "</li>");
   })
+  // console.log(panelContentLists);
+  // $(panelContentLists).appendTo(".leaflet-map-panel-content-box-inner");
   // console.log("JSON Data Connector 02: " + dataConnector02);
   // console.log("KEY VAR: " + key01);
 
@@ -178,16 +209,12 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
     }
   }
 
-  var panelSplash = "<h1>Member Senate of Virginia 017 Elections Results</h1>";
-  var panelContentBox = "<div class=\"leaflet-map-panel-content-box\"><h1>Content Updates Here</h1><div class=\"leaflet-map-panel-content-box-inner\"></div></div>;"
 
-  var panelContent = panelSplash + panelContentBox;
-  $(panelContent).appendTo(".leaflet-map-panel-box");
-
+/*
     $( "<ul/>", {
     "class": "leaflet-panel-list",
     html: panelList.join( "" )
-  }).appendTo(".leaflet-map-panel-content-box");
+  }).appendTo(".leaflet-map-panel-content-box"); */
 // panelList
     })
 
