@@ -92,13 +92,14 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
       var hoverContentListID = layer.feature.properties.County;
       var xxx = "#" + hoverContentListID;
       console.log(xxx);
-      $(xxx).toggle();
+      $(xxx).show();
       // THIS IS WHERE THE MAGIC HAPPENS - show content on hover not in dump popup marker box
       // info.update(layer.feature.properties);
     }
 
     function resetHighlight(e) {
       geojson.resetStyle(e.target);
+      $(".ul-panel-content-active").hide();
       // info.update();
     }
 
