@@ -49,30 +49,24 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
   // load GeoJSON from an external file
   $.getJSON("virginia-counties-census-2000-novars.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
-      var countyStyle = {
-    'color': "#000",
-    'weight': 2,
-    'opacity': 0.6
-  };
-  function onEachFeature(feature, layer) {
-  layer.on({
-    // mouseover: highlightFeature,
-    // mouseout: resetHighlight,
-    // click: zoomToFeature
-  });
-}
-geojson = L.geoJson(data, {
-    onEachFeature: onEachFeature,
-    style: countyStyle
-  }).addTo(map);
-
-    // L.geoJson(data).addTo(map);
+    L.geoJson(data).addTo(map);
 
 
     $.each(data.features, function(propertyIndex, property){
+      /* dataConnector01.push("County: " + this.properties.County);
+      dataConnector01.push("Area: " + this.properties.area);
+      dataConnector01.push("Perimeter: " + this.properties.Perimeter);
+      dataConnector01.push("c051_D00_: " + this.properties.CO51_D00_);
+      dataConnector01.push("State: " + this.properties.State);
+      dataConnector01.push("County: " + this.properties.County);
+      dataConnector01.push("name: " + this.properties.name);
+      dataConnector01.push("lsad: " + this.properties.lsad);
+      dataConnector01.push("Population Density Rank: " + this.properties.popdensityrank);
+      dataConnector01.push("Density: " + this.properties.density);
+      dataConnector01.push("Population: " + this.properties.population); */
       key01.push(this.properties.County);
-    });
 
+});
  var dataConnector02 = [];
  var dataConnector03 = [];
  var dataConnector04 = [];
@@ -87,9 +81,6 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
     dataConnector04.push(this.Locality.ElectionName);
     dataConnector05.push(this.Locality.ElectionDate);
     panelList.push("<li>Locality Code: " + this.Locality.LocalityCode + "</li>");
-    panelList.push("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
-    panelList.push("<li>ELection Name: " + this.Locality.ElectionName + "</li>");
-    panelList.push("<li>Election Date: <time>" + this.Locality.ElectionDate + "</time></li>");
   })
   console.log("JSON Data Connector 02: " + dataConnector02);
   console.log("KEY VAR: " + key01);
@@ -108,8 +99,14 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
       // var connections = [];
       if (key01[w] === dataConnector02[i]) {
         console.log("IF STATMENT TEST: " + key01[w] + ", " + dataConnector02[i])
+      // "ElectionName" ElectionDate
+      // connections.push( "<li>" + dataConnector02[i]["ElectionName"] + ", " + dataConnector02[i]["ElectionData"] + ", " + dataConnector02[i]["LocalityCode"] + ", " + dataConnector02[i]["LocalityName"] + "</li>");
+      // console.log(dataConnector02["ElectionName"][i]);
         connections.push("<li>Fips Code: " + dataConnector02[i] + "</li><li>Locality Name: " + dataConnector03[i]);
       }
+
+
+
     }
   }
 
@@ -122,7 +119,12 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   var numberOfSeats = data["NumberOfSeats"];
 
   var jsonOutput = electionName + electionDate + createDate + raceName + numberOfSeats;
-
+/*
+$( "<ul/>", {
+    "class": "my-new-list",
+    html: connections.join( "" )
+  }).appendTo(".leaflet-map-panel-box"); */
+// panelList
     $( "<ul/>", {
     "class": "my-new-list",
     html: panelList.join( "" )
