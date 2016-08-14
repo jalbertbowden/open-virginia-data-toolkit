@@ -89,10 +89,10 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
         layer.bringToFront();
       }
       console.log(layer.feature.properties.County);
-      var hoverContentListID = layer.feature.properties.County;
-      var xxx = "#" + hoverContentListID;
-      console.log(xxx);
-      $(xxx).show();
+      var hoverContentListIDA = layer.feature.properties.County;
+      var hoverContentListID = "#" + hoverContentListIDA;
+      console.log(hoverContentListID);
+      $(hoverContentListID).show();
       // THIS IS WHERE THE MAGIC HAPPENS - show content on hover not in dump popup marker box
       // info.update(layer.feature.properties);
     }
@@ -151,11 +151,21 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   panelList.push("<li>PrecinctsReporting: " + data.Localities[0].PrecinctsReporting + "</li>");
   panelList.push("<li>PrecinctsParticipating: " + data.Localities[0].PrecinctsParticipating + "</li>");
   panelList.push("<li>LastModified: " + data.Localities[0].LastModified + "</li>");
+  console.log(data.Localities[0].PrecinctsReporting);
 
 
 
 var panelContentLists = [];
   $.each(data.Localities, function(entryIndex, entry){
+
+    var panelContentList = document.createElement("ul");
+    panelContentList.setAttribute("class","ul-panel-content-active");
+    panelContentListID = this.Locality.LocalityCode;
+    // console.log(panelContentListID);
+    panelContentList.setAttribute("id",panelContentListID);
+
+
+    // console.log(entryIndex);
     // console.log(this.Locality[PrecinctsReporting]);
 
 
@@ -166,11 +176,7 @@ var panelContentLists = [];
     // console.log(this.Locality.ElectionName);
     dataConnector05.push(this.Locality.ElectionDate);
     // var panelContentList = document.createElement("ul").setAttribute("class","foo");
-    var panelContentList = document.createElement("ul");
-    panelContentList.setAttribute("class","ul-panel-content-active");
-    panelContentListID = this.Locality.LocalityCode;
-    // console.log(panelContentListID);
-    panelContentList.setAttribute("id",panelContentListID);
+    
     // console.log(panelContentList);
     panelList.push("<li>Locality Code: " + this.Locality.LocalityCode + "</li>");
     panelList.push("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
@@ -179,12 +185,13 @@ var panelContentLists = [];
     $(panelListItems).appendTo(panelContentList);
     // console.log(panelContentList);
     panelContentLists.push(panelContentList);
-    $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
+
+    var panelContentListsData = "<li>Precints Reporting: " + data.Localities[entryIndex].PrecinctsReporting + "</li>";
+    $(panelContentListsData).appendTo(panelContentList);
 
     
-    // panelContentList.appendTo("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
-    // panelList.push("<li>Election Name: " + ElectionName + "</li>");
-    // panelList.push("<li>" + dataConnector05[entryIndex] + "</li>");
+    $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
+        console.log(data.Localities[entryIndex].PrecinctsReporting);;
   })
   // console.log(panelContentLists);
   // $(panelContentLists).appendTo(".leaflet-map-panel-content-box-inner");
