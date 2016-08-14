@@ -38,18 +38,63 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
   // data.features.property
   var dataConnector01 = [];
   var key01 = []
+
+    var countyStyle = {
+      'color': "#000",
+      'weight': 2,
+      'opacity': 0.6
+    };
+        var overStyle = {
+      'color': "#666",
+      'weight': 2,
+      'opacity': 0.6
+    };
+    var highlightFeatureOnHoverStyle = {
+      weight:5,
+      color:"#fff",
+      dashArray: "",
+      fillOpacity:0.2
+    };
+
+
   // load GeoJSON from an external file
   $.getJSON("virginia-counties-census-2000-novars.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
-      var countyStyle = {
-    'color': "#000",
-    'weight': 2,
-    'opacity': 0.6
-  };
+    // console.log(data.features.geometry[1]);
+    var overHighlight = [];
+
+
+
+
+// push geometry.coordinates connected via data connected id, to overwrite highlightFeature function for localities with matching fips codes
+    $.each(data.features, function(propertyIndex, property){
+      console.log(this.geometry.coordinates);
+      overHighlight.push(this.geometry.coordinates);
+    });
+
+
+
+
+    function highlightFeature(e) {
+      var layer = e.target;
+      layer.setStyle(highlightFeatureOnHoverStyle);
+      if (!L.Browser.ie && !L.Browser.opera) {
+        layer.bringToFront();
+      }
+      // THIS IS WHERE THE MAGIC HAPPENS - show content on hover not in dump popup marker box
+      // info.update(layer.feature.properties);
+    }
+
+    function resetHighlight(e) {
+      geojson.resetStyle(e.target);
+      // info.update();
+    }
+
+
   function onEachFeature(feature, layer) {
   layer.on({
-    // mouseover: highlightFeature,
-    // mouseout: resetHighlight,
+    mouseover: highlightFeature,
+    mouseout: resetHighlight
     // click: zoomToFeature
   });
 }
@@ -58,10 +103,7 @@ geojson = L.geoJson(data, {
     style: countyStyle
   }).addTo(map);
 
-    // L.geoJson(data).addTo(map);
-
-
-    $.each(data.features, function(propertyIndex, property){
+   $.each(data.features, function(propertyIndex, property){
       key01.push(this.properties.County);
     });
 
@@ -127,15 +169,8 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
     }
   }
 
-  // console.log("length: " + dataConnector02.length);
-
-  var electionName = data["ElectionName"];
-  var electionDate = data["ElectionDate"];
-  var createDate = data["CreateDate"];
-  var raceName = data["RaceName"];
-  var numberOfSeats = data["NumberOfSeats"];
-
-  var jsonOutput = electionName + electionDate + createDate + raceName + numberOfSeats;
+  var panelSplash = "<h1>Member Senate of Virginia 017 Elections Results</h1>";
+  $(panelSplash).appendTo(".leaflet-map-panel-box");
 
     $( "<ul/>", {
     "class": "leaflet-panel-list",
