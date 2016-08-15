@@ -88,10 +88,13 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
       if (!L.Browser.ie && !L.Browser.opera) {
         layer.bringToFront();
       }
-      console.log(layer.feature.properties.County);
+      // console.log(layer.feature.properties.County);
+      // grab feature layer's fips id
       var hoverContentListIDA = layer.feature.properties.County;
+      // make jquery var
       var hoverContentListID = "#" + hoverContentListIDA;
-      console.log(hoverContentListID);
+      // console.log(hoverContentListID);
+      // show the element with this id attribute
       $(hoverContentListID).show();
       // THIS IS WHERE THE MAGIC HAPPENS - show content on hover not in dump popup marker box
       // info.update(layer.feature.properties);
@@ -103,25 +106,21 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
       // info.update();
     }
 
+    function onEachFeature(feature, layer) {
+      layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight
+        // click: zoomToFeature
+      });
+    } 
+    function contentOnEachFeature(feature, layer){
+      layer.on("mouseover")
+    }
 
-
-
-  function onEachFeature(feature, layer) {
-    layer.on({
-      mouseover: highlightFeature,
-      mouseout: resetHighlight
-      // click: zoomToFeature
-    });
-  }
-  function contentOnEachFeature(feature, layer){
-    layer.on("mouseover")
-
-
-  }
-geojson = L.geoJson(data, {
-    onEachFeature: onEachFeature,
-    style: countyStyle
-  }).addTo(map);
+    geojson = L.geoJson(data, {
+      onEachFeature: onEachFeature,
+      style: countyStyle
+    }).addTo(map);
 
    $.each(data.features, function(propertyIndex, property){
       key01.push(this.properties.County);
@@ -151,7 +150,7 @@ $.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
   panelList.push("<li>PrecinctsReporting: " + data.Localities[0].PrecinctsReporting + "</li>");
   panelList.push("<li>PrecinctsParticipating: " + data.Localities[0].PrecinctsParticipating + "</li>");
   panelList.push("<li>LastModified: " + data.Localities[0].LastModified + "</li>");
-  console.log(data.Localities[0].PrecinctsReporting);
+  // console.log(data.Localities[0].PrecinctsReporting);
 
 
 
@@ -162,6 +161,7 @@ var panelContentLists = [];
     panelContentList.setAttribute("class","ul-panel-content-active");
     panelContentListID = this.Locality.LocalityCode;
     // console.log(panelContentListID);
+    // set content's id attribute to fips id
     panelContentList.setAttribute("id",panelContentListID);
 
 
@@ -188,6 +188,12 @@ var panelContentLists = [];
 
     var panelContentListsData = "<li>Precints Reporting: " + data.Localities[entryIndex].PrecinctsReporting + "</li>";
     $(panelContentListsData).appendTo(panelContentList);
+    var panelContentListsDataPrecinctsParticipating = "<li>Precints Particpating: " + data.Localities[entryIndex].PrecinctsParticipating + "</li>";
+    var panelContentListsDataLastModified = "<li>Last Modified: " + data.Localities[entryIndex].LastModified + "</li>";
+    $(panelContentListsDataPrecinctsParticipating).appendTo(panelContentList);
+    $(panelContentListsDataLastModified).appendTo(panelContentList);
+
+
 
     
     $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
