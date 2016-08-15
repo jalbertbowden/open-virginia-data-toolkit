@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Virginia - Simple Leaflet Map</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" type="text/css" />
+    <link rel="stylesheet" href="leaflet-boilerplate.css" type="text/css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<style>
+.content{width:1000px; height:1000px; /** demo purposes only **/ }
+.ul-panel-content-active{display:none;}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <div class="leaflet-map-box">
+       <div id="leaflet-map" style="height:600px; width:800px;"></div>
+      <div class="leaflet-map-panel-box"></div>
+       
+        
+      </div>
+    </div>
+  </body>
+<script>
+// virginia setView settings var map = L.map('map').setView([37.750, -79.0000], 7);
+// initialize the map
+  var panelSplash = "<h1>Member Senate of Virginia 017 Elections Results</h1>";
+  var panelContentBox = "<div class=\"leaflet-map-panel-content-box\"><h1>Content Updates Here</h1><div class=\"leaflet-map-panel-content-box-inner\"></div></div>;"
+
+  var panelContent = panelSplash + panelContentBox;
+  $(panelContent).appendTo(".leaflet-map-panel-box");
+
+var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
+  // load a tile layer
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', 
+    {
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> Imagery Â© <a href="http://cloudmade.com">CloudMade</a>',
+      maxZoom: 17,
+      minZoom: 7
+    }).addTo(map);
+
+
+
+  // data.features.property
+  var dataConnector01 = [];
+  var key01 = []
+
+    var countyStyle = {
+      'color': "#000",
+      'weight': 2,
+      'opacity': 0.6
+    };
+        var overStyle = {
+      'color': "#666",
+      'weight': 2,
+      'opacity': 0.6
+    };
+    var highlightFeatureOnHoverStyle = {
+      weight:5,
+      color:"#fff",
+      dashArray: "",
+      fillOpacity:0.2
+    };
+
+
+  // load GeoJSON from an external file
+  $.getJSON("virginia-counties-census-2000-novars.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    // console.log(data.features.geometry[1]);
+    var overHighlight = [];
+
+
+
+
+// push geometry.coordinates connected via data connected id, to overwrite highlightFeature function for localities with matching fips codes
+    $.each(data.features, function(propertyIndex, property){
+      // console.log(this.geometry.coordinates);
+      overHighlight.push(this.geometry.coordinates);
+    });
+
+
+
+
+    function highlightFeature(e) {
+      var layer = e.target;
+      layer.setStyle(highlightFeatureOnHoverStyle);
+      if (!L.Browser.ie && !L.Browser.opera) {
+        layer.bringToFront();
+      }
+      // console.log(layer.feature.properties.County);
+      // grab feature layer's fips id
+      var hoverContentListIDA = layer.feature.properties.County;
+      // make jquery var
+      var hoverContentListID = "#" + hoverContentListIDA;
+      // console.log(hoverContentListID);
+      // show the element with this id attribute
+      $(hoverContentListID).show();
+      // THIS IS WHERE THE MAGIC HAPPENS - show content on hover not in dump popup marker box
+      // info.update(layer.feature.properties);
+    }
+
+    function resetHighlight(e) {
+      geojson.resetStyle(e.target);
+      $(".ul-panel-content-active").hide();
+      // info.update();
+    }
+
+    function onEachFeature(feature, layer) {
+      layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight
+        // click: zoomToFeature
+      });
+    } 
+    function contentOnEachFeature(feature, layer){
+      layer.on("mouseover")
+    }
+
+    geojson = L.geoJson(data, {
+      onEachFeature: onEachFeature,
+      style: countyStyle
+    }).addTo(map);
+
+   $.each(data.features, function(propertyIndex, property){
+      key01.push(this.properties.County);
+    });
+
+ var dataConnector02 = [];
+ var dataConnector03 = [];
+ var dataConnector04 = [];
+ var dataConnector05 = [];
+ var panelList = [];
+ var pushedContentList = [];
+
+ var keys = [];
+
+
+$.getJSON( "member-senate-of-virginia-017-novars.json", function( data ) {
+  // console.log(data.ElectionName);
+  panelList.push("<li>Election Name: " + data.ElectionName + "</li>");
+  panelList.push("<li>Election Date: " + data.ElectionDate + "</li>");
+  panelList.push("<li>Create Date: " + data.CreateDate + "</li>");
+  panelList.push("<li>Race Name: " + data.RaceName + "</li>");
+  panelList.push("<li>Number of Seats: " + data.NumberOfSeats + "</li>");
+  // panelList.push("<li> :" + data.Locality.PrecinctsReporting + "</li>");
+  // console.log(data.Localities)
+  // console.log(data.Localities[PrecinctsReporting]);
+  // console.log(data.Localities[0].PrecinctsReporting)
+  panelList.push("<li>PrecinctsReporting: " + data.Localities[0].PrecinctsReporting + "</li>");
+  panelList.push("<li>PrecinctsParticipating: " + data.Localities[0].PrecinctsParticipating + "</li>");
+  panelList.push("<li>LastModified: " + data.Localities[0].LastModified + "</li>");
+  // console.log(data.Localities[0].PrecinctsReporting);
+
+
+
+var panelContentLists = [];
+  $.each(data.Localities, function(entryIndex, entry){
+
+    var panelContentList = document.createElement("ul");
+    panelContentList.setAttribute("class","ul-panel-content-active");
+    panelContentListID = this.Locality.LocalityCode;
+    // console.log(panelContentListID);
+    // set content's id attribute to fips id
+    panelContentList.setAttribute("id",panelContentListID);
+
+
+    // console.log(entryIndex);
+    // console.log(this.Locality[PrecinctsReporting]);
+
+
+
+    dataConnector02.push(this.Locality.LocalityCode);
+    dataConnector03.push(this.Locality.LocalityName);
+    dataConnector04.push(this.Locality.ElectionName);
+    // console.log(this.Locality.ElectionName);
+    dataConnector05.push(this.Locality.ElectionDate);
+    // var panelContentList = document.createElement("ul").setAttribute("class","foo");
+    
+    // console.log(panelContentList);
+    panelList.push("<li>Locality Code: " + this.Locality.LocalityCode + "</li>");
+    panelList.push("<li>Locality Name: " + this.Locality.LocalityName + "</li>");
+    var panelListItems = "<li>Locality Code: " + this.Locality.LocalityCode + "</li> \
+      <li>Locality Name: " + this.Locality.LocalityName + "</li>";
+    $(panelListItems).appendTo(panelContentList);
+    // console.log(panelContentList);
+    panelContentLists.push(panelContentList);
+
+    var panelContentListsData = "<li>Precints Reporting: " + data.Localities[entryIndex].PrecinctsReporting + "</li>";
+    $(panelContentListsData).appendTo(panelContentList);
+    var panelContentListsDataPrecinctsParticipating = "<li>Precints Particpating: " + data.Localities[entryIndex].PrecinctsParticipating + "</li>";
+    var panelContentListsDataLastModified = "<li>Last Modified: " + data.Localities[entryIndex].LastModified + "</li>";
+    $(panelContentListsDataPrecinctsParticipating).appendTo(panelContentList);
+    $(panelContentListsDataLastModified).appendTo(panelContentList);
+
+    // console.log(data.Localities[entryIndex].Candidates[0].BallotName);
+    var panelContentListsBallotNamesList = [];
+    /* for(x = 0; x < data.Localities[entryIndex].Candidates[0].BallotName.length, x++;){
+      var ballotNameSingleCandidate = data.Localities[entryIndex].Candidates[0].BallotName[x];
+      console.log(data.Localities[entryIndex].Candidates[0].BallotName.length);
+    } */
+
+    $.each(data.Localities[entryIndex].Candidates, function(ballotNameIndex, ballotName){
+      var panelContentListsBallotNamesListItems = "<li>Ballot Name: " + this.BallotName + "</li> \
+        <li>Ballot Order: " + this.BallotOrder + "</li> \
+        <li>Votes: " + this.Votes + "</li> \
+        <li>Percentage: " + this.Percentage + "</li> \
+        <li>Political Party: " + this.PoliticalParty + "</li>";
+      $(panelContentListsBallotNamesListItems).appendTo(panelContentList);
+      // console.log(panelContentList);
+      panelContentListsBallotNamesList.push(panelContentListsBallotNamesListItems);
+      console.log(panelContentListsBallotNamesListItems);
+
+    });
+
+    $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
+        console.log(data.Localities[entryIndex].PrecinctsReporting);;
+  })
+  // console.log(panelContentLists);
+  // $(panelContentLists).appendTo(".leaflet-map-panel-content-box-inner");
+  // console.log("JSON Data Connector 02: " + dataConnector02);
+  // console.log("KEY VAR: " + key01);
+
+
+  var connections = [];
+  for (i = 0; i < dataConnector02.length; i++) {
+    var partA = dataConnector02[0];
+    var partB = key01[i];
+    // console.log(key01[i] + ", " + dataConnector02[0]);
+
+    
+
+    for (w = 0; w < key01.length; w++){
+      var partC = key01[0];
+      // var connections = [];
+      if (key01[w] === dataConnector02[i]) {
+        // console.log("IF STATMENT TEST: " + key01[w] + ", " + dataConnector02[i])
+        connections.push("<li>Fips Code: " + dataConnector02[i] + "</li><li>Locality Name: " + dataConnector03[i]);
+      }
+    }
+  }
+
+
+/*
+    $( "<ul/>", {
+    "class": "leaflet-panel-list",
+    html: panelList.join( "" )
+  }).appendTo(".leaflet-map-panel-content-box"); */
+// panelList
+    })
+
+  });
+</script>
+</html>
