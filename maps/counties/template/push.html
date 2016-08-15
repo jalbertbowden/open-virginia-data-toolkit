@@ -193,9 +193,26 @@ var panelContentLists = [];
     $(panelContentListsDataPrecinctsParticipating).appendTo(panelContentList);
     $(panelContentListsDataLastModified).appendTo(panelContentList);
 
+    // console.log(data.Localities[entryIndex].Candidates[0].BallotName);
+    var panelContentListsBallotNamesList = [];
+    /* for(x = 0; x < data.Localities[entryIndex].Candidates[0].BallotName.length, x++;){
+      var ballotNameSingleCandidate = data.Localities[entryIndex].Candidates[0].BallotName[x];
+      console.log(data.Localities[entryIndex].Candidates[0].BallotName.length);
+    } */
 
+    $.each(data.Localities[entryIndex].Candidates, function(ballotNameIndex, ballotName){
+      var panelContentListsBallotNamesListItems = "<li>Ballot Name: " + this.BallotName + "</li> \
+        <li>Ballot Order: " + this.BallotOrder + "</li> \
+        <li>Votes: " + this.Votes + "</li> \
+        <li>Percentage: " + this.Percentage + "</li> \
+        <li>Political Party: " + this.PoliticalParty + "</li>";
+      $(panelContentListsBallotNamesListItems).appendTo(panelContentList);
+      // console.log(panelContentList);
+      panelContentListsBallotNamesList.push(panelContentListsBallotNamesListItems);
+      console.log(panelContentListsBallotNamesListItems);
 
-    
+    });
+
     $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
         console.log(data.Localities[entryIndex].PrecinctsReporting);;
   })
