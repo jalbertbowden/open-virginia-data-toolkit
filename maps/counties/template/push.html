@@ -68,18 +68,17 @@ var map = L.map('leaflet-map').setView([37.750, -79.0000], 7);
   $.getJSON("virginia-counties-census-2000-novars.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
     // console.log(data.features.geometry[1]);
+    
+
+
     var overHighlight = [];
-
-
-
-
-// push geometry.coordinates connected via data connected id, to overwrite highlightFeature function for localities with matching fips codes
+    // push geometry.coordinates connected via data connected id, to overwrite highlightFeature function for localities with matching fips codes
     $.each(data.features, function(propertyIndex, property){
       // console.log(this.geometry.coordinates);
-      overHighlight.push(this.geometry.coordinates);
+      // console.log(this.properties.County);
+      overHighlight.push(this);
     });
-
-
+    console.log(overHighlight);
 
 
     function highlightFeature(e) {
@@ -164,10 +163,22 @@ var panelContentLists = [];
     // set content's id attribute to fips id
     panelContentList.setAttribute("id",panelContentListID);
 
+var masterColors = [];
+    // console.log("panelContentListID: " + panelContentListID + ", overHighlight[entryIndex].properties.County: " + overHighlight[entryIndex].properties.County);
+    for(x = 0; x < overHighlight.length; x++){
+      if (panelContentListID === overHighlight[x].properties.County){
+        var masterColor = overHighlight[x];
+        masterColors.push(masterColor);
+        console.log(masterColor);
+        // console.log(masterColor);
+        // console.log("panelContentListID: " + panelContentListID + ", overHighlight[x].properties.County: " + overHighlight[x].properties.County);
+      }
+    }
+    console.log(masterColors[entryIndex]);
 
-    // console.log(entryIndex);
-    // console.log(this.Locality[PrecinctsReporting]);
-
+    function styleFunction(){return {color:"purple"};}
+    function newStyle(){mainColorOverGeoJSONLayer.setStyle({color:"green"});}
+    var mainColorOverGeoJSONLayer = L.geoJson(masterColors, {style:styleFunction}).addTo(map);
 
 
     dataConnector02.push(this.Locality.LocalityCode);
@@ -209,13 +220,15 @@ var panelContentLists = [];
       $(panelContentListsBallotNamesListItems).appendTo(panelContentList);
       // console.log(panelContentList);
       panelContentListsBallotNamesList.push(panelContentListsBallotNamesListItems);
-      console.log(panelContentListsBallotNamesListItems);
+      // console.log(panelContentListsBallotNamesListItems);
 
     });
 
     $(panelContentList).appendTo(".leaflet-map-panel-content-box-inner");
-        console.log(data.Localities[entryIndex].PrecinctsReporting);;
+        // console.log(data.Localities[entryIndex].PrecinctsReporting);;
   })
+  // for(x < 0; x < panelContentLists.length; x++){}
+
   // console.log(panelContentLists);
   // $(panelContentLists).appendTo(".leaflet-map-panel-content-box-inner");
   // console.log("JSON Data Connector 02: " + dataConnector02);
