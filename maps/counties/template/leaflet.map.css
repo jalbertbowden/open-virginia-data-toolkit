@@ -2,3 +2,14 @@
 
 .content{}
 
+
+/** **/
+.leaflet-map-panel-box{
+	background-color:#fff;
+}
+.leaflet-map-panel-box h1{}
+.leaflet-map-panel-content-box{}
+.leaflet-map-panel-content-box h1{}
+.leaflet-map-panel-content-box-inner{}
+ul.ul-panel-content-active{}
+ul.ul-panel-content-active li{}
