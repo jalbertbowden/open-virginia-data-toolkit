@@ -1,5 +1,8 @@
 # Virginia Open Criminal Justice Data Sources  
 
+[The Outdoor Report - Virginia Conservation Police Notebook - DGIF](multifamily-physical-inspection-scores.csv)  
+
+
 
 ## Albemarle County  
 ### Albemarle County Police Department
