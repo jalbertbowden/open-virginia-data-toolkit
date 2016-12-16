@@ -5,3 +5,7 @@
 [District Builder - Virginia Redistricting Competition (DNS Address Could Not Be Found 2016-07-23)](https://districtbuilder.varedistrictingcompetition.org/)  
 
 
+
+[Redistricting](http://web.archive.org/web/20010915002342/http://dlsgis.state.va.us/)  
+[Redistricting Virginia](http://web.archive.org/web/20010914224317/http://dlsgis.state.va.us/)  
+
