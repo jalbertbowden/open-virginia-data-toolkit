@@ -72,5 +72,7 @@ DEQ Interactive Mapping GIS Portal,EDQ, http://www.deq.virginia.gov/Programs/Lan
 
 
 
-The 3D Elevation Program - Summary for Virginia](http://pubs.usgs.gov/fs/2013/3052/)  
-[](http://pubs.usgs.gov/fs/2013/3052/pdf/fs2013-3052.pdf) 
+[The 3D Elevation Program - Summary for Virginia](http://pubs.usgs.gov/fs/2013/3052/)  
+[The 3D Elevation Program — Summary for Virginia (PDF)](http://pubs.usgs.gov/fs/2013/3052/pdf/fs2013-3052.pdf) 
+
+[Virginia Land Cover Mapping of the Chesapeake Bay Watershed for 1990 and 2000 - Land Use and Climate Change USGS](ftp://ftp.chesapeakebay.net/Pub/Geographic/Virginia/landcover/VA_LULC_IMP.zip)  

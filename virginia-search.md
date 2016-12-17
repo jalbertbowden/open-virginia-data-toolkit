@@ -137,4 +137,24 @@ Search for "Virginia"
 [](http://www.loc.gov/pictures/search/?q=Photograph:%20va1665&fi=number&op=PHRASE&va=exact&co%20=hh&st=gallery&sg%20=%20true)  
 [](http://www.loc.gov/search/?fa=subject%3Avirginia+peninsula+%28va.%29)  
 [](http://www.loc.gov/search/?fa=subject%3Avirginia+peninsula)  
-	
+
+
+
+
+# Virginia Search - Mining www for the Commonwealth's Data  
+
+## Search List  
+[Search National Geologic Map Database for Keyword "Virginia"](http://ngmdb.usgs.gov/ngm-bin/ngm_search_dbi.pl?src_page=ngm_compsearch.pl&searchopt=undefined&key_search=&Title=Virginia&Author=&Map+Number=&g_center=&g_zoom=&cqtype=None&State=&bc_ul=&bc_lr=&publisher_list=usgs&scale=&scale2=&datebgn=&dateend=&format=both&dig_sub=&dig_sub=&dig_sub=&dig_sub=)  
+[Search USGS Science Data Catalog for Keyword "Virginia"](http://data.usgs.gov/datacatalog/#fq=dataType%3A(collection%20OR%20non-collection%20OR%20supercollection)&q=Virginia)  
+[Search AWIC NAL USDA for Keyword Term "Virginia"](http://search.usa.gov/search?utf8=%E2%9C%93&affiliate=awic.nal.usda.gov&query=Virginia&commit=Go)  
+[Search data.noaa.gov for Keyword "Virginia"](https://data.noaa.gov/dataset?q=Virginia)  
+[Search Results for Keyword "Virginia" - U.S. Geological Survey Science Data Catalog](http://data.usgs.gov/datacatalog/#fq=dataType%3A(collection%20OR%20non-collection%20OR%20supercollection)&q=Virginia)  
+
+
+[Search NOAA's Data Catalog for Keyword "Virginia"](https://data.noaa.gov/dataset?tags=virginia)  
+
+[https://www.usgs.gov/science/science-explorer?lq=Virginia](https://www.usgs.gov/science/science-explorer?lq=Virginia)  
+
+
+[SVS Search All Visualizations for "Virginia" - Scientific Visualization Studio NASA](http://svs.gsfc.nasa.gov/cgi-bin/search.cgi?value=Virginia&expanded=filters)  
+
