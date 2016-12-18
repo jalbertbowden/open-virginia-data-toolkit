@@ -1,0 +1,66 @@
+
+
+
+var centerLat=37.76; var centerLon=-79.7; var mapZoom=7;
+	$(document).ready(function()  {
+		initMap();
+		addMarker(37.63909,-80.01626,"Barbours Creek Wilderness","w");
+		addMarker(37.06576,-81.47745,"Beartown Wilderness","w");
+		addMarker(37.63909,-79.3461,"James River Face Wilderness","w");
+		addMarker(37.19317,-81.09293,"Kimberling Creek Wilderness","w");
+		addMarker(36.68354,-81.71915,"Lewis Fork Wilderness","w");
+		addMarker(36.7791,-81.24673,"Little Dry Run Wilderness","w");
+		addMarker(36.65169,-81.49942,"Little Wilson Creek Wilderness","w");
+		addMarker(37.44798,-80.40079,"Mountain Lake Wilderness","w");
+		addMarker(37.41613,-80.62051,"Peters Mountain Wilderness","w");
+		addMarker(37.7665,-79.01651,"Priest Wilderness","w");
+		addMarker(38.36106,-79.26919,"Ramseys Draft Wilderness","w");
+		addMarker(37.85143,-79.5878,"Rich Hole Wilderness","w");
+		addMarker(37.98946,-79.75259,"Rough Mountain Wilderness","w");
+		addMarker(37.97884,-79.03848,"Saint Mary's Wilderness","w");
+		addMarker(37.59662,-80.21402,"Shawvers Run Wilderness","w");
+		addMarker(37.8939,-78.85171,"Three Ridges Wilderness","w");
+		addMarker(37.51168,-79.52188,"Thunder Ridge Wilderness","w");
+		addMarker(37.37064,-80.24048,"Brush Mountain East Wilderness","w");
+		addMarker(37.32796,-80.32656,"Brush Mountain Wilderness","w");
+		addMarker(37.05674,-81.34005,"Garden Mountain Wilderness","w");
+		addMarker(37.09675,-81.24719,"Hunting Camp Creek Wilderness","w");
+		addMarker(36.73941,-81.45927,"Raccoon Branch Wilderness","w");
+		addMarker(36.81919,-82.92176,"Stone Mountain Wilderness","w");
+	});
+	
+	
+// copy
+
+
+// map coordinates and zoom setting
+// var centerLat=37.76;
+// var centerLon=-79.7;
+// var mapZoom=7;
+Latitude, Longitude, Wilderness, Something Each Denotes as "W"
+37.63909,-80.01626,"Barbours Creek Wilderness","w");
+37.06576,-81.47745,"Beartown Wilderness","w");
+37.63909,-79.3461,"James River Face Wilderness","w");
+37.19317,-81.09293,"Kimberling Creek Wilderness","w");
+36.68354,-81.71915,"Lewis Fork Wilderness","w");
+36.7791,-81.24673,"Little Dry Run Wilderness","w");
+36.65169,-81.49942,"Little Wilson Creek Wilderness","w");
+37.44798,-80.40079,"Mountain Lake Wilderness","w");
+37.41613,-80.62051,"Peters Mountain Wilderness","w");
+37.7665,-79.01651,"Priest Wilderness","w");
+38.36106,-79.26919,"Ramseys Draft Wilderness","w");
+37.85143,-79.5878,"Rich Hole Wilderness","w");
+37.98946,-79.75259,"Rough Mountain Wilderness","w");
+37.97884,-79.03848,"Saint Mary's Wilderness","w");
+37.59662,-80.21402,"Shawvers Run Wilderness","w");
+37.8939,-78.85171,"Three Ridges Wilderness","w");
+37.51168,-79.52188,"Thunder Ridge Wilderness","w");
+37.37064,-80.24048,"Brush Mountain East Wilderness","w");
+37.32796,-80.32656,"Brush Mountain Wilderness","w");
+37.05674,-81.34005,"Garden Mountain Wilderness","w");
+37.09675,-81.24719,"Hunting Camp Creek Wilderness","w");
+36.73941,-81.45927,"Raccoon Branch Wilderness","w");
+36.81919,-82.92176,"Stone Mountain Wilderness","w");
+	
+
+

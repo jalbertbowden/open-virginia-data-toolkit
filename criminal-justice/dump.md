@@ -1,3 +1,16 @@
+[VLPC - Virginia Poverty Law Center](http://www.vplc.org/)
+[@VLPC](https://twitter.com/VPLC)  
+[VLPC Feed](http://www.vplc.org/feed/)  
+[VLPC YouTube Channel}(https://www.youtube.com/user/vapovertylaw)  
+[VLPC flickr](https://www.flickr.com/photos/vplc)  
+
+
+
+
+[OCCRP (Organized Crime and Corruption Reporting Project)](https://www.occrp.org/en/blog)  
+(RSS}](https://www.occrp.org/en/blog?format=feed&type=rss)
+
+
 https://www.washingtonpost.com/local/virginia-politics/va-lawmakers-rack-up-big-bill-for-taxpayers-in-redistricting-lawsuit/2016/04/18/68a43d0a-057d-11e6-bdcb-0133da18418d_story.html
 
 
