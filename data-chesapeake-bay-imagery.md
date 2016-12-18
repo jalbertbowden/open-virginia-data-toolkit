@@ -1,6 +1,27 @@
-# Chesapeake Bay Imagery Data  
+# Chesapeake Bay Open Data/Open Source/CC Imagery  
 
 ## [Chesapeake Bay Open Data](data-chesapeake-bay.md)  
+
+[Chesapeake Bay from MODIS](https://archive.org/details/VE-IMG-234)
+[https://archive.org/download/VE-IMG-234/MODIS1000018_md.jpg](https://archive.org/download/VE-IMG-234/MODIS1000018_md.jpg)  
+[Chesapeake Bay Landsat-7 Mosaic](https://archive.org/details/SVS-3473)  
+[https://archive.org/download/SVS-3473/ChesapeakeBayLandSatMosaicLZW.tif](https://archive.org/download/SVS-3473/ChesapeakeBayLandSatMosaicLZW.tif)  
+[https://archive.org/download/SVS-3473/SVS-3473_archive.torrent](https://archive.org/download/SVS-3473/SVS-3473_archive.torrent)  
+[Dec 11 Chesapeake Impact](https://archive.org/details/dec11-chesapeake-impact)  
+[OGG VORBIS](https://archive.org/download/dec11-chesapeake-impact/dec11-chesapeake-impact.ogg)  
+[TORRENT](https://archive.org/download/dec11-chesapeake-impact/dec11-chesapeake-impact_archive.torrent) 
+[VBR M3U](https://archive.org/download/dec11-chesapeake-impact/dec11-chesapeake-impact_vbr.m3u) 
+[VBR MP3](https://archive.org/download/dec11-chesapeake-impact/dec11-chesapeake-impact.mp3) 
+[Hurricane Irene](https://archive.org/details/VE-IMG-20174)  
+[Hurricane Irene](https://archive.org/download/VE-IMG-20174/Irene_AMO_2005226.jpg)  
+[Hurricane Irene](https://archive.org/download/VE-IMG-20174/VE-IMG-20174_archive.torrent)  
+[https://archive.org/details/ast-13-797](https://archive.org/details/ast-13-797)  
+[https://archive.org/details/ast-13-797](https://archive.org/details/ast-13-797)  
+[https://archive.org/details/VE-IMG-18879](https://archive.org/details/VE-IMG-18879)  
+[https://archive.org/details/ge_08047](https://archive.org/details/ge_08047)  
+
+
+
 
 [The Chesapeake Bay Watershed](http://earthobservatory.nasa.gov/IOTD/view.php?id=86815)
 [http://eoimages.gsfc.nasa.gov/images/imagerecords/86000/86815/chesapeake_oli_2015.jpg](http://eoimages.gsfc.nasa.gov/images/imagerecords/86000/86815/chesapeake_oli_2015.jpg)  
