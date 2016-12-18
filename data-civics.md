@@ -5,6 +5,13 @@ Civic engagement, civic leadership, civic groups, civic hacking, and of course c
 
 
 
+[James Weldon Cooper Center for Public Service at the University of Virginia](http://www.coopercenter.org)  
+
+
+
+[Virginia Commission on Local Government - information about the financial condition of Virginia's 136 independent jurisdictions](http://www.dhcd.virginia.gov/CommissiononLocalGovernment/default.htm)  
+
+
 http://www.partnership.vcu.edu/
 http://vista.gmu.edu/
 http://vista.gmu.edu/middle

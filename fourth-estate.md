@@ -52,13 +52,19 @@ https://twitter.com/newsadvance
 
 
 
-Virginia Press Association
-xVIRGINIA PRESS ASSOCIATION
+## Virginia Press Association
 11529 Nuckols Road
 Glen Allen, Va. 23059
+[Virginia Press Association (VPA)](http://www.vpa.net/)  
+[Jobs](http://www.vpa.net/jobs)  
 
-Virginia Press Association (VPA)
-http://www.vpa.net/
 
-Jobs
-http://www.vpa.net/jobs
+
+ 
+
+## [ODU Publications](https://www.odu.edu/about/odu-publications/)  
+[Monarch Magazine]](https://www.odu.edu/about/odu-publications/monarch-magazine)  
+ODU Publications
+Monarch Magazine is circulated three times a year to approximately 100,000 alumni, opinion leaders and friends of the university. Articles will report on the exciting research, scholarship, classroom innovations, dedicated faculty, outstanding students and newsworthy alums that are ODU's contributions to the region and the world.  
+
+

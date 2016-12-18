@@ -90,3 +90,18 @@ You can walk the URLs o data by swapping out number in vars appending to URL, ".
 ["Transportation" Category Archives on Bacon's Rebellion](http://www.baconsrebellion.com/category/transportation)  
 ["Infrastructure" Category Archives on Bacon's Rebellion](http://www.baconsrebellion.com/category/infrastructure)  
 
+
+
+
+
+[Virginia Maritime Assocation](http://www.vamaritime.com/)  
+
+[Drive the Port!](http://virtual.vamaritime.com/)  
+Over the next 20 years the volume of containerized freight moving through the Port of Virginia will double.  The driver pool servicing the Port will need to grow by over 100 new truck drivers each year to keep pace with the increasing numbers of imports and exports.  Driver the Port is an initiative undertaken by the Virginia Maritime Association (VMA) to address the need for an increasing number of qualified truck drivers and owner-operators in the Port.  
+Drive the Port has three primary objectives:
+Connect already qualified truck drivers and owner-operators with trucking companies already operating in the Port that are in need of drivers.  
+Provide information to drivers interested in becoming owner-operators, and current owner-operators, to help them succeed in their business.  
+Connect individuals interested in becoming truck drivers with training opportunities.  
+
+
+
