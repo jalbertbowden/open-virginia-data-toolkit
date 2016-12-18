@@ -1,0 +1,136 @@
+NAME			Total Population
+Accomack County		38305
+Albemarle County		79236
+Alleghany County		12926
+Amelia County		11400
+Amherst County		31894
+Appomattox County		13705
+Arlington County		189453
+Augusta County		65615
+Bath County			5048
+Bedford County		60371
+Bland County		6871
+Botetourt County		30496
+Brunswick County		18419
+Buchanan County		26978
+Buckingham County		15623
+Campbell County		51078
+Caroline County		22121
+Carroll County		29245
+Charles City County	6926
+Charlotte County		12472
+Chesterfield County	259903
+Clarke County		12652
+Craig County		5091
+Culpeper County		34262
+Cumberland County		9017
+Dickenson County		16395
+Dinwiddie County		24533
+Essex County		9989
+Fairfax County		969749
+Fauquier County		55139
+Floyd County		13874
+Fluvanna County		20047
+Franklin County		47286
+Frederick County		59209
+Giles County		16657
+Gloucester County		34780
+Goochland County		16863
+Grayson County		17917
+Greene County		15244
+Greensville County	11560
+Halifax County		37355
+Hanover County		86320
+Henrico County		262300
+Henry County		57930
+Highland County		2536
+Isle of Wight County	29728
+James City County		8102
+King and Queen County	6630
+King George County	16803
+King William County	13146
+Lancaster County		11567
+Lee County			23589
+Loudoun County		169599
+Louisa County		25627
+Lunenburg County		13146
+Madison County		12520
+Mathews County		9207
+Mecklenburg County	32380
+Middlesex County		9932
+Montgomery County		83629
+Nelson County		14445
+New Kent County		13462
+Northampton County	13093
+Northumberland County	12259
+Nottoway County		15725
+Orange County		25881
+Page County			23177
+Patrick County		19407
+Pittsylvania County	61745
+Powhatan County		22377
+Prince Edward County	19720
+Prince George County	33047
+Prince William County	280813
+Pulaski County		35127
+Rappahannock County	6983
+Richmond County		8809
+Roanoke County		85778
+Rockbridge County		20808
+Rockingham County		67725
+Russell County		30308
+Scott County		23403
+Shenandoah County		35075
+Smyth County		33081
+Southampton County	17482
+Spotsylvania County	90395
+Stafford County		92446
+Surry County		6829
+Sussex County		12504
+Tazewell County		44598
+Warren County		31584
+Washington County		51103
+Westmoreland County	16718
+Wise County			40123
+Wythe County		27599
+York County			56297
+Alexandria city		128283
+Bedford city		6299
+Bristol city		17367
+Buena Vista city		6349
+Charlottesville city	45049
+Chesapeake city		199184
+Clifton Forge city	4289
+Colonial Heights city	16897
+Covington city		6303
+Danville city		48411
+Emporia city		5665
+Fairfax city		21498
+Falls Church city		10377
+Franklin city		8346
+Fredericksburg city	19279
+Galax city			6837
+Hampton city		146437
+Harrisonburg city		40468
+Hopewell city		22354
+Lexington city		6867
+Lynchburg city		65269
+Manassas city		35135
+Manassas Park city	10290
+Martinsville city		15416
+Newport News city		180150
+Norfolk city		234403
+Norton city			3904
+Petersburg city		33740
+Poquoson city		11566
+Portsmouth city		100565
+Radford city		15859
+Richmond city		197790
+Roanoke city		94911
+Salem city			24747
+Staunton city		23853
+Suffolk city		63677
+Virginia Beach city	425257
+Waynesboro city		19520
+Williamsburg city		11998
+Winchester city		23585

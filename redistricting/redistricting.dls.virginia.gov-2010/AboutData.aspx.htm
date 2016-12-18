@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+
+</title><link href="AboutData.aspx_files/Site.css" rel="stylesheet" type="text/css"><link href="AboutData.aspx_files/jquery-ui-1.css" rel="stylesheet" type="text/css">
+    <script src="AboutData.aspx_files/jquery-1.js" type="text/javascript"></script>
+    <script src="AboutData.aspx_files/jquery-ui-1.js" type="text/javascript"></script>
+    <script src="AboutData.aspx_files/jquery-hoverIntent.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+        function CreateEmailLink(name, domain) {
+            var u_a = "mail"
+            var u_b = "to:"
+            var u_c = "@"
+            document.write('<a href="' + u_a + u_b + name + u_c + domain + ' ">' + name + u_c + domain + '<\/a>');
+        }
+
+
+        jQuery(function () {
+            //Initialize nav bar drop down list hover handlers
+            jQuery("#navBar ul li").hoverIntent(
+        {
+            sensitivity: 3,
+            interval: 0,
+            over: ddlOptionsVisible,
+            timeout: 100,
+            out: ddlOptionsInvisible
+        });
+
+            //Set currently selected nav menu item style
+            //What is the current webpage
+            var webpageFileName = document.location.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+            if (webpageFileName.length == 0) webpageFileName = "default.aspx";
+            //Find anchor in navmenu with href that matches current web page filename (use case-insensitive comparison)
+            var jqLi = null;
+            $("#navBar ul li a[href]").each(function (index, value) {
+                var href = value.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+                if (href == webpageFileName) {
+                    jqLi = $(value.parentNode);
+                    return false;
+                }
+            });
+            if (jqLi != null) {
+                jqLi.addClass("current");
+                //Check for parent menu list item (to highlight nav menu items with drop-down menus
+                $(jqLi.parent()).closest("#navBar ul li").addClass("current");
+                $(jqLi).closest("#navBar ul li").addClass("active");
+                $(jqLi).closest("#navBar ul li").append("<span><\/span>");
+
+            }
+        });
+
+        function ddlOptionsVisible() {
+            var ddlOptions = jQuery(this).find("ul.ddlNav").html();
+            if (ddlOptions != null) {
+                jQuery(this).find("ul.ddlNav").slideDown(100);
+            }
+
+        }
+        function ddlOptionsInvisible() {
+            jQuery(this).find("ul.ddlNav").slideUp(100);
+        }
+
+    //]]>
+    </script>
+    <!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" href="Styles/style_ie6.css" />
+    <![endif]-->
+
+    
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+<body>
+	<form method="post" action="AboutData.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RkisNO7iG25n/qd9Nh70SO/0+sa4oZfRESv7argGdGpJg=" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl00'];
+if (!theForm) {
+    theForm = document.ctl00;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="AboutData.aspx_files/WebResource.js" type="text/javascript"></script>
+
+
+<script src="AboutData.aspx_files/ScriptResource_002.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="AboutData.aspx_files/ScriptResource.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FA702E45" type="hidden">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'ctl00', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+    <div id="mainContainer">
+        
+        <div id="headerContent">
+        <a href="http://redistricting.dls.virginia.gov/2010/Default.aspx"><span id="hotlink"></span></a>
+            <ul id="navTop">
+                <li><a href="http://dls.virginia.gov/contact.html">Contact Us</a></li>
+                <li><a href="http://dls.virginia.gov/jobs.html">Job Opportunities</a></li>
+                <li><a href="http://virginiageneralassembly.gov/">Virginia General Assembly</a></li>
+				<li><a href="http://dls.virginia.gov/foia%20request%20policy.pdf">FOIA REQUEST PROCESS</a></li>
+            </ul>
+        </div>
+        <div id="navBar">
+            <ul>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Default.aspx">Home</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Census2010.aspx">Census 2010 Data</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Map.aspx">Map</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx">Redistricting Plans</a></li>
+                <li><span>Information</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/News.aspx">News</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Hearings.aspx">Hearings</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Criteria.aspx">Criteria</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Publications.aspx">Publications</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/DOJSubmissions.aspx">DOJ Submission</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/preclearance_letters.pdf" target="_blank">DOJ Preclearance</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/BoundaryDescriptions.aspx">Boundary Descriptions</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DistrictMaps.aspx">District Maps</a></li>
+                <li class="current"><span>About</span>
+                    <ul class="ddlNav">
+                        <li class="current active"><a href="http://redistricting.dls.virginia.gov/2010/AboutData.aspx">About The Data</a><span></span></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingCases.aspx">Redistricting Cases</a></li>
+                                                <li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/PrecinctsVA_code.pdf" target="_blank">Precincts in the Code</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DLS_Help/Help.htm" target="_blank">Help</a></li>
+            </ul>
+        </div>
+        <div id="mainContent">
+            
+    <table width="100%" cellspacing="0" cellpadding="0">
+        
+  <tbody><tr> 
+    <td valign="top"> <h2> About the Data</h2>
+      <hr> <br> 
+      <h3>Sources</h3>
+      <ul>
+        <li><a href="http://www.census.gov/" target="_blank">U.S. Census Bureau</a></li>
+      </ul>
+      <h3>Column Headings</h3>
+      <ul>
+        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/columnheadings.pdf" target="_blank">Explanations</a></li>
+      </ul>
+      <h3>Free Data Downloads</h3>
+      <ul>
+        <li> <a href="http://www.esri.com/data/free-data/index.html" target="_blank">ESRI 
+          Free Data</a>: Free Census TIGER files in shapefile format. Data can 
+          be downloaded by county or other geographic areas.</li>
+        <li><a target="_blank" href="http://factfinder.census.gov/servlet/BasicFactsServlet"> 
+          U.S. Census Bureau American FactFinder</a>&nbsp;</li>
+        <li>This redistricting web site at the Virginia Division of Legislative 
+          Services.</li>
+      </ul>
+      <h3>Formats</h3>
+      <p> The data on this web site are available in several commonly-used formats:&nbsp;</p>
+      <ul>
+        <li>As <b>dynamic web-based maps</b>. A web browser that supports Dynamic 
+          HTML, JavaScript, and Silverlight is required. Version 7 or higher of 
+          <a target="_blank" href="http://www.microsoft.com/downloads/search.asp?"> 
+          Internet Explorer</a><font size="1"><sup>®</sup></font> or <a target="_blank" href="http://www.mozilla.com/en-US/firefox/">Mozilla 
+          Firefox</a><font size="1"><sup>®</sup></font> supports this capability. 
+          Because of inconsistencies between their implementation of Dynamic HTML, 
+          this site has been optimized for Internet Explorer. Maps are organized 
+          by district types: state house, state senate and U.S. congress. They 
+          should be viewed with a computer screen set to at least 800x600 resolution 
+          and 65,000 colors. </li>
+      </ul>
+      <ul>
+        <li>As <b>PDF files</b>. <a target="_blank" href="http://www.adobe.com/products/acrobat/readermain.html"> 
+          Acrobat Reader</a><font size="1"><sup>®</sup></font>&nbsp; is required 
+          to read PDF files. </li>
+      </ul>
+      <ul>
+        <li>As <b><a target="_blank" href="http://www.esri.com/">Esri</a> Shapefiles</b> 
+          for advanced desktop GIS processing. Most <a href="http://redistricting.dls.virginia.gov/2010/GIS.aspx">Geographic 
+          Information Systems (GIS)</a> can import these files. <a href="http://www.esri.com/">ArcView</a><sup><font size="1">®</font></sup> 
+          GIS can read, analyze and edit them without conversion. </li>
+      </ul>
+      <ul>
+        <li>As Microsoft <a target="_blank" href="http://www.microsoft.com/office/excel/default.htm"> 
+          Excel</a><font size="1"><sup>®</sup></font> spreadsheets with an 
+          <b>.xls</b> file extension. </li>
+      </ul>
+      <ul>
+        <li>As <b>ZIP files</b>, which need to be <a target="_blank" href="http://www.winzip.com/ddchomea.htm"> 
+          unzip</a>ped into their original formats before they become accessible 
+          by software such as word processors, GIS software, databases or spreadsheets. 
+          Zip files are files that have been compressed for faster download.&nbsp;<br>
+          <br>
+          For example, congressional district boundaries and data may be available 
+          in the following zipped shapefile: C0926shp.zip. The "shp" string in 
+          the name arbitrarily denotes a shapefile while the ".zip" extension 
+          indicates that this shapefile was compressed for faster web download. 
+          To use this file with a GIS system such as ArcView, the file must first 
+          be unzipped. Unzipping it will create a set of new files on disk, which 
+          can be read by the GIS. There are a number of unzipping utilities available. 
+          The most popular of them is WinZip. A free trial version of WinZip can 
+          be downloaded from <a target="_blank" href="http://www.winzip.com/ddchomea.htm">here</a>.</li>
+      </ul>
+      &nbsp;
+      <!--msnavigation-->
+    </td>
+        </tr>
+    </tbody></table>
+
+        </div>
+        <div id="footer">
+            <span>Site designed and developed by&nbsp;<a href="http://www.worldviewsolutions.com/">WorldView
+                Solutions Inc.</a></span>
+        </div>
+    </div>
+	</form>
+
+<div style="display:none;" id="link64_adl_tabid" data-url="http://redistricting.dls.virginia.gov/2010/AboutData.aspx">100237</div></body></html>

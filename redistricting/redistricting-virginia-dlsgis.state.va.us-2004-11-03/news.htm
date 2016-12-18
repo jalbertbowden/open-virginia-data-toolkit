@@ -1,0 +1,741 @@
+
+<html>
+
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app14.us.archive.org";archive_analytics.values.server_ms=83;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="DESCRIPTION" content="The official redistricting web site of the Commonwealth of Virginia">
+<meta http-equiv="KEYWORDS" content="redistricting, Virginia redistricting, districts, house, senate, congressional, house districts, senate districts, congressional districts, GIS, ArcIMS">
+<meta http-equiv="ROBOTS" content="ALL">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Welcome to the Official Redistricting Web Site of the Commonwealth of
+Virginia</title>
+
+<script language="JavaScript" fptype="dynamicanimation">
+<!--
+function dynAnimation() {}
+function clickSwapImg() {}
+//-->
+</script>
+<script language="JavaScript1.2" fptype="dynamicanimation" src="/web/20041205115936js_/http://dlsgis.state.va.us/animate.js">
+</script>
+<meta name="Microsoft Border" content="l">
+</head>
+
+<body topmargin="3" leftmargin="5" onload="dynAnimation()">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://dlsgis.state.va.us/Ref/news.htm";
+
+var firstYear = 1996;
+var displayDay = "5";
+var displayMonth = "Dec";
+var displayYear = "2004";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://dlsgis.state.va.us/Ref/news.htm" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20041205115936" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20040812014022/http://dlsgis.state.va.us/Ref/news.htm" title="12 Aug 2004">AUG</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 11:59:36 Dec 5, 2004">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20050207101609/http://dlsgis.state.va.us/Ref/news.htm" title="7 Feb 2005"><strong>FEB</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20040812014022/http://dlsgis.state.va.us/Ref/news.htm" title="1:40:22 Aug 12, 2004"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 11:59:36 Dec 5, 2004">5</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20050207101609/http://dlsgis.state.va.us/Ref/news.htm" title="10:16:09 Feb 7, 2005"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20031001201401/http://dlsgis.state.va.us/Ref/news.htm" title="1 Oct 2003"><strong>2003</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 11:59:36 Dec 5, 2004">2004</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20051220234818/http://dlsgis.state.va.us/Ref/news.htm" title="20 Dec 2005"><strong>2005</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20041205115936*/http://dlsgis.state.va.us/Ref/news.htm" title="See a list of every capture for this URL">180 captures</a>
+           <div class="r" title="Timespan for captures of this URL">16 Jun 01 - 5 Jan 11</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:00000101fd90_2002:-1:010001001542_2003:-1:010100010100_2004:11:010101010001_2005:-1:011001000013_2006:-1:810011002101_2007:-1:010101020011_2008:-1:111000000000_2009:-1:101000000010_2010:-1:201000110000_2011:-1:100000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<!-- Fireworks 3.0 Microsoft FrontPage target.
+    Created Thu Nov 07 15:32:51 GMT-0500 (Eastern Standard Time) 2002 -->
+
+<!-------------------- BEGIN COPYING THE HTML HERE ------------------->
+<script language="JavaScript">
+<!-- hide this script from non-javascript-enabled browsers
+
+/* Function that displays status bar messages. */
+function MM_displayStatusMsg(msgStr)  { //v3.0
+	status=msgStr; document.MM_returnValue = true;
+}
+
+/* Functions that finds images. */
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+/* Functions that swaps images. */
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+/* Functions that handle named groups. */
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+// stop hiding -->
+</script>
+
+<!--The following section is an image or HTML table which reassembles the sliced image in a browser.-->
+<table border="0" cellpadding="0" cellspacing="0" width="150">
+<!-- fwtable fwsrc="MyCnty_Border9.png" fwbase="left.gif" -->
+  <script language="JavaScript">
+  <!-- hide 
+  if (document.images) {
+  left_r02_c08_f2 = new Image(101 ,20); left_r02_c08_f2.src = "left_r02_c08_f2.gif";
+  left_r02_c08_f1 = new Image(101 ,20); left_r02_c08_f1.src = "left_r02_c08.gif";
+  left_r04_c05_f2 = new Image(121 ,38); left_r04_c05_f2.src = "left_r04_c05_f2.gif";
+  left_r04_c05_f1 = new Image(121 ,38); left_r04_c05_f1.src = "left_r04_c05.gif";
+  left_r06_c02_f2 = new Image(143 ,20); left_r06_c02_f2.src = "left_r06_c02_f2.gif";
+  left_r06_c02_f1 = new Image(143 ,20); left_r06_c02_f1.src = "left_r06_c02.gif";
+  left_r08_c09_f2 = new Image(87 ,20); left_r08_c09_f2.src = "left_r08_c09_f2.gif";
+  left_r08_c09_f1 = new Image(87 ,20); left_r08_c09_f1.src = "left_r08_c09.gif";
+  left_r10_c04_f2 = new Image(139 ,20); left_r10_c04_f2.src = "left_r10_c04_f2.gif";
+  left_r10_c04_f1 = new Image(139 ,20); left_r10_c04_f1.src = "left_r10_c04.gif";
+  left_r12_c12_f2 = new Image(59 ,20); left_r12_c12_f2.src = "left_r12_c12_f2.gif";
+  left_r12_c12_f1 = new Image(59 ,20); left_r12_c12_f1.src = "left_r12_c12.gif";
+  left_r14_c10_f2 = new Image(65 ,19); left_r14_c10_f2.src = "left_r14_c10_f2.gif";
+  left_r14_c10_f1 = new Image(65 ,19); left_r14_c10_f1.src = "left_r14_c10.gif";
+  left_r16_c11_f2 = new Image(61 ,30); left_r16_c11_f2.src = "left_r16_c11_f2.gif";
+  left_r16_c11_f1 = new Image(61 ,30); left_r16_c11_f1.src = "left_r16_c11.gif";
+  left_r18_c09_f2 = new Image(85 ,19); left_r18_c09_f2.src = "left_r18_c09_f2.gif";
+  left_r18_c09_f1 = new Image(85 ,19); left_r18_c09_f1.src = "left_r18_c09.gif";
+  left_r20_c01_f2 = new Image(150 ,23); left_r20_c01_f2.src = "left_r20_c01_f2.gif";
+  left_r20_c01_f1 = new Image(150 ,23); left_r20_c01_f1.src = "left_r20_c01.gif";
+  left_r22_c06_f2 = new Image(119 ,20); left_r22_c06_f2.src = "left_r22_c06_f2.gif";
+  left_r22_c06_f1 = new Image(119 ,20); left_r22_c06_f1.src = "left_r22_c06.gif";
+  left_r24_c03_f2 = new Image(141 ,19); left_r24_c03_f2.src = "left_r24_c03_f2.gif";
+  left_r24_c03_f1 = new Image(141 ,19); left_r24_c03_f1.src = "left_r24_c03.gif";
+  left_r26_c01_f2 = new Image(150 ,20); left_r26_c01_f2.src = "left_r26_c01_f2.gif";
+  left_r26_c01_f1 = new Image(150 ,20); left_r26_c01_f1.src = "left_r26_c01.gif";
+  left_r28_c01_f2 = new Image(150 ,40); left_r28_c01_f2.src = "left_r28_c01_f2.gif";
+  left_r28_c01_f1 = new Image(150 ,40); left_r28_c01_f1.src = "left_r28_c01.gif";
+  left_r30_c01_f2 = new Image(150 ,76); left_r30_c01_f2.src = "left_r30_c01_f2.gif";
+  left_r30_c01_f1 = new Image(150 ,76); left_r30_c01_f1.src = "left_r30_c01.gif";
+  left_r32_c01_f2 = new Image(150 ,20); left_r32_c01_f2.src = "left_r32_c01_f2.gif";
+  left_r32_c01_f1 = new Image(150 ,20); left_r32_c01_f1.src = "left_r32_c01.gif";
+  left_r34_c13_f2 = new Image(49 ,18); left_r34_c13_f2.src = "left_r34_c13_f2.gif";
+  left_r34_c13_f1 = new Image(49 ,18); left_r34_c13_f1.src = "left_r34_c13.gif";
+  left_r36_c07_f2 = new Image(105 ,17); left_r36_c07_f2.src = "left_r36_c07_f2.gif";
+  left_r36_c07_f1 = new Image(105 ,17); left_r36_c07_f1.src = "left_r36_c07.gif";
+  }
+  // stop hiding -->
+  </script>
+  <tr>
+<!-- Shim row, height 1. -->
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="2" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="2" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="3" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="8" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="4" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="4" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="8" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="8" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="3" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="4" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="49" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="6" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="12" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="2" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="6" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="10" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="9" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="4" height="1" border="0"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" border="0" width="1" height="1"></td>
+  </tr>
+
+  <tr valign="top"><!-- row 1 -->
+   <td colspan="24"><img name="left_r01_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r01_c01.gif" border="0" usemap="#m_left_r01_c01" width="150" height="98"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="98" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 2 -->
+   <td rowspan="2" colspan="7"><img name="left_r02_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r02_c01.gif" border="0" width="24" height="24"></td>
+   <td colspan="12"><a href="/web/20041205115936/http://dlsgis.state.va.us/" target="_top" onMouseOut="document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].imgRolln"  onMouseOver="document['fpAnimswapImgFP1'].imgRolln=document['fpAnimswapImgFP1'].src;document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].lowsrc;" ><img name="fpAnimswapImgFP1" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r02_c08.gif" border="0" alt="Redistricting Homepage" id="fpAnimswapImgFP1" dynamicanimation="fpAnimswapImgFP1" lowsrc="../_borders/left_r02_c07_f2.gif" width="101" height="20"></a></td>
+   <td rowspan="2" colspan="5"><img name="left_r02_c20" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r02_c20.gif" border="0" width="25" height="24"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 3 -->
+   <td colspan="12"><img name="left_r03_c08" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r03_c08.gif" border="0" width="101" height="4"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 4 -->
+   <td rowspan="2" colspan="4"><img name="left_r04_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r04_c01.gif" border="0" width="15" height="76"></td>
+   <td colspan="17"><a href="/web/20041205115936/http://dlsgis.state.va.us/PL94-171/PL94-171.htm" target="_top" onMouseOut="document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].imgRolln"  onMouseOver="document['fpAnimswapImgFP2'].imgRolln=document['fpAnimswapImgFP2'].src;document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].lowsrc;" ><img name="fpAnimswapImgFP2" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r04_c05.gif" border="0" alt="P.L. 94-171 Redistricting Data" id="fpAnimswapImgFP2" dynamicanimation="fpAnimswapImgFP2" lowsrc="../_borders/left_r04_c05_f2.gif" width="121" height="38"></a></td>
+   <td rowspan="2" colspan="3"><img name="left_r04_c22" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r04_c22.gif" border="0" width="14" height="76"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="38" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 5 -->
+   <td colspan="17"><img name="left_r05_c05" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r05_c05.gif" border="0" width="121" height="38"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="38" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 6 -->
+   <td rowspan="14"><img name="left_r06_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r06_c01.gif" border="0" width="2" height="181"></td>
+   <td colspan="21"><a href="/web/20041205115936/http://dlsgis.state.va.us/counties/cnty.htm" target="_top" onMouseOut="document['fpAnimswapImgFP3'].src=document['fpAnimswapImgFP3'].imgRolln"  onMouseOver="document['fpAnimswapImgFP3'].imgRolln=document['fpAnimswapImgFP3'].src;document['fpAnimswapImgFP3'].src=document['fpAnimswapImgFP3'].lowsrc;" ><img name="fpAnimswapImgFP3" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r06_c02.gif" border="0" alt="County/City Population Data" id="fpAnimswapImgFP3" dynamicanimation="fpAnimswapImgFP3" lowsrc="../_borders/left_r06_c02_f2.gif" width="143" height="20"></a></td>
+   <td rowspan="4" colspan="2"><img name="left_r06_c23" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r06_c23.gif" border="0" width="5" height="46"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 7 -->
+   <td colspan="21"><img name="left_r07_c02" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r07_c02.gif" border="0" width="143" height="3"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="3" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 8 -->
+   <td rowspan="2" colspan="7"><img name="left_r08_c02" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r08_c02.gif" border="0" width="30" height="23"></td>
+   <td colspan="10"><a href="/web/20041205115936/http://dlsgis.state.va.us/precincts/2000/precincts2000.htm" target="_top" onMouseOut="document['fpAnimswapImgFP4'].src=document['fpAnimswapImgFP4'].imgRolln"  onMouseOver="document['fpAnimswapImgFP4'].imgRolln=document['fpAnimswapImgFP4'].src;document['fpAnimswapImgFP4'].src=document['fpAnimswapImgFP4'].lowsrc;" ><img name="fpAnimswapImgFP4" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r08_c09.gif" border="0" alt="Virginia Precincts" id="fpAnimswapImgFP4" dynamicanimation="fpAnimswapImgFP4" lowsrc="../_borders/left_r07_c09_f2.gif" width="87" height="20"></a></td>
+   <td rowspan="2" colspan="4"><img name="left_r08_c19" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r08_c19.gif" border="0" width="26" height="23"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 9 -->
+   <td colspan="10"><img name="left_r09_c09" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r09_c09.gif" border="0" width="87" height="3"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="3" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 10 -->
+   <td rowspan="10" colspan="2"><img name="left_r10_c02" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r10_c02.gif" border="0" width="5" height="135"></td>
+   <td colspan="20"><a href="/web/20041205115936/http://dlsgis.state.va.us/congress/congressPlanDir.htm" target="_top" onMouseOut="document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].imgRolln"  onMouseOver="document['fpAnimswapImgFP5'].imgRolln=document['fpAnimswapImgFP5'].src;document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].lowsrc;" ><img name="fpAnimswapImgFP5" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r10_c04.gif" border="0" alt="Virginia Congressional Districts" id="fpAnimswapImgFP5" dynamicanimation="fpAnimswapImgFP5" lowsrc="../_borders/left_r09_c04_f2.gif" width="139" height="20"></a></td>
+   <td rowspan="10"><img name="left_r10_c24" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r10_c24.gif" border="0" width="4" height="135"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 11 -->
+   <td colspan="20"><img name="left_r11_c04" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r11_c04.gif" border="0" width="139" height="4"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 12 -->
+   <td rowspan="2" colspan="8"><img name="left_r12_c04" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r12_c04.gif" border="0" width="37" height="24"></td>
+   <td colspan="3"><a href="/web/20041205115936/http://dlsgis.state.va.us/house/housePlanDir.htm" target="_top" onMouseOut="document['fpAnimswapImgFP6'].src=document['fpAnimswapImgFP6'].imgRolln"  onMouseOver="document['fpAnimswapImgFP6'].imgRolln=document['fpAnimswapImgFP6'].src;document['fpAnimswapImgFP6'].src=document['fpAnimswapImgFP6'].lowsrc;" ><img name="fpAnimswapImgFP6" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r12_c12.gif" border="0" alt="Virginia House Districts" id="fpAnimswapImgFP6" dynamicanimation="fpAnimswapImgFP6" lowsrc="../_borders/left_r11_c12_f2.gif" width="59" height="20"></a></td>
+   <td rowspan="2" colspan="9"><img name="left_r12_c15" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r12_c15.gif" border="0" width="43" height="24"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 13 -->
+   <td colspan="3"><img name="left_r13_c12" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r13_c12.gif" border="0" width="59" height="4"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 14 -->
+   <td rowspan="4" colspan="6"><img name="left_r14_c04" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r14_c04.gif" border="0" width="33" height="59"></td>
+   <td colspan="7"><a href="/web/20041205115936/http://dlsgis.state.va.us/senate/senatePlanDir.htm" target="_top" onMouseOut="document['fpAnimswapImgFP7'].src=document['fpAnimswapImgFP7'].imgRolln"  onMouseOver="document['fpAnimswapImgFP7'].imgRolln=document['fpAnimswapImgFP7'].src;document['fpAnimswapImgFP7'].src=document['fpAnimswapImgFP7'].lowsrc;" ><img name="fpAnimswapImgFP7" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r14_c10.gif" border="0" alt="Virginia Senate Districts" id="fpAnimswapImgFP7" dynamicanimation="fpAnimswapImgFP7" lowsrc="../_borders/left_r13_c10_f2.gif" width="65" height="19"></a></td>
+   <td rowspan="4" colspan="7"><img name="left_r14_c17" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r14_c17.gif" border="0" width="41" height="59"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="19" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 15 -->
+   <td colspan="7"><img name="left_r15_c10" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r15_c10.gif" border="0" width="65" height="7"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="7" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 16 -->
+   <td rowspan="2"><img name="left_r16_c10" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r16_c10.gif" border="0" width="3" height="33"></td>
+   <td colspan="5"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/news.htm" onMouseOut="document['fpAnimswapImgFP8'].src=document['fpAnimswapImgFP8'].imgRolln"  onMouseOver="document['fpAnimswapImgFP8'].imgRolln=document['fpAnimswapImgFP8'].src;document['fpAnimswapImgFP8'].src=document['fpAnimswapImgFP8'].lowsrc;" ><img name="fpAnimswapImgFP8" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r16_c11.gif" border="0" id="fpAnimswapImgFP8" dynamicanimation="fpAnimswapImgFP8" lowsrc="../_borders/left_r15_c11_f2.gif" width="61" height="30"></a></td>
+   <td rowspan="2"><img name="left_r16_c16" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r16_c16.gif" border="0" width="1" height="33"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="30" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 17 -->
+   <td colspan="5"><img name="left_r17_c11" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r17_c11.gif" border="0" width="61" height="3"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="3" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 18 -->
+   <td rowspan="2" colspan="5"><img name="left_r18_c04" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r18_c04.gif" border="0" width="25" height="28"></td>
+   <td colspan="9"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/Hearings.htm" target="_top" onMouseOut="document['fpAnimswapImgFP9'].src=document['fpAnimswapImgFP9'].imgRolln"  onMouseOver="document['fpAnimswapImgFP9'].imgRolln=document['fpAnimswapImgFP9'].src;document['fpAnimswapImgFP9'].src=document['fpAnimswapImgFP9'].lowsrc;" ><img name="fpAnimswapImgFP9" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r18_c09.gif" border="0" alt="Public Hearings" id="fpAnimswapImgFP9" dynamicanimation="fpAnimswapImgFP9" lowsrc="../_borders/left_r18_c09_f2.gif" width="85" height="19"></a></td>
+   <td rowspan="2" colspan="6"><img name="left_r18_c18" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r18_c18.gif" border="0" width="29" height="28"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="19" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 19 -->
+   <td colspan="9"><img name="left_r19_c09" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r19_c09.gif" border="0" width="85" height="9"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="9" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 20 -->
+   <td colspan="24"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/criteria.htm" onMouseOut="document['fpAnimswapImgFP10'].src=document['fpAnimswapImgFP10'].imgRolln"  onMouseOver="document['fpAnimswapImgFP10'].imgRolln=document['fpAnimswapImgFP10'].src;document['fpAnimswapImgFP10'].src=document['fpAnimswapImgFP10'].lowsrc;" ><img name="fpAnimswapImgFP10" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r20_c01.gif" border="0" id="fpAnimswapImgFP10" dynamicanimation="fpAnimswapImgFP10" lowsrc="../_borders/left_r20_c01_f2.gif" width="150" height="23"></a></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="23" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 21 -->
+   <td colspan="24"><img name="left_r21_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r21_c01.gif" border="0" width="150" height="9"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="9" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 22 -->
+   <td rowspan="2" colspan="5"><img name="left_r22_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r22_c01.gif" border="0" width="16" height="34"></td>
+   <td colspan="15"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/Publications.htm" target="_top" onMouseOut="document['fpAnimswapImgFP11'].src=document['fpAnimswapImgFP11'].imgRolln"  onMouseOver="document['fpAnimswapImgFP11'].imgRolln=document['fpAnimswapImgFP11'].src;document['fpAnimswapImgFP11'].src=document['fpAnimswapImgFP11'].lowsrc;" ><img name="fpAnimswapImgFP11" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r22_c06.gif" border="0" alt="Redistricting Publications" id="fpAnimswapImgFP11" dynamicanimation="fpAnimswapImgFP11" lowsrc="../_borders/left_r19_c06_f2.gif" width="119" height="20"></a></td>
+   <td rowspan="2" colspan="4"><img name="left_r22_c21" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r22_c21.gif" border="0" width="15" height="34"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 23 -->
+   <td colspan="15"><img name="left_r23_c06" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r23_c06.gif" border="0" width="119" height="14"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="14" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 24 -->
+   <td rowspan="2" colspan="2"><img name="left_r24_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r24_c01.gif" border="0" width="4" height="23"></td>
+   <td colspan="20"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/Data_formats.htm" target="_top" onMouseOut="document['fpAnimswapImgFP12'].src=document['fpAnimswapImgFP12'].imgRolln"  onMouseOver="document['fpAnimswapImgFP12'].imgRolln=document['fpAnimswapImgFP12'].src;document['fpAnimswapImgFP12'].src=document['fpAnimswapImgFP12'].lowsrc;" ><img name="fpAnimswapImgFP12" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r24_c03.gif" border="0" alt="Data Formats" id="fpAnimswapImgFP12" dynamicanimation="fpAnimswapImgFP12" lowsrc="../_borders/left_r21_c03_f2.gif" width="141" height="19"></a></td>
+   <td rowspan="2" colspan="2"><img name="left_r24_c23" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r24_c23.gif" border="0" width="5" height="23"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="19" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 25 -->
+   <td colspan="20"><img name="left_r25_c03" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r25_c03.gif" border="0" width="141" height="4"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 26 -->
+   <td colspan="24"><a href="/web/20041205115936/http://dlsgis.state.va.us/ref/doj_submission.htm" onMouseOut="document['fpAnimswapImgFP13'].src=document['fpAnimswapImgFP13'].imgRolln"  onMouseOver="document['fpAnimswapImgFP13'].imgRolln=document['fpAnimswapImgFP13'].src;document['fpAnimswapImgFP13'].src=document['fpAnimswapImgFP13'].lowsrc;" ><img name="fpAnimswapImgFP13" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r26_c01.gif" border="0" id="fpAnimswapImgFP13" dynamicanimation="fpAnimswapImgFP13" lowsrc="../_borders/left_r23_c01_f2.gif" width="150" height="20"></a></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 27 -->
+   <td colspan="24"><img name="left_r27_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r27_c01.gif" border="0" width="150" height="4"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 28 -->
+   <td colspan="24"><a href="/web/20041205115936/http://dlsgis.state.va.us/ref/redistcases.htm" onMouseOut="document['fpAnimswapImgFP14'].src=document['fpAnimswapImgFP14'].imgRolln"  onMouseOver="document['fpAnimswapImgFP14'].imgRolln=document['fpAnimswapImgFP14'].src;document['fpAnimswapImgFP14'].src=document['fpAnimswapImgFP14'].lowsrc;" ><img name="fpAnimswapImgFP14" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r28_c01.gif" border="0" id="fpAnimswapImgFP14" dynamicanimation="fpAnimswapImgFP14" lowsrc="../_borders/left_r25_c01_f2.gif" width="150" height="40"></a></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="40" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 29 -->
+   <td colspan="24"><img name="left_r29_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r29_c01.gif" border="0" width="150" height="6"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="6" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 30 -->
+   <td colspan="24"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/BoundaryDescExplan.htm" onMouseOut="document['fpAnimswapImgFP15'].src=document['fpAnimswapImgFP15'].imgRolln"  onMouseOver="document['fpAnimswapImgFP15'].imgRolln=document['fpAnimswapImgFP15'].src;document['fpAnimswapImgFP15'].src=document['fpAnimswapImgFP15'].lowsrc;" ><img name="fpAnimswapImgFP15" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r30_c01.gif" border="0" id="fpAnimswapImgFP15" dynamicanimation="fpAnimswapImgFP15" lowsrc="../_borders/left_r30_c01_f2.gif" width="150" height="76"></a></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="76" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 31 -->
+   <td colspan="24"><img name="left_r31_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r31_c01.gif" border="0" width="150" height="3"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="3" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 32 -->
+   <td colspan="24"><a href="/web/20041205115936/http://dlsgis.state.va.us/districtmaps/districtmaps.htm" onMouseOut="document['fpAnimswapImgFP16'].src=document['fpAnimswapImgFP16'].imgRolln"  onMouseOver="document['fpAnimswapImgFP16'].imgRolln=document['fpAnimswapImgFP16'].src;document['fpAnimswapImgFP16'].src=document['fpAnimswapImgFP16'].lowsrc;" ><img name="fpAnimswapImgFP16" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r32_c01.gif" border="0" id="fpAnimswapImgFP16" dynamicanimation="fpAnimswapImgFP16" lowsrc="../_borders/left_r32_c01_f2.gif" width="150" height="20"></a></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="20" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 33 -->
+   <td colspan="24"><img name="left_r33_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r33_c01.gif" border="0" width="150" height="18"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="18" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 34 -->
+   <td rowspan="2" colspan="12"><img name="left_r34_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r34_c01.gif" border="0" width="48" height="24"></td>
+   <td><a href="mailto:varedist@dls.state.va.us" onMouseOut="document['fpAnimswapImgFP17'].src=document['fpAnimswapImgFP17'].imgRolln"  onMouseOver="document['fpAnimswapImgFP17'].imgRolln=document['fpAnimswapImgFP17'].src;document['fpAnimswapImgFP17'].src=document['fpAnimswapImgFP17'].lowsrc;" ><img name="fpAnimswapImgFP17" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r34_c13.gif" border="0" alt="Virginia Division of Legislative Services Email" id="fpAnimswapImgFP17" dynamicanimation="fpAnimswapImgFP17" lowsrc="../_borders/left_r34_c13_f2.gif" width="49" height="18"></a></td>
+   <td rowspan="2" colspan="11"><img name="left_r34_c14" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r34_c14.gif" border="0" width="53" height="24"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="18" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 35 -->
+   <td><img name="left_r35_c13" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r35_c13.gif" border="0" width="49" height="6"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="6" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 36 -->
+   <td rowspan="2" colspan="6"><img name="left_r36_c01" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r36_c01.gif" border="0" width="20" height="121"></td>
+   <td colspan="13"><a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/GIS.htm" target="_top" onMouseOut="document['fpAnimswapImgFP18'].src=document['fpAnimswapImgFP18'].imgRolln"  onMouseOver="document['fpAnimswapImgFP18'].imgRolln=document['fpAnimswapImgFP18'].src;document['fpAnimswapImgFP18'].src=document['fpAnimswapImgFP18'].lowsrc;" ><img name="fpAnimswapImgFP18" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r36_c07.gif" border="0" alt="GIS" id="fpAnimswapImgFP18" dynamicanimation="fpAnimswapImgFP18" lowsrc="../_borders/left_r36_c07_f2.gif" width="105" height="17"></a></td>
+   <td rowspan="2" colspan="5"><img name="left_r36_c20" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r36_c20.gif" border="0" width="25" height="121"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="17" border="0"></td>
+  </tr>
+  <tr valign="top"><!-- row 37 -->
+   <td colspan="13"><img name="left_r37_c07" src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/left_r37_c07.gif" border="0" width="105" height="104"></td>
+   <td><img src="/web/20041205115936im_/http://dlsgis.state.va.us/_borders/shim.gif" width="1" height="104" border="0"></td>
+  </tr>
+
+<map name="m_left_r01_c01">
+<area shape="rect" coords="12,14,138,77" href="/web/20041205115936/http://dls.state.va.us/" >
+</map>
+
+<!--   This HTML was automatically created with Macromedia Fireworks 3.0   -->
+<!--   /web/20041205115936/http://www.macromedia.com   -->
+
+</table>
+<!--------------------------- STOP COPYING THE HTML HERE --------------------------->
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top"><p align="left" style="margin-bottom: 0"><b><font size="5" color="#000097">News</font></b></p>
+<hr align="left" width="99%" color="#000097" style="margin: 0">
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(9/22/04)</font>
+    - </b>Fourth Circuit Court upholds Virginia congressional redistricting plan
+    in Hall v. Commonwealth.&nbsp; View <a href="9_22_04opinion.pdf">Fourth
+    Circuit opinion</a>.<br>
+    <br>
+  </li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(1/9/04)</font>
+    - </b>Appellants - plaintiffs filed their reply brief in the Fourth Circuit in Hall
+    v. Commonwealth.&nbsp; View <a href="1_9_04AppellantsReplyBrief.pdf">Appellants'
+    Reply Brief</a>.</li>
+  </ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(12/8/03)</font>
+    - </b>Appellees - defendants filed their brief in the Fourth Circuit in Hall
+    v. Commonwealth.&nbsp; View <a href="12_8_03AppelleesBrief.pdf">Appellees'
+    Brief</a>.</li>
+  </ul>
+  <ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(10/27/03)</font>
+    - </b>Appellant - plaintiffs filed their brief in the Fourth Circuit in Hall
+    v. Commonwealth.&nbsp; View <a href="/web/20041205115936/http://dlsgis.state.va.us/Ref/10_27_03AppellantsBrief.pdf">Appellants'
+    Brief</a>.</li>
+</ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(9/4/03)</font>
+    - </b>Plaintiffs filed a <a href="9_4_03Notice%20of%20Appeal.pdf">Notice of
+    Appeal</a> in the Fourth Circuit Court of Appeals to overturn the District
+    Court's Dismissal of their case.</li>
+</ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(8/7/03)</font>
+    - </b>Federal District Court Judge Henry Coke Morgan, Jr., dismissed the
+    vote dilution challenge to the Fourth Congressional District in <i>Hall v. Commonwealth, </i>citing the wide latitude<i> </i>given to states in drawing
+    district boundaries and the failure to show that the Fourth District could
+    be drawn as a majority-minority district.&nbsp; View <a href="8_7_03HallDismissOorder.pdf">Court
+    Order for Dismissal</a>.</li>
+</ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(6/27/03)</font>
+    - </b>Preliminary matters have been scheduled in <i>Hall v. Commonwealth</i>,
+    the pending federal case challenging the Fourth Congressional District as
+    enacted in 2001.&nbsp; The District Court will hear oral arguments on the
+    Motions to Dismiss on July 22, 2003, at 2:30 p.m. in Norfolk and has
+    tentatively scheduled an eight-day trial to begin January 13, 2004.&nbsp;
+    The Court has permitted interveners to participate.&nbsp; Additional filings
+    are available.&nbsp; View <a href="Pl's%20Memo%20in%20Opp%20to%20Defs'%20MTD5-24-03.pdf"> Plaintiffs' Memo Opposing
+    Dismissal</a>, <a href="Intervenor%20Memo%20Support%20MTD5-9-03.pdf"> Defendant
+    Interveners' Memo Supporting Dismissal</a>, <a href="Rebuttal%20Brief%20in%20support%20of%20motion%20to%20dismiss6-2-03.pdf"> Commonwealth's Rebuttal Brief for
+    Dismissal</a>, and <a href="D-I%20Reply%20Memo%20in%20Supp%20of%20MTD5-30-03.pdf"> Defendant Interveners' Reply Memo for
+    Dismissal</a>.<font color="#000080"><br>
+    <br>
+    </font></li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(5/9/03)</font>
+    - </b>The Commonwealth filed its answer, a motion to dismiss, and brief in <i>Hall
+    v. Commonwealth</i>, the suit pending in the U.S. District Court for
+    Eastern Virginia, that challenges the Fourth Congressional District.&nbsp;
+    Additional Papers were filed in May.&nbsp; View <a href="5_9_03Answer.pdf">Answer</a>,
+    <a href="5_9_03Motion%20to%20Dismiss.pdf">Motion to Dismiss</a>, and <a href="5_9_03Brief%20in%20support%20of%20motion%20to%20dismiss.pdf">Commonwealth's
+    Brief</a>.<font color="#000080"><br>
+    </font><br>
+  </li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(2/20/03)</font></b>
+    - African-American voters in the old and new Fourth Congressional District
+    area filed suit in the federal District Court for the Eastern District of
+    Virginia (Case No.: 03-CV-151) challenging the 2001 Congressional District
+    Plan for the Commonwealth.&nbsp; The complaint alleges that the new Fourth
+    Congressional District dilutes African-American voting strength and that the
+    2001 plan violates Section 2 of the federal Voting Rights Act.&nbsp; The
+    plaintiffs ask the Court to declare that the 2001 Congressional District
+    plan violates Section 2 and to enjoin the use of the plan in future
+    elections.&nbsp; View <a href="Complaint2_20_03.PDF">Bill of Complaint</a>.<br>
+    <br>
+  </li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(11/5/02)</font></b>
+    - In <i>Hall v. Warner </i>(Petersburg Circuit Court, No. CH02-100),
+    plaintiff civil rights groups withdrew their challenge to the congressional
+    redistricting plan enacted by the General Assembly in July 2001 and used in
+    the 2002 Congressional elections.&nbsp; The order of non-suit ends
+    proceedings is state court to overturn the congressional redistricting
+    plan.&nbsp; Plaintiffs reserved the right to file a challenge in federal
+    court at a later time.&nbsp; To view the non-suit order, click <a href="Hall%20nonsuit%20order11_12_02.PDF">Order
+    of Nonsuit on Motion of Plaintiffs</a>.<br>
+    <br>
+  </li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(11/1/02)</font></b>
+    - In <i>Wilkins v. West</i> (No. 021003), the Virginia Supreme Court upheld
+    the redistricting plans for the House of Delegates and Senate enacted by the
+    General Assembly in April 2001.&nbsp; Justice Elizabeth B. Lacy wrote the
+    opinion for a unanimous court and overturned the ruling from the Salem
+    Circuit Court that had held a number of House of Delegates and Senate
+    districts violated compactness, contiguity, and racial gerrymandering
+    standards.&nbsp; The Supreme Court reviewed the challenged districts and
+    held that the challengers to the plans had not carried the burden of showing
+    the districts did not meet Virginia constitutional standards.&nbsp; To view
+    the Supreme Court opinion, click <a href="SCV_opinion11_1_02.PDF">Opinion,
+    Supreme Court of Virginia, November 1, 2002, upholding Senate and House of
+    Delegates redistricting plans</a>.<br>
+    <br>
+  </li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(5/28/02)</font></b>
+    - The Virginia Supreme Court granted the Attorney General's petition for
+    appeal and agreed to review the decision of the Salem Circuit Court in West v.
+    Gilmore.&nbsp; The Court denied the request for an expedited ruling, and
+    the case is expected to be heard in September or October.&nbsp; The Court
+    also stayed the Circuit Court's order requiring enactment of
+    constitutionally acceptable plans for a special 2002 election for the House
+    of Delegates and the regular 2003 election of the State Senate.<br>
+    <br>
+  </li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080" size="3">(5/1/02)</font><font size="3">
+    - </font></b><font size="3">
+    Attorneys for the plaintiffs in the Warner v. West litigation filed papers
+    in the Virginia Supreme Court opposing the Attorney General's Petition for
+    Appeal.&nbsp; The plaintiffs seek to uphold the Salem Circuit ruling that
+    found the 2001 House of Delegates and Senate district plans
+    unconstitutional.&nbsp; To view the plaintiffs' papers click <a href="PetitionforAppealOppose5-1-02.doc"> Petition for Appeal
+    Opposition</a>, <a href="ProhibitionResponse5-1-02.doc">Prohibition Response</a>,
+    or <a href="Expedite5-1-02.doc">Expedite Motion Response</a>.</font></li>
+</ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080" size="3">(4/26/02)</font><font size="3">
+    - </font></b><font size="3">
+    Attorney General Jerry W. Kilgore filed a petition for appeal with the
+    Virginia Supreme Court asking the Court to overturn the March ruling of the
+    Salem Circuit Court in West v. Gilmore.&nbsp; The petition requested an
+    expedited ruling by the Supreme Court.&nbsp; View <a href="petitionforappeal4-26-02.DOC">Petition
+    for Appeal</a>.</font></li>
+</ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080" size="3">(4/17/02)</font><font size="3">
+    - </font></b><font size="3">
+    African-American voters in the Fourth Congressional District area filed suit
+    in the Petersburg Circuit Court challenging the 2001 Congressional District
+    plan for the Commonwealth.&nbsp; The complaint alleges that the new Fourth
+    Congressional District dilutes African-American voting strength and that the
+    2001 plan violates Section 2 of the federal Voting Rights Act.&nbsp; The
+    plaintiffs ask the Court to enjoin the use of the plan in future
+    elections.&nbsp; View <a href="Complaint4-17-02.doc">Bill of Complaint</a>.<br>
+    <br>
+    </font></li>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080" size="3">(3/11/02)</font><font size="3">
+    - </font></b><font size="3">Judge Richard C. Pattisall ruled in West v. Gilmore that a number of House of Delegates and Senate Districts enacted by
+    the 2001 General Assembly violated constitutional requirements for
+    compactness, contiguity, and racial equity.&nbsp; The Court ordered the
+    enactment of new constitutionally acceptable plans for a special 2002
+    election for the House of Delegates and the regular 2003 election for the
+    state Senate.&nbsp; View <a href="3-11-02court_opinion.doc">Court's opinion</a>.</font>
+  </li>
+</ul>
+<ul>
+  <li>
+    <p align="left" style="margin-bottom: 0"><b><font color="#000080">(10/16/01)
+    - </font></b>The U.S. Department of Justice precleared the Congressional
+    district plan (Chapter 7, 2001 Special Session) on October 16.&nbsp; Click <a href="congDOJletter.doc">DOJ
+    Preclearance</a> to view the notification letter.&nbsp;<br>
+    <br>
+  </li>
+  <li><b><font color="#000080">(8/17/01) - </font></b>Attorney General Randolph
+    A. Beales today announced he has submitted the new Virginia Congressional
+    district lines to the United States Department of Justice for approval under
+    the Voting Rights Act.&nbsp; Virginia is one of 16 states required to submit
+    changes in voting practices or procedures to the Department for
+    approval.&nbsp; Under the Voting Rights Act, the Department of Justice has
+    60 days in which to approve or object to the new district lines.<br>
+    <br>
+  </li>
+  <li><b><font color="#000080">(7/19/01) </font>- </b>Governor Gilmore signed
+    House Bill 18 as Chapter 7 of the 2001 Special Session.&nbsp; The General
+    Assembly had passed House Bill 18 and Senate Bill 9, which were identical
+    plans, on July 10.&nbsp; The governor vetoed Senate Bill 9 for technical
+    reasons.<br>
+    <br>
+    <b><font COLOR="#000080">
+  </li>
+    <li>(7/9/01)</font></b> - The U.S. Department of Justice precleared the
+    Senate of Virginia districts plan (Chapter 2, 2001 Special Session) on July
+    10. Click <a href="senDOJletter.pdf"> DOJ <u>Preclearance</u> </a> to view the notification letter.<br>
+    <br>
+  </li>
+  <b><font COLOR="#000080">
+  <li>(6/15/01)</font></b> - The U.S. Department of Justice precleared the House
+  of Delegates plan (Chapter 1, 2001 Special Session) on June 15. Click to <a href="2ndDOJletter.pdf"> DOJ
+  Preclearance</a> to view the notification letter.&nbsp;<br>
+  <br>
+  <b><font COLOR="#000080">
+  </li>
+  <li>(5/11/01)</font></b> - Governor Gilmore signed the House and Senate
+  Redistricting Bills into law without any amendments on April 21. The Office of
+  the Attorney General has submitted the redistricting plans to the Department
+  of Justice for preclearance under Section 5 of the Voting Rights Act. The
+  House plan was submitted May 2, 2001, and the Senate plan was submitted May
+  11, 2001.<br>
+  <br>
+  </li>
+</ul>
+&nbsp;<!--msnavigation--></td></tr><!--msnavigation--></table></body>
+
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 11:59:36 Dec 5, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 2:36:24 Jul 18, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

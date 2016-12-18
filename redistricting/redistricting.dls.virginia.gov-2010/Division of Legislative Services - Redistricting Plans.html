@@ -1,0 +1,693 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+	Division of Legislative Services - Redistricting Plans
+</title><link href="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/Site.css" rel="stylesheet" type="text/css"><link href="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/jquery-ui-1.css" rel="stylesheet" type="text/css">
+    <script src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/jquery-1.js" type="text/javascript"></script>
+    <script src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/jquery-ui-1.js" type="text/javascript"></script>
+    <script src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/jquery-hoverIntent.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+        function CreateEmailLink(name, domain) {
+            var u_a = "mail"
+            var u_b = "to:"
+            var u_c = "@"
+            document.write('<a href="' + u_a + u_b + name + u_c + domain + ' ">' + name + u_c + domain + '<\/a>');
+        }
+
+
+        jQuery(function () {
+            //Initialize nav bar drop down list hover handlers
+            jQuery("#navBar ul li").hoverIntent(
+        {
+            sensitivity: 3,
+            interval: 0,
+            over: ddlOptionsVisible,
+            timeout: 100,
+            out: ddlOptionsInvisible
+        });
+
+            //Set currently selected nav menu item style
+            //What is the current webpage
+            var webpageFileName = document.location.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+            if (webpageFileName.length == 0) webpageFileName = "default.aspx";
+            //Find anchor in navmenu with href that matches current web page filename (use case-insensitive comparison)
+            var jqLi = null;
+            $("#navBar ul li a[href]").each(function (index, value) {
+                var href = value.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+                if (href == webpageFileName) {
+                    jqLi = $(value.parentNode);
+                    return false;
+                }
+            });
+            if (jqLi != null) {
+                jqLi.addClass("current");
+                //Check for parent menu list item (to highlight nav menu items with drop-down menus
+                $(jqLi.parent()).closest("#navBar ul li").addClass("current");
+                $(jqLi).closest("#navBar ul li").addClass("active");
+                $(jqLi).closest("#navBar ul li").append("<span><\/span>");
+
+            }
+        });
+
+        function ddlOptionsVisible() {
+            var ddlOptions = jQuery(this).find("ul.ddlNav").html();
+            if (ddlOptions != null) {
+                jQuery(this).find("ul.ddlNav").slideDown(100);
+            }
+
+        }
+        function ddlOptionsInvisible() {
+            jQuery(this).find("ul.ddlNav").slideUp(100);
+        }
+
+    //]]>
+    </script>
+    <!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" href="Styles/style_ie6.css" />
+    <![endif]-->
+
+    
+	<script type="text/javascript" src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/Silverlight.js"></script>
+	<script type="text/javascript" src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/jquery.js"></script>
+	<script type="text/javascript" src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/Common.js"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+		var RedistrictingPlans = function () {
+			var jqTabContainer = null;
+			var currentPlanID = null;
+			//Functions for allowing repeated call attempts to Silverlight methods
+			var silverlightInterval = null;
+			var silverlightIntervalDelayMS = 1000;
+			var silverlightCallAttemptLimit = 15;
+			var silverlightCallAttempt;
+			var wasUrlHashChangeFromHistoryClick = true;
+
+			/**
+			* Initialize JavaScript code on page load
+			*/
+			function Init() {
+				// Add ability to use Browser Back and Forward within the tabs on the page
+				$(window).hashchange(function () {
+					//alert("Hash Change " + wasUrlHashChangeFromHistoryClick);
+					if (wasUrlHashChangeFromHistoryClick) {
+						HandleUrlHash();
+					}
+					wasUrlHashChangeFromHistoryClick = true;
+				});
+
+				//Preload spinner image
+				var img = new Image(1, 1);
+				img.src = "images/spinner.gif";
+
+				jqTabContainer = $("#tabs").tabs({
+					select: tab_select,
+					show: tab_show,
+					load: tab_load,
+					cache: true
+				});
+				//Load appropriate plan if id is specified in hash
+				if (document.location.hash.length > 0) HandleUrlHash();
+			}
+
+			/**
+			* Event handler for handing hashes in URL
+			*/
+			function HandleUrlHash() {
+				//Pull the tab to display and planID from the hash (if either exist)
+				var aryHash = document.location.hash.replace(/^#/, "").split(",");
+				var planID = null;
+				var tab = null;
+				for (var i = 0; i < aryHash.length; i++) {
+					if (/^\d+$/.test(aryHash[i])) planID = aryHash[i];
+					else tab = aryHash[i];
+				}
+
+				//Load plan if id specified
+				if (planID != null && planID != currentPlanID) loadPlan(planID);
+
+				//Show whatever tab is specified
+				switch (tab) {
+					case "map":
+						ShowMap();
+						break;
+					case "list":
+						ShowPlanList();
+						break;
+					default:
+						if (planID != null) jqTabContainer.tabs("select", 1); //Plan Details
+						else ShowPlanList() //Show list
+						break;
+				}
+			}
+
+			/**
+			* Event handler for selecting a tab
+			*/
+			function tab_select(event, ui) {
+				if (ui.index == 2) {
+					$("#silverlightControlHost").removeClass("hidden");
+				} else {
+					$("#silverlightControlHost").addClass("hidden");
+				}
+				setHash(ui.index);
+			}
+
+			/**
+			* Event handler for showing a tab
+			*/
+			function tab_show(event, ui) {
+				//Make map as tall as possible
+				if (ui.index == 2) MaximizeMapHeight();
+			}
+
+			/**
+			* Event handler for loading a plan in a tab
+			* Calls silverlight method to determine if View in Map link should be visible
+			*/
+			function tab_load(event, ui) {
+				silverlightCallAttempt = 0;
+				silverlightInterval = window.setInterval(callSilverlightDoesPlanLayerExist, silverlightIntervalDelayMS);
+				PlanComment.ConfigureForm();
+			}
+
+			/**
+			* Check if this plan has an associated Map Service Layer on map. If so, show the View in Map link
+			* Return true of false if async call was successfully made
+			*/
+			function callSilverlightDoesPlanLayerExist() {
+				//If the number of attempts has reached the limit, cancel the interval
+				silverlightCallAttempt++;
+
+				if (silverlightCallAttempt >= silverlightCallAttemptLimit) {
+					window.clearInterval(silverlightInterval);
+					//Show Plan Not in Map message
+					$("#divMapLinkUnavailable span").html("Map not available");
+					ToggleViewInMapLink(currentPlanID, false);
+					return;
+				}
+
+				var silverlightControl = document.getElementById("silverlightDLSMapViewer");
+				if (silverlightControl != null && silverlightControl.Content != undefined) {
+					window.clearInterval(silverlightInterval);
+					//Make async call to method in Silverlight app to see if map layer exists for this plan
+					try {
+						silverlightControl.Content.Map.DoesPlanLayerExist(currentPlanID, "RedistrictingPlans.ToggleViewInMapLink", "RedistrictingPlans.RestartInterval");
+					} catch (e) {
+						silverlightInterval = window.setInterval(callSilverlightDoesPlanLayerExist, silverlightIntervalDelayMS);
+					}
+				}
+
+			}
+
+			/**
+			* Called from Silverlight. Tells JavaScript to keep calling the Silverlight DoesPlanLayerExist method
+			*/
+			function RestartInterval() {
+				silverlightInterval = window.setInterval(callSilverlightDoesPlanLayerExist, silverlightIntervalDelayMS);
+			}
+
+			/**
+			* Shows the View In Map link
+			*/
+			function ToggleViewInMapLink(planID, isPlanInMap) {
+				//Make sure we're still on the same plan
+				if (planID != currentPlanID) return;
+				$("#divMapLinkSearching").hide();
+				if (isPlanInMap) {
+					$("#aMapLink").show();
+				} else {
+					$("#divMapLinkUnavailable").show();
+				}
+			}
+
+			/**
+			* Sets a hash on the URL to make the current tab (and selected plan) bookmarkable
+			*/
+			function setHash(tabIndex) {
+				var newHash = "";
+				var currentLocation = new String(document.location);
+				//Strip off current hash
+				currentLocation = currentLocation.replace(/#.*/g, "");
+
+				switch (tabIndex) {
+					case 0: //Plan List
+						if (currentPlanID != null) newHash = "#" + currentPlanID + ",list";
+						else newHash = "#list";
+						break;
+					case 1: //Plan Details
+						newHash = "#" + currentPlanID;
+						break;
+					case 2: //Map
+						if (currentPlanID != null) newHash = "#" + currentPlanID + ",map";
+						else newHash = "#map";
+						break;
+				}
+
+				wasUrlHashChangeFromHistoryClick = false;
+				//alert(currentLocation + newHash +"\n"+ wasUrlHashChangeFromHistoryClick);
+				document.location.href = currentLocation + newHash;
+			}
+
+			/**
+			* Shows a plan in the Plan tab. If Plan tab doesn't exist, it is added
+			*/
+			function ShowPlan(planID) {
+				if (currentPlanID != planID) loadPlan(planID);
+				jqTabContainer.tabs("select", 1);
+			}
+
+			/**
+			* Loads the specified plan into the Plan Details tab
+			*/
+			function loadPlan(planID) {
+				//If the plan tab doesn't exist, add it
+				$("#liTabPlan").css("display", "list-item");
+				//Blank out tab before loading
+				$("#tabPlan").html("<div style=\"text-align:center;margin-top:5em;\"><img src=\"images\/spinner.gif\" \/><\/div>");
+				//Load tab content from aspx page
+				jqTabContainer.tabs("url", 1, "Plan.aspx?id=" + planID);
+				currentPlanID = planID;
+			}
+
+			/**
+			* Shows the current plan in Silverlight map
+			*/
+			function ViewPlanInMap() {
+				if (currentPlanID == null) return;
+				//Call silverlight method
+				var silverlightControl = document.getElementById("silverlightDLSMapViewer");
+				if (silverlightControl != null && silverlightControl.Content != undefined) {
+					//Make async call to method in Silverlight app to see if map layer exists for this plan
+					try {
+						silverlightControl.Content.Map.ViewPlanLayer(currentPlanID);
+					} catch (e) { }
+				}
+				//Select the map tab
+				ShowMap();
+			}
+
+			/**
+			* Resize Map to take up as much space on the page as possible without scrollbars
+			*/
+			function MaximizeMapHeight() {
+				if (jqTabContainer.tabs("option", "selected") != 2) return;
+				var mapOffset = jQuery("#silverlightControlHost").offset();
+				var slObjectHeight = $(window).height() - jQuery("#footer").height() - 25 - mapOffset.top;
+				jQuery("#silverlightControlHost").css({ "height": slObjectHeight });
+				if (slObjectHeight < 425) {
+					jQuery("#silverlightControlHost").css({ "height": "425" });
+				}
+			}
+
+			function ShowPlanList() {
+				jqTabContainer.tabs("select", 0);
+			}
+
+			function ShowMap() {
+				jqTabContainer.tabs("select", 2);
+			}
+
+			//Expose public members
+			return {
+				Init: Init,
+				ShowPlan: ShowPlan,
+				ShowMap: ShowMap,
+				MaximizeMapHeight: MaximizeMapHeight,
+				ToggleViewInMapLink: ToggleViewInMapLink,
+				ViewPlanInMap: ViewPlanInMap,
+				RestartInterval: RestartInterval,
+				ShowPlanList: ShowPlanList
+			}
+
+		} ();
+
+		/**
+		 * Closure for functions related to the Plan Comment Form
+		 */
+		var PlanComment = function () {
+
+			var isFormValid = true;
+
+			function ToggleForm() {
+				var jqFieldset = $("#planComment");
+				if (jqFieldset.hasClass("collapsed")) {
+					jqFieldset.removeClass("collapsed");
+					$("#planCommentBody").css("visibility", "visible");
+				} else {
+					CloseForm();
+				}
+			}
+
+			function BtnCancel_Click() {
+				resetForm();
+				CloseForm();
+			}
+
+			function CloseForm() {
+				$("#planComment").addClass("collapsed");
+				$("#AddCommentResults").remove();
+			}
+
+			function resetForm() {
+				isFormValid = true;
+				$("fieldset#planComment input[type=text], fieldset#planComment textarea").each(function (index) {
+					jqTextBox = $(this);
+					if (jqTextBox.hasClass("required")) {
+						jqTextBox.removeClass("invalid");
+						jqTextBox.addClass("instruction");
+						jqTextBox.val("<" + this.title + ">");
+					} else {
+						jqTextBox.val("");
+					}
+				});
+			}
+
+			function BtnSubmit_Click() {
+				if (!validateForm()) return;
+
+				var jqFielsetBody = $("#planCommentBody");
+				Common.AddLoadingOverlay(jqFielsetBody[0], "Submitting Comment");
+
+				PageMethods.AddComment(
+					parseInt($("#CommentPlanID").val(), 10),
+					$("#SubmitterFirstName").val(),
+					$("#SubmitterLastName").val(),
+					$("#SubmitterCompany").val(),
+					$("#CommentBody").val(),
+					function (success) { showAddCommentResults(success); }, //Success
+					function () { showAddCommentResults(false); } //Failure
+				);
+			}
+
+			function showAddCommentResults(success) {
+				var message;
+				if (success) {
+					resetForm();
+					message = "<p>Your comment was submitted successfully.<\/p><p>Thank you for your feedback.<\/p>"
+				} else {
+					message = "<p>ERROR<\/p><p>There was an error submitting your comment.<\/p>";
+				}
+				message += "<button onclick=\"PlanComment.CloseForm();\">Close<\/button>";
+
+				//Show result overlay
+				var jqFieldsetBody = $("#planCommentBody");
+				var offset = jqFieldsetBody.position();
+				var jqResultsDiv = $(document.createElement("div")).css({
+					"position": "absolute",
+					"padding-top": 75,
+					"top": offset.top,
+					"left": offset.left,
+					"width": jqFieldsetBody.outerWidth(true) + "px",
+					"height": jqFieldsetBody.outerHeight(true) + "px",
+					"z-index": 5,
+					"text-align": "center"
+				}).append(message);
+				jqResultsDiv.attr("id", "AddCommentResults");
+				$("fieldset#planComment").append(jqResultsDiv);
+
+				jqFieldsetBody.css("visibility", "hidden");
+
+				Common.RemoveLoadingOverlays();
+			}
+
+			function validateForm() {
+				isFormValid = true;
+				//Ensure all required fields have a valid value
+				$("fieldset#planComment input.required, fieldset#planComment textarea.required").each(function (index) {
+					var jqTextBox = $(this);
+					if (jqTextBox.hasClass("instruction") || jqTextBox.hasClass("invalid") || jQuery.trim(jqTextBox.val()).length == 0) {
+						isFormValid = false;
+						jqTextBox.addClass("instruction invalid");
+						jqTextBox.val("<" + this.title + ">");
+					}
+				});
+				return isFormValid;
+			}
+
+			function ConfigureForm() {
+				isFormValid = true;
+				// Wire up event handlers on textboxes
+				$("fieldset#planComment input.required, fieldset#planComment textarea.required").each(function (index) {
+					var jqTextBox = $(this);
+					//Default text
+					jqTextBox.addClass("instruction");
+					jqTextBox.val("<" + this.title + ">");
+					//Focus Event
+					jqTextBox.focus(function () {
+						var jqElem = $(this);
+						if (jqElem.hasClass("instruction") || jqElem.hasClass("invalid")) {
+							jqElem.removeClass("instruction invalid");
+							jqElem.val("");
+						} else {
+							this.select();
+						}
+					});
+					//Blur event
+					jqTextBox.blur(function () {
+						var jqElem = $(this);
+						if (jQuery.trim(jqElem.val()).length == 0) {
+							jqElem.addClass("instruction");
+							if (!isFormValid) jqElem.addClass("invalid");
+							jqElem.val("<" + this.title + ">");
+						}
+					});
+				});
+			}
+
+			function MapLink_Click() {
+				CloseForm();
+				RedistrictingPlans.ShowMap();
+			}
+
+			// Expose public memebers
+			return {
+				ToggleForm: ToggleForm,
+				BtnCancel_Click: BtnCancel_Click,
+				BtnSubmit_Click: BtnSubmit_Click,
+				MapLink_Click: MapLink_Click,
+				ConfigureForm: ConfigureForm,
+				CloseForm: CloseForm
+			}
+
+		} ();
+
+		$(document).ready(RedistrictingPlans.Init);
+		$(window).resize(RedistrictingPlans.MaximizeMapHeight);
+	//]]>
+	</script>
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+<body>
+	<form method="post" action="RedistrictingPlans.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAzNjA1MTUyMWRkw3lRIkRRokhYJOyqzUJlwttCyW7oq3ytyjm+d0Srybc=" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl00'];
+if (!theForm) {
+    theForm = document.ctl00;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/WebResource.js" type="text/javascript"></script>
+
+
+<script src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/ScriptResource_002.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/ScriptResource.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+AddComment:function(planID,submitterFirstName,submitterLastName,submitterCompany,commentBody,succeededCallback, failedCallback, userContext) {
+/// <param name="planID" type="Number">System.Int32</param>
+/// <param name="submitterFirstName" type="String">System.String</param>
+/// <param name="submitterLastName" type="String">System.String</param>
+/// <param name="submitterCompany" type="String">System.String</param>
+/// <param name="commentBody" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'AddComment',false,{planID:planID,submitterFirstName:submitterFirstName,submitterLastName:submitterLastName,submitterCompany:submitterCompany,commentBody:commentBody},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) {
+PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { 
+/// <value type="String" mayBeNull="true">The service url.</value>
+return PageMethods._staticInstance.get_path();}
+PageMethods.set_timeout = function(value) {
+PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { 
+/// <value type="Number">The service timeout.</value>
+return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { 
+PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { 
+/// <value mayBeNull="true">The service default user context.</value>
+return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { 
+ PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default succeeded callback.</value>
+return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { 
+PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default failed callback.</value>
+return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_enableJsonp = function(value) { PageMethods._staticInstance.set_enableJsonp(value); }
+PageMethods.get_enableJsonp = function() { 
+/// <value type="Boolean">Specifies whether the service supports JSONP for cross domain calling.</value>
+return PageMethods._staticInstance.get_enableJsonp(); }
+PageMethods.set_jsonpCallbackParameter = function(value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+PageMethods.get_jsonpCallbackParameter = function() { 
+/// <value type="String">Specifies the parameter name that contains the callback function name for a JSONP request.</value>
+return PageMethods._staticInstance.get_jsonpCallbackParameter(); }
+PageMethods.set_path("RedistrictingPlans.aspx");
+PageMethods.AddComment= function(planID,submitterFirstName,submitterLastName,submitterCompany,commentBody,onSuccess,onFailed,userContext) {
+/// <param name="planID" type="Number">System.Int32</param>
+/// <param name="submitterFirstName" type="String">System.String</param>
+/// <param name="submitterLastName" type="String">System.String</param>
+/// <param name="submitterCompany" type="String">System.String</param>
+/// <param name="commentBody" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.AddComment(planID,submitterFirstName,submitterLastName,submitterCompany,commentBody,onSuccess,onFailed,userContext); }
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="67B5E5FB" type="hidden">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'ctl00', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+    <div id="mainContainer">
+        
+        <div id="headerContent">
+        <a href="http://redistricting.dls.virginia.gov/2010/Default.aspx"><span id="hotlink"></span></a>
+            <ul id="navTop">
+                <li><a href="http://dls.virginia.gov/contact.html">Contact Us</a></li>
+                <li><a href="http://dls.virginia.gov/jobs.html">Job Opportunities</a></li>
+                <li><a href="http://virginiageneralassembly.gov/">Virginia General Assembly</a></li>
+				<li><a href="http://dls.virginia.gov/foia%20request%20policy.pdf">FOIA REQUEST PROCESS</a></li>
+            </ul>
+        </div>
+        <div id="navBar">
+            <ul>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Default.aspx">Home</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Census2010.aspx">Census 2010 Data</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Map.aspx">Map</a></li>
+                <li class="current active"><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx">Redistricting Plans</a><span></span></li>
+                <li><span>Information</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/News.aspx">News</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Hearings.aspx">Hearings</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Criteria.aspx">Criteria</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Publications.aspx">Publications</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/DOJSubmissions.aspx">DOJ Submission</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/preclearance_letters.pdf" target="_blank">DOJ Preclearance</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/BoundaryDescriptions.aspx">Boundary Descriptions</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DistrictMaps.aspx">District Maps</a></li>
+                <li><span>About</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/AboutData.aspx">About The Data</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingCases.aspx">Redistricting Cases</a></li>
+                                                <li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/PrecinctsVA_code.pdf" target="_blank">Precincts in the Code</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DLS_Help/Help.htm" target="_blank">Help</a></li>
+            </ul>
+        </div>
+        <div id="mainContent">
+            
+
+	<h2>Redistricting Plans</h2>
+
+	<div id="tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+		<ul id="ulTabList" class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+			<li id="liTabPlanList" class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabPlanList">Plan List</a></li>
+			<li id="liTabPlan" style="display:none;" class="ui-state-default ui-corner-top"><a href="#tabPlan">Plan Details</a></li>
+			<li id="liTabMap" class="ui-state-default ui-corner-top"><a href="#tabMap">Map</a></li>
+		</ul>
+		<div id="tabPlanList" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+			<table id="tablePlanList">
+				<tbody>
+					<tr>
+						<td width="33%"><h3>Congressional</h3><ul><li><a href="javascript:void(RedistrictingPlans.ShowPlan(31))"> 1 - HB 251 (2012) Congressional Districts</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(3))"> 2 - Old Congressional Districts</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(13))"> 3 - HB 5004 - B.Janis</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(19))"> 4 - SB 5003 -  J.Miller (William &amp; Mary Plan)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(20))"> 5 - SB 5004 - M.Locke</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(29))"> 5a - SB 5004 - M.Locke Subsitute</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(30))"> 6 - HB 5004 - Senate Committee Substitute (6/9/11)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(33))"> 7 - SB 455 Introduced - J.Vogel</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(34))"> 7a - SB 455 Substitute - J.Vogel</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(39))"> 8 - SB 5001 (2015) - Petersen</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(40))"> 9 - SB 5002 (2015) - Locke</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(41))">10 - Court Ordered Modification 16 (1/7/16)</a></li></ul></td><td width="33%"><h3>House</h3><ul><li><a href="javascript:void(RedistrictingPlans.ShowPlan(28))">1 - Current House Districts (HB 5005/Ch.1 enacted 4/29/11)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(1))">2 - Old House Districts</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(5))">3a - HB 5001 - C. Jones</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(12))">3b - HB 5001  - Committee Substitute</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(8))">3c - HB 5001 - Senate Committee Substitute</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(17))">3d - HB 5001 - Passed Senate</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(21))">3e - HB 5001  - Conference Report</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(11))">4  - HB 5002 - R. Brink (U of R Plan)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(24))">5 - HB 5003 - J. Morrissey</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(23))">6a - HB 5005 - C. Jones</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(25))">6b - HB 5005 - Senate Committee Substitute, House</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(32))">7 - 2012 HB259 - Cole</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(37))">7a - 2012 HB259 - Passed House</a></li></ul></td><td width="33%"><h3>Senate</h3><ul><li><a href="javascript:void(RedistrictingPlans.ShowPlan(27))"> 1 - Current Senate Districts (HB 5005/Ch.1 enacted 4/29/11)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(2))"> 2 - Old Senate Districts</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(4))"> 3a - SB# J. Howell</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(7))"> 3b - SB# J. Howell (3/30/11)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(10))"> 3c - SB 5001 - J. Howell (4/3/11)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(18))"> 4 - SB 5002 - J.Miller (William &amp; Mary Plan)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(14))"> 5a - HB 5001 - Sen Comm Sub (Note: SB5001 merged into HB5001)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(16))"> 5b - HB 5001 - Passed Senate (Includes Senate Districts)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(22))"> 5c - HB 5001 - Conference Report (includes Senate Districts)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(6))"> 6 - SB# J. Watkins</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(15))"> 7 - Watkins Committee Substitute (4/7/11)</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(9))"> 8 - Ind. Bipartisan Advisory Comm. On Redistricting - Opt 1</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(26))"> 9 - HB 5005 - Senate Committee Substitute, Senate</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(35))">10 - 2012 SB 635 - Vogel</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(36))">11 - 2012 SB 636 - Obenshain</a></li><li><a href="javascript:void(RedistrictingPlans.ShowPlan(38))">12 - 2013 HB259 Senate Floor Substitute (1/21/13)</a></li></ul></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div id="tabPlan" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"></div>
+		<div id="tabMap" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
+			<!-- Silverlight XAP sits outside of here because it can't be display: none -->
+		</div>
+	</div>
+    <div id="silverlightControlHost" class="hidden">
+		<object id="silverlightDLSMapViewer" data="data:application/x-silverlight-2," type="application/x-silverlight-2" width="100%" height="100%">
+			<param name="source" value="ClientBin/DLSMapViewer.xap?634388974393076048">
+			<param name="onError" value="onSilverlightError">
+			<param name="background" value="#f0eee3">
+			<param name="initParams" value="mapSettingsFile=/Content/MapSettings.xml">
+			<param name="minRuntimeVersion" value="4.0.50826.0">
+			<param name="autoUpgrade" value="true">
+			<param name="EnableGPUAcceleration" value="true">
+			<!--[if IE ]>
+            <param name="windowless" value="true"/>
+			<![endif]-->
+			<a href="http://go.microsoft.com/fwlink/?LinkID=149156&amp;v=4.0.50826.0" style="text-decoration: none">
+				<img src="Division%20of%20Legislative%20Services%20-%20Redistricting%20Plans_files/a.dms" alt="Get Microsoft Silverlight" style="border-style: none">
+			</a>
+		</object>
+		<iframe id="_sl_historyFrame" style="visibility: hidden; height: 0px; width: 0px; border: 0px"></iframe>
+	</div>
+
+
+        </div>
+        <div id="footer">
+            <span>Site designed and developed by&nbsp;<a href="http://www.worldviewsolutions.com/">WorldView
+                Solutions Inc.</a></span>
+        </div>
+    </div>
+	</form>
+
+<div style="display:none;" id="link64_adl_tabid" data-url="http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx">100225</div></body></html>

@@ -1,0 +1,704 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body   
+{
+    background: #b6b7bc;
+    font-size: .90em;
+    font-weight:normal;
+    font-family: Arial, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+a:link, a:visited
+{
+    color: #034af3;
+}
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+#hotlink
+{
+	position:absolute;
+    height: 80px;
+    width: 170px;
+}
+/* MasterPage Layout
+----------------------------------------------------------*/
+#silverlightControlHost 
+{
+	margin-top: 5px;
+    overflow:hidden;
+    text-align: center;
+    width: 100%;
+}
+#silverlightControlHost.hidden {
+	height: 0 !important;
+}
+
+#mainContainer
+{
+    width: auto;
+    height: auto;
+    margin: 5px;
+    min-width:810px;
+}
+#headerContent
+{
+    background: #F0EEE3 url("~/../../images/dls_header.gif") no-repeat scroll 10px 1px;
+    height: 49px;
+    border-color: #083653 #083653 #5D7F8C;
+    border-style: solid;
+    border-width: 1px 1px 2px;
+
+}
+#mainContent
+{
+    height: auto;
+    background: #FFFFFF url("~/../../images/dls_ga_seal1.gif") no-repeat scroll bottom right;
+    border-color: #083653 #083653 #5D7F8C;
+    border-style: solid;
+    border-width: 1px 1px 2px;
+    padding-bottom:5px;
+    min-height:425px;
+}
+
+/*navBar Styles */
+#navBar
+{
+    background-color: #083653;
+    height: 1.9em;
+    border-color: #083653 #083653 #5D7F8C;
+    border-style: solid;
+    border-width: 0px 0px 2px;
+    z-index:99;
+}
+#navBar ul
+{
+    margin: 0px;
+    margin-left: 5px;
+    height: 100%;
+}
+#navBar li
+{
+    float: left;
+    list-style: none;
+    position: relative;
+    height: auto;
+    padding: 0.3em 0.48em 0.3em 0.48em;
+    border: solid 1px #082338;
+    background-color: #083653;
+    margin: 0px;
+}
+#navBar li.current {
+	background-color: #6e9cae;
+}
+
+#navBar li ul
+{
+    display: inline;
+    position: absolute;
+    width: 150px;
+    left: 0px;
+    top: 1.9em;
+    margin: 0px;
+    z-index: 99;
+    display: none;
+}
+#navBar li ul li
+{
+    width: 100%;
+    background-color: #5D7F8C;
+    border-top: none;
+    border-color: #082338;
+}
+#navBar li ul li a
+{
+	display:block;
+}
+#navBar li ul li:hover, #navBar li ul li a:hover
+{
+	background-color: #E8E5D4;
+	color:#082338;
+}
+#navBar li:hover
+{
+    background-color: #5D7F8C;
+}
+#navBar ul li.active span
+{
+    background: url('~/../../images/arrow_down.gif') no-repeat center bottom;
+    width:100%;
+    height:8px;
+    position:absolute;
+    top:1.9em;  
+    left:0px;
+    display:block;
+}
+#navBar ul li ul li.active span
+{
+	background:none;
+	width:0px;
+	height:0px;
+}
+#navBar li span
+{
+    color: #FFFFFF;
+    cursor: pointer;
+}
+#navBar li a
+{
+    color: #FFFFFF;
+    text-decoration: none;
+    display:block;
+}
+
+/*topNav Styles */
+#navTop
+{
+	height:18px;
+	width:100%;
+	font-size:0.75em;
+	margin:0px;
+	padding:6px 0px 0px 0px;
+}
+#navTop li
+{
+	float:right;
+	list-style:none;
+	padding:0px 4px 0px 6px;
+	border-right:solid 1px #083653;
+}
+#navTop li:first-child
+{
+	border-right:none;
+}
+#navTop li a
+{
+	color:#083653;
+}
+#navTop li a:hover
+{
+	text-decoration:none;
+}
+
+/*Footer Styles */
+#footer
+{
+    background-color: #F0EEE3;
+    height: 0.5em;
+    border-color: #083653 #083653 #5D7F8C;
+    border-style: solid;
+    border-width: 0px 1px 1px;
+    padding-bottom:12px;
+
+}
+#footer span
+{
+	float:right;
+    color: #A9771D;
+    font-size: 0.9em;
+    padding: 0px 5px 0px 0px;
+}
+#footer span a
+{
+    color: #A9771D;
+    text-decoration: none;
+}
+#footer span a:hover
+{
+    color: #6991A0;
+    text-decoration: underline;
+}
+
+/* Classes 
+----------------------------------------------------------*/
+.button
+{
+	background-color: #DDDDDD;
+	border: 1px solid #FFFFFF;
+	cursor: pointer;
+	padding: 2px;
+}
+.button:hover
+{
+	background-color:#CCCCCC;
+}
+
+/* main content cms styles */
+div#mainContent h1  {
+	text-transform: uppercase;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:28px;
+	font-weight:normal;
+	text-indent:-1000em;
+}
+
+div#mainContent h2 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:23px;
+	line-height:15px;
+	font-weight:normal;
+	color:#547886;
+	margin:10px 20px 5px 20px;
+	}
+
+
+div#mainContent h3 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:20px;
+	line-height:25px;
+	font-weight:normal;
+	color:#547886;
+	margin:20px 20px 0 20px;
+	}
+
+div#mainContent h4 {
+	font-weight:normal;
+	color:#547886;
+	font-size:16px;
+	line-height:22px;	
+	padding:10px 20px 0 20px;
+}
+
+div#mainContent h5 {
+	color:#547886;
+	font-size:15px;	
+	padding:10px 20px 0 20px;
+}
+
+div#mainContent p {
+	padding:0 20px 10px 20px;
+}
+
+div#mainContent ul {
+	list-style-type:disc; 
+	list-style-position:outside;
+	margin:0 20px 10px 20px;
+	padding-left:15px;
+	
+}
+
+div#mainContent li {
+	padding-bottom:5px;
+	}
+
+div#mainContent ul.listDotline  {
+	font-size:13px;
+	line-height:17px;
+	list-style:none outside none;
+	margin-bottom:20px;
+	padding-left:0;
+	}
+	
+div#mainContent ul.listDotline li  {
+	list-style-type:none; 
+	margin-top:7px;
+	padding-bottom:5px;
+	border-bottom:dotted 2px #ddd;
+}
+
+div#mainContent ul.list  {
+	font-size:14px;
+	line-height:20px;
+	list-style:none outside none;
+	margin-bottom:10px;
+	padding-left:0;
+	}
+	
+div#mainContent ul.list li {
+	list-style-type:none; 
+	padding:0;
+	margin:0;
+	}
+
+div#mainContent .goto a:link, div#mainContent .goto a:visited {
+	text-decoration:none;
+	font-size:15px;
+	line-height:22px;
+	font-style:italic;
+	color: #a9771d; 
+	margin:0;
+}
+
+div#mainContent .goto a:hover, div#mainContent .goto a:active {
+	text-decoration:underline;
+	color:#6991a0;
+}
+
+div#mainContent .dotLine {
+	border-bottom:dotted 2px #ddd;
+} 
+
+span.bigBlue {
+	font-size:20px;
+	color:#547886;
+}
+
+span.gray {
+	font-size:14px;
+	color:#777;
+}
+
+div#mainContent p.note {
+	color: Gray;
+	font-style: italic;
+}
+
+/* tables */
+td.row1, th.row1 {width:165px;}
+td.row2, th.row2 {width:160px;}
+
+table 
+{
+	text-align:left;
+	width:100%;
+}
+table table
+{
+	width:750px;
+}
+
+td.rowReport {width:80px;}
+	
+ul.handouts li {
+	line-height:18px;
+	margin-bottom:6px;
+}
+
+
+/* links */
+#mainContent a:link, #mainContent a:visited {
+	text-decoration:none;
+	color: #a9771d;
+}
+
+#mainContent a:hover, #mainContent a:active {
+	text-decoration:underline;
+	color:#6991a0;
+}
+
+/************************ Tabs */
+#ulTabList a:link, #ulTabList a:visited {
+	color: #212121;
+	outline: 0;
+	text-decoration: none;
+}
+
+#ulTabList a:hover, #ulTabList a:active {
+	color: #212121;
+	outline: 0;
+	text-decoration: none;
+}
+
+div#mainContent div#tabs {
+	border: 0;
+}
+
+div#mainContent div#tabs>ul {
+	margin: 0;
+}
+
+div#mainContent #tabs li {
+	padding-bottom: 0;
+}
+
+div#mainContent #tabs li.ui-tabs-selected {
+	padding-bottom: 1px;
+}
+
+div#mainContent .ui-tabs .ui-tabs-panel {
+	padding: 0;
+}
+
+
+table#tablePlanList td {
+	vertical-align: top;
+}
+
+table#tablePlanList p {
+	margin:0;
+}
+
+/* View In Map link on Plan Details tab of Redistricting Plans page */
+#divMapLink {
+	Position: absolute;
+	right: 20px;
+}
+
+#divMapLink img {
+	border: 0;
+	margin-right: .3em;
+	vertical-align: top;
+}
+
+#divMapLink span {
+	color: Gray;
+	font-style: italic;	
+}
+/* Splash Page Styles */
+DIV#splash
+{
+	width:850px;
+}
+DIV#splBubble
+{
+	width:254px;
+	height:198px;
+	background:transparent url("~/../../images/splashBubble.gif") no-repeat;
+	position:absolute;
+	padding: 20px 13px 0 13px;
+	z-index:10;
+	text-align:left;
+}
+DIV#splash IMG
+{
+	position:relative;
+}
+DIV#welcomeContainer
+{
+	text-align:left;
+}
+DIV#welcomeContainer DIV
+{
+	font-size:1.6em;
+	font-weight:bold;
+	font-variant: small-caps;
+	/*background:transparent url("~/../../images/welcome.gif") repeat-x;
+	color:#FFFFFF;*/
+	text-indent:12px;
+}
+DIV#welcomeContainer p
+{
+    /*background-color: #FFFFFF;
+    border-color: #083653 #083653 #5D7F8C;
+    border-style: solid;
+    border-width: 1px 1px 2px;
+    height: auto;*/
+    display:inline-block;
+}
+.splashButton
+{
+	display: block;
+    font-size: 0;
+    height: 36px;
+    overflow: hidden;
+    width: 146px;
+    z-index: 50;
+}
+#redistrictingPlans
+{
+	background:transparent url("~/../../images/Button_redistrictingPlans.gif");
+	background-position:bottom;
+}
+#redistrictingPlans:hover
+{
+	background-position:top;
+}
+#mapPlans
+{
+	background:transparent url("~/../../images/Button_planMap.gif");
+	background-position:bottom;
+}
+#mapPlans:hover
+{
+	background-position:top;
+}
+
+/* Overwrite jQuery UI styles */
+#mainContainer .ui-widget { font-family: inherit; font-size: inherit; }
+
+/************* Styles for Comment Tool */
+.formElementSet {
+	clear: left;
+	min-height: 25px;
+}
+.formElementSet label {
+	display: block;
+	float: left;
+	width: 100px;
+}
+.formElementSet .field {
+	display: block;
+	float: left;
+}
+		
+div ul#ulDocuments {
+	margin-bottom: 30px;
+}
+		
+fieldset#planComment button {
+	font-family: Arial,Verdana,Sans-Serif;
+	padding: 0 .3em;
+}
+		
+fieldset#planComment {
+	background-color: #F0EEE3;
+	border-radius: 5px;
+	margin: 1em 20px;
+	padding: 0;
+	width: 550px;
+}
+fieldset#planComment.collapsed {
+	background-color: transparent;
+	border: 0;
+}
+fieldset#planComment.collapsed #planCommentBody {
+	display: none;
+	overflow: auto;
+}
+fieldset#planComment.collapsed legend {
+	background-color: transparent;
+	border: none;
+}
+fieldset#planComment legend {
+	background: #FFF url("../images/notes.png") no-repeat 4px 2px;
+	border-bottom: 1px solid #CCC;
+	border-radius: inherit;
+	color: #547886;
+	font-weight: normal;
+	margin: 0 10px;
+	padding: 0 0 1px 24px;
+}
+fieldset#planComment legend a {
+	margin-right: 7px;
+	outline: 0;
+}
+#planCommentBody {
+	overflow: auto;
+	padding: 1em;
+}
+		
+fieldset#planComment input, fieldset#planComment textarea {
+	border: 1px solid #BBB;
+	font-family: Arial,Verdana,Sans-Serif;
+	font-size: 14px;
+}
+		
+fieldset#planComment input.instruction, fieldset#planComment textarea.instruction {
+	color: Gray;
+	font-style: italic;
+}
+		
+fieldset#planComment input.invalid, fieldset#planComment textarea.invalid {
+	background-color: #FFFDE3;
+	color: Red;
+}
+
+fieldset#planComment p {
+	margin: 0 0 1em 0;
+	padding: 0;
+}

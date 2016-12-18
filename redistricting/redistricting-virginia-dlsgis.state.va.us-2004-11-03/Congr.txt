@@ -1,0 +1,19 @@
+Current congressional district populations			
+according to Census 2000			
+ Statewide Total: 7,078,515 			
+ Ideal district population: 643,501 			
+
+District      Total                 Deviation        Deviation 
+number        Population            from Ideal       Percentage
+1		  709,060  	    65,559               9.2%
+2		  574,058  	    (69,443)           -12.1%
+3		  567,683  	    (75,818)           -13.4%
+4		  645,733  	    2,232                0.3%
+5		  620,104  	    (23,397) 		-3.8%
+6		  609,802  	    (33,699) 		-5.5%
+7		  699,196  	    55,695               8.0%
+8		  627,849  	    (15,652)            -2.5%
+9		  582,943  	    (60,558)           -10.4%
+10		  792,534  	    149,033             18.8%
+11		  649,553  	    6,052                0.9%
+		

@@ -1,0 +1,333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+
+</title><link href="Hearings.aspx_files/Site.css" rel="stylesheet" type="text/css"><link href="Hearings.aspx_files/jquery-ui-1.css" rel="stylesheet" type="text/css">
+    <script src="Hearings.aspx_files/jquery-1.js" type="text/javascript"></script>
+    <script src="Hearings.aspx_files/jquery-ui-1.js" type="text/javascript"></script>
+    <script src="Hearings.aspx_files/jquery-hoverIntent.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+        function CreateEmailLink(name, domain) {
+            var u_a = "mail"
+            var u_b = "to:"
+            var u_c = "@"
+            document.write('<a href="' + u_a + u_b + name + u_c + domain + ' ">' + name + u_c + domain + '<\/a>');
+        }
+
+
+        jQuery(function () {
+            //Initialize nav bar drop down list hover handlers
+            jQuery("#navBar ul li").hoverIntent(
+        {
+            sensitivity: 3,
+            interval: 0,
+            over: ddlOptionsVisible,
+            timeout: 100,
+            out: ddlOptionsInvisible
+        });
+
+            //Set currently selected nav menu item style
+            //What is the current webpage
+            var webpageFileName = document.location.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+            if (webpageFileName.length == 0) webpageFileName = "default.aspx";
+            //Find anchor in navmenu with href that matches current web page filename (use case-insensitive comparison)
+            var jqLi = null;
+            $("#navBar ul li a[href]").each(function (index, value) {
+                var href = value.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+                if (href == webpageFileName) {
+                    jqLi = $(value.parentNode);
+                    return false;
+                }
+            });
+            if (jqLi != null) {
+                jqLi.addClass("current");
+                //Check for parent menu list item (to highlight nav menu items with drop-down menus
+                $(jqLi.parent()).closest("#navBar ul li").addClass("current");
+                $(jqLi).closest("#navBar ul li").addClass("active");
+                $(jqLi).closest("#navBar ul li").append("<span><\/span>");
+
+            }
+        });
+
+        function ddlOptionsVisible() {
+            var ddlOptions = jQuery(this).find("ul.ddlNav").html();
+            if (ddlOptions != null) {
+                jQuery(this).find("ul.ddlNav").slideDown(100);
+            }
+
+        }
+        function ddlOptionsInvisible() {
+            jQuery(this).find("ul.ddlNav").slideUp(100);
+        }
+
+    //]]>
+    </script>
+    <!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" href="Styles/style_ie6.css" />
+    <![endif]-->
+
+    
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+<body>
+	<form method="post" action="Hearings.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RkUIgJTM7avotHPGEemgvSZ4+I862hucw5JrgS6e1lHqI=" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl00'];
+if (!theForm) {
+    theForm = document.ctl00;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="Hearings.aspx_files/WebResource.js" type="text/javascript"></script>
+
+
+<script src="Hearings.aspx_files/ScriptResource_002.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="Hearings.aspx_files/ScriptResource.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2C7E9180" type="hidden">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'ctl00', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+    <div id="mainContainer">
+        
+        <div id="headerContent">
+        <a href="http://redistricting.dls.virginia.gov/2010/Default.aspx"><span id="hotlink"></span></a>
+            <ul id="navTop">
+                <li><a href="http://dls.virginia.gov/contact.html">Contact Us</a></li>
+                <li><a href="http://dls.virginia.gov/jobs.html">Job Opportunities</a></li>
+                <li><a href="http://virginiageneralassembly.gov/">Virginia General Assembly</a></li>
+				<li><a href="http://dls.virginia.gov/foia%20request%20policy.pdf">FOIA REQUEST PROCESS</a></li>
+            </ul>
+        </div>
+        <div id="navBar">
+            <ul>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Default.aspx">Home</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Census2010.aspx">Census 2010 Data</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Map.aspx">Map</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx">Redistricting Plans</a></li>
+                <li class="current"><span>Information</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/News.aspx">News</a></li>
+                        <li class="current active"><a href="http://redistricting.dls.virginia.gov/2010/Hearings.aspx">Hearings</a><span></span></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Criteria.aspx">Criteria</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Publications.aspx">Publications</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/DOJSubmissions.aspx">DOJ Submission</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/preclearance_letters.pdf" target="_blank">DOJ Preclearance</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/BoundaryDescriptions.aspx">Boundary Descriptions</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DistrictMaps.aspx">District Maps</a></li>
+                <li><span>About</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/AboutData.aspx">About The Data</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingCases.aspx">Redistricting Cases</a></li>
+                                                <li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/PrecinctsVA_code.pdf" target="_blank">Precincts in the Code</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DLS_Help/Help.htm" target="_blank">Help</a></li>
+            </ul>
+        </div>
+        <div id="mainContent">
+            
+    <table width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td valign="top">
+                <h2> Redistricting Hearings and Meetings</h2>
+                <hr>
+      <div align="left">
+        <table width="96%" cellspacing="0">
+          <tbody>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <h3>House: </h3></td>
+              <td width="50%" valign="top" height="1"> <h3>Senate: </h3></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/house/090810_public_hearing_transcript.pdf"> 
+                  Hearing Transcript 9/8/10 - Roanoke</a> </p></td>
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/senate/102710_public_hearing_transcript.pdf">Hearing 
+                  Transcript 10/27/10 - Roanoke</a> </p></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/house/092210_public_hearing_transcript.pdf">Hearing 
+                  Transcript 9/22/10 - Norfolk</a>&nbsp; </p></td>
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/senate/110410_public_hearing_transcript.pdf">Hearing 
+                  Transcript 11/4/10 - Herndon</a>&nbsp; </p></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/house/100510_public_hearing_transcript.pdf">Hearing 
+                  Transcript 10/5/10 - GMU</a> </p></td>
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/senate/120210_public_hearing_transcript.pdf">Hearing 
+                  Transcript 12/2/10 - Portsmouth</a>&nbsp;&nbsp; </p></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/house/101810_public_hearing_transcript.pdf">Hearing 
+                  Transcript 10/18/10 - Danville</a> </p></td>
+              <td width="50%" valign="top"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/News%20Releases/newsrelease091610.pdf">9/16/10 
+                  Senate P &amp; E News Release</a>&nbsp;&nbsp; </p></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/house/120610_public_hearing_transcript.pdf">Hearing 
+                  Transcript 12/6/10 - Mary Washington</a> </p></td>
+              <td width="50%" valign="top"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/News%20Releases/senwrittensubmission.pdf">Click 
+                  here if you can't attend the Senate Hearing in your area</a></p></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/house/121710_public_hearing_transcript.pdf">Hearing 
+                  Transcript 12/17/10 - Richmond</a> </p></td>
+              <td width="50%" valign="top">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/House/040411_public_hearing_transcript.pdf">Hearing 
+                  Transcript 4/4/11 - Richmond</a></p></td>
+              <td valign="top" height="1"></td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/News%20Releases/newsrelease082310.pdf">8/23/10 
+                  House P &amp; E News Release</a> </p></td>
+              <td width="50%" valign="top" height="1"> </td>
+            </tr>
+            <tr> 
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/News%20Releases/09_08_10%20Cole%20Memo.pdf">Click 
+                  here if you can't attend the House Hearing in your area</a> 
+                </p></td>
+              <td width="50%" valign="top" height="1"> </td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1">&nbsp;</td>
+              <td valign="top" height="1"></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><h3> Committee Meetings: </h3></td>
+              <td valign="top" height="1"><h3>Joint Hearings: </h3></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Joint%20Reapp%20Mtgs/121710_joint_mtg_transcript.pdf">Transcript 
+                  from 12/17/10 Joint Reapportionment Committee meeting in Richmond</a></p></td>
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/033111_public_hearing_transcript_Hampton.pdf">Hearing 
+                  Transcript 3/31/11 - Hampton University</a> </p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Joint%20Reapp%20Mtgs/022311_public_hearing_transcript.pdf">Transcript 
+                  from 2/23/11 Joint Reapportionment Committee meeting in Richmond</a></p></td>
+              <td width="50%" valign="top" height="1"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/033111Roa_public_hearing_transcript.pdf">Hearing 
+                  Transcript 3/31/11 - Roanoke</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/House/032511_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 3/25/11 House P &amp; E Meeting</a></p></td>
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/033111_public_hearing_transcript_leesburg.pdf">Hearing 
+                  Transcript 3/31/11 - Leesburg</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Senate/032511_Senate_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 3/25/11 Senate P &amp; E Meeting</a></p></td>
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Joint%20Reapp%20Mtgs/040211_transcript_Danville.pdf">Hearing 
+                  Transcript 4/2/11 - Danville</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Senate/040511_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 4/5/11 Senate P &amp; E Meeting in Richmond</a></p></td>
+              <td valign="top" height="1"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/040211_public_hearing_transcript_augusta.pdf">Hearing 
+                  Transcript 4/2/11 - Augusta</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Senate/040711_senate_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 4/7/11 Senate P &amp; E Meeting in Richmond</a></p></td>
+              <td valign="top">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/House/041111_HouseP&amp;E_mtg_transcript.pdf">Transcript 
+                  from 4/11/11 House P &amp; E Meeting in Richmond</a></p></td>
+              <td valign="top"> <p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/040211_public_hearing_transcript_abingdon.PDF">Hearing 
+                  Transcript 4/2/11 - Abingdon</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Joint%20Reapp%20Mtgs/041111_joint_mtg.pdf">Transcript 
+                  from 4/11/11 joint meeting in Richmond</a></p></td>
+              <td valign="top"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/040211_public_hearing_transcript_fairfax.pdf">Hearing 
+                  Transcript 3/31/11 - Fairfax</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Senate/041211_P&amp;E_mtg_transcript1.pdf">Transcript 
+                  from 4/12/11 Senate P &amp; E Meeting in Richmond</a></p></td>
+              <td valign="top"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/040411_public_hearing_transcript.pdf">Hearing 
+                  Transcript 4/4/11 - Richmond</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Senate/041211_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 4/12/11 Senate P &amp; E Meeting in Richmond</a></p></td>
+              <td valign="top"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/081715_public_hearing_transcript_richmond.pdf">Hearing 
+                Transcript 8/17/15 - Richmond</a></p></td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/House/041811_House_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 4/18/11 House P &amp; E Meeting</a></p></td>
+              <td valign="top" height="21">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Senate/042811_SenateP&amp;E_mtg_transcript.pdf">Transcript 
+                  from 4/28/11 Senate P &amp; E Meeting</a></p></td>
+              <td valign="top" height="21">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/House/011112_P&amp;E_mtg_transcript.pdf">Transcript 
+                  from 1/11/12 House P &amp; E Meeting</a></p></td>
+              <td valign="top" height="21">&nbsp;</td>
+            </tr>
+            <tr>
+              <td valign="top" height="21"><p><a href="http://redistricting.dls.virginia.gov/2010/Data/Public%20Hearings/Joint%20Reapp%20Mtgs/081715_joint_mtg.pdf">Transcript 
+                from 8/17/15 Joint Reapportionment Committee meeting in Richmond</a></p></td>
+              <td valign="top" height="21">&nbsp;<p></p></td>
+            </tr>
+          </tbody>
+        </table>
+                </div>
+                
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp; </p>
+                <p align="left">
+                    Visit <a target="_blank" href="http://lis.virginia.gov/cgi-bin/legp604.exe?111+oth+MTG">
+                        House and Senate Hearing Notices</a> for a complete list of all House and Senate
+                    hearing notices.</p>
+            </td>
+        </tr>
+    </tbody></table>
+
+        </div>
+        <div id="footer">
+            <span>Site designed and developed by&nbsp;<a href="http://www.worldviewsolutions.com/">WorldView
+                Solutions Inc.</a></span>
+        </div>
+    </div>
+	</form>
+
+<div style="display:none;" id="link64_adl_tabid" data-url="http://redistricting.dls.virginia.gov/2010/Hearings.aspx">100230</div></body></html>

@@ -1,0 +1,51 @@
+
+
+<div id="divContent">
+	<div id="divMapLink">
+		<div id="divMapLinkSearching">
+			<img src="images/small_spinner.png" width="16" height="16" alt="Searching Indicator" /><span>Locating Plan in Map...</span>
+		</div>
+		<a id="aMapLink" onclick="$('#tabs').tabs('select',2);" href="javascript:void(0);" style="display:none;">
+			<img src="images/map_small.png" width="19" height="18" alt="Map Icon" />View in Map</a>
+		<div id="divMapLinkUnavailable" style="display:none;">
+			<img src="images/mapnotavailable_small.png" width="19" height="18" alt="Map Not Available Icon" /><span>Plan not available in Map</span>
+		</div>
+	</div>
+
+	<h2 id="h2PlanName">Congressional Plan:  6 - HB 5004 - Senate Committee Substitute (6/9/11)</h2>
+	<hr />
+	<p id="pDescription">Proposed Congressional Districts</p>
+
+	<h3>Documents</h3>
+	
+	<ul id="ulDocuments"><li><a href="http://redistricting.dls.virginia.gov/2010/Data/congressional%20plans/HB5004_Senate_Comm_Sub_060911/HB5004_Senate_Comm_Sub_060911.htm" target="_blank">HTML</a> - Report - Population, Demographics, Election Data, Voting Age Population</li><li><a href="http://redistricting.dls.virginia.gov/2010/Data/congressional%20plans/HB5004_Senate_Comm_Sub_060911/HB5004_Senate_Comm_Sub_060911.pdf" target="_blank">PDF</a> - Report - Population, Demographics, Election Data, Voting Age Population</li><li><a href="http://redistricting.dls.virginia.gov/2010/Data/congressional%20plans/HB5004_Senate_Comm_Sub_060911/HB5004_Senate_Comm_Sub_060911_primary.pdf" target="_blank">PDF</a> - Complete District Report</li><li><a href="http://redistricting.dls.virginia.gov/2010/Data/congressional%20plans/HB5004_Senate_Comm_Sub_060911/HB5004_Sen_Comm_Sub.zip" target="_blank">Shapefile</a> - Shapefile</li><li><a href="http://redistricting.dls.virginia.gov/2010/Data/congressional%20plans/HB5004_Senate_Comm_Sub_060911/HB5004_Senate_Comm_Sub_060911.xls" target="_blank">Spreadsheet</a> - Excel - Report - Population, Demographics, Election Data, Voting Age Population</li><li><a href="http://redistricting.dls.virginia.gov/2010/Data/congressional%20plans/HB5004_Senate_Comm_Sub_060911/HB5004_Sen_Comm_Sub_blkassign.txt" target="_blank">TXT</a> - Block Assignment File</li></ul>
+
+	<fieldset id="planComment" class="collapsed">
+		<legend><a href="javascript:void(PlanComment.ToggleForm());">Leave a comment</a></legend>
+		<div id="planCommentBody">
+			<input name="CommentPlanID" type="hidden" id="CommentPlanID" value="30" />
+			<p class="note">Note: To comment on a specific location, use the Comment tool on the <a href="javascript:void(PlanComment.MapLink_Click());">Map</a>.</p>
+			<div class="formElementSet">
+				<label>First Name*:</label>
+				<div class="field"><input type="text" maxlength="35" style="width:200px;" id="SubmitterFirstName" title="enter first name" class="required" /></div>
+			</div>
+			<div class="formElementSet">
+				<label>Last Name*:</label>
+				<div class="field"><input type="text" maxlength="35" style="width:200px;" id="SubmitterLastName" title="enter last name" class="required" /></div>
+			</div>
+			<div class="formElementSet">
+				<label>Company:</label>
+				<div class="field"><input type="text" maxlength="75" style="width:410px;" id="SubmitterCompany" title="enter company" /></div>
+			</div>
+			<div class="formElementSet">
+				<label>Comment*:</label>
+				<div class="field"><textarea rows="6" cols="10" style="width:410px;max-height:400px;resize:vertical;margin-bottom:1em;" id="CommentBody"
+					title="enter comment here" class="required"></textarea></div>
+			</div>
+			<div style="margin-bottom:1.5em;clear:left;">
+				<button id="BtnCancel" style="float:left;" type="button" onclick="PlanComment.BtnCancel_Click()">Cancel</button>
+				<button id="BtnSubmit" style="float:right;" type="button" onclick="PlanComment.BtnSubmit_Click()">Submit</button>
+			</div>
+		</div>
+	</fieldset>
+</div>

@@ -1,0 +1,305 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+
+</title><link href="RedistrictingCases.aspx_files/Site.css" rel="stylesheet" type="text/css"><link href="RedistrictingCases.aspx_files/jquery-ui-1.css" rel="stylesheet" type="text/css">
+    <script src="RedistrictingCases.aspx_files/jquery-1.js" type="text/javascript"></script>
+    <script src="RedistrictingCases.aspx_files/jquery-ui-1.js" type="text/javascript"></script>
+    <script src="RedistrictingCases.aspx_files/jquery-hoverIntent.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+        function CreateEmailLink(name, domain) {
+            var u_a = "mail"
+            var u_b = "to:"
+            var u_c = "@"
+            document.write('<a href="' + u_a + u_b + name + u_c + domain + ' ">' + name + u_c + domain + '<\/a>');
+        }
+
+
+        jQuery(function () {
+            //Initialize nav bar drop down list hover handlers
+            jQuery("#navBar ul li").hoverIntent(
+        {
+            sensitivity: 3,
+            interval: 0,
+            over: ddlOptionsVisible,
+            timeout: 100,
+            out: ddlOptionsInvisible
+        });
+
+            //Set currently selected nav menu item style
+            //What is the current webpage
+            var webpageFileName = document.location.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+            if (webpageFileName.length == 0) webpageFileName = "default.aspx";
+            //Find anchor in navmenu with href that matches current web page filename (use case-insensitive comparison)
+            var jqLi = null;
+            $("#navBar ul li a[href]").each(function (index, value) {
+                var href = value.href.replace(/(^.*\/)([^?#]*)(.*$)/g, "$2").toLowerCase();
+                if (href == webpageFileName) {
+                    jqLi = $(value.parentNode);
+                    return false;
+                }
+            });
+            if (jqLi != null) {
+                jqLi.addClass("current");
+                //Check for parent menu list item (to highlight nav menu items with drop-down menus
+                $(jqLi.parent()).closest("#navBar ul li").addClass("current");
+                $(jqLi).closest("#navBar ul li").addClass("active");
+                $(jqLi).closest("#navBar ul li").append("<span><\/span>");
+
+            }
+        });
+
+        function ddlOptionsVisible() {
+            var ddlOptions = jQuery(this).find("ul.ddlNav").html();
+            if (ddlOptions != null) {
+                jQuery(this).find("ul.ddlNav").slideDown(100);
+            }
+
+        }
+        function ddlOptionsInvisible() {
+            jQuery(this).find("ul.ddlNav").slideUp(100);
+        }
+
+    //]]>
+    </script>
+    <!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" href="Styles/style_ie6.css" />
+    <![endif]-->
+
+    
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+<body>
+	<form method="post" action="RedistrictingCases.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RkEeM4h4ijOx58AMBSTM1FB5dVDdnDhVRQ2OnYJir5wEs=" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl00'];
+if (!theForm) {
+    theForm = document.ctl00;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="RedistrictingCases.aspx_files/WebResource.js" type="text/javascript"></script>
+
+
+<script src="RedistrictingCases.aspx_files/ScriptResource_002.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="RedistrictingCases.aspx_files/ScriptResource.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="57821317" type="hidden">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'ctl00', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+    <div id="mainContainer">
+        
+        <div id="headerContent">
+        <a href="http://redistricting.dls.virginia.gov/2010/Default.aspx"><span id="hotlink"></span></a>
+            <ul id="navTop">
+                <li><a href="http://dls.virginia.gov/contact.html">Contact Us</a></li>
+                <li><a href="http://dls.virginia.gov/jobs.html">Job Opportunities</a></li>
+                <li><a href="http://virginiageneralassembly.gov/">Virginia General Assembly</a></li>
+				<li><a href="http://dls.virginia.gov/foia%20request%20policy.pdf">FOIA REQUEST PROCESS</a></li>
+            </ul>
+        </div>
+        <div id="navBar">
+            <ul>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Default.aspx">Home</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Census2010.aspx">Census 2010 Data</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/Map.aspx">Map</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx">Redistricting Plans</a></li>
+                <li><span>Information</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/News.aspx">News</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Hearings.aspx">Hearings</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Criteria.aspx">Criteria</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Publications.aspx">Publications</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/DOJSubmissions.aspx">DOJ Submission</a></li>
+						<li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/preclearance_letters.pdf" target="_blank">DOJ Preclearance</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/BoundaryDescriptions.aspx">Boundary Descriptions</a></li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DistrictMaps.aspx">District Maps</a></li>
+                <li class="current"><span>About</span>
+                    <ul class="ddlNav">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/AboutData.aspx">About The Data</a></li>
+                        <li class="current active"><a href="http://redistricting.dls.virginia.gov/2010/RedistrictingCases.aspx">Redistricting Cases</a><span></span></li>
+                                                <li><a href="http://redistricting.dls.virginia.gov/2010/Data/Ref/PrecinctsVA_code.pdf" target="_blank">Precincts in the Code</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://redistricting.dls.virginia.gov/2010/DLS_Help/Help.htm" target="_blank">Help</a></li>
+            </ul>
+        </div>
+        <div id="mainContent">
+            
+    <table width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td valign="top">
+                <h2>
+                    Redistricting Cases</h2>
+                <hr>
+                <br>
+                <p> Below you will find information on court challenges to Virginia's 
+        redistricting plans and links to other sites tracking redistricting litigation 
+        nationwide.</p>
+                <ul>
+                    <li>West v. Gilmore, Circuit Court for the City of Salem, Case No.: 01-84, filed June
+                        26, 2001.&nbsp; On appeal, Warner v. West and finally Wilkins v. West, Supreme Court
+                        of Virginia, Case No.: 021003.</li>
+                </ul>
+                <blockquote>
+                    <ul type="circle">
+                        <li style="list-style:none; padding:6px;">West v. Gilmore:</li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Salem1.PDF">Bill of Complaint</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/salem2.PDF">Plaintiffs' Motion for Expedited
+                            Discovery</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/West%20Opposition%20to%20Motion%20for%20Expedited%20Disc%2071501.doc">
+                            Defendant's Memorandum in Opposition to Expedited Discovery</a> and <a href="http://redistricting.dls.virginia.gov/2010/Data/ref/West%20Motion%20for%20Stay%2071501.doc">
+                                Motion to Stay Discovery</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/3-11-02court_opinion.doc">Circuit Court Opinion
+                            March 11, 2002, Judge Richard C. Pattisall</a> </li>
+                        <li style="list-style:none; padding:6px;">Wilkins v. West:</li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/petitionforappeal4-26-02.DOC">Commonwealth's
+                            Petition for Appeal to the Virginia Supreme Court April 26, 2002</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/PetitionforAppealOppose5-1-02.doc">Plaintiffs'
+                            Petition for Appeal Opposition</a>, <a href="http://redistricting.dls.virginia.gov/2010/Data/ref/ProhibitionResponse5-1-02.doc">
+                                Prohibition Response</a>, and <a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Expedite5-1-02.doc">
+                                    Expedite Motion Response</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/OpeningBrief%28final_7-02%29.pdf">Commonwealth/Defendants
+                            Brief filed in the Virginia Supreme Court July 2002</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Brief%20of%20appellees.PDF">Apellees/Plaintiffs
+                            Brief filed in the Virginia Supreme Court July 2002</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20brief-Warner.pdf">Governor Warner's
+                            Amicus Brief in Support of Appellees</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/AmicusBrief-BlackCaucusGuthrieVersion.doc">
+                            Legislative Black Caucus Amicus Brief in Support of Appellees</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/ReplyBrief.pdf">Reply Brief of Appellants</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20brief%20-%20Sen%20Rerras.pdf">Senator
+                            Rerras' Amicus Brief in Support of Appellants</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20reply%20-%20Rerras.pdf">Senator
+                            Rerras' Reply Brief in Support of Appellants</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20brief%20-%20DKT%20Liberty.pdf">DKT/Center
+                            for Voting and Democracy/Cameron Barron Amicus Brief in Support of Appellees</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20brief%20-%20ACLU.pdf">ACLU Amicus
+                            Brief in Support of Appellees</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20brief%20-%20LFR.pdf">Lawyers for
+                            the Republic Amicus Brief in Support of Appellants</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Amicus%20reply%20-%20LFR.pdf">Lawyers for
+                            the Republic Reply Brief in Support of Appellants</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/SCV_opinion11_1_02.PDF">Opinion, Supreme
+                            Court of Virginia, November 1, 2002, upholding Senate and House of Delegates redistricting
+                            plans</a>.</li>
+                    </ul>
+                </blockquote>
+                <ul>
+                    <li>Hall v. Warner, Circuit Court for the City of Petersburg, Case No.: CH02-100, filed
+                        April 17, 2002.</li>
+                </ul>
+                <blockquote>
+                    <ul type="circle">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Complaint4-17-02.doc">Bill of Complaint</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Demurrer%20%28Motion%29.doc">Demurrer Motion
+                            to Dismiss Parties</a> and <a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Quash%20%28Motion%29.doc">
+                                Motion to Quash Service of Process</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Hall%20nonsuit%20order11_12_02.PDF">Order
+                            of Nonsuit on Motion of Plaintiffs</a></li>
+                    </ul>
+                </blockquote>
+                <ul>
+                    <li>Hall v. Commonwealth of Virginia, United States District Court, Eastern District
+                        Virginia, Case No.: 03-CV-151, filed February 20, 2003.&nbsp; Fourth Circuit Case
+                        No. 03-2113.</li>
+                </ul>
+                <blockquote>
+                    <ul type="circle">
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Complaint2_20_03.PDF">Bill of Complaint</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/5_9_03Answer.pdf">Commonwealth's Answer</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/5_9_03Motion%20to%20Dismiss.pdf">Commonwealth's
+                            Motion to Dismiss</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/5_9_03Brief%20in%20support%20of%20motion%20to%20dismiss.pdf">
+                            Commonwealth's Brief for Dismissal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Pl%27s%20Memo%20in%20Opp%20to%20Defs%27%20MTD5-24-03.pdf">
+                            Plaintiffs' Memo Opposing Dismissal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Intervenor%20Memo%20Support%20MTD5-9-03.pdf">
+                            Defendant Interveners' Memo Supporting Dismissal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/Rebuttal%20Brief%20in%20support%20of%20motion%20to%20dismiss6-2-03.pdf">
+                            Commonwealth's Rebuttal Brief for Dismissal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/D-I%20Reply%20Memo%20in%20Supp%20of%20MTD5-30-03.pdf">
+                            Defendant Interveners' Reply Memo for Dismissal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/8_7_03HallDismissOorder.pdf">Court Order
+                            for Dismissal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/9_4_03Notice%20of%20Appeal.pdf">Notice of
+                            Appeal</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/10_27_03AppellantsBrief.pdf">Appellants'
+                            Brief</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/12_8_03AppelleesBrief.pdf">Appellees' Brief</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/1_9_04AppellantsReplyBrief.pdf">Appellants'
+                            Reply Brief</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/9_22_04opinion.pdf">Fourth Circuit Court
+                            Opinion</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/12_21_04Cert.pdf">Petition for Certiorari</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/2_28_05RespondentsBrief.pdf">Commonwealth's
+                            Brief in Opposition to Plaintiffs' Petition for Certiorari</a></li>
+                        <li><a href="http://redistricting.dls.virginia.gov/2010/Data/ref/2_28_05IntrvnrsOppToCert.pdf">Defendant Intervenors'
+                            Brief in Opposition to Plaitiffs' Petition for Certiorari</a></li>
+                    </ul>
+                </blockquote>
+				 <ul>
+                    <li>Page, Perso​nhuballah,​ Farkas v. Virginia State Board of Elections, United States District Court, Eastern District
+                        Virginia, Case No.: 3:13cv678, filed October 2, 2013.</li>
+                </ul>
+                <blockquote>
+                    <ul type="circle">
+                        
+          <li><a href="http://redistricting.dls.virginia.gov/2010/Data/News%20Releases/Bill%20of%20complaint%2010_2_13.pdf">Bill 
+            of Complaint</a></li>                       
+                    </ul>
+                </blockquote>
+                <p>&nbsp;
+                    </p>
+                <p>&nbsp;
+                    </p>
+                
+      <p align="left"> Other sites tracking redistricting litigation nationwide 
+        include <a href="http://www.senate.leg.state.mn.us/departments/scr/redist/redsum2000/redsum2000.htm"> 
+        Redistricting Cases:&nbsp; the 2000s</a> and&nbsp; <a href="http://www.ncsl.org/legislatures-elections/redist/2010-redistricting-cases.aspx"> 
+        NCSL Redistricting Cases</a>. </p>
+            </td>
+        </tr>
+    </tbody></table>
+
+        </div>
+        <div id="footer">
+            <span>Site designed and developed by&nbsp;<a href="http://www.worldviewsolutions.com/">WorldView
+                Solutions Inc.</a></span>
+        </div>
+    </div>
+	</form>
+
+<div style="display:none;" id="link64_adl_tabid" data-url="http://redistricting.dls.virginia.gov/2010/RedistrictingCases.aspx">100238</div></body></html>
