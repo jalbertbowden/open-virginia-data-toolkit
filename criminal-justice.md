@@ -206,3 +206,6 @@
 # Legal/Justice/Etc.  
 [Disability Law Center of Virginia](http://dlcv.org/)  
 
+[Clerk of Circuit Court - Wise County and City of Norton](http://www.courtbar.org/)  
+[@hWise_VACircuit - Wise Circuit Court](https://twitter.com/Wise_VACircuit)  
+[Wise County & Norton Clerk of Court](http://clerkofcourt.blogspot.com/)  

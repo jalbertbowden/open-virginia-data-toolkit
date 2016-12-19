@@ -8,6 +8,17 @@
 
 
 
+# Town of Warsaw FOIA Fail  
+[FOIA Document](http://www.townofwarsaw.com/component/content/2-uncategorised/19-freedom-of-information-act?Itemid=142)  
+
+# UVA Wise FOIA Fail
+[Searching UVA Wise Website for "FOIA" Returns Zero Results](http://www.uvawise.edu/?s=foia)  
+
+
+
+
+
+
 
  
 
