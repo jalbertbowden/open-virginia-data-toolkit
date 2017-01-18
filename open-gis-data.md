@@ -1,14 +1,17 @@
 # Virginia Open GIS Data  
 
-## Alexandria GIS Data  
+## Alexandria  
 [Alexandria GIS Open Data Portal](http://data.alexgis.opendata.arcgis.com/)  
 [Alexandria GIS Open Data ftp](http://www3.alexandriava.gov/data/GIS/)  
 [Alexandria GIS Data Fall 2015 (zip)](http://www3.alexandriava.gov/data/GIS/GISDataFall2015-Complete.zip)  
 [Alexandria Energy Data (zip)](http://www3.alexandriava.gov/data/GeneralServices/Energy%20Data.zip)  
 
+## Arlington County  
+[Arlington County GIS Open Data Portal](http://gisdata.arlgis.opendata.arcgis.com/)  
+
 ## Chesapeake  
 
-[Chesapeake](Open GIS Data Portal](http://public.chesva.opendata.arcgis.com/)  
+[Chesapeake Open GIS Data Portal](http://public.chesva.opendata.arcgis.com/)  
 
 ## Gloucester County  
 
