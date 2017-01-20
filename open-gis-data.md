@@ -11,8 +11,22 @@
 ## Arlington County  
 [Arlington County GIS Open Data Portal](http://gisdata.arlgis.opendata.arcgis.com/)  
 
+## Bedford County  
+[Bedford County, Virginia](http://data.bedfordvagis.opendata.arcgis.com/)  
+
+## Campbell County
+[Campbell County, Virginia](http://data.campbellva.opendata.arcgis.com/)  
+
+## Charlottesville
+[Charlottesville Open Data Portal](http://cvilleopendataportal.charlottesville.opendata.arcgis.com/datasets?sort_by=relevance)  
+[Charlottesville Open Data Portal Feed](http://cvilleopendataportal.charlottesville.opendata.arcgis.com/datasets.atom?sort_by=relevance)  
+
 ## Chesapeake  
 [Chesapeake Open GIS Data Portal](http://public.chesva.opendata.arcgis.com/)  
+
+## Fairfax County  
+[Fairfax GIS Data](http://data.fairfaxcountygis.opendata.arcgis.com/)  
+
 
 ## Gloucester County  
 [2015 Survey Results - Broadband - Gloucester County, Virginia](http://www.arcgis.com/home/item.html?id=03543515901f4ad7985110d0f80f03bc)    
@@ -27,6 +41,15 @@
 ## James City County  
 [James City County GIS/Mapping Section](http://www.jamescitycountyva.gov/assessments/gis-mapping.html)  
 [James City County GIS Mapping Layers Downloads](http://jamescitycountyva.gov/397/Mapping-Layers)  
+
+## Loudoun County  
+[GIS Open Data - Loudoun County, Virginia](http://data.loudoungis.opendata.arcgis.com/)  
+
+## Lynchburg  
+[Lynchburg Open Data Portal](http://data.cityoflynchburg.opendata.arcgis.com/)  
+
+## Madison County
+[Madison County, Virginia Maps Gallery](http://gis.madisonva.opendata.arcgis.com/)  
 
 ## Norfolk  
 [Norfolk GIS Department](http://va-norfolk.civicplus.com/index.aspx?NID=1596)  
@@ -48,6 +71,8 @@
 
 # Virginia State Government  
 [VGIN Geospatial Services](http://www.vita.virginia.gov/isp/default.aspx?id=12096)  
+[Virginia Economic Development Partnership GIS](http://gis.yesvirginia.org/)  
+[All Datasets - Virginia Economic Development Partnership GIS](http://gis.yesvirginia.org/datasets?sort_by=name)  
 
 
 ## ArcGIS Virginia Data  
@@ -65,14 +90,34 @@
 [VEGIS Viewer - DEQ](http://www.deq.virginia.gov/mapper_ext/default.aspx?service=public/wimby 
 [DEQ Interactive Mapping GIS Portal](http://www.deq.virginia.gov/Programs/LandProtectionRevitalization/PetroleumProgram/InteractiveMapping.aspx)  
 
-
-
+## Transit Data  
+[Virginia, USA - TransitFeeds](https://transitfeeds.com/l/138-virginia-usa)  
+[TPB Regional Transportation Data Clearinghouse](http://rtdc.mwcog.opendata.arcgis.com/)  
 
 ## USGS Virginia Data/Information  
 
 Bounding Box - USGS Map Indices for Virginia  
 [-83.6753950003511, 36.5407589995314, -75.166435000017, 39.4660120001992]  
 
+## VIMS - Virginia Institute for Marine Science Open GIS Data  
+[VIMS WM](http://dataportal.vims-wm.opendata.arcgis.com/datasets?sort_by=relevance)  
+
+### VIMS COASTSPAN Sampling Regions  
+[A map of the Eastern Shore sampling stations used by COASTSPAN researchers at the Virginia Institute of Marine Science.](https://www.google.com/maps/d/viewer?mid=1kgrYRj7kCIwtRH42yd8f9Nn63fE&ll=37.3803200960237%2C-76.4364767103516&z=9)  
+[Learn more at ](http://www.vims.edu/sharks)  
+[VIMS August 2016 Longline Catch Rates](http://www.arcgis.com/home/item.html?id=d81b00ab6fca46fd842596d9e45ff260)  
+[VIMS August 2016 Longline Catch Rates ArcGIS Map Viewer](http://www.arcgis.com/home/webmap/viewer.html?webmap=d81b00ab6fca46fd842596d9e45ff260)  
+
+### Tagged Shark Recapture Map  
+[Red circles indicate place of recapture and days at liberty of sandbar sharks tagged by researchers with the Virginia Shark Monitoring and Assessment Program (VASMAP) at the Virginia Institute of Marine Science. All recaptured sharks were originally tagged as juveniles near or within the mouth of Chesapeake Bay.](https://www.google.com/maps/d/viewer?mid=1UiDYQfTgAmnJ-CWdSM80DNiMDy8&ll=34.452218454652645%2C-80.13427734999999&z=6)  
+[See more at VIMS Shark Research](http://vims.edu/research/shark)  
+
+### Summer 2015 Mid-Atlantic Shark Bites
+[A map showing the general location of the shark-bite incidents reported along the mid-Atlantic coastline during summer 2015. Location of the individual shark encounters are only approximate.](https://www.google.com/maps/d/viewer?mid=1alpEmWhnYnGMcVnIBUw4q7k6te4&ll=33.982984788998735%2C-77.959091&z=8)  
+
+### VIMS Shark Survey
+[The Shark Survey at the Virginia Institute of Marine Science operates at 8 primary longline stations in Chesapeake Bay and Virginia coastal waters. It is the longest-running fishery independent shark monitoring program in the world, with survey results playing an important role in shark fisheries management in Virginia and U.S. waters.](https://www.google.com/maps/d/viewer?mid=12fS7AL2hWdSE91aJjxo8T3f1Jts&ll=37.191332394623075%2C-76.49138442295379&z=9)  
+[Learn more at VIMS Shark Research](http://www.vims.edu/sharks)  
 
 
 
