@@ -45,16 +45,13 @@ http://via.spia.vt.edu/2014/03/photo-ids-the-outreach-challenge-for-virginia-ele
 
 [Alexandria Police Department Community Liaisons in Civic Associations](https://www.alexandriava.gov/uploadedFiles/police/CIVIC%20ASSOCIATIONS(1).pdf)  
 
+# Civic Virginia  
 
-Open Civic Data - Virginia
+## [ConnectVA: a virtual nonprofit and civic hub](https://www.connectva.org/)  
+ConnectVA is a one-stop communication network linking individuals with the ideas, information and resources that help the nonprofit community stay informed and work together. ConnectVA is more than a website, it's a system to help you access what you need, when you need it.  
 
-Virginia ABC Board
-https://www.abc.virginia.gov/about/agency-overview/abc-board
-
-
-https://www.abc.virginia.gov/about/agency-overview/abc-board/board-minutes
-
-ABC Procurement Contacts
-https://www.abc.virginia.gov/about/procurement/purchasing-contact
-
-https://www.abc.virginia.gov/library/about/pdfs/abc_orgchart_april2016.pdf
+# Open Civic Data - Virginia
+[Virginia ABC Board](https://www.abc.virginia.gov/about/agency-overview/abc-board)  
+[ABC Board Minutes](https://www.abc.virginia.gov/about/agency-overview/abc-board/board-minutes)  
+[ABC Procurement Contacts](https://www.abc.virginia.gov/about/procurement/purchasing-contact)  
+[ABC Organizational Chart 2016-04 (PDF)](https://www.abc.virginia.gov/library/about/pdfs/abc_orgchart_april2016.pdf)  
