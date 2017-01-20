@@ -214,3 +214,35 @@ http://www.dss.virginia.gov/community/commonhelp/
 [Crabbing the truth: McAuliffe, Hogan spar over blue crab origins](https://www.washingtonpost.com/local/crabbing-the-truth-mcauliffe-hogan-spar-over-blue-crab-origins/2015/07/29/b262d3f6-35f4-11e5-9739-170df8af8eb9_story.html)  
 
 [The Geography of Slavery](http://www2.vcdh.virginia.edu/gos/)  
+
+
+Division of Motor Vehicle Motorcycle Safety Center of Virginia
+http://www.mscv.org/ 
+[Help in the Commonwealth of Virginia &#45; Office of Mortgage Settlement Oversight)](https://www.mortgageoversight.com/state-information/?st=Virginia)  
+[Your servicer.  For a list of servicers and their contact information, click this link:](http://www.makinghomeaffordable.gov/get-started/contact-mortgage/Pages/default.aspx)  
+
+[Virginia Citizens Defense League](http://www.vcdl.org/)  
+
+
+Research Links  
+Virginia Tourism Corporation utilizes public data and works with other partner agencies and organizations. Many of the more popular data sources are listed below. In addition, at the bottom of this page, there is a list of research firms VTC has worked with in the past or is familiar with through previous projects. If you have any questions on these sources or partner organizations, please contact us.  
+Virginia Tourism Council  
+Sample of Research Vendors the VTC has Contracted or Worked Alongside  
+[Alan Newman Research (http://www.anr.com/)](http://www.anr.com/)  
+[Chmura Economics &amp; Analytics (http://www.chmuraecon.com/default.aspx)](http://www.chmuraecon.com/default.aspx)  
+[Conny C. Graft Research and Evaluation (cgraft6@gmail.com	)](mailto:cgraft6@gmail.com)  
+[Dean Runyan &amp; Associates (http://www.deanrunyan.com/)](http://www.deanrunyan.com/)  
+[D.K. Shifflet &amp; Associates (http://www.dksa.com/)](http://www.dksa.com/)  
+[Global Insight (http://www.globalinsight.com/EconomicFinancialData)](http://www.globalinsight.com/EconomicFinancialData)  
+[Longwoods International (http://www.longwoods-intl.com/)](http://www.longwoods-intl.com/)  
+[Mandala Research (http://mandalaresearch.com/)](http://mandalaresearch.com/)  
+[Matrix Marketing Research Group (http://www.matrixresearch.net/)](http://www.matrixresearch.net/)  
+[RUF Strategic Solutions (http://www.ruf.com/)](http://www.ruf.com/)  
+[Smith Travel Research (http://str.com/)](http://str.com/)](http://str.com/)  
+[Southeastern Institute of Research (http://www.sirresearch.com/)](http://www.sirresearch.com/)](http://www.sirresearch.com/)  
+[Tourism Economics (http://www.tourismeconomics.com/)](http://www.tourismeconomics.com/)  
+[TNS (http://www.tns-us.com/)](http://www.tns-us.com)  
+
+[VATC Research Links]](http://www.vatc.org/Research/ResearchLinks/)
+
+
