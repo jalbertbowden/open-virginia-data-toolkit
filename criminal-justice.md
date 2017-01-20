@@ -486,6 +486,92 @@ Clemency (information on restoration of civil rights, pardons and extradition)]
 (http://www.nationalcia.org/)  National Correctional Industries Association]
 
 
+# Newport News  
+## [Yearly Crime Reports](https://www.nngov.com/813/Yearly-Crime-Reports)  
+*[City-Wide Crime Statistics](https://www.nngov.com/819/City-Wide-Crime-Statistics)  
+*[Central Precinct Crime Statistics ](https://www.nngov.com/815/Central-Precinct-Crime-Statistics)
+*[North Precinct Crime Statistics ](https://www.nngov.com/831/North-Precinct-Crime-Statistics)  
+*[South Precinct Crime Statistics](https://www.nngov.com/832/South-Precinct-Crime-Statistics)  
+  
+
+## [Precinct Maps](https://www.nnva.gov/786/Precinct-Maps)   
+[Precincts Image](https://www.nnva.gov/ImageRepository/Document?documentID=1098)  
+
+## North Precinct  
+[Beat 31 (1.3 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1100)  
+[Beat 32 (1.3 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1101)  
+[Beat 33 (917 KB)](https://www.nnva.gov/ImageRepository/Document?documentID=1102)  
+[Beat 34 (1.2 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1103)  
+
+## Central Precinct  
+[Beat 21 (1.1 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1104)  
+[Beat 22 (1.4 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1105)  
+[Beat 23 (1.2 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1106)  
+[Beat 24 (1.1 MB](https://www.nnva.gov/ImageRepository/Document?documentID=1107)  
+
+## South Precinct  
+[Beat 11 (981 KB)](https://www.nnva.gov/ImageRepository/Document?documentID=1108)  
+[Beat 12 (1.1 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1109)  
+[Beat 13 (1.1 MB)](https://www.nnva.gov/ImageRepository/Document?documentID=1110)  
+[Beat 14 (919 KB)](https://www.nnva.gov/ImageRepository/Document?documentID=1111)  
+
+
+
+
+
+## Daily Press Crime Watch
+
+### [Daily Press Crime Watch Newport News](http://digital.dailypress.com/crime/nn/)  
+
+[Street List](http://digital.dailypress.com/crime/nn/street/)  
+[Zip Codes](http://digital.dailypress.com/crime/nn/zip/23602/)  
+
+[23185](http://digital.dailypress.com/crime/nn/zip/23185/)  
+[23314](http://digital.dailypress.com/crime/nn/zip/23314/)  
+[23508](http://digital.dailypress.com/crime/nn/zip/23508/)  
+[23601](http://digital.dailypress.com/crime/nn/zip/23601/)  
+[23602](http://digital.dailypress.com/crime/nn/zip/23602/)  
+[All Crimes in 23602](http://digital.dailypress.com/crime/nn/zip/23602/all/)
+[23603](http://digital.dailypress.com/crime/nn/zip/23603/)  
+[23604](http://digital.dailypress.com/crime/nn/zip/23604/)  
+[23605](http://digital.dailypress.com/crime/nn/zip/23605/)  
+[23606](http://digital.dailypress.com/crime/nn/zip/23606/)  
+[23607](http://digital.dailypress.com/crime/nn/zip/23607/)  
+[23608](http://digital.dailypress.com/crime/nn/zip/23608/)  
+[23661](http://digital.dailypress.com/crime/nn/zip/23661/)  
+[23662](http://digital.dailypress.com/crime/nn/zip/23662/)  
+[23666](http://digital.dailypress.com/crime/nn/zip/23666/)  
+[23669](http://digital.dailypress.com/crime/nn/zip/23669/)  
+[23690](http://digital.dailypress.com/crime/nn/zip/23690/)  
+[23692](http://digital.dailypress.com/crime/nn/zip/23692/)  
+[23693](http://digital.dailypress.com/crime/nn/zip/23693/)  
+
+[Virginia Beach](http://digital.dailypress.com/crime/vabeach/)  
+
+## Virginia Beach Crimes by Zip Code  
+[13637](http://digital.dailypress.com/crime/vabeach/zip/13637/)  
+[23450]http://digital.dailypress.com/crime/vabeach/zip/23450/)  
+[23451](http://digital.dailypress.com/crime/vabeach/zip/23451/)  
+[23451 All](http://digital.dailypress.com/crime/vabeach/zip/23451/all/)  
+[23452](http://digital.dailypress.com/crime/vabeach/zip/23452/)  
+[23453](http://digital.dailypress.com/crime/vabeach/zip/23453/)  
+[23454](http://digital.dailypress.com/crime/vabeach/zip/23454/)  
+[23455](http://digital.dailypress.com/crime/vabeach/zip/23455/)  
+[23456](http://digital.dailypress.com/crime/vabeach/zip/23456/)  
+[23457](http://digital.dailypress.com/crime/vabeach/zip/23457/)  
+[23459](http://digital.dailypress.com/crime/vabeach/zip/23459/)  
+[23460](http://digital.dailypress.com/crime/vabeach/zip/23460/)  
+[23461](http://digital.dailypress.com/crime/vabeach/zip/23461/)  
+[23462](http://digital.dailypress.com/crime/vabeach/zip/23462/)  
+[23464](http://digital.dailypress.com/crime/vabeach/zip/23464/)  
+[23513](http://digital.dailypress.com/crime/vabeach/zip/23513/)  
+[23521](http://digital.dailypress.com/crime/vabeach/zip/23521/)  
+[26464](http://digital.dailypress.com/crime/vabeach/zip/26464/)  
+[30044](http://digital.dailypress.com/crime/vabeach/zip/30044/)  
+
+## [Street List - Crimes in Virginia Beach by Street](http://digital.dailypress.com/crime/vabeach/street/)  
+
+
 
 
 
