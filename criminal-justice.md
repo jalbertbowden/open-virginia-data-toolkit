@@ -369,3 +369,176 @@ https://www.facebook.com/Chesapeake-Police-Crime-Prevention-Unit-170171199760485
 [Operation Blue Ridge Thunder - Internet Crimes Against Children - via Wayback Machine](http://web.archive.org/web/20110513210956/http://www.blueridgethunder.com/)  
 Operation Blue Ridge Thunder works under the auspices of the Bedford County Virginia Sheriff's Office and is comprised of a cooperative group of law enforcement agencies on the international, federal, regional, state and local levels. The Mission of Operation Blue Ridge Thunder is to safeguard our children from Internet crime by weaving a seamless web of protection around them, across the nation and around the globe. A child's innocence can never be replaced. As a result, Operation Blue Ridge Thunder is proactive and is diligently working to apprehend perpetrators, protect potential victims, and educate parents, teachers and children about Internet safety.  As long as the Internet exists, Operation Blue Ridge Thunder will be patrolling cyberspace toward that end.  
 
+[Current Virginia Inmate Population Statistics - Compensation Board, Inmate Population Information](http://www.scb.virginia.gov/Tuesdaytotal.cfm)  
+[Current Inmates in Northern Neck Regional Jail](http://www.nnrj.state.va.us/XJailWebSite/CurrentInmates.aspx)  
+
+
+[Virginia Department of Corrections - Most Wanted Fugitives](https://vadoc.virginia.gov/offenders/wanted/fugitive.shtm)
+[Virginia Department of Corrections - Most Wanted Escapees](https://vadoc.virginia.gov/offenders/wanted/escapees.shtm)  
+[Northern Neck Regional Jail](http://www.nnrj.state.va.us/)  
+
+
+[Petersburg Police Department's social media policy held unconstitutional](http://www.richmond.com/news/article_873ea08b-1505-5b7f-8cdc-319c11a227f5.html)  
+
+
+[Virginia Correctional Facilities/Prisons - Mapping Challenge](https://www.google.com/maps/d/u/0/viewer?mid=1Jd6sRF5jRbH0y7dclbX6x0fVxjU)  
+
+
+
+## [Fairfax County Police Department](http://www.fairfaxcounty.gov/police/)  
+[Fairfax County Police Department Helicopter Division - Fairfax County, Virginia]http://www.fairfaxcounty.gov/police/helicopter/)  
+[FCPD YouTube](https://www.youtube.com/user/fairfaxcountypolice)  
+[YouTube Fairfax Police, Fire and Ems Responses](https://www.youtube.com/channel/UCCut7_ATMWKTPujr2RAm2qA)  
+[Google+ Fairfax Police, Fire and Ems Responses](https://plus.google.com/116356501070267712438/posts)  
+[My Neighborhood - Fairfax County](http://www.fairfaxcounty.gov/myneighborhood/)  
+
+check out how active virginia gov is on g+
+https://plus.google.com/102578780853014388177/posts
+
+[Fairfax Crime Solvers](https://fairfaxcrimesolvers.wordpress.com/)  
+
+[DLCV - Disability Law Center of Virginia](http://dlcv.org/)  
+
+[VA DCJS - Criminal Justice Directory](http://www.dcjs.virginia.gov/directories/criminalJustice/)  
+
+
+[Lynchburg prosecutor reopens investigation involving city sheriff's captain](http://www.newsadvance.com/news/local/lynchburg-prosecutor-reopens-investigation-involving-city-sheriff-s-captain/article_ffcc470e-36a9-11e3-ba8f-001a4bcf6878.html)  
+
+
+[No charges will be filed against sheriff's captain](http://www.newsadvance.com/news/local/no-charges-will-be-filed-against-sheriff-s-captain/article_6eba66f4-8575-11e3-baa6-001a4bcf6878.html)  
+
+
+
+[@VSPPIO](https://twitter.com/VSPPIO)  
+
+
+[Fairfax Crime Solvers](http://www.fairfaxcrimesolvers.org/)  
+[FCPD Facebook](https://www.facebook.com/fairfaxcountypolice)  
+
+[Lynchburg Crime Map](http://www.newsadvance.com/databases/crimemap/)  
+
+[@fairfaxpolice](https://twitter.com/fairfaxpolice)  
+https://fcpdnews.wordpress.com/2016/07/13/daily-blotter-july-13-2016/
+https://fcpdnews.wordpress.com/2016/07/13/daily-blotter-july-13-2016/
+[FCPD Blog](https://fcpdnews.wordpress.com/)  
+
+
+
+## Chesapeake
+[Chesapeake Crime Reports - Virginia Pilot](http://hamptonroads.com/newsdata/crime/chesapeake/all?page=0001)  
+[VP Reports - last document (NOTE: this changes daily)](http://hamptonroads.com/newsdata/crime/chesapeake/all?page=10192)  
+[Feed of Latest Crimes Reported in Chesapeake - Virginia Pilot](http://feeds.feedburner.com/LatestCrimesReportedInChesapeake)  
+[Daily & Weekly Crime Reports - Chesapeake PD](http://web.archive.org/web/20100419000536/http://www.chesapeake.va.us/SERVICES/DEPART/police/police/dcr.shtml)  
+[Monthly and Quarterly Incident Based Reports - Chesapeake PD](http://web.archive.org/web/20090312094923/http://www.chesapeake.va.us/services/depart/police/police/ibr.shtml)  
+
+
+
+[VADOC - Virginia Department of Corrections (PDF)](https://vadoc.virginia.gov/resources/FOIA.pdf)  
+[A Re-rentry Roadmap for Veterans Incarcerated in Virginia](https://vadoc.virginia.gov/documents/reentry-roadmap-for-veterans-virginia.pdf)  
+[Virginia Adult Re-entry Initiative - The Four Year Strategic Plan - Executive Summary 2010-07-2014-06 - VADOC](https://vadoc.virginia.gov/documents/reentryInitiativeExecSummary.pdf)  
+[Virginia Correctional Enterprises (VCE)](https://www.govce.net/)  
+
+## Resources and Links
+## Virginia Criminal Justice &amp; Public Safety  
+[211 Virginia Database](http://www.211virginia.org/)  
+
+[Secretary of the Commonwealth](http://www.commonwealth.virginia.gov)  
+Clemency (information on restoration of civil rights, pardons and extradition)]
+
+### [Secretary of the Commonwealth's Judicial System Responsibilities](http://commonwealth.virginia.gov/judicial-system/)  
+[Extraditions](http://commonwealth.virginia.gov/judicial-system/extraditions/)
+[Pardons](http://commonwealth.virginia.gov/judicial-system/pardons/)  
+[Simple Pardons](http://commonwealth.virginia.gov/judicial-system/pardons/simple-pardons/)  
+[Conditional Pardons](http://commonwealth.virginia.gov/judicial-system/pardons/conditional-pardons/)  
+[Absolute Pardons](http://commonwealth.virginia.gov/judicial-system/pardons/absolute-pardons/)  
+[Pardon Questionnaire - Types of Pardons in Virginia and Eligibility Information 2016-01-01 (PDF)](http://commonwealth.virginia.gov/media/5080/_-pardon-questionnaire-1-1-16.pdf)  
+[Restoration of Rights](http://restore.virginia.gov/)  
+[Restoration of Rights Information](https://commonwealth.virginia.gov/judicial-system/restoration-of-rights/)
+[Check the Status of Your Civil Rights/Request Your Rights Be Restored](https://solutions.virginia.gov/RestorationOfRights/Search)  
+[Service of Process](http://commonwealth.virginia.gov/judicial-system/service-of-process/)  
+
+[Virginia Criminal Sentencing Commission](http://www.vcsc.virginia.gov/)  
+[Virginia Department of Criminal Justice Services](http://www.dcjs.virginia.gov/)  
+[Virginia Department of Forensic Science](http://www.dfs.virginia.gov/)  
+[Virginia Department of Juvenile Justice](http://www.djj.virginia.gov/)  
+[Virginia Department of State Police](http://www.vsp.state.va.us/)  
+[Virginia Secretary of Public Safety](https://governor.virginia.gov/cabinet/public-safety/)  
+[Virginia State Police Sex Offender Registry](http://sex-offender.vsp.virginia.gov/sor/)  
+
+## Other Virginia Sites  
+[Virginia Correctional Association (VCA)](http://www.vca-aca.org/)  
+[Saint Francis Service Dogs (program at Bland Correctional Center)](http://www.saintfrancisdogs.org/)  
+[Virginia Association of Regional Jails](http://varj.org/)  
+[Virginia Probation and Parole Association](http://www.govppa.org/default.htm)  
+[Virginia Public Safety Foundation](http://www.vpsf.org/)  
+[Virginia Sheriffs' Association &amp; Institute](http://www.virginiasheriffs.org/)  
+[GraceInside](http://www.graceinside.org/)  
+
+## National Sites  
+[American Probation and Parole Association](http://www.appa-net.org/)  
+(http://www.corrections.com/)  The Corrections Connection]
+(http://www.correctionscorp.com/)  Corrections Corporation of America]
+(http://www.bop.gov/)  Federal Bureau of Prisons]
+(http://www.jointcommission.org/)  Joint Commission on Accreditation of Health Organizations (JCAHO)]
+(http://www.nicic.org/)  National Institute of Corrections]
+(http://www.ojp.usdoj.gov/nij/)  National Institute of Justice]
+(http://www.nationalcia.org/)  National Correctional Industries Association]
+
+
+
+
+
+[Local Inmate Data System (LIDS) - Compensation Board](http://www.scb.virginia.gov/lidsinformation/quick_reference_guide.pdf)  
+[Mental Illness in Jails Report Compensation Board 2015-11-01](http://www.scb.virginia.gov/docs/2015mentalhealthreport.pdf)  
+[Compensation Board Funding of Local and Regional Jails 2015-01-28](http://hac.state.va.us/subcommittee/2015_Subcommittee/public_safety/files/1-29-15/Jails%20Overview.pdf)  
+[Funding Incentives for Reducing Jail Populations - House Document No. 9 1996](http://leg2.state.va.us/dls/h&sdocs.nsf/By+Year/HD91996/$file/HD9_1996.pdf)  
+[Review of Medicare Payments for Services Provided to Incarceraged Beneficiaries in the Commonwealth of Virginia](https://oig.hhs.gov/oas/reports/region3/30200003.pdf)  
+
+[Appendix 3 State Executive and (Virginia) Department of Corrections](http://www.richmondgov.com/Sheriff/documents/NIC_TA_Assessment_Report_Appndx3.pdf)  
+
+Virginia's Mental Health System: How It Has Evolved and What Remains to Be Improved
+virginias-mental-health-system-how-it-has-evolved-and-what-remains-to-be-improved-2014-05-the-virginia-news-letter-vol90-no3-weldon-cooper-center-for-public-service-uva
+http://www.coopercenter.org/sites/default/files/publications/Virginia%20News%20Letter%202014%20Vol.%2090%20No%203.pdf
+
+[Meherrin River Regional Jail Authority Adopted Budget 2015-2016](http://mrrj.org/pdfs/FY16%20Adopted%20Budget.pdf
+
+
+
+[](http://www.southamptoncounty.org/pdf/draftbudget20102011/sheriff%20-%20bailiff.pdf)  
+
+[The First Six Months: A Report to the Community - Richmond City Sheriff's Office](http://www.ci.richmond.va.us/Sheriff/documents/FINAL_Semi_Annual_09_19_06_130p.pdf
+
+[City of Chesapeake Community Based Corrections Plan 2012-08-29](http://www.cityofchesapeake.net/Assets/documents/departments/purchasing_procurement/city-of-chesapeake-community-based-corrections-plan.pdf
+
+
+[Search Prison Legal News for "Virginia"](https://www.prisonlegalnews.org/search/?selected_facets=locations:1522)  
+
+
+THERE ARE SO MANY LINKS HERE
+[Links &#124; Prison Legal News](https://www.prisonlegalnews.org/links/)  
+[Human Rights Defense Center](https://www.humanrightsdefensecenter.org/)  
+[The Open File - Prosecutorial Misconduct and Accountability](http://www.prosecutorialaccountability.com/)  
+
+[Virginia Cases - The Open File - Prosecutorial Misconduct and Accountability](http://www.prosecutorialaccountability.com/category/va/)  
+http://www.prosecutorialaccountability.com/category/va/page/2/
+
+
+[Prosecutorial Misconduct and Accountability
+http://web.archive.org/web/20120905152458/http://www.pdsdc.org/Resources/SLD/BradyOutlineFINAL2012.pdf
+
+
+[The Myth of Prosecutorial Accountability After Connick v. Thompson: Why Existing Professional Responsibility Measures Cannot Protect Against Prosecutorial Misconduct](http://digitalcommons.law.yale.edu/ylsspps_papers/103/)   
+
+
+[Prison Rape Elimination Act (PREA) Information - Northen Neck Regional Jail](http://www.nnrj.state.va.us/about/Prea/prea.htm)  
+[2012 Summary (PDF)](http://www.nnrj.state.va.us/about/Prea/Survey%202012.pdf)  
+[2013 Summary (PDF)](http://www.nnrj.state.va.us/about/Prea/Survey%202013.pdf)  
+[2014 Summary (PDF)](http://www.nnrj.state.va.us/about/Prea/Survey%202014.pdf)  
+
+
+
+
+# Virginia Jail/Prison Procurement  
+
+
+[Procurement - Rappahannock Regional Jail](http://www.rrj.state.va.us/procurement)  
