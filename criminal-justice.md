@@ -550,7 +550,7 @@ Clemency (information on restoration of civil rights, pardons and extradition)]
 
 ## Virginia Beach Crimes by Zip Code  
 [13637](http://digital.dailypress.com/crime/vabeach/zip/13637/)  
-[23450]http://digital.dailypress.com/crime/vabeach/zip/23450/)  
+[23450](http://digital.dailypress.com/crime/vabeach/zip/23450/)  
 [23451](http://digital.dailypress.com/crime/vabeach/zip/23451/)  
 [23451 All](http://digital.dailypress.com/crime/vabeach/zip/23451/all/)  
 [23452](http://digital.dailypress.com/crime/vabeach/zip/23452/)  
@@ -587,7 +587,7 @@ Virginia's Mental Health System: How It Has Evolved and What Remains to Be Impro
 virginias-mental-health-system-how-it-has-evolved-and-what-remains-to-be-improved-2014-05-the-virginia-news-letter-vol90-no3-weldon-cooper-center-for-public-service-uva
 http://www.coopercenter.org/sites/default/files/publications/Virginia%20News%20Letter%202014%20Vol.%2090%20No%203.pdf
 
-[Meherrin River Regional Jail Authority Adopted Budget 2015-2016](http://mrrj.org/pdfs/FY16%20Adopted%20Budget.pdf
+[Meherrin River Regional Jail Authority Adopted Budget 2015-2016](http://mrrj.org/pdfs/FY16%20Adopted%20Budget.pdf)  
 
 
 
@@ -625,30 +625,31 @@ http://web.archive.org/web/20120905152458/http://www.pdsdc.org/Resources/SLD/Bra
 [2014 Summary (PDF)](http://www.nnrj.state.va.us/about/Prea/Survey%202014.pdf)  
 
 
-http://www.manassascity.org/17/Police-Department
+[CIty of Manassas Police Department](http://www.manassascity.org/17/Police-Department)  
 Police Non-emergency
 703-257-8000
 
-https://www.facebook.com/ManassasPD/
-https://www.facebook.com/Prince-William-County-Sheriffs-Office-150826505112929/)  
-https://www.facebook.com/CityOfFairfaxPoliceDepartment/)  
+[Manassas Police Department Facebook](https://www.facebook.com/ManassasPD/)  
+[Prince William County Sheriff's Office Facebook](hhttps://www.facebook.com/Prince-William-County-Sheriffs-Office-150826505112929/)  
+[City of Fairfax Police Department Facebook](hhttps://www.facebook.com/CityOfFairfaxPoliceDepartment/)  
 
 Save
 3730 Old Lee Hwy
 Fairfax, VA
-(703) 385-7924
-http://fairfaxva.gov/police
+703-385-7924
+[http://fairfaxva.gov/police](http://fairfaxva.gov/police)  
+
+[Adopt a Pet - Fairfax County Police Department Animal Control](http://www.fairfaxva.gov/government/police/programs/animal-control/adopt-a-pet)  
+
+[City of Fairfax Animal Control Shelter Facebook](https://www.facebook.com/city.of.fairfax.animal.control.shelter/)  
+
+[Arlington County Police Department Facebook](https://www.facebook.com/ArlingtonCountyPolice/)  
 
 
-http://www.fairfaxva.gov/government/police/programs/animal-control/adopt-a-pet
-https://www.facebook.com/city.of.fairfax.animal.control.shelter/)  
 
-https://www.facebook.com/ArlingtonCountyPolice/)  
-
-http://www.fairfaxva.gov/government/police/programs/animal-control/adopt-a-pet
-https://www.facebook.com/FairfaxCountyPoliceAssociation/)  
-https://www.facebook.com/AlexandriaVASheriff/)  
-https://www.facebook.com/Virginia-Tactical-Officers-Association-299198976791359/
+[Fairfax County Police Association Facebook](https://www.facebook.com/FairfaxCountyPoliceAssociation/)  
+[Alexandria Sheriff's Office Facebook](https://www.facebook.com/AlexandriaVASheriff/)  
+[Virginia Tactical Officers Association Facebook](https://www.facebook.com/Virginia-Tactical-Officers-Association-299198976791359/)  
 Short Description
 SWAT Officers from around the Commonwealth of Virginia are working to re-start the Virginia Tactical Officers Association.
 Long Description
@@ -678,20 +679,17 @@ Messages are not moderated.
 All members can post messages.
 Group Email Addresses
 
-Post Message :
-va-tac@yahoogroups.com
-Subscribe :
-va-tac-subscribe@yahoogroups.com
-Unsubscribe :
-va-tac-unsubscribe@yahoogroups.com
-List Owner :
-va-tac-owner@yahoogroups.com
+Post Message: va-tac@yahoogroups.com
+Subscribe: va-tac-subscribe@yahoogroups.com
+Unsubscribe: va-tac-unsubscribe@yahoogroups.com
+List Owner: va-tac-owner@yahoogroups.com
 
 
 
-http://pwccrimesolvers.org/
-https://twitter.com/pwccrimesolvers
-https://twitter.com/PWCPoliceDept
+[Prince William County Crime Solvers Facebook](http://pwccrimesolvers.org/)  
+[@pwccrimesolvers](https://twitter.com/pwccrimesolvers)  
+
+[@PWCPoliceDept](https://twitter.com/PWCPoliceDept)  
 
 https://www.facebook.com/Manassas-City-Manassas-Park-Crime-Solvers-117342568371598/
 
@@ -702,14 +700,15 @@ https://www.facebook.com/Town-of-Vienna-Police-167537943257857/
 https://www.facebook.com/Town-of-Vienna-Police-167537943257857/
 https://www.facebook.com/joindcpolice/
 
-https://www.facebook.com/fairfaxcountycrimesolvers/)  
-http://www.fairfaxcrimesolvers.org/
 
+[Fairfax County Crime Solvers](http://www.fairfaxcrimesolvers.org/)  
+[Fairfax County Crime Solvers Facebook](https://www.facebook.com/fairfaxcountycrimesolvers/)  
 
-https://www.facebook.com/manassasparkpolice/)  
-329 Manassas Dr
-Manassas, VA
-(703) 361-1136
+[Manassas Park Police Department Facebook](https://www.facebook.com/manassasparkpolice/)  
+329 Manassas Drive
+Manassas
+VA
+703-361-1136
 Typically replies within minutes
 Message Now
 http://www.manassasparkpolice.com/
@@ -731,9 +730,9 @@ http://p2c.manassasva.gov/p2c/GoogleMapMarkers.aspx
 
 
 
-VARJ
-Virginia Association of Regional Jailshttp://varj.org/
+[VARJ - Virginia Association of Regional Jails](http://varj.org/)  
 
 HRRJ Departments Page is blank 2016-04-18
 however it is not here: http://web.archive.org/web/20140502055516/http://hrrj.org/departments
 
+[Richmond Police on Pinterest](https://www.pinterest.com/richmondpolice/)  
