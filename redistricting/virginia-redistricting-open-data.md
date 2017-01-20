@@ -52,4 +52,18 @@ an-judge-imposes-new-virginia-congressional-map-redrawing-3rd-and-4th-districts-
 3rd-congressional-district-map-2016-01-07-richmond-times
 
 
+# DUMP 2017-01-20  
+[The Election That Might Have Been](http://www.dailypress.com/news/politics/dp-nws-redistricting-20141109-story.html)  
+[Who is My Legislator?](http://conview.state.va.us/whosmy.nsf/main?openform)  
+[Virginia Redistricting Competition](https://sites.google.com/a/varedistrictingcompetition.org/public/)  
+[Division of Legislative Services - Redistricting 2010](http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx)  
+[Redistricting America](http://www.redistrictinginamerica.org/)  
+[Virginia - Redistricting America](http://www.redistrictinginamerica.org/virginia/)  
+[2010 Redistricting Changes: Virginia Holds Steady With Eleven Seats](http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=3e3ae31c3a444aff89ef444f15ceff94&amp;gcsextent=-85.4085,34.7418,-73.1368,40.6641&amp;displayslider=true&amp;displayscalebar=true&amp;displaybasemaps=true)  
+[Old Districts by Partisan Voting Index with New District Outlines](http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=33173da47a9448e8ae1412910f31dfb5&gcsextent=-85.3975,34.7418,-73.1258,40.6641&displayslider=true&displayscalebar=true&displaylegend=true&displaybasemaps=true)  
+[Old Districts by Party Representation with New District Outlines](http://www.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=443607cacc3f4147bc8e7ff3b740ae71&gcsextent=-85.4085,34.7418,-73.1368,40.6641&displayslider=true&displayscalebar=true&displaylegend=true&displaybasemaps=true)  
+[The ReDistricting Game](http://www.redistrictinggame.org/index.php)  
+[Public Mapping](http://www.publicmapping.org/)  
+[Virginia - State Resources - Public Mapping](http://www.publicmapping.org/resources/state-resources/virginia)  
+
 
