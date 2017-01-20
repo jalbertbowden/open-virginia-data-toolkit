@@ -246,3 +246,22 @@ Sample of Research Vendors the VTC has Contracted or Worked Alongside
 [VATC Research Links]](http://www.vatc.org/Research/ResearchLinks/)
 
 
+
+
+Tourism Organizations			
+Virginia:
+[Virginia Association of Convention and Visitors Bureaus](http://www.vacvb.com/)  
+[Virginia Hospitality and Travel Association](http://www.vhta.org/)  
+
+[Weldon Cooper Center for Public Service http://www.coopercenter.org/)  
+
+			
+[Southampton County Delinquent List for Real Estate and Personal (XLS)](http://southamptoncounty.org/MediaArchive/PDF/Real%20Estate%20Delinquent%20Feb%202014.xls)  
+Delinquent list for http://southamptoncounty.org/MediaArchive/PDF/Real Estate Delinquent Feb 2014.xls	
+real estate  and 
+(http://southamptoncounty.org/MediaArchive/PDF/Personal Property Delinquent Feb 2014.xls)  
+
+personal property (As of&nbsp;February 24, 2014)																
+[Framework Initiative Action Team -- Clearinghouse - VITA](http://www.vita.virginia.gov/isp/default.aspx?id=12150)  
+
+ 
