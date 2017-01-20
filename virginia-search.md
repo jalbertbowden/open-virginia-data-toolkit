@@ -5,6 +5,14 @@
 TRID - the TRIS and ITRD database
 
 
+## Search clinicaltrials.gov for "Virginia"  
+[Search clinicaltrials.gov Studies for "Virginia"](https://clinicaltrials.gov/ct2/results?term=Virginia&Search=Search)  
+[RSS Feed for Search Showing Studies that were First Received in the Last 14 Days](https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=14&lup_d=&term=Virginia&show_rss=Y&count=10000)  
+[RSS Feed for Search Showing Studies that were Added or Modified in the last 14 Days](https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=&lup_d=14&term=Virginia&show_rss=Y&sel_rss=mod14&count=10000)  
+[Download Results From Search of Studies for "Virginia"](https://clinicaltrials.gov/ct2/results?term=Virginia&show_down=Y&sel_rss=mod14
+[Map Search Results on clinicaltrials.gov for "Virginia"](https://clinicaltrials.gov/ct2/search/map/click?map.x=539&map.y=171&map=NA%3AUS)  
+
+
 
 
 [Search Results for Keyword "Virginia" USGS Landsat Missions](https://landsat.usgs.gov/search/node/Virginia)  
