@@ -44,4 +44,56 @@ Housing data in this context means, but is not included to, real estate, fair ma
 [DBHDS - Virginia Department of Behavioral Health and Developmental Services](http://www.dbhds.virginia.gov/)  
 [DBHDS Facebook](https://www.facebook.com/DBHDS/)  
 
+# Dump 2017-01-20  
+
+Virginia Housing Atlas Profile Pages for the State, Counties, and Independent Cities, and Planning District Commissions
+(https://vtechworks.lib.vt.edu/handle/10919/48642)  
+(https://vtechworks.lib.vt.edu/bitstream/handle/10919/48642/virginia_atlas_profiles.pdf?sequence=1&isAllowed=y)  
+
+
+
+
+Technical Reports, Virginia Center for Housing Research (VCHR)
+[(https://vtechworks.lib.vt.edu/handle/10919/46736)](https://vtechworks.lib.vt.edu/handle/10919/46736)  
+
+Housing Policy Atlas
+[(http://people.virginia.edu/~dlp/2003site/Courses/Plac513/2003/Housing%20Atlas%20Total.pdf)](http://people.virginia.edu/~dlp/2003site/Courses/Plac513/2003/Housing%20Atlas%20Total.pdf)  
+
+housing-policy-atlas-people.virginia.edu-dlp-2003site-plac513-housing-atlas-total.pdf
+
+[VCHR - Virginia Center for Housing Research](http://www.vchr.vt.edu/)  
+The Virginia Center for Housing Research (VCHR) is the official housing research center for the Commonwealth and is a college center in Virginia Tech’s College of Architecture and Urban Studies. VCHR provides services to localities, the state, federal agencies, nonprofit organizations, and for-profit businesses.  
+
+[(https://www.caus.vt.edu/)](https://www.caus.vt.edu/)  
+
+
+
+
+
+[Housing Affordability Sourcebook](http://www.vchr.vt.edu/housing-affordability-sourcebook/)  
+The Housing Affordability Sourcebook serves as an online source of current housing affordability information for Virginia, including its MSAs and counties and independent cities. The Sourcebook allows users to determine for an area how housing costs compare to incomes, how housing affordability has changed over time, and how housing affordability compares to other areas. The Sourcebook reflects a joint effort of Housing Virginia, the Virginia Association of REALTORS’, and the Virginia Center for Housing Research. The Center’s contribution is the content including the design, calculation, and description of measures. The information provided by the Housing Affordability Sourcebook is critical in helping policy makers, housing advocates, economic developers, and realtors gauge housing affordability in their area.  
+
+
+[404s (http://www.housingvirginia.org/tc.aspx?PID=365)]http://www.housingvirginia.org/tc.aspx?PID=365)  
+
+[Housing Affordability Sourcebook via Wayback Machine](http://web.archive.org/web/20150221170810/http://www.housingvirginia.org/tc.aspx?PID=365)  
+Description of HAI Sourcebook  
+Housing Virginia offers this website as a comprehensive housing affordability resource that includes the most current available information on housing affordability. The measures highlighted here provide a benchmark of general affordability over time and illustrate in a straightforward manner the complexities of affordability. Housing Virginia hopes that this website will stimulate discussion on affordability and add exposure to housing affordability issues.  
+Most of the measures are available for Virginia, its metropolitan areas, independent cities, and counties and are provided over a five-year time period. Measures are explained in detail under DESCRIPTION OF MEASURES and data is available for DOWNLOAD.  
+To access data, go to the drop down menu above and choose a location. Then choose one of the drop down menu choices for housing measures and click select.  
+The data provided include a sheet of advocate quick facts that highlights housing affordability for households with incomes at 60% of the median income for the area and provides other key affordability measures; a summary chart of housing and income characteristics; assorted housing affordability indexes along with trend charts and statewide thematic maps; and additional measures that help quantify housing affordability for a particular area.  
+
+[Downloadable Data	http://web.archive.org/web/20140204065639/http://www.housingvirginia.org/T1.aspx?PID=94](http://web.archive.org/web/20140204065639/http://www.housingvirginia.org/T1.aspx?PID=94)
+
+HOUSING Virginia's Downloadable Data.....ISN'T DOWNLOADABLE
+
+IT WAS -> see wayback machine link
+
+[NOW - EMAIL FOR ACCESS TO SPECIFIC SPREAD SHEETS - (http://www.housingvirginia.org/sourcebook/downloadable-data/)](http://www.housingvirginia.org/sourcebook/downloadable-data/)  
+[Email for access to specific/all spread sheets - mel.jones@vt.edu](mel.jones@vt.edu)  
+
+https://secure.hosting.vt.edu/www.vchr.vt.edu/old-site/Atlas/vchr_atlas.html
+[An Atlas of Upward Mobility Shows Paths Out of Poverty](https://vahousingandeducation.wordpress.com/2015/05/05/an-atlas-of-upward-mobility-shows-paths-out-of-poverty/)  
+
+[VA Housing and Education - Housers, Meet Educators, Educators, Meet Housers.](https://vahousingandeducation.wordpress.com/)  
 
