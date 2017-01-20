@@ -74,3 +74,13 @@ https://www.albemarle.org/department.asp?department=ctyatty&relpage=20636
 ## Staunton  
 [Public Records: Freedom of Information Act](http://www.staunton.va.us/directory/departments-a-g/city-manager/public-records-freedom-of-information-act)  
 [Making a FOIA Request FAQs - Staunton, Virginia (PDF)](http://www.staunton.va.us/directory/departments-a-g/city-manager/foia-facts)  
+
+## Town of Buchanan  
+[FOIA](http://www.townofbuchanan.com/government/foia/)  
+[Town of Buchanan Policy on FOIA](http://www.townofbuchanan.com/wp-content/uploads/2016/09/Town-of-Buchanan-Policy-on-FOIA.pdf)  
+
+## Town of Fincastle  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of Town of Fincastle Under the Virginia Freedom of Information Act](http://www.townoffincastle.org/foia)  
+
+## Town of Troutville  
+[Rights & Responsibilities - FOIA 2016](http://townoftroutville-va.gov/PDF/FOIA2016.pdf)  
