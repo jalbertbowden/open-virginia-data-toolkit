@@ -1,3 +1,6 @@
+# Accountability, Openness, and Transparency in Virginia Governments  
+
+## Journalism, Open Government, FOIA, Openness, Sunshine and Transparency Communities  
 ## Virginia Open Government Community  
 [Virginia Coalition for Open Government (VCOG)](http://www.opengovva.org/)  
 [VCOG FOIA Blog](http://www.opengovva.org/blog)  
@@ -33,3 +36,33 @@ Gotcha! is Central Virginia's leading source of crime news In addition to satisf
 The Half Sheet offers timely analysis and insight into some of these key issues being discussed in Virginia.
 [StatChat](http://statchatva.org/)  
 [Feed - StatChat](http://statchatva.org/feed/)  
+
+
+## References and Resources  
+
+[Search Pilot Online for "Government Transparency"](http://pilotonline.com/search/?k=%22government%20transparency%22)  
+[Search Pilot Online for "Transparency"](http://pilotonline.com/search/?k=%22transparency%22)  
+
+# Locality Initiatives, Involvement, etc.  
+
+## Alexandria  
+### [Alexandria Performance Reports](https://www.alexandriava.gov/performance/default.aspx?id=88487)  
+### Alexandria Performance Reports Safe, Secure, & Just Community  
+[Commonwealth’s Attorney* - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/CommonweathAttorney-OPAReportDec2015.pdf)  
+[Court Services Unit* - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/CSU-OPAReportDec2015.pdf)  
+[Department of Emergency Communications DEC - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/DEC-OPAReportDec2015.pdf)  
+[Fire Department AFD - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/AFD-OPAReportDec2015.pdf)  
+[Office of Human Rights - Human Rights - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/HumanRights-OPAReportDec2015.pdf)  
+[Police Department - APD - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/APD-OPAReportDec2015.pdf)  
+[Sheriff's Office* - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/Sheriff-OPAReportDec2015.pdf)  
+
+## Gloucester County  
+[Transparency Initiative](http://www.gloucesterva.info/Home/Government/TransparencyInitiative/tabid/1121/Default.aspx)  
+[A- Sunshine Review Grade](http://www.gloucesterva.info/portals/0/images/awards/SunshineReviewGrade.gif)  
+
+## Henrico County  
+[Public Data - County of Henrico,Virginia](http://henrico.us/public-data/)  
+[Transparency Portal - Our Henrico Way - County of Henrico, Virginia](http://henrico.us/transparency/)  
+
+
+
