@@ -538,6 +538,99 @@ http://web.archive.org/web/20120905152458/http://www.pdsdc.org/Resources/SLD/Bra
 [2014 Summary (PDF)](http://www.nnrj.state.va.us/about/Prea/Survey%202014.pdf)  
 
 
+http://www.manassascity.org/17/Police-Department
+Police Non-emergency
+703-257-8000
+
+https://www.facebook.com/ManassasPD/
+https://www.facebook.com/Prince-William-County-Sheriffs-Office-150826505112929/)  
+https://www.facebook.com/CityOfFairfaxPoliceDepartment/)  
+
+Save
+3730 Old Lee Hwy
+Fairfax, VA
+(703) 385-7924
+http://fairfaxva.gov/police
+
+
+http://www.fairfaxva.gov/government/police/programs/animal-control/adopt-a-pet
+https://www.facebook.com/city.of.fairfax.animal.control.shelter/)  
+
+https://www.facebook.com/ArlingtonCountyPolice/)  
+
+http://www.fairfaxva.gov/government/police/programs/animal-control/adopt-a-pet
+https://www.facebook.com/FairfaxCountyPoliceAssociation/)  
+https://www.facebook.com/AlexandriaVASheriff/)  
+https://www.facebook.com/Virginia-Tactical-Officers-Association-299198976791359/
+Short Description
+SWAT Officers from around the Commonwealth of Virginia are working to re-start the Virginia Tactical Officers Association.
+Long Description
+After the NTOA conference in Richmond this past September, several members of the Virginia tactical community decided to try and re-start the Virginia Tactical Officers Association. This page along with the Yahoo page are meeting places to organize and get started.
+Website
+http://groups.yahoo.com/group/va-tac/
+https://groups.yahoo.com/neo/groups/va-tac/info
+Group Description
+
+This group will be a meeting place for Tactical Officers in the Commonwealth of Virginia. This will be the starting point to re-start the Virginia Tactical Officers Association.
+Group Information
+
+Members :24
+Category :
+Police and Law Enforcement
+Founded :Dec 3, 2011
+Language :English
+Group Settings
+
+This is a restricted group.
+Attachments are permitted.
+Members cannot hide email address.
+Listed in Yahoo Groups directory.
+ 
+Membership requires approval.
+Messages are not moderated.
+All members can post messages.
+Group Email Addresses
+
+Post Message :
+va-tac@yahoogroups.com
+Subscribe :
+va-tac-subscribe@yahoogroups.com
+Unsubscribe :
+va-tac-unsubscribe@yahoogroups.com
+List Owner :
+va-tac-owner@yahoogroups.com
+
+
+
+http://pwccrimesolvers.org/
+https://twitter.com/pwccrimesolvers
+https://twitter.com/PWCPoliceDept
+
+https://www.facebook.com/Manassas-City-Manassas-Park-Crime-Solvers-117342568371598/
+
+https://vacrimestoppersassociation.wordpress.com/
+https://vacrimestoppersassociation.wordpress.com/feed/
+
+https://www.facebook.com/Town-of-Vienna-Police-167537943257857/
+https://www.facebook.com/Town-of-Vienna-Police-167537943257857/
+https://www.facebook.com/joindcpolice/
+
+https://www.facebook.com/fairfaxcountycrimesolvers/)  
+http://www.fairfaxcrimesolvers.org/
+
+
+https://www.facebook.com/manassasparkpolice/)  
+329 Manassas Dr
+Manassas, VA
+(703) 361-1136
+Typically replies within minutes
+Message Now
+http://www.manassasparkpolice.com/
+https://twitter.com/ManassasCityPD
+http://p2c.manassasva.gov/p2c/
+Map These Events with Google Maps 	http://p2c.manassasva.gov/p2c/GoogleMap.aspx
+
+http://p2c.manassasva.gov/p2c/GoogleMapMarkers.aspx
 
 
 # Virginia Jail/Prison Procurement  
