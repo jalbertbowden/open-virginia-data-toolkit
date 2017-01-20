@@ -124,8 +124,8 @@
 [Henrico County Police facebook](https://www.facebook.com/HenricoCountyPolice/)  
 [Hanover County Sheriff's Office facebook](https://www.facebook.com/HanoverSheriff/)  
 [Hanover County Sheriff's Office](http://www.hanoversheriff.com/)  
-[ facebook](https://www.facebook.com/King-William-County-Sheriffs-Office-134453289936194/)  
-[ facebook](https://www.facebook.com/Ashland-Police-Department-191735745017/)  
+[King William County Sheriffs Office facebook](https://www.facebook.com/King-William-County-Sheriffs-Office-134453289936194/)  
+[Ashland Police Department facebook](https://www.facebook.com/Ashland-Police-Department-191735745017/)  
 [Richmond United for Law Enforcement](https://www.facebook.com/Richmond-United-for-Law-Enforcement-337760186417753/)  
 [VCU Police Department facebook](https://www.facebook.com/VCUPD/)  
 [VCU Police Department](http://www.vcu.edu/police/)  
@@ -136,68 +136,63 @@
 [ facebook](https://www.facebook.com/militiadescendants/)  
 [ facebook](https://www.facebook.com/Richmond-Temple-137524166294641/)  
 [](http://www.hinducenterofvirginia.org/)  
-[ facebook](https://www.facebook.com/Virginia-Fraternal-Order-of-Police-153201804694046/)  
+[Virginia Fraternal Order of Police facebook](https://www.facebook.com/Virginia-Fraternal-Order-of-Police-153201804694046/)  
 [ facebook](https://www.facebook.com/virginiacops/)  
 [ facebook](https://www.facebook.com/VirginiansForBetterTransportation/)  
 [ facebook](https://www.facebook.com/Virginia-State-Bar-Access-to-Legal-Services-715445355256426/)  
-[ facebook](https://www.facebook.com/The.Newport.News.Police.Department/)  
+[Newport News Police Department facebook](https://www.facebook.com/The.Newport.News.Police.Department/)  
 [ facebook](https://www.facebook.com/PublicSafetyVirginia/)  
 [ facebook](https://www.facebook.com/VirginiaRetirementSystem/)  
-[ facebook](https://www.facebook.com/warrentonpolice/)  
-[ facebook](https://www.facebook.com/Virginia-Fraternal-Order-of-Police-153201804694046/)  
-[ facebook](https://www.facebook.com/vasheriffsinstitute/)  
-[ facebook](https://www.facebook.com/RVASheriff/)  
+[Warrenton Police facebook](https://www.facebook.com/warrentonpolice/)  
+[Virginia Sheriffs Institute facebook](https://www.facebook.com/vasheriffsinstitute/)  
+[Richmond Sheriffs Office facebook](https://www.facebook.com/RVASheriff/)  
 [ facebook](https://www.facebook.com/vspalum/)  
-[ facebook](https://www.facebook.com/stampoutfraud/)  
+[Stamp Out Fraud - Virginia State Police facebook](https://www.facebook.com/stampoutfraud/)  
 
 [Virginia Association of Chiefs of Police](https://www.facebook.com/vachiefs/)  
-[ facebook](https://www.facebook.com/vasheriffs/)  
-[ facebook](https://www.facebook.com/vadcjs/)  
-[ facebook](https://www.facebook.com/YorkPoquosonSheriff/)  
-
-
-
-
-
-[ facebook](https://www.facebook.com/ArlingtonVASheriff/)  
-[ facebook](https://www.facebook.com/goochlandsheriff/)  
-[ facebook](https://www.facebook.com/FriendsOfRichmondK9/)  
+[Virginia Sheriffs facebook](https://www.facebook.com/vasheriffs/)  
+[VADCJS facebook](https://www.facebook.com/vadcjs/)  
+[York County Sheriffs Office facebook](https://www.facebook.com/YorkPoquosonSheriff/)  
+[Arlington County Sheriffs Office facebook](https://www.facebook.com/ArlingtonVASheriff/)  
+[Goochland County Sheriffs Office facebook](https://www.facebook.com/goochlandsheriff/)  
+[Friends of Richmond K9 facebook](https://www.facebook.com/FriendsOfRichmondK9/)  
 [Friends of Richmond K9](http://www.rvak9.com/)  
-[ facebook](https://www.facebook.com/colonialheightspolice/)  
-[ facebook](https://www.facebook.com/Prince-George-County-Police-Department-408884972537414/)  
-[ facebook](https://www.facebook.com/Hopewell-Police-Department-260247877426696/)  
+[Colonial Heights Police Department facebook](https://www.facebook.com/colonialheightspolice/)  
+[Prince George County Police Department facebook](https://www.facebook.com/Prince-George-County-Police-Department-408884972537414/)  
+[Hopewell Police Department facebook](https://www.facebook.com/Hopewell-Police-Department-260247877426696/)  
 [Ashland Police Department](http://www.town.ashland.va.us/index.aspx?NID=194)  
 [Chesterfield County Police Facebook](https://www.facebook.com/ccpdva/)  
 [ facebook](https://www.facebook.com/chesterfieldvasheriff/)  
-[ facebook](https://www.facebook.com/poquosonpd/)  
-[ facebook](https://www.facebook.com/GloucesterCountySheriffsOffice/)  
-[ facebook](https://www.facebook.com/New-Kent-County-Sheriffs-Office-1463261683923874/)  
-[ facebook](https://www.facebook.com/tazewellcountysheriffsoffice/)  
-[ facebook](https://www.facebook.com/Virginia-Tactical-Officers-Association-299198976791359/)  
+[Poquoson Police Department facebook](https://www.facebook.com/poquosonpd/)  
+[Gloucester County Sheriffs Office facebook](https://www.facebook.com/GloucesterCountySheriffsOffice/)  
+[New Kent County Sheriffs Office facebook](https://www.facebook.com/New-Kent-County-Sheriffs-Office-1463261683923874/)  
+[Tazewell County Sheriffs Office facebook](https://www.facebook.com/tazewellcountysheriffsoffice/)  
+[Virginia Tactical Officers Association facebook](https://www.facebook.com/Virginia-Tactical-Officers-Association-299198976791359/)  
 [ facebook](https://www.facebook.com/MyVPSF/)  
 [ facebook](https://www.facebook.com/TheIACP/)  
 [ facebook](https://www.facebook.com/wwrcfoundation/)  
-[ facebook](https://www.facebook.com/middleburgpolice/)  
+[Middleburg Police Department facebook](https://www.facebook.com/middleburgpolice/)  
 [ facebook](https://www.facebook.com/rpdsafercity/)  
-[ facebook](https://www.facebook.com/RappahannockRegionalCriminalJusticeAcademy/)  
-[ facebook](https://www.facebook.com/LynchburgPolice/)  
+[Rappahannock Regional Criminal Justice Academy facebook](https://www.facebook.com/RappahannockRegionalCriminalJusticeAcademy/)  
+[Lynchburg Police facebook](https://www.facebook.com/LynchburgPolice/)  
 
   
-[VA DCJS - Criminal Justice Directory](http://www.dcjs.virginia.gov/directories/criminalJustice/
+[VA DCJS - Criminal Justice Directory](http://www.dcjs.virginia.gov/directories/criminalJustice/)  
+[Crime Log - Fauquier Times](http://www.fauquier.com/news/crime_log/)  
 
 
 [Lynchburg prosecutor reopens investigation involving city sheriff's captain](http://www.newsadvance.com/news/local/lynchburg-prosecutor-reopens-investigation-involving-city-sheriff-s-captain/article_ffcc470e-36a9-11e3-ba8f-001a4bcf6878.html)  
 
 
 [No charges will be filed against sheriff's captain](http://www.newsadvance.com/news/local/no-charges-will-be-filed-against-sheriff-s-captain/article_6eba66f4-8575-11e3-baa6-001a4bcf6878.html)  
-[](http://www.fairfaxcounty.gov/police/)  
-[](https://twitter.com/VSPPIO)  
-[](https://twitter.com/fairfaxpolice)  
+[@VSPPIO Twitter](https://twitter.com/VSPPIO)  
+[@fairfaxpolice Twitter](https://twitter.com/fairfaxpolice)  
 
 
 
 [Fairfax Crime Solvers](http://www.fairfaxcrimesolvers.org/)  
-[ facebook](https://www.facebook.com/fairfaxcountypolice)  
+[Fairfax County Police Department facebook](https://www.facebook.com/fairfaxcountypolice)  
+[Fairfax County Police Department](http://www.fairfaxcounty.gov/police/)  
 
 
 
