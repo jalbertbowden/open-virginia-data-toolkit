@@ -27,3 +27,6 @@
 [Archive for Events - Crozet Gazette](http://www.crozetgazette.com/category/calendar/)  
 [Archive for Community Events - Crozet Gazette](http://www.crozetgazette.com/category/calendar/community-events/)  
 [Archive for Meetings - Crozet Gazette](http://www.crozetgazette.com/category/calendar/meetings/)  
+
+# Civic Calendars/Events  
+[ConnectVA Events](https://www.connectva.org/events/)  
