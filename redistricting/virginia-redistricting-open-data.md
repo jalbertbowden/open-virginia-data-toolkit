@@ -12,4 +12,35 @@
 
 ## Redistricting in Virginia Reading Materials  
 [New map creates political opportunities](http://www.richmond.com/opinion/our-opinion/article_c7d574b6-0293-5c5d-bee4-7a1399bb4182.html)  
+[Virginia's Email Scandal](http://www.baconsrebellion.com/2016/07/virginias-email-scandal.html)  
+[Dark Money, Taxpayer Money, Flow in Redistricting Lawsuits](http://www.dailypress.com/news/politics/dp-nws-redistricting-case-money-20150508-story.html)  
+[Redrawing the Map on Redistricting (Azavea White Paper) (PDF)](https://s3.amazonaws.com/s3.azavea.com/com.redistrictingthenation/pdfs/Redistricting_The_Nation_Addendum.pdf)  
+[Which States, Districts Are Most Gerrymandered? Governing: By the Numbers, October 2012](http://www.governing.com/blogs/by-the-numbers/most-gerrymandered-congressional-districts-states.html)  
+[The First Gerrymanderer?: Patrick Henry, James Madison, James Monroe, and Virginia's 1778 Congressional Districting](http://journals2.scholarsportal.info/details?uri=/15590895/v09i0003/781_tfgphjmav1cd.xml)  
+[Va. Lawmakers Rack Up Big Bill for Taxpayers in Redistricting Lawsuit](https://www.washingtonpost.com/local/virginia-politics/va-lawmakers-rack-up-big-bill-for-taxpayers-in-redistricting-lawsuit/2016/04/18/68a43d0a-057d-11e6-bdcb-0133da18418d_story.html)  
+[Virginia redistricting lawsuits could cost taxpayers big bucks](https://www.washingtonpost.com/local/virginia-politics/virginia-redistricting-lawsuits-could-cost-taxpayers-big-bucks/2015/05/23/0e3ca55e-ffd0-11e4-833c-a2de05b6b2a4_story.html)  
+[Supreme Court will weigh in on whether Va. districts are racially gerrymandered](https://www.washingtonpost.com/politics/courts_law/supreme-court-will-weigh-in-on-whether-va-districts-are-racially-gerrymandered/2016/06/06/c0366e3c-2beb-11e6-9de3-6e6e7a14000c_story.html)  
+[Supreme Court May Decide Against Va. Republicans in Redistricting Fight](https://www.washingtonpost.com/politics/courts_law/supreme-court-may-decide-against-va-republicans-in-redistricting-fight/2016/03/21/eb7bfac0-ef79-11e5-a61f-e9c95c06edca_story.html)  
+[Virginia's Redistricting Chaos in Black and White](https://www.washingtonpost.com/blogs/all-opinions-are-local/wp/2015/08/19/virginias-redistricting-chaos-in-black-and-white/)  
+[Virginia Taxpayers Pay Millions to Attornteys in Redistricting Lawsuits](https://www.washingtonpost.com/local/virginia-taxpayers-pay-millions-to-attorneys-in-redistricting-lawsuits/2016/05/07/7ffd113e-148c-11e6-93ae-50921721165d_story.html)  
+[An Independent Panel on Redistricting](https://www.washingtonpost.com/opinions/an-independent-panel-for-redistricting/2016/01/29/de707694-c544-11e5-9693-933a4d31bcc8_story.html?tid=a_inl)  
+[Federal Judges Bring Va. One Step Closer to a New Congressional Map](https://www.washingtonpost.com/local/virginia-politics/federal-judges-bring-va-one-step-closer-to-a-new-congressional-map/2015/06/05/8a331de4-0bb7-11e5-9e39-0db921c47b93_story.html)  
+[Judge Imposes New Va., Congressional Map, Redrawing 3rd, 4th Districts](http://www.richmond.com/news/virginia/government-politics/article_0ad5053b-6818-5d7e-b96e-c9ce02ad45cb.html)  
+[The 2015 Election in Virginia: A Tribute to Gerrymandering](https://www.washingtonpost.com/news/the-fix/wp/2015/11/05/the-2015-election-in-virginia-a-tribute-to-gerrymandering/)  
+[It's a Long Shit, but Redistricting Reform is Worth Rooting For](http://www.baconsrebellion.com/2008/01/its-long-shot-but-redistricting-reform.html)  
+
 The Public Interest in Redistricting - A Report of the Independent Bipartisan Advisory Commission on Redistricting - Commonwealth of Virginia - 2011-04-01  
+
+
+
+## Redistricting Community  
+[One Virginia 2021](http://onevirginia2021.org/)  
+
+
+## 2011 Independent Bipartisan Advisory Commission on Redistricting  
+[Independent Bipartisan Advisory Commission on Redistricting](http://cnu.edu/redistrictingcommission/index.asp)  
+[The Public Interest in Redistricting - A Report of the Independent Bipartisan Advisory Commission on Redistricting, Commonwealth of Virginia 2011-04-01](http://cnu.edu/redistrictingcommission/Final_Redistricting_Commission_Report.pdf)
+[Email the Commission](varedistrictingcommission@gmail.com)  
+[Facebook (Not Active (Sorry, this content isn't available right now))](https://www.facebook.com/pages/Virginia-Redistricting-Commission/128241243909373)  
+[Twitter (Not Active Since 2011)](https://twitter.com/varedistricting)  
+
