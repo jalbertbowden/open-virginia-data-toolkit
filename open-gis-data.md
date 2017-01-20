@@ -23,7 +23,7 @@
 
 ## Hampton  
 
-[Hampton](GIS Viewer](http://webgis.hampton.gov/sites/ParcelViewer/)  
+[Hampton GIS Viewer](http://webgis.hampton.gov/sites/ParcelViewer/)  
 
 ## James City County  
 
@@ -72,6 +72,13 @@ VEGIS Viewer, DEQ,http://www.deq.virginia.gov/mapper_ext/default.aspx?service=pu
 DEQ Interactive Mapping GIS Portal,EDQ, http://www.deq.virginia.gov/Programs/LandProtectionRevitalization/PetroleumProgram/InteractiveMapping.aspx
 
 
+## [UVA Library Geoportal](http://libsvr35.lib.virginia.edu/)  
+
+[University of Virginia Library GeoServer](http://libsvr35.lib.virginia.edu:8080/geoserver/web/)  
+Layer Preview - List of all layers configured in GeoServer and provides previews in various formats for each.
+http://libsvr35.lib.virginia.edu:8080/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.OpenGeoMapPreviewPage)  
+[WPS Processes](http://libsvr35.lib.virginia.edu:8080/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.wps.OpenGeoProcessListPage)  
+[OpenLayers map preview](http://libsvr35.lib.virginia.edu:8080/geoserver/Chesapeake/wms?service=WMS&version=1.1.0&request=GetMap&layers=Chesapeake:fentress_dev_rights&styles=&bbox=1.2151391447364418E7,3391202.483814815,1.2203745434627488E7,3443556.4710778855&width=512&height=512&srs=EPSG:2284&format=application/openlayers)  
 
 
 
