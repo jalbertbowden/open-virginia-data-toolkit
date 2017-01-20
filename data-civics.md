@@ -2,6 +2,12 @@
 
 Civic engagement, civic leadership, civic groups, civic hacking, and of course civic tech...  
 
+## Localities  
+
+### Town of Buchanan  
+[Civic Organizations/Clubs](http://www.townofbuchanan.com/government/civic-organizationsclubs/)  
+
+
 
 
 
