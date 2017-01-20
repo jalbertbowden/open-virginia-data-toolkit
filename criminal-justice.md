@@ -542,3 +542,7 @@ http://web.archive.org/web/20120905152458/http://www.pdsdc.org/Resources/SLD/Bra
 
 
 [Procurement - Rappahannock Regional Jail](http://www.rrj.state.va.us/procurement)  
+
+
+# Legal Resources for Virginians/Citizens in the Criminal Justice System in Virginia  
+[Virginia Legal Resources Guide](http://www.lva.virginia.gov/public/guides/LegalResources.pdf)  
