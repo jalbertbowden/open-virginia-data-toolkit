@@ -42,5 +42,14 @@ The Public Interest in Redistricting - A Report of the Independent Bipartisan Ad
 [The Public Interest in Redistricting - A Report of the Independent Bipartisan Advisory Commission on Redistricting, Commonwealth of Virginia 2011-04-01](http://cnu.edu/redistrictingcommission/Final_Redistricting_Commission_Report.pdf)
 [Email the Commission](varedistrictingcommission@gmail.com)  
 [Facebook (Not Active (Sorry, this content isn't available right now))](https://www.facebook.com/pages/Virginia-Redistricting-Commission/128241243909373)  
-[Twitter (Not Active Since 2011)](https://twitter.com/varedistricting)  
+[@varedistricting Twitter (Not Active Since 2011)](https://twitter.com/varedistricting)  
+
+## Imagery  
+[animated gif goes along - original - http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/1a/b1aad1aa-b5a3-11e5-a982-53bb37311407/569019641bd80.image.gif](http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/1a/b1aad1aa-b5a3-11e5-a982-53bb37311407/569019641bd80.image.gif)  
+an-judge-imposes-new-virginia-congressional-map-redrawing-3rd-and-4th-districts-2016-01-07-richmond-times.gif  
+
+[3rd Congressional District Map - John G. Ownby/Times-Dispatch - http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/3b/a3b6875e-8be6-5cbb-bf71-f2f6bbd7262c/566f62171ee8d.image.png?resize=662%2C573](http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/3b/a3b6875e-8be6-5cbb-bf71-f2f6bbd7262c/566f62171ee8d.image.png?resize=662%2C573)  
+3rd-congressional-district-map-2016-01-07-richmond-times
+
+
 
