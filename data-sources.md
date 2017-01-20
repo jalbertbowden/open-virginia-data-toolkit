@@ -169,9 +169,27 @@ dotgov GIS - Then and Now
 [Air- and Stream-Water-Temperature Trends in the Chesapeake Bay Region, 1960-2014](https://pubs.er.usgs.gov/publication/ofr20151207)  
 [Application of a Weighted Regression Model for Reporting Nutrient and Sediment Concentrations, Fluxes, and Trends in Concentration and Flux for the Chesapeake Bay Nontidal Water-Quality Monitoring Network, Results Through Water Year 2012 Scientific Investigations Report 2015-5133](https://pubs.er.usgs.gov/publication/sir20155133)  
 
+# DUMP 2017-01-20  
 
 # Virginia Census Data  
 [http://www2.census.gov/geo/maps/pl10map/cou_blk/st51_va/](http://www2.census.gov/geo/maps/pl10map/cou_blk/st51_va/)
 
+
+[USDA's National Agricultural Statistics Service - Virginia Field Office](http://www.nass.usda.gov/Statistics_by_State/Virginia/index.php)
+[NASS &#124; USDA NASS State Agriculture Overview for Virginia](https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=VIRGINIA)  
+
+[Virginia Department of Taxation - Taxable Sales Reports](http://www.virginia.edu/coopercenter/vastat/taxablesales/tax_sales.html)  		
+[Dangerous Dog Registry](http://www.vdacs.virginia.gov/animals-dangerous-dog-registry.shtml)  
+[Dangerous Dog Registry Database](https://dd.va-vdacs.com/public/public.cgi)  
+
+[Local Food System Assessment for Northern Virginia 2010](http://www.healthyfoodaccess.org/node/931)  
+[Virginia Food System Council](http://virginiafoodsystemcouncil.org/)  
+[Virginia Community Capital](http://www.vacommunitycapital.org/)  
+[Source Link Virginia](http://www.sourcelinkvirginia.org/)  
+[Find a Resource - Source Link Virginia](http://www.sourcelinkvirginia.org/resources/find-a-resource)  
+	
+[RDC CSPDC - Regional Data Center For Virginia's Central Shenandoah Valley](http://rdc.cspdc.org/)
+
+[Hornstein-Kudlyak-Lange Non-Employment Index](https://www.richmondfed.org/research/national_economy/non_employment_index?platform=hootsuite) 
 
 
