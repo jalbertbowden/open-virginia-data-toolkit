@@ -17,7 +17,7 @@
 
 [2015 Survey Results - Broadband - Gloucester County, Virginia](http://www.arcgis.com/home/item.html?id=03543515901f4ad7985110d0f80f03bc)    
 [2015 Survey Results - Broadband - Gloucester County, Virginia - ArcGIS Map Viewer](http://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=03543515901f4ad7985110d0f80f03bc)  
-[Election Information - Gloucester County]( Virginia](http://www.arcgis.com/home/item.html?id=a4fe3b96165844a486471cf3190a1042)  
+[Election Information - Gloucester County.Virginia](http://www.arcgis.com/home/item.html?id=a4fe3b96165844a486471cf3190a1042)  
 [Election Information ArcGIS Map Viewer](http://www.arcgis.com/home/item.html?id=5b26632e2d19487ea29b1d7917543782)  
 
 
