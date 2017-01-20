@@ -12,3 +12,4 @@
 
 ## Redistricting in Virginia Reading Materials  
 [New map creates political opportunities](http://www.richmond.com/opinion/our-opinion/article_c7d574b6-0293-5c5d-bee4-7a1399bb4182.html)  
+The Public Interest in Redistricting - A Report of the Independent Bipartisan Advisory Commission on Redistricting - Commonwealth of Virginia - 2011-04-01  
