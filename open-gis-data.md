@@ -1,5 +1,7 @@
 # Virginia Open GIS Data  
 
+# Virginia Localities Open Data  
+
 ## Alexandria  
 [Alexandria GIS Open Data Portal](http://data.alexgis.opendata.arcgis.com/)  
 [Alexandria GIS Open Data ftp](http://www3.alexandriava.gov/data/GIS/)  
@@ -10,11 +12,9 @@
 [Arlington County GIS Open Data Portal](http://gisdata.arlgis.opendata.arcgis.com/)  
 
 ## Chesapeake  
-
 [Chesapeake Open GIS Data Portal](http://public.chesva.opendata.arcgis.com/)  
 
 ## Gloucester County  
-
 [2015 Survey Results - Broadband - Gloucester County, Virginia](http://www.arcgis.com/home/item.html?id=03543515901f4ad7985110d0f80f03bc)    
 [2015 Survey Results - Broadband - Gloucester County, Virginia - ArcGIS Map Viewer](http://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=03543515901f4ad7985110d0f80f03bc)  
 [Election Information - Gloucester County.Virginia](http://www.arcgis.com/home/item.html?id=a4fe3b96165844a486471cf3190a1042)  
@@ -22,16 +22,13 @@
 
 
 ## Hampton  
-
 [Hampton GIS Viewer](http://webgis.hampton.gov/sites/ParcelViewer/)  
 
 ## James City County  
-
 [James City County GIS/Mapping Section](http://www.jamescitycountyva.gov/assessments/gis-mapping.html)  
 [James City County GIS Mapping Layers Downloads](http://jamescitycountyva.gov/397/Mapping-Layers)  
 
 ## Norfolk  
-
 [Norfolk GIS Department](http://va-norfolk.civicplus.com/index.aspx?NID=1596)  
 [(Norfolk Parcel Map Grid (PDFs)](http://gis.norfolk.gov/ParcelMaps/quad1.htm)  
 [Norfolk AIR (Address Information Resource)](http://norfolkair.norfolk.gov/norfolkair/)  
@@ -46,12 +43,10 @@
 [Staunton Service/LayerMap (MapServer) - ArcGIS REST Services Directory]( http://gis.ci.staunton.va.us:8087/stagis/rest/services/Services/LayerMap/MapServer)  
 
 ## Virginia Beach  
-
 [Virginia Beach Open GIS Data](http://gis.data.vbgov.com/)  
 
 
-## Virginia State Government  
-
+# Virginia State Government  
 [VGIN Geospatial Services](http://www.vita.virginia.gov/isp/default.aspx?id=12096)  
 
 
@@ -65,11 +60,20 @@
 [va](http://www.arcgis.com/home/search.html?t=content&q=tags:va)  
 [virginia](http://www.arcgis.com/home/search.html?t=content&q=tags:virginia)  
 
-GIS, Virginia State Department/Agency, URL
-Virginia Geographic Information Network's GIS&nbsp;Clearinghouse. Includes statewide imagery.,VGIN,http://vgin.maps.arcgis.com/home
-VEGIS, DEQ,http://www.deq.virginia.gov/ConnectWithDEQ/VEGIS.aspx
-VEGIS Viewer, DEQ,http://www.deq.virginia.gov/mapper_ext/default.aspx?service=public/wimby 
-DEQ Interactive Mapping GIS Portal,EDQ, http://www.deq.virginia.gov/Programs/LandProtectionRevitalization/PetroleumProgram/InteractiveMapping.aspx
+[Virginia Geographic Information Network's (VGIN) GIS&nbsp;Clearinghouse. Includes statewide imagery](http://vgin.maps.arcgis.com/home)  
+[VEGIS - DEQ](http://www.deq.virginia.gov/ConnectWithDEQ/VEGIS.aspx)  
+[VEGIS Viewer - DEQ](http://www.deq.virginia.gov/mapper_ext/default.aspx?service=public/wimby 
+[DEQ Interactive Mapping GIS Portal](http://www.deq.virginia.gov/Programs/LandProtectionRevitalization/PetroleumProgram/InteractiveMapping.aspx)  
+
+
+
+
+## USGS Virginia Data/Information  
+
+Bounding Box - USGS Map Indices for Virginia  
+[-83.6753950003511, 36.5407589995314, -75.166435000017, 39.4660120001992]  
+
+
 
 
 ## [UVA Library Geoportal](http://libsvr35.lib.virginia.edu/)  
