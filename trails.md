@@ -1,5 +1,10 @@
 # Virginia Trails  
-  
+
+## Virginia Capital Trail  
+[Virginia Capital Trail](http://virginiacapitaltrail.org/)  
+[Virginia Capital Trail Foundation](https://www.flickr.com/photos/virginiacapitaltrail/)
+
+
 ## Appalachian Trail - Virginia
 [Best Hikes on the Appalachian Trail in Virginia](http://blog.virginia.org/2016/05/hikes-appalachian-trail-virginia/)  
 
@@ -29,5 +34,9 @@ Nelson Scenic Loop Scenic Byways:
 56 Crabtree Falls Highway  
 664 Beech Grove Road  
 Blue Ridge Parkway  
+
+
+## Greenways in Virginia  
+[South River Greenway - Waynesboro](http://www.waynesboro.va.us/226/South-River-Greenway)  
 
 

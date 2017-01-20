@@ -16,3 +16,12 @@
 
 ## Virginia Forests, Timber, and Trees Community  
 [Virginia Forest Action Plan](http://www.stateforesters.org/forest-action-plans/virginia)  
+
+[Overview of the Governor's Agriculture & Forestry Industries Development Fund](http://ag-forestry.virginia.gov/media/6164/afid-brochure-2015-final.pdf)  
+[The Economic Impacts&nbsp;of Agriculture and Forest&nbsp;Industries in Virginia](http://www.coopercenter.org/sites/default/files/publications/Virginia%20AgricultureForest%202012reva_0.pdf)  
+[2014 Virginia Agricultural facts and figures](http://ag-forestry.virginia.gov/media/3004/brochure-may-2014.pdf)  
+
+## Ag-Forestry - Secretary of Agriculture and Forestry  
+[Ag-Forestry](https://ag-forestry.virginia.gov/web-policy)  
+
+

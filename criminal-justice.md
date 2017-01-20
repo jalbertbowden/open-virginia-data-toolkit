@@ -728,3 +728,12 @@ http://p2c.manassasva.gov/p2c/GoogleMapMarkers.aspx
 
 # Legal Resources for Virginians/Citizens in the Criminal Justice System in Virginia  
 [Virginia Legal Resources Guide](http://www.lva.virginia.gov/public/guides/LegalResources.pdf)  
+
+
+
+VARJ
+Virginia Association of Regional Jailshttp://varj.org/
+
+HRRJ Departments Page is blank 2016-04-18
+however it is not here: http://web.archive.org/web/20140502055516/http://hrrj.org/departments
+

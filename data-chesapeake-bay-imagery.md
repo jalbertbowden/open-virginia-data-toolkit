@@ -1,5 +1,9 @@
 # Chesapeake Bay Open Data/Open Source/CC Imagery  
 
+
+[https://web.archive.org/web/20041015073537/http://mac.usgs.gov/images/chesbay1.gif](https://web.archive.org/web/20041015073537/http://mac.usgs.gov/images/chesbay1.gif)  
+
+
 ## [Chesapeake Bay Open Data](data-chesapeake-bay.md)  
 
 [Chesapeake Bay from MODIS](https://archive.org/details/VE-IMG-234)

@@ -8,6 +8,9 @@ Civic engagement, civic leadership, civic groups, civic hacking, and of course c
 [Civic Organizations/Clubs](http://www.townofbuchanan.com/government/civic-organizationsclubs/)  
 
 
+[@CuriousCoLab](https://twitter.com/CuriousCoLab)  
+[Collaborative Curiosity Designing Community-Engaged Research](https://rampages.us/communityengagedresearch/)  
+
 
 
 

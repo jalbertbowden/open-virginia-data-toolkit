@@ -63,6 +63,14 @@ VirginiaView is a statewide consortium for cultivating state and local applicati
 
 ## Open Data  
 
+Evaluating the relationship between biomass, percent groundcover and remote sensing indices across six winter cover crop fields in Maryland, United States
+(http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0303243415000525)
+
+[ChesapeakeStat](http://www.chesapeakestat.com/)
+[Data Hub - Chesapeake Bay Program](http://www.chesapeakebay.net/data)
+
+
+
 *[Chesapeake Bay Program Data Hub](http://www.chesapeakebay.net/data)
 *[USGS Chesapeake Bay Hub Data](http://chesapeake.usgs.gov/data.html)  
 
@@ -116,3 +124,15 @@ The mission of USGS Chesapeake Bay studies is to provide integrated science to s
 
 
 [U.S. Geological Survey Chesapeake Science Strategy, 2015-2025 Informing Ecosystem Management of America's Largest Esturay (PDF)](https://pubs.usgs.gov/of/2015/1162/ofr20151162.pdf)  
+
+[ftp://ftp.chesapeakebay.net/Gis/CBLCD_Series/](ftp://ftp.chesapeakebay.net/Gis/CBLCD_Series/)  
+Product:  New land cover data (January 2010) available for the entire Chesapeake Bay  
+Description:  
+To better understand how the land is changing and to relate those changes to water quality trends, the USGS EGSC funded the production of a Chesapeake Bay Watershed Land Cover Data Series (CBLCD) representing four dates: 1984, 1992, 2001, and 2006. EGSC will publish land change forecasts based on observed trends in the CBLCD over the coming year. They are in the process of interpreting and publishing statistics on the extent, type and patterns of land cover change for 1984-2006 in the Bay watershed, major tributaries and counties.  
+[Data:  ftp://ftp.chesapeakebay.net/Gis/CBLCD_Series/]()ftp://ftp.chesapeakebay.net/Gis/CBLCD_Series/)  
+Contacts:  (Fred Irani, 410-267-9845 or Peter Claggett, 410-267-5771, Annapolis, MD).  
+
+
+
+[Chesapeake Bay: A Framework for Action](https://nepis.epa.gov/Exe/ZyNET.exe/2000VSI8.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1981+Thru+1985&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C81thru85%5CTxt%5C00000011%5C2000VSI8.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL)
+

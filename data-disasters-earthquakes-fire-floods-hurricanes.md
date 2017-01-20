@@ -38,3 +38,6 @@ The Virginia Department of Fire Programs is subject to the requirements for admi
 [NASA Wallops Recovery Contines From Hurricane Sandy](https://www.nasa.gov/mission_pages/hurricanes/features/wallops-sandy.html)  
 
 
+
+[Disaster Declarations for Virginia](http://www.fema.gov/disasters/grid/state-tribal-government/22?field_disaster_type_term_tid_1=All)
+[Download Disaster Declarations for Virginia Data - (CSV)](http://www.fema.gov/disasters/grid/state/csv/22?field_disaster_type_term_tid_1=All&attach=page)
