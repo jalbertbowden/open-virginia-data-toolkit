@@ -365,6 +365,7 @@ https://www.facebook.com/surrycountysheriffoffice/
 https://www.facebook.com/chesapeakesheriffsoffice/
 https://www.facebook.com/Chesapeake-Police-Crime-Prevention-Unit-170171199760485/
 
+[Newport News - RAIDS  Online](http://www.raidsonline.com/?address=Newport+News%2CVA)  
 
 [Operation Blue Ridge Thunder - Internet Crimes Against Children - via Wayback Machine](http://web.archive.org/web/20110513210956/http://www.blueridgethunder.com/)  
 Operation Blue Ridge Thunder works under the auspices of the Bedford County Virginia Sheriff's Office and is comprised of a cooperative group of law enforcement agencies on the international, federal, regional, state and local levels. The Mission of Operation Blue Ridge Thunder is to safeguard our children from Internet crime by weaving a seamless web of protection around them, across the nation and around the globe. A child's innocence can never be replaced. As a result, Operation Blue Ridge Thunder is proactive and is diligently working to apprehend perpetrators, protect potential victims, and educate parents, teachers and children about Internet safety.  As long as the Internet exists, Operation Blue Ridge Thunder will be patrolling cyberspace toward that end.  
