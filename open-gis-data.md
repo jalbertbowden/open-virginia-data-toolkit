@@ -57,6 +57,7 @@
 [Norfolk AIR (Address Information Resource)](http://norfolkair.norfolk.gov/norfolkair/)  
 [Norfolk Open GIS Data](http://data.orf.opendata.arcgis.com/)  
 
+
 ## Staunton  
 
 [Staunton Geographic Information Systems]( http://www.staunton.va.us/custom/gis)  
@@ -66,8 +67,7 @@
 [Staunton Service/LayerMap (MapServer) - ArcGIS REST Services Directory]( http://gis.ci.staunton.va.us:8087/stagis/rest/services/Services/LayerMap/MapServer)  
 
 ## Virginia Beach  
-[Virginia Beach Open GIS Data](http://gis.data.vbgov.com/)  
-
+[Virginia Beach Open GIS Data Portal](http://gis.data.vbgov.com/)  
 
 # Virginia State Government  
 [VGIN Geospatial Services](http://www.vita.virginia.gov/isp/default.aspx?id=12096)  
