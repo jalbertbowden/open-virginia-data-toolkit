@@ -168,3 +168,10 @@ dotgov GIS - Then and Now
 [Chemical and isotopic composition of water from springs, wells, and streams in parts of Shenandoah National Park, Virginia, and vicinity, 1995-1999](https://pubs.er.usgs.gov/publication/ofr00373)  
 [Air- and Stream-Water-Temperature Trends in the Chesapeake Bay Region, 1960-2014](https://pubs.er.usgs.gov/publication/ofr20151207)  
 [Application of a Weighted Regression Model for Reporting Nutrient and Sediment Concentrations, Fluxes, and Trends in Concentration and Flux for the Chesapeake Bay Nontidal Water-Quality Monitoring Network, Results Through Water Year 2012 Scientific Investigations Report 2015-5133](https://pubs.er.usgs.gov/publication/sir20155133)  
+
+
+# Virginia Census Data  
+[http://www2.census.gov/geo/maps/pl10map/cou_blk/st51_va/](http://www2.census.gov/geo/maps/pl10map/cou_blk/st51_va/)
+
+
+
