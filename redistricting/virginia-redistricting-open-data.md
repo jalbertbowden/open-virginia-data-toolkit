@@ -65,5 +65,7 @@ an-judge-imposes-new-virginia-congressional-map-redrawing-3rd-and-4th-districts-
 [The ReDistricting Game](http://www.redistrictinggame.org/index.php)  
 [Public Mapping](http://www.publicmapping.org/)  
 [Virginia - State Resources - Public Mapping](http://www.publicmapping.org/resources/state-resources/virginia)  
-
+[Redistricting the Nation](http://www.redistrictingthenation.com/)  
+[How Gerrymandering Has Undercut Southern Democrats in Congress](http://www.southernstudies.org/2013/01/map-mischief-how-gerrymandering-has-undercut-southern-democrats-in-congress.html)  
+[Prison-based Gerrymandering in Virginia Skews Election Districts](http://lwv-va.org/files/report_prison-based_gerrymandering.pdf)  
 
