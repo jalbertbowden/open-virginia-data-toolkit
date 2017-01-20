@@ -6,7 +6,7 @@
 [Search FDA for "Virginia"](http://google2.fda.gov/search?q=Virginia&client=FDAgov&site=FDAgov&lr=&proxystylesheet=FDAgov&requiredfields=-archive%3AYes&output=xml_no_dtd&getfields=*)  
 
 
-Title	URL
+[Keyword "Virginia" Search Results for Chronicling America's Historic Newspaper Database](http://chroniclingamerica.loc.gov/search/pages/results/?state=Virginia&date1=1836&date2=1922&proxtext=&x=14&y=24&dateFilterType=yearRange&rows=20&searchType=basic)  
 ["Virginia" Tagged Image Search on Image * After](http://www.imageafter.com/search.php?search=Virginia&x=0&y=0)  
 [Virginia Earth Observatory Search](http://earthobservatory.nasa.gov/Search/index.php?hq=site%3Aearthobservatory.nasa.gov%2FIOTD%2F&q=Virginia)  
 	
