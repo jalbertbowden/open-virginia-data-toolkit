@@ -18,7 +18,8 @@
 [The Butterfly Society of Virginia](http://www.butterflysocietyofva.org/)  
 [Virginia Herpetological Society](http://www.virginiaherpetologicalsociety.com/)  
 
-
+### [Center for Human-Wildlife Conflict Resolution](http://www.humanwildlife.org/)  
+The Center for Human-Wildlife Conflict Resolution's web site is designed to help Virginia residents and municipal leaders identify potential sources of assistance when confronted with problematic wild animal concerns.  
 
 
 [A Little Catfish Returns Home](https://www.fws.gov/endangered/news/episodes/bu-summer2016/story2/index.html)  
