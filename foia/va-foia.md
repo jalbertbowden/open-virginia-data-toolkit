@@ -12,7 +12,7 @@ Williamsburg
 VA  
 23187  
 Phone 540-353-8264  
-Contact: Megan Rhyne, Executive Director   		
+Contact: Megan Rhyne, Executive Director     
 [Email mrhyne@opengovva.org](mailto:mrhyne@opengovva.org)  
 [http://www.opengovva.org/](http://www.opengovva.org/)  
 [Facebook](http://www.facebook.com/pages/Virginia-Coalition-for-Open-Government/118024836400")  
@@ -22,7 +22,8 @@ Contact: Megan Rhyne, Executive Director
 
 ## Quick FOI Information  
 [Va. Code Secs. 2.2-3707 - 3712 - Open Meetings Law](http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+2.2-3707)  
-Closed: Terrorism activities precautions; some personnel matters	attorney consultations	real estate matters	student disciplinary matters	etc.</p>
+Closed: Terrorism activities precautions; some personnel matters attorney consultations real estate matters student disciplinary matters etc.  
+
 
 
 [Open Records Law Va. Code Secs. 2.2-3704 -3706](http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+2.2-3704)  
@@ -45,7 +46,7 @@ Office of the Attorney General
 900 East Main Street  
 Richmond  
 VA  
-23219  		
+23219    
 Phone 804-786-2071  
 [http://www.vaag.com/](http://www.vaag.com/)
 Email [contact form](http://www.vaag.com/ContactUsForm/ContactForm.aspx)  
@@ -55,7 +56,7 @@ General Assembly Building
 910 Capitol Street  
 Richmond  
 VA  
-23219  		
+23219    
 Phone Toll-Free 866-448-4100
 Phone Toll-Free 804-225-3056  
 Fax 804-371-8705  
@@ -67,7 +68,7 @@ Ross Building
 707 East Main Street    
 Richmond  
 VA  
-23219  		
+23219    
 Phone 804-775-0500  
 Fax 804-775-0501  
 TDD 804-775-0502  
@@ -103,7 +104,7 @@ Email [rcfp@rcfp.org](mailto:rcfp@rcfp.org)
 [FOI Letter Generator](http://www.rcfp.org/foia)  
 [Student Press Law Center](http://www.splc.org/)  
 1101 Wilson Boulevard  
-Suite 1100   		
+Suite 1100     
 Arlington  
 Virginia  
 22209  
@@ -112,7 +113,7 @@ Email [splc@splc.org](mailto:splc@splc.org)
 [Request Letter Generator](http://www.splc.org/legalassistance/foiletter.asp)  
 
 Virginia Coalition for Open Government  
-2576	
+2576 
 Williamsburg  
 VA  
 23187  
@@ -127,13 +128,13 @@ Daily Newsletter — The newsletter is published online </a>by the Virginia Coal
 
 ### Publications  
 Legal Language; A Glossary for the News Media  
-Richmond	VA: Richmond Newspapers	1992	20 pages  
+Richmond VA: Richmond Newspapers 1992 20 pages  
 The pamphlet is a project of the Bar-News Media Relations Committee of the Virginia State Bar and was compiled to assist the news media in accurate reporting. It gives a list of the most frequently used legal terms.  
 Format: Pamphlet  
 Price: $1  
 Order from:  
 The Virginia State Bar  
-Suite 1500	Ross Building  		
+Suite 1500 Ross Building    
 707 East Main Street  
 Richmond  
 VA  
@@ -141,8 +142,8 @@ VA
 Phone (804)775-0500  
 
 Local Government Officials' Guide  
-Charlottesville	VA: Weldon Cooper Center for Public Service	2006.  	
-An excellent analysis of Virginia's Freedom of Information Act	written from the perspective of a government official.  		
+Charlottesville VA: Weldon Cooper Center for Public Service 2006.   
+An excellent analysis of Virginia's Freedom of Information Act written from the perspective of a government official.    
 Price: $5; $4 for orders of five or more.  
 Order from:  
 Weldon Cooper Center for Public Service  
@@ -152,7 +153,7 @@ VA
 22903  
 
 Mass Communication Law in Virginia  
-Published by W. Wat Hopkins	New Forums Press	Stillwater OK	1999	118 pages  
+Published by W. Wat Hopkins New Forums Press Stillwater OK 1999 118 pages  
 Format: One-volume reference manual. 8 in.  
 Price: $14.95 plus $1.50 shipping  
 Order from:  
@@ -166,15 +167,15 @@ Phone 405-372-6158
 
 Public Information Pamphlets  
 Compiled by the Virginia State Bar  
-The Virginia State Bar publishes pamphlets on law-related issues for Virginia’s citizens. If you would like to order printed copies of these pamphlets	please download the <a href="http://www.vsb.org/docs/orderform.pdf">Publications Order Form* </a>(pdf) and fax or mail with payment (when applicable) to the Virginia State Bar at 804-775-0582.  		
+The Virginia State Bar publishes pamphlets on law-related issues for Virginia’s citizens. If you would like to order printed copies of these pamphlets please download the <a href="http://www.vsb.org/docs/orderform.pdf">Publications Order Form* </a>(pdf) and fax or mail with payment (when applicable) to the Virginia State Bar at 804-775-0582.    
 Format: PDF  
 &nbsp;</p>
 <p>
 Reporter's Handbook on the Virginia Freedom of Information Act  
-Richmond	VA: Virginia Press Association	2010. 35 pages  	
-This pocket-size pamphlet includes the text of the Virginia Freedom of Information Act	annotated with court decisions and references to law review articles. The pamphlet also includes state constitutional provisions	a sample objection to closure of proceedings	and information about the Virginia Freedom of Information Hotline. 
+Richmond VA: Virginia Press Association 2010. 35 pages   
+This pocket-size pamphlet includes the text of the Virginia Freedom of Information Act annotated with court decisions and references to law review articles. The pamphlet also includes state constitutional provisions a sample objection to closure of proceedings and information about the Virginia Freedom of Information Hotline. 
 [(See http://www.vpa.net/images/pdf/foiaguide.pdf for more information.)](http://www.vpa.net/images/pdf/foiaguide.pdf)    
-Format: Downloadable PDF Pamphlet	8.5x11  		
+Format: Downloadable PDF Pamphlet 8.5x11    
 [Available at (http://www.vpa.net/images/pdf/foiaguide.pdf)](http://www.vpa.net/images/pdf/foiaguide.pdf)  
 
 
@@ -198,7 +199,7 @@ https://www.dol.gov/sol/foia/2015anrpt_final.htm
 
 [Document repositories](https://theartofaccess.com/foi-resources/documentary-repositories/)  
 [The Government’s Attic](http://www.governmentattic.org)  
-This Web site posts a variety of federal documents	including FOI logs  
+This Web site posts a variety of federal documents including FOI logs  
 [Federal records](http://www.gpo.gov/fdsys/)  
 The Government Printing Office’s Federal Digital System (FDsys)  
 
@@ -212,7 +213,7 @@ This non-profit group requests and posts online federal records
 Look through the wealth of data posted online by city  
 
 [Online collectors – piple.com](http://www.pipl.com)  
-An Internet information gleaner	Pipl provides a sense of what’s available  
+An Internet information gleaner Pipl provides a sense of what’s available  
 
 
 
@@ -238,7 +239,7 @@ https://www.justice.gov/oip/foia-resources
 
 
 
-A Citizen's Guide to Using the Freedom of Information Act and the Privacy Act of 1974 to Request Government Records. Committee Reports	106th Congress (1999-2000)	House Report 106-050	
+A Citizen's Guide to Using the Freedom of Information Act and the Privacy Act of 1974 to Request Government Records. Committee Reports 106th Congress (1999-2000) House Report 106-050 
 http://thomas.loc.gov/cgi-bin/cpquery/z?cp106:hr50.106
 
 
@@ -247,7 +248,7 @@ http://thomas.loc.gov/cgi-bin/cpquery/z?cp106:hr50.106
 [Agency FOIA Backlogs and Processing Times[(http://foiaproject.org/request-chart/)
 
 http://www.thesentinel.com/mont/newsx/local/item/3810-transparency-watch-a-look-at-transparency-in-local-government
-Transparency Watch: A look at transparency in local government. Each week the Sentinel staff will compile and report on the problems and promises of local	state	and federal	government officials as they provide us with information.
+Transparency Watch: A look at transparency in local government. Each week the Sentinel staff will compile and report on the problems and promises of local state and federal government officials as they provide us with information.
 
 
 # FIGURE ELEMENTS WITH FOIA PIX YO  
@@ -263,11 +264,11 @@ Transparency Watch: A look at transparency in local government. Each week the Se
 
 
 
-[The FOIA blog](http://thefoiablog.typepad.com/the_foia_blog/)		
-[Access Reports	Freedom of Information Act and Privacy Issues](http://www.accessreports.com/)		
+[The FOIA blog](http://thefoiablog.typepad.com/the_foia_blog/)  
+[Access Reports Freedom of Information Act and Privacy Issues](http://www.accessreports.com/)  
 
-https://twitter.com/SunshinePolicy/status/752513567572783104	
+https://twitter.com/SunshinePolicy/status/752513567572783104 
 
-[FSIS to Begin Posting Location-Specific Food Safety Data Online](http://www.fsis.usda.gov/wps/portal/fsis/newsroom/news-releases-statements-transcripts/news-release-archives-by-year/archive/2016/nr-071116-01)  		
+[FSIS to Begin Posting Location-Specific Food Safety Data Online](http://www.fsis.usda.gov/wps/portal/fsis/newsroom/news-releases-statements-transcripts/news-release-archives-by-year/archive/2016/nr-071116-01)    
 [Establishment-Specific Data Release Plan](http://www.fsis.usda.gov/wps/wcm/connect/0803f8a0-a3cc-4945-87b6-f992acdcfa9b/Establishment-Specific-Data-Plan-Final.pdf?MOD=AJPERES)  
-[ERS Data Product Quality](http://www.ers.usda.gov/about-ers/information-quality/ers-data-product-quality.aspx)  		
+[ERS Data Product Quality](http://www.ers.usda.gov/about-ers/information-quality/ers-data-product-quality.aspx)    

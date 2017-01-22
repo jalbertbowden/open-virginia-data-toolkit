@@ -1,0 +1,13 @@
+
+[FOIA - Alexandria, Virginia](https://www.alexandriava.gov/FOIA)  
+[Local Government Officials' Guide to the Virginia Freedom of Information Act](https://www.alexandriava.gov/uploadedFiles/finance/info/pension/BAG20110324FOIA.pdf)  
+The Local Government Officials' Guide to the Virginia Freedom of Information Act is a 36-page printed booklet with more than 100 questions and answers about FOIA. We have purchased a limited supply and can provide you with one free copy for personal use. Additional copies may be ordered from the Weldon Cooper Center for Public Service at the University of Virginia.  
+
+[The Freedom of Information Act and Local Government Officials (PDF)](https://www.alexandriava.gov/uploadedFiles/finance/info/pension/FOIA2009UpdateVML.pdf)  
+
+## [Requesting Public Records (FOIA) | City Attorney | City of Alexandria, VA](https://www.alexandriava.gov/FOIA)  
+### Will I Have to Pay for the Records?  
+The City may charge for any requested records. The City is permitted to charge only for the actual costs of responding to your request. You may request that the City tell you in advance what the anticipated costs will be for supplying the records. If the estimated costs exceed $200, you may be required to pay a deposit (not to exceed the amount of the estimate) before processing your request. Additionally, if you owe the City money from a previous request that has remained unpaid for more than 30 days, the City will require you to pay the past-due bill before processing any subsequent records requests.  
+A public body may make reasonable charges not to exceed its actual cost incurred in accessing, duplicating, supplying, or searching for the requested records.  No public body shall impose any extraneous, intermediary, or surplus fees or expenses to recoup the general costs associated with creating or maintaining public records or transacting the general business of the public body.  Any duplicating fee charged by a public body shall not exceed the actual cost of duplication.  All charges for the supplying of requested records shall be estimated in advance at the request of the citizen as set forth in subsection F of [§ 2.2-3704 of the Code of Virginia](http://law.lis.virginia.gov/vacode/2.2-3704).  
+### When Can a Request Be Denied?  
+Records requests can be denied based upon the law which exempts the disclosure of records to the public. Examples of some records which would be withheld by a public body: records subject to attorney/client privilege; vendor proprietary information; personnel records; and records relating to the negotiation and award of a contract.  Criminal history records and offense/incident reports and supplemental reports are withheld to the extent permitted under the law.  

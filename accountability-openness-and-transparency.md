@@ -46,6 +46,7 @@ The Half Sheet offers timely analysis and insight into some of these key issues 
 # Locality Initiatives, Involvement, etc.  
 
 ## Alexandria  
+### [Transparency - City of Alexandria, Virginia](https://www.alexandriava.gov/hub.aspx?id=89018)  
 ### [Alexandria Performance Reports](https://www.alexandriava.gov/performance/default.aspx?id=88487)  
 ### Alexandria Performance Reports Safe, Secure, & Just Community  
 [Commonwealth’s Attorney* - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/CommonweathAttorney-OPAReportDec2015.pdf)  
@@ -56,6 +57,9 @@ The Half Sheet offers timely analysis and insight into some of these key issues 
 [Police Department - APD - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/APD-OPAReportDec2015.pdf)  
 [Sheriff's Office* - Performance Report - 2015-12](https://www.alexandriava.gov/uploadedFiles/performance/reports/Sheriff-OPAReportDec2015.pdf)  
 
+## Amherst County  
+[Citizen's Corner (FOIA & Useful Info)](http://www.countyofamherst.com/department/division.php?structureid=187)  
+[Freedom of Information Act Request - Throws 404 (2016-07-17)](http://www.countyofamherst.com/egov/apps/document/center.egov?view=item&id=785)  
 ## Gloucester County  
 [Transparency Initiative](http://www.gloucesterva.info/Home/Government/TransparencyInitiative/tabid/1121/Default.aspx)  
 [A- Sunshine Review Grade](http://www.gloucesterva.info/portals/0/images/awards/SunshineReviewGrade.gif)  
