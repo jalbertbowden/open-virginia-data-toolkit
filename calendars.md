@@ -30,3 +30,14 @@
 
 # Civic Calendars/Events  
 [ConnectVA Events](https://www.connectva.org/events/)  
+
+
+
+[Events - Richmond Times-Dispatch](http://www.richmond.com/events/)  
+[Calendar of Events - Richmond Times-Dispatch](http://www.richmond.com/calendar/)  
+[More Events - Search](http://www.richmond.com/calendar/search/?c=calendar*&s=start_time&sd=asc&d1=today&unrolled)  
+[Weekend Events - Search](http://www.richmond.com/search/?c=entertainment/weekend)  
+[Business + Tech - Calendar of Events](http://www.richmond.com/calendar/business-tech/)  
+
+## Feed
+[Subscribe to this Search - Weekend Events - Search](http://www.richmond.com/search/?q=&t=&l=10&d=&d1=&d2=&s=&sd=&f=rss)
