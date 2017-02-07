@@ -52,7 +52,13 @@ CodeVA - Bringing Computer Science to Virginia's Kids
 [CodeRVA](http://coderva.org/)  
 Richmond Regional School for Innovation, aka CodeRVA High School, accepts students from 12 school divisions in the RVA metro area: Chesterfield County, Colonial Heights, Dinwiddie County, Hanover County, Henrico County, Hopewell, New Kent County, Petersburg, Powhatan County, Prince George County, Richmond, and Sussex County.  
 [CodeRVA - Rethinking High School - Information Brochure (PDF)](http://coderva.org/wp-content/uploads/2017/02/CodeRVA_information.pdf)
+[Region I Partnership - CodeRVA High School - Chesterfield County Public Schools](http://www.doe.virginia.gov/instruction/virtual_learning/advisory_committee/meetings/2015-2016/04_apr/code-rva-presentation.pdf)  
 
+[RVA Code Camp](http://rvacodecamp.org/)  
+[@RVACodeCamp](https://twitter.com/RVACodeCamp)  
+
+[RVA STEM](https://www.rvastem.com/)  
+Meetup.com/RVA-Stem  And Facebook.com/RVAstem
 
 [Alexandria Police Department Community Liaisons in Civic Associations](https://www.alexandriava.gov/uploadedFiles/police/CIVIC%20ASSOCIATIONS(1).pdf)  
 
@@ -96,3 +102,16 @@ ODU CSCE (Center for Service & Civic Engagement)
 
 [Year-Round Volunteer Opportunities - Salvation Army HRVA](http://virginiasalvationarmy.org/hrva/getinvolved/volunteer/)  
 
+
+
+
+# STEM/STEAM Community in the Commonwealth  
+
+
+[Virginia First Robotics](http://www.virginiafirst.org)  
+[Patrick Henry School of Science](http://www.patrickhenrycharter.org/index.htm)  
+[Goochland Education Foundation STEM CAMP](http://www.timesdispatch.com/goochlandgazette/news/education/article_331c7c5c-ca06-11e2-9ae9-0019bb30f31a.html)  
+[Henrico Education Foundation](http://henricofoundation.org)  
+[Science Museum of Virginia](http://www.smv.org)  
+[Henrico Cultural Arts Center](http://www.artsglenallen.com)  
+[4-H Robotics Program Center](http://www.4-h.org/youth-development-programs/4-h-science-programs/engineering-technology/4-h-robotics-program/)  
