@@ -29,6 +29,9 @@
 [Archive for Meetings - Crozet Gazette](http://www.crozetgazette.com/category/calendar/meetings/)  
 
 # Civic Calendars/Events  
+[CodeVA Events](http://www.codevirginia.org/events/)  
+[CodeVA Events iCal Export](http://www.codevirginia.org/events/?ical=1&tribe_display=month) SHOULD THIS BE IN FEEDS INSTEAD?  
+
 [ConnectVA Events](https://www.connectva.org/events/)  
 
 
@@ -41,3 +44,9 @@
 
 ## Feed
 [Subscribe to this Search - Weekend Events - Search](http://www.richmond.com/search/?q=&t=&l=10&d=&d1=&d2=&s=&sd=&f=rss)
+
+
+## [Arlington Food Assistance Center (AFAC)](https://afac.org/)  
+[Calendar](https://afac.org/events/calendar/)  
+[Upcoming Special Events](https://afac.org/events/categories/special-events/)  
+[Volunteer Calendar](https://afac.org/volunteer/volunteer-calendar/)
