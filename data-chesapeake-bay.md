@@ -136,3 +136,8 @@ Contacts:  (Fred Irani, 410-267-9845 or Peter Claggett, 410-267-5771, Annapolis,
 
 [Chesapeake Bay: A Framework for Action](https://nepis.epa.gov/Exe/ZyNET.exe/2000VSI8.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1981+Thru+1985&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C81thru85%5CTxt%5C00000011%5C2000VSI8.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL)
 
+
+[Barrier Island Migration Dominates Ecogeomorphic Feedbacks and Drives Salt Marsh Loss Along the Virginia Atlantic Coast, USA](http://geology.gsapubs.org.sci-hub.cc/content/45/2/123.full.pdf+html)  
+
+
+

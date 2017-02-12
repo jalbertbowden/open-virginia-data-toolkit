@@ -24,3 +24,17 @@
 
 
 [Data for Virginia - The Voter Participation Project](http://data.voterparticipation.org/states/VA/)  
+
+
+
+
+
+
+https://beta.fec.gov/data/elections/?cycle=2016&state=VA
+
+
+Percent Voted in 2014
+http://thedataweb.rm.census.gov/TheDataWeb_HotReport2/voting/voting.hrml?GESTFIPS=48&INSTANCE=Nov+2014
+
+http://thedataweb.rm.census.gov/TheDataWeb_HotReport2/voting/voting.hrml?GESTFIPS=48&INSTANCE=Nov+2012
+

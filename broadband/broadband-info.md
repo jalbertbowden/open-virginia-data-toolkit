@@ -44,4 +44,19 @@ https://technology.virginia.gov/media/8165/ruonline-virginia-2016-report.pdf
 [Wired - Virginia](https://www.wired.virginia.gov/)  
 [LaMura: The Facts of Municipal Broadband](http://www.vcta.com/roanoke-issue)  
 [Gloucester County has a File Download Timer](http://www.gloucesterva.info/Home/FileDownloadTimer/tabid/561/Default.aspx) for residents to estimate how long it will take them to download resources from their local government website.  
-  
+
+
+
+
+
+
+
+
+
+Check for Verizon DSL Service Availability To Your Home (Clarke County)](http://www22.verizon.com/Residential/HighSpeedInternet/CheckAvailability/CheckAvailability.htm
+
+Broadband Planning and Analysis Toolbox](http://cgit.vt.edu/broadband.html)  
+[High-Speed Bandwidth/Network Capacity](http://web.archive.org/web/20120916130649/http://www.hrp.org/Site/docs/ResourceLibrary/Networks-CyberCommand.pdf)
+
+
+

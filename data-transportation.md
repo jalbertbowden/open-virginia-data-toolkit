@@ -286,3 +286,110 @@ CTPP 2000 CD-ROMs also contain shapefiles for many of the geographies tabulated 
 
 [Key Virginia Transportation Law Needs Overhaul](https://www.southernenvironment.org/news-and-press/press-releases/key-virginia-transportation-law-needs-overhaul)  
 [Report: Virginia Transportation Law Flawed; Lacks Public Safeguards](http://articles.dailypress.com/2012-11-26/news/dp-nws-transportation-partnerships-flawed-20121126_1_transportation-projects-midtown-tunnel-project-transportation-public-private-partnerships)  
+
+
+
+
+[Virginia County Business Patterns 1997](http://ntl.bts.gov/lib/15000/15700/15716/PB2000100376.pdf)  
+[Virginia 1997 Economic Census - Transportation 1997 Commodity Flow Survey](http://ntl.bts.gov/lib/33000/33200/33246/97tcf-va.pdf)  
+http://ntl.bts.gov/lib/15000/15900/15995/PB2000101935.pdf
+[1995 American Travel Survey - Virginia Summary Travel Characteristics](http://ntl.bts.gov/lib/20000/20400/20438/PB98128242.pdf)  
+[All Publications Search for "Virginia" Federal Highway Administration Research List of Online Reports and Technical Publications](https://search.usa.gov/search?utf8=%26%23%23x2713%3B&affiliate=dot-fhwa&sitelimit=fhwa.dot.gov%2Fpublications%2Fresearch&query=Virginia&commit=GO
+
+[Accuracy of Virginia Accident Data](http://ntl.bts.gov/lib/36000/36400/36497/82-R13.pdf)  
+[Virginia Avenue Over the Clinch River, Richlands](http://www.fhwa.dot.gov/publications/research/infrastructure/structures/00123.pdf)  
+[The Effects of Crosswalk Markings on Vehicle Speeds in Maryland, Virginia, and Arizona](http://www.fhwa.dot.gov/publications/research/safety/00101/00101.pdf)  
+[A Safety Evaluation of UVA Vehicle Headlights](http://www.fhwa.dot.gov/publications/research/safety/99074/index.cfm)  
+[Route 40 Over the Falling River, Lynchburg District](http://www.fhwa.dot.gov/publications/research/infrastructure/structures/00122.pdf)  
+[Pedestrian Crosswalk Case Studies: Richmond, Virginia; Buffalo, New York; Stillwater, Minnesota](http://www.fhwa.dot.gov/publications/research/safety/00103/index.cfm)  
+[(PDF)](http://www.fhwa.dot.gov/publications/research/safety/00103/00103.pdf)  
+[Virginia Department of Transportation Public-Private Procurement - Issues and Accomplishments And Interim Report](http://www.fhwa.dot.gov/publications/research/operations/its/pdfs/vdot.pdf)  
+[Virginia Transportation by the Numbers](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/virginia.pdf)  
+[2016-01 Virginia Transportation by the Numbers](http://web.archive.org/web/20170115212520/https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/virginia.pdf)  
+[2015-01 Virginia Transportation by the Numbers](http://web.archive.org/web/20150910155537/http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/virginia.pdf)  
+
+
+
+
+[Great Dismal Swamp National Wildlife Refuge Interagency Transportation Assistance Group: Transportation Observations, Considerations, and Recommendations 2014-07-21](http://ntl.bts.gov/lib/52000/52200/52276/GDS_TAG_Report_FINAL_2014_07_21.pdf)  
+[Shenandoah National Park Traveler Information Coordination Study.]
+http://ntl.bts.gov/lib/42000/42800/42885/DOT-VNTSC-NPS-11-22.pdf
+http://ntl.bts.gov/lib/42000/42800/42885/Shenandoah_TIS_Final_Report_09-11_final.pdf
+
+[Norfolk-Virginia Beach Corridor - Norfolk, VA (1998-11)](http://ntl.bts.gov/lib/7000/7600/7625/chapters/norfolk.html)  
+
+[Chincoteague National Wildlife Refuge Alternative Transportation Study.](http://ntl.bts.gov/lib/42000/42500/42567/Chincoteague_Alternative_Transportation_Study_Final.pdf)  
+
+
+
+
+
+214. Hedlund, J.H, P.D. Curtis, G. Curtis, and A.F. Williams. 2003. Methods to Reduce Traffic Crashes Involving Deer: What Works and What Does Not. Prepared for Insurance Institute for Highway Safety, Virginia.
+249. Cottrell, B. H. 2003. Technical Assistance Report: Evaluation of Deer Warning Reflectors in Virginia. VTRC 03-TAR6. Virginia Transportation Research Council in cooperation with U.S. Department of Transportation and Federal Highway Administration: Charlottesville, VA.
+
+
+
+[1997 Economic Census - Transportation](http://web.archive.org/web/20130103214642/http://www.census.gov/prod/www/abs/ec1997trans-cf.html)  
+http://web.archive.org/prod/ec97/97tcf-va.pdf
+
+1997 Commodity Flow Survey States
+http://web.archive.org/web/20120702014117/http://www.bts.gov/publications/commodity_flow_survey/1997/states/
+
+1997 Commodity Flow Survey State - Virginia
+http://web.archive.org/web/20120702210000/http://www.bts.gov/publications/commodity_flow_survey/1997/states/virginia/index.html
+[Safety Belt and Motorcyle Helmet Use in Virginia: The 1999 Update - VDOT Technical Assistance Report](http://www.virginiadot.org/vtrc/main/online_reports/pdf/00-tar1.pdf)  
+[THINK THIS IS THE SAME????!!! WAT](http://ntl.bts.gov/lib/22000/22200/22255/PB99171464.pdf)  
+
+
+
+
+
+
+[County Business Patterns 1996 - Virginia(http://ntl.bts.gov/lib/15000/15600/15656/PB2000100200.pdf)
+1996-county-business-patterns-virginia-
+
+
+Sources for Transportation Statistics
+https://ntl.custhelp.com/app/answers/detail/a_id/514
+[Communting Statistics](https://ntl.custhelp.com/app/answers/detail/a_id/419/session/L2F2LzEvdGltZS8xNDg0NTE3Mzk0L3NpZC9WdEk1Tk04bg%3D%3D)  
+[National Household Travel Survey (NHTS)](http://nhts.ornl.gov/index.shtml)  
+
+
+
+
+
+http://www.phmsa.dot.gov/pipeline/library/data-stats
+
+[Incidence Management Program in Virginia - National Transportation Library](http://ntl.bts.gov/DOCS/impva.html)  
+[Modeling Traffic Accidents at Signalized Intersections in the City of Norfolk, VA](http://ntl.bts.gov/lib/43000/43900/43974/Investigation_of_Accident_Data_City_of_Norfolk.pdf)  
+[Mapping Voids, Debonding, Delaminations, Moisture, and Other Defects Behind or Within Tunnel Listings](http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2prepubR06GReport.pdf)  
+[http://ntl.bts.gov/lib/33000/33000/33019/Vision_Hampton_Roads_FINAL_Document_03-31-10.pdf](http://ntl.bts.gov/lib/33000/33000/33019/Vision_Hampton_Roads_FINAL_Document_03-31-10.pdf)
+[http://ntl.bts.gov/lib/10000/10900/10935/spring2001.pdf](http://ntl.bts.gov/lib/10000/10900/10935/spring2001.pdf)
+[Hampton Roads Climate Impact Quantification Initiative - Baseline Assessment of the Transportation Assets & Overview of Economic Analyses Useful in Quantifying Impacts](http://ntl.bts.gov/lib/60000/60100/60161/Hampton_Roads_Climate_Impact_Initative.pdf)  
+[http://ntl.bts.gov/lib/23000/23200/23283/multi-appr-95plan3.pdf](http://ntl.bts.gov/lib/23000/23200/23283/multi-appr-95plan3.pdf)
+[http://ntl.bts.gov/lib/jpodocs/repts_te/2803.pdf](http://ntl.bts.gov/lib/jpodocs/repts_te/2803.pdf)
+
+[http://ntl.bts.gov/lib/36000/36600/36665/85-R31.pdf](http://ntl.bts.gov/lib/36000/36600/36665/85-R31.pdf)
+
+[Pedestrian crashes in Newport News 2011-2016](https://www.google.com/maps/d/viewer?mid=1VyiGfrCLpRfeNw-EtAfWYEdYFpg&ll=37.08626373086609%2C-76.49340129999996&z=12)  
+[Interactive map: Pedestrian fatalities in Newport News since 2011](http://www.dailypress.com/news/newport-news/dp-nws-interactive-map-pedestrian-fatalities-20170113-htmlstory.html)  
+
+[http://web.archive.org/web/20160115075857/http://www.hrp.org/Site/docs/Passenger%20Trains%20for%20VA%20Peninsula_CSX_7-17-09.ppt](http://web.archive.org/web/20160115075857/http://www.hrp.org/Site/docs/Passenger%20Trains%20for%20VA%20Peninsula_CSX_7-17-09.ppt)
+
+
+Virginia Highway Statistics Series - State Statistical Abstracts 2013	http://www.fhwa.dot.gov/policyinformation/statistics/abstracts/2013/state.cfm?loc=va
+http://www.fhwa.dot.gov/policyinformation/statistics/abstracts/2013/state_abstracts_2013.xls
+
+Virginia Byways	https://web.archive.org/web/20150905075215/http://www.fhwa.dot.gov/byways/states/VA
+
+
+
+
+Traffic Safety Performance (Core Outcome) Measures* For Virginia	http://www-nrd.nhtsa.dot.gov/departments/nrd-30/ncsa/STSI/51_VA/2014/51_VA_2014.htm
+Virginia - Statistics by State - USDA's National Agricultural Statistics Service - Virginia Field OFfice	https://www.nass.usda.gov/Statistics_by_State/Virginia/
+http://stats.bls.gov/regions/news-release-finder.htm?states=VA&x=9&y=1
+
+
+
+
+

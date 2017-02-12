@@ -14,6 +14,9 @@
 [Virginia Department of Fire Programs](http://www.vafire.com/)  
 [FOIA](http://www.vafire.com/administration/foia.htm)  
 
+[Fire Data & Statistics](http://www.vafire.com/fire_data_statistics/index.htm)  
+
+
 
 [Fire Data & Statistics](http://www.vafire.com/fire_data_statistics/index.htm)  
 Incident Summary, Virginia 2010-2015*

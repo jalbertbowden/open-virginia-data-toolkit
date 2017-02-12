@@ -1,5 +1,8 @@
 # Chesapeake Bay Open Data/Open Source/CC Imagery  
 
+[Chesapeake Bay Remote Sensing Program (CBRSP)](http://www.cbrsp.org/index.html)  
+Chesapeake Bay Remote Sensing Program (CBRSP): A study of phytoplankton blooms in the Chesapeake Bay using aircraft remote sensing since 1989, and includes data from both the ODAS and SAS sensors.  
+
 
 [https://web.archive.org/web/20041015073537/http://mac.usgs.gov/images/chesbay1.gif](https://web.archive.org/web/20041015073537/http://mac.usgs.gov/images/chesbay1.gif)  
 

@@ -237,3 +237,36 @@ http://libsvr35.lib.virginia.edu:8080/geoserver/web/?wicket:bookmarkablePage=:or
 [http://gisdev.chesapeakebay.net/air4/](http://gisdev.chesapeakebay.net/air4/)  
 [http://gisdev.chesapeakebay.net/](http://gisdev.chesapeakebay.net/)  
 
+
+
+[Virginia GIS Clearinghouse](https://vgin.maps.arcgis.com/home/index.html)  
+[Virginia Statewide Data Downloads](http://vgin.maps.arcgis.com/home/group.html?id=106a22df670545adb6a8d55549da3117)  
+
+
+[Virginia Administrative Boundary Dataset](http://vgin.maps.arcgis.com/home/item.html?id=c148ecd214404ddb95e0e9991531a7f3)  
+[Virginia Administrative Boundary Dataset File Geodatabase (52MB)](https://ftp.vgingis.com/Download/Virginia_Administrative_Boundary_Dataset_2014.gdb.zip
+[Virginia Administrative Boundary Dataset Shapefile (67MB)](https://ftp.vgingis.com/Download/Virginia_Administrative_Boundary_Dataset_2014.shp.zip
+Or Previewed in: 
+
+Feature Service - http://vgin.maps.arcgis.com/home/item.html?id=0756852b96784b96be1485a0dd9df86f
+
+Map Service - http://vgin.maps.arcgis.com/home/item.html?id=621489acbd354cdfba0b2319f3458118
+
+
+[VGIN's Profile](https://vgin.maps.arcgis.com/home/user.html?user=VGIN)  
+[VGIN's Datasets](http://vgin.maps.arcgis.com/home/search.html?q=owner:VGIN)  
+[VGIN's Groups](http://vgin.maps.arcgis.com/home/search.html?t=groups&q=owner:VGIN)  
+
+[(http://vgin.maps.arcgis.com/home/search.html?t=groups&q=tags:Virginia)](http://vgin.maps.arcgis.com/home/search.html?t=groups&q=tags:Virginia)  
+
+
+
+
+
+[GIS Data Sets - NOHRSC - NOAA-NWS]  
+The NOHRSC provides and maintains the NWS Integrated Hydrologic Automated Basin Boundary System (IHABBS) GIS database to support river and flood forecasting throughout the nation. Basin boundary data sets and RFC boundaries are provided here in shapefiles that have been tarred and gzipped.  
+(http://web.archive.org/web/20111015040731/http://nohrsc.noaa.gov/gisdatasets/)
+
+
+
+
