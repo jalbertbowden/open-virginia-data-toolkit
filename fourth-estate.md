@@ -152,3 +152,132 @@ ODU Publications
 Monarch Magazine is circulated three times a year to approximately 100,000 alumni, opinion leaders and friends of the university. Articles will report on the exciting research, scholarship, classroom innovations, dedicated faculty, outstanding students and newsworthy alums that are ODU's contributions to the region and the world.  
 
 
+[Multimedia Journalism - School of Mass Communications](http://mmj.vcu.edu/)  
+
+
+http://www.northernvatimes.com/gainesville
+
+[Richard T. Robertson School of Media and Culture at Virginia Commonwealth University](http://robertson.vcu.edu/)  
+[Robertson School's journalism department joins Google News Lab University Network](http://robertson.vcu.edu/news/robertson-schools-journalism-department-joins-google-news-lab-university-network-.html)  
+
+
+http://createathononcampus.org/
+https://twitter.com/Robertsonschool
+https://www.youtube.com/user/TheRobertsonSchool
+http://vcuchs.tumblr.com/
+
+Northern Virginia
+
+AOL Patch
+Bristow Beat
+Clarke Daily News
+Culpeper Star-Exponent
+Culpeper Times
+Fairfax Times
+FairfaxLife.com
+Falls Church News-Press
+FauquierNow.com
+Fauquier Times-Democrat
+Gainesville Times
+LocalKicks.com (Alexandria)
+[Loudoun Times-Mirror](http://www.loudountimes.com/)  
+[@LTMnews](http://twitter.com/LTMnews)  
+[facebook](http://www.facebook.com/home.php?#/pages/Leesburg-VA/Loudoun-Times-Mirror/16779603787?ref=ts)  
+[instagram](https://www.instagram.com/ltmnews/)  
+
+
+PotomacLocal
+PrinceWilliamLife.com
+Washington Examiner
+Northwest Virginia
+
+Greene County Record
+Orange County Review
+Page News and Courier
+Rappahannock News
+Shenandoah Valley-Herald
+Staunton News Leader
+Warren Sentinel
+Richmond & suburbs
+
+Amelia Bulletin Monitor
+Caroline Progress
+Central Virginian
+Chesterfield Observer
+Cumberland Today
+Dinwiddie Monitor
+GayRVA
+Goochland Gazette
+Hanover Herald-Progress
+Henrico Citizen
+Hopewell News
+Mechanicsville Local
+Midlothian Exchange
+Petersburg Progress-Index
+Powhatan Today
+Richmond Times-Dispatch
+Richmond.com
+RVANews.com
+Village News
+Western Virginia
+
+Floyd Press
+Galax Gazette
+Richlands News-Press
+Scott County Virginia Star
+Smyth County News & Messenger
+Tazewell County Free Press
+The Southwest Times
+Virginia Mountaineer
+Washington County News
+Wytheville Enterprise
+South-Central Virginia
+
+Altavista Journal
+Bedford Bulletin
+Brunswick Times-Gazette
+Chatham Star-Tribune
+Emporia News
+Gazette-Virginian (Halifax)
+Independent Messenger
+Martinsville Bulletin
+Smith Mountain Eagle
+South Hill Enterprise
+East-Central Virginia
+
+## HRVA
+AltDaily of Hampton Roads
+Daily Press (Newport News)
+Smithfield Times
+Suffolk News-Herald
+The Tidewater News
+The Virginian-Pilot (Politics blog)
+Virginia Gazette
+Williamsburg-York Daily News
+Eastern Shore/Northern Neck
+
+## Middle Peninsula/Northern Neck
+Country Courier (King William County)
+Eastern Shore News
+Gloucester-Mathews Gazette-Journal
+The Journal (King George and Colonial Beach/Westermoreland)
+Rappahannock Record (Lancaster County/Kilmarnock)
+Rappahannock Times (Essex and King & Queen)
+Specialty publications and other clients
+
+Arlington Catholic Herald
+VCU’s Commonwealth Times
+GroundReport.com
+RichmondBizSense.com
+Topix.com
+UPIU.com
+Virginia Capitol Connections
+Virginia Education Report
+VirginiaTomorrow.com
+WRIR (Richmond Independent Radio)
+WVCW / CNS Radio
+WVTF Public Radio – Radio IQ (Virginia Tech)
+
+
+Feeds
+[Capital News Service Feed](http://capitalnews.vcu.edu/feed/)  
