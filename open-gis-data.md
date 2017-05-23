@@ -58,6 +58,7 @@ The Virginia Department of Forestry has established a relative Forest Conservati
 
 ## Loudoun County  
 [GIS Open Data - Loudoun County, Virginia](http://data.loudoungis.opendata.arcgis.com/)  
+[ArcGIS Rest Services Directory - Loudoun County](https://logis.loudoun.gov/gis/rest/services)
 
 ## Lynchburg  
 [Lynchburg Open Data Portal](http://data.cityoflynchburg.opendata.arcgis.com/)  

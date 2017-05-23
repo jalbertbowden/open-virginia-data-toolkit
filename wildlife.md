@@ -11,7 +11,10 @@ https://www.dgif.virginia.gov/wildlife/bear/black-bear-facts/
 [VDGIF Instagram](https://www.instagram.com/VirginiaWildlife/)  
 
 
-
+[Virginia Bald Eagle Nest Locator](http://www.ccbbirds.org/what-we-do/research/species-of-concern/virginia-eagles/nest-locator/)
+[CCV Mapping Portal - Virginia Bald Eagles](http://www.ccbbirds.org/maps/#eagles)
+http://www.ccbbirds.org/maps/toolbox.json
+http://www.ccbbirds.org/wp-content/uploads/2014/04/ccbtr-14-03_Watts-Status-and-Distribution-of-Colonial-Waterbirds-in-Coastal-Virginia-2013-Breeding-Season.pdf
 [Virginia Wild Black Bears Gallery](https://www.flickr.com/photos/lwbrown/sets/72157622358756760)  
 
 [Black Bear Blogs](http://larrywbrown.blogspot.com/)  
