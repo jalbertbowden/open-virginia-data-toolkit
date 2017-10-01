@@ -1,0 +1,70 @@
+#commonBanner {
+    background:url(http://web.archive.org/web/20110105160520im_/http://www.virginia.gov/images/common_feel_bg.jpg)  repeat-x;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:40px;
+}
+#commonBanner a {
+	text-decoration:none;
+}
+#commonBanner a img {
+	border:none;
+}
+#commonBanner .alignLeft {
+	color:#fff;
+	float:left;
+	margin-left: 10px;
+	padding-top: 13px;
+}
+#commonBanner .alignLeft a{
+	color:#fff;
+	font-weight:bold;
+}
+#commonBanner .alignLeft a:hover {
+	color:#eee;
+	font-weight:bold;
+}
+#commonBanner .hidden {
+	display:none;
+	visibility:hidden;
+}
+#commonBanner .virginiaLogo{
+	float:left;
+}
+#commonBanner #virginiaSearch {
+	float:right;
+	margin-top:7px;
+}
+#commonBanner #virginiaSearchForm {
+    margin: 0;
+}
+#commonBanner #virginiaSearch p {
+	margin:0;
+	padding:0;
+}
+#commonBanner #virginiaSearch #searchBox {
+    background:url(http://web.archive.org/web/20110105160520im_/http://www.virginia.gov/images/virginia_seach_txt-bg.jpg) no-repeat;
+	background-color:transparent;
+	border:0;
+	font-weight:bold;
+	height:14px;
+	padding:3px;
+	width:172px;
+}
+#commonBanner #virginiaSearch #vaSearchBtn {
+    background:url(http://web.archive.org/web/20110105160520im_/http://www.virginia.gov/images/virginia_seach_button-bg.jpg) no-repeat transparent;
+	border:none;
+	height:20px;
+	margin-left:2px;
+	margin-right:5px;
+	width:28px;
+}
+
+/*
+     FILE ARCHIVED ON 16:05:20 Jan 05, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:22:35 Oct 01, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

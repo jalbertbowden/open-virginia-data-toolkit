@@ -1,0 +1,1043 @@
+BODY {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif; 
+	COLOR: #000; 
+	PADDING-TOP: 0px; 
+	BACKGROUND-COLOR: #fff;
+}
+
+
+#content {
+	PADDING-LEFT: 10px; 
+	FONT-SIZE: 90%; 
+	PADDING-BOTTOM: 20px; 
+	MARGIN-LEFT: 200px; 
+	MARGIN-RIGHT: 20px;
+}
+
+
+A:link {
+	COLOR: #003399;
+}
+
+.smallText {
+	FONT: 80% Arial, verdana, sans-serif;
+}
+
+
+
+
+/*  Homepage and subpages boxes styles */
+
+
+DIV.topouterbox {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height: 730px;	
+	
+}
+
+DIV.bottomouterbox {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:430px;
+	
+}
+
+
+DIV.leftbox {
+	BACKGROUND-color: #FFFFFF;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	display:block;
+	float: left;
+	width: 47%;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+
+DIV.rightbox {
+	BACKGROUND-color: #FFFFFF;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	display:block;
+	float: right;
+	width: 47%;
+	padding-bottom: 10px;
+	
+}
+
+
+
+DIV.subpagestopouterbox {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	BACKGROUND: #ffffff;
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:550px;	
+}
+
+DIV.topouterboxdmlr {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:250px;	
+	
+}
+DIV.topouterboxdgo {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:250px;	
+	
+}
+DIV.bottomouterboxde{
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:475px;
+	
+}
+DIV.bottomouterboxdmlr {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:360px;
+
+}
+DIV.bottomouterboxdgo {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:400px;
+
+}
+
+DIV.topouterboxde {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:465px;	
+	
+}
+
+#content .box p {
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 100%;
+	font-style: normal;
+}
+
+
+/*  Footer styles */
+
+DIV.subhdr {
+	PADDING-RIGHT: 5px; 
+	MARGIN-TOP: 10px; 
+	PADDING-LEFT: 5px; 
+	FONT-SIZE: 70%; 
+	PADDING-BOTTOM: 5px; 
+	PADDING-TOP: 5px; 
+	BACKGROUND-COLOR: #abc68d;
+}
+
+
+
+/*  Heading styles */
+
+H1 {
+	BORDER-RIGHT: #ccc 1px solid; 
+	PADDING-RIGHT: 5px; 
+	BORDER-TOP: #fff 1px solid; 
+	PADDING-LEFT: 5px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 120%; 
+	MARGIN-BOTTOM: 5px; 
+	PADDING-BOTTOM: 5px; 
+	BORDER-LEFT: #fff 1px solid; 
+	COLOR: #333333; 
+	PADDING-TOP: 5px; 
+	BORDER-BOTTOM: #999 1px solid; 
+	BACKGROUND-COLOR: #efefef;
+}
+
+H2 {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 3px;
+	PADDING-LEFT: 5px;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 100%;
+	MARGIN-BOTTOM: 10px;
+	COLOR: #ffffff;
+	PADDING-TOP: 5px;
+	background-color:#2966ab;
+	
+}
+
+H3 {
+	FONT-SIZE: 100%;
+	padding:5px;
+	background-color: #2966ab;
+	color: #FFFFFF;
+	
+}
+
+
+H4 {
+	
+	MARGIN-TOP: 10px;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 100%;
+	COLOR: #2966ab;
+	
+    
+}
+
+/*  image styles */
+
+img {padding: 0px 5px 0px 0px;
+	vertical-align: left;}
+
+
+IMG {
+	BORDER-TOP-STYLE: none; 
+	BORDER-RIGHT-STYLE: none; 
+	BORDER-LEFT-STYLE: none; 
+	BORDER-BOTTOM-STYLE: none;
+}
+
+.imgleft {
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	FLOAT: left; 
+	PADDING-BOTTOM: 5px; 
+	PADDING-TOP: 5px;
+}
+
+.imgright {
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px;
+	PADDING-TOP: 5px;
+}
+
+/*  table styles */
+
+TH {
+	FONT: 90% Arial, verdana, sans-serif;
+}
+
+TD {
+	BORDER-RIGHT: #c0c0c0 0px solid; 
+	PADDING-RIGHT: 5px; 
+	BORDER-TOP: #c0c0c0 0px solid; 
+	PADDING-LEFT: 5px; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	BORDER-LEFT: #c0c0c0 0px solid; 
+	PADDING-TOP: 5px; 
+	BORDER-BOTTOM: #c0c0c0 0px solid;
+}
+
+
+
+
+TH {
+	BORDER-RIGHT: #c0c0c0 1px solid; 
+	PADDING-RIGHT: 5px; 
+	BORDER-TOP: #c0c0c0 1px solid; 
+	PADDING-LEFT: 5px; 
+	PADDING-BOTTOM: 5px; 
+	BORDER-LEFT: #c0c0c0 1px solid; 
+	PADDING-TOP: 5px; 
+	BORDER-BOTTOM: #c0c0c0 1px solid; 
+	BACKGROUND-COLOR: #e4e4e4; 
+	TEXT-ALIGN: left;
+}
+
+
+
+
+
+
+/*  Search box and text styles */
+
+.searchtext {
+	FONT-SIZE: 90%;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	
+}	
+
+
+
+#search {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 0px; 
+	BACKGROUND-REPEAT: no-repeat; 
+	BACKGROUND-COLOR: #163c6d;}
+
+
+#searchform{
+position:absolute;
+ margin: 0px;
+ padding: 0px;
+ text-align:right;
+	white-space:nowrap;
+	top:52px;
+	right:3px;
+	text-decoration:none;
+	
+}
+
+
+#searchform1
+	{
+	position:absolute;
+	top:40px;
+	right:10px;
+	text-align:right;
+	white-space:nowrap;
+	padding:0px;
+	margin:0px;
+	}
+	
+
+
+
+
+
+
+
+/*  Homepage and each division header graphic styles */
+
+#headergraphic
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/dmmeheader2.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+
+#divisionmlr
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/mlrdivision.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+
+
+#divisionmines
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/minesdivision.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+	
+#divisionenergy
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/energydivision.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+
+
+#divisiongasoil
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/gasoildivision.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+	
+
+#divisionmineralresources
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/mrdivision.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+
+#divisionmineralmining
+	{
+	padding:0px;
+	margin:0px;
+	background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/mmdivision.jpg);
+	background-repeat:no-repeat; 
+	background-color:#000;
+	}
+
+
+
+	
+/*  Top links styles */
+
+A.toplink {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 70%; 
+	COLOR: #91b1ca; 
+	TEXT-DECORATION: underline;
+}
+
+A.toplink:visited {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 70%; 
+	COLOR: #91b1ca; 
+	TEXT-DECORATION: underline;
+}
+
+A.toplink:hover {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 70%; 
+	COLOR: #cccccc; 
+	TEXT-DECORATION: underline;
+}
+
+#toplist {
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	PADDING-BOTTOM: 5px; 
+	PADDING-TOP: 5px; 
+	WHITE-SPACE: nowrap; 
+	BACKGROUND-COLOR: #000; 
+	TEXT-ALIGN: right;
+}
+
+
+.white {
+	MARGIN: 0px 0px 16px; 
+	FONT: 80% Arial, Verdana, Helvetica, sans-serif; 
+	COLOR: #ffffff;
+}
+
+.bar {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%; 
+	COLOR: #ffffff;
+}
+
+
+
+
+
+
+#header {
+	BORDER-TOP-WIDTH: 0px; 
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	LEFT: 0px; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 0px; 
+	HEIGHT: 20px; 
+	BORDER-RIGHT-WIDTH: 0px; 
+	voice-family: inherit;
+}
+
+A.header {
+	FONT-WEIGHT: bold; 
+	COLOR: #ffffff; 
+	TEXT-DECORATION: underline;
+}
+
+A.header:visited {
+	FONT-WEIGHT: bold; 
+	COLOR: #ffffff; 
+	TEXT-DECORATION: underline;
+}
+
+A.header:hover {
+	FONT-WEIGHT: bold; 
+	COLOR: #91b1ca; 
+	TEXT-DECORATION: underline;
+}
+
+/*  Breadcrumb trail styles */
+
+#breadcrumb {
+      background-color:#000; 
+      font-family:Arial;
+      font-size:small;
+      padding:7px 5px 0 5px; 
+      color:#ffffff;
+      min-height:22px;
+
+}
+
+* html #breadcrumb; {
+      height:22px;
+
+}
+
+#breadcrumb .breadCrumbText {
+      margin-right:350px;
+
+}
+
+#breadcrumb p {
+      margin:0;
+      padding:0;
+
+}
+
+#breadcrumb a {
+      color:#ffffff; 
+      text-decoration:none; 
+      font-weight:bold;
+
+} 
+
+#breadcrumb a:hover {
+      color:#ccc; 
+      text-decoration:none;
+
+} 
+
+#breadcrumb #siteSearchForm {
+      margin: 0;
+      position:absolute;
+      top:143px;
+      right:5px;
+
+}
+
+#breadcrumb #siteSearchForm p {
+      margin:0;
+      padding:0;
+
+}
+
+#breadcrumb #siteSearchForm #searchBoxSite {
+      background:url("http://web.archive.org/web/20110105160809im_/http://www.virginia.gov/images/virginia_seach_txt-bg.jpg") no-repeat;
+      background-color:transparent;
+      border:0;
+      font-weight:bold;
+      height:14px;
+      width:172px;
+      padding:3px;
+
+}
+
+#breadcrumb #siteSearchForm #siteSearchBtn {
+      background:url("http://web.archive.org/web/20110105160809im_/http://www.virginia.gov/images/virginia_seach_button-bg.jpg") no-repeat transparent;
+      border:none;
+      height:20px;
+      width:28px;
+      height:20px;
+      margin-left:2px;
+
+}
+
+#breadcrumb .alignLeft {
+      float:left;
+
+}
+
+#breadcrumb .clear {
+      clear:both;
+
+}
+
+#breadcrumb .hidden {
+      display:none;
+      visibility:hidden;
+
+}
+
+
+
+/*  Begin left navigation styles */
+
+#leftnav {
+        float:left;
+		width:202px;		
+		margin-right:20px;
+		margin-left:0px;
+		padding-top:15px;
+		padding-left:5px;		
+		padding-bottom:30px;
+					
+		}
+
+
+#leftnav UL {
+	PADDING-RIGHT: 1px; 
+	PADDING-LEFT: 1px; 
+	MARGIN-BOTTOM: 5px; 
+	PADDING-BOTTOM: 1px; 
+	MARGIN-LEFT: 15px; 
+	PADDING-TOP: 1px;
+}
+
+#leftnav LI {
+	margin-top: 5px; 
+	font-size: 80%; 
+	padding-bottom: 5px;
+	line-height: 1.5em;
+	border-bottom: #c0c0c0 1px solid;
+	}
+	
+
+
+.leftnavlink {
+	
+	color:#163c6d;
+	font-weight: bold;
+	text-decoration: none;
+				   }
+
+.leftnavlink:hover { color:#000000; font-weight: bold; text-decoration: none;}
+
+.leftnavlink:active { color:#000000; font-weight: bold; text-decoration: none;}
+
+.leftnavlink:visited {	font-weight: bold; text-decoration: none;}
+
+
+.sidebar {
+	MARGIN-LEFT: 0px;
+	POSITION: absolute;
+	TOP: 145px;
+	clear:both;
+	height: 700px;
+}
+
+.sidebar UL {
+	BORDER-TOP-WIDTH: 0px; 
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	BORDER-LEFT-WIDTH: 0px; 
+	BORDER-BOTTOM-WIDTH: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px 0px 0px 5px; 
+	PADDING-TOP: 0px; 
+	TEXT-ALIGN: left; 
+	BORDER-RIGHT-WIDTH: 0px;
+}
+
+
+
+
+#textbar UL {
+	PADDING-RIGHT: 1px; 
+	PADDING-LEFT: 1px; 
+	MARGIN-BOTTOM: 5px; 
+	PADDING-BOTTOM: 1px; 
+	MARGIN-LEFT: 15px; 
+	PADDING-TOP: 1px;
+}
+
+#textbar LI {
+	MARGIN-TOP: 5px; 
+	FONT-SIZE: 80%; 
+	
+	PADDING-BOTTOM: 5px; 
+	LINE-HEIGHT: 1.5em;
+	BORDER-BOTTOM: #c0c0c0 1px solid;
+	LIST-STYLE-TYPE: disc;
+}
+
+#textbar LI LI {
+	MARGIN-TOP: 2px; 
+	PADDING-LEFT: 0px; 
+	FONT-SIZE: 85%; 
+	
+	BORDER-BOTTOM-WIDTH: 0px; 
+	PADDING-BOTTOM: 0px; 
+	LINE-HEIGHT: 1.2em; 
+	LIST-STYLE-TYPE: disc;
+}
+
+
+
+#textbar A {
+	FONT-WEIGHT: bold; 
+	COLOR: #2966AB; 
+	TEXT-DECORATION: none;
+}
+
+#textbar A:hover {
+	FONT-WEIGHT: bold; 
+	COLOR: #000000; 
+	TEXT-DECORATION: none;
+}
+
+
+
+#textbar {
+	MARGIN-TOP: 2em; 
+	LEFT: 5px;
+	WIDTH: 180px;
+    
+}
+
+
+
+
+/*  Six division photos on homepage and each division photo styles */
+
+.sixdivisionphotos1 {
+background-repeat:no-repeat;
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/sixdivisionphotos.jpg);
+height:99px;
+margin-top:0px;}
+
+.sixdivisionphotos {
+background-repeat:no-repeat;
+
+height:99px;
+margin-top:0px;}
+
+
+.divisionminedlandreclamation {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisionMLR.jpg);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+
+.divisionmines {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisionmines.jpg);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+.divisionmineralresources {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisionmineralresources.jpg);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+.divisionmineralmining {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisionmineralmining.jpg);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+.divisiongasandoil {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisiongasoil.jpg);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+
+.divisionenergy {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisionenergy.jpg);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+
+
+
+.divisiongraphic {
+background-image:url(/web/20110105160809im_/https://www.dmme.virginia.gov/images/divisionheader.gif);
+background-repeat:no-repeat;
+height:99px;
+margin-top:0px;}
+
+#bar {background-color:#70182A;
+padding:3px;
+color: #FFFFFF;
+font-weight:bold;
+font-family: Georgia, Arial, Helvetica, sans-serif;
+font-size:110%;}
+
+#spacer { background-color:#FFFFFF;
+
+ }
+
+
+
+
+/*  Tsb Navigation Styles */
+#tabnav {
+
+    
+	width:100%;
+    background:#ffffff;
+    font-size:93%;
+    line-height:normal;
+	
+
+ }
+
+
+#navlist
+{
+	padding: 3px 0;
+	margin: 0;
+	
+	font: bold small Arial, Verdana, Helvetica, sans-serif; 
+}
+
+#navlist li
+{
+list-style: none;
+margin: 0;
+display: inline;
+}
+
+#navlist li a
+{
+padding: 3px 0.5em;
+margin-left: 3px;
+border:none;
+background: #abc68d;
+text-decoration: none;
+}
+
+#navlist li a:link { color: #ffffff;}
+#navlist li a:visited { color: #ffffff;}
+
+#navlist li a:hover
+{
+color: #ffffff;
+background: #2966ab;
+border-bottom:none;
+}
+
+
+#navlist li a#current
+{
+
+background: #2966ab;
+border-bottom: 1px solid white;
+}
+
+/*  end Tsb Navigation Styles */
+
+
+.strongtext {font-weight: bold;}
+
+.energystartext {color:#a9aaac;
+font-family:Arial Narrow, Helvetica, sans-serif;
+font-size:x-large;
+font-weight:bold;}
+
+.energystarbluetext {
+	color:#00adf0;
+	font-family:Arial Narrow, Helvetica, sans-serif;
+	font-size:x-large;
+	font-weight: bold;
+}
+.text {
+	color:#a9aaac;
+	font-family:Arial Narrow, Helvetica, sans-serif;
+	font-size:large;
+	font-weight: bold;
+}
+					  
+.changelighttext {color:#00adef;
+                  font-weight:bold;}
+				  
+HR {COLOR: #000;}
+		  
+.descriptiontext { 	FONT: 75% Arial, Verdana, Helvetica, sans-serif;} 
+DIV.topouterboxdmr {
+	PADDING-RIGHT: 10px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:760px;
+}
+DIV.topouterboxdmr2 {
+	PADDING-RIGHT: 10px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:435px;
+}
+DIV.bottomouterboxdmr {
+PADDING-RIGHT: 10px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:325px;
+}
+DIV.topouterboxdmrpub {
+PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:50px;
+}
+
+DIV.leftboxpub {
+	BACKGROUND-color: #FFFFFF;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	display:block;
+	float: left;
+	width: 10%;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+}
+
+DIV.midboxpub {
+	BACKGROUND-color: #FFFFFF;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	display:block;
+	float: left;
+	width: 75%;
+	padding-top: 0px;
+	padding-left: 5px;
+	padding-bottom: 10px;
+}
+
+DIV.rightboxpub {
+	BACKGROUND-color: #FFFFFF;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	display:block;
+	float: right;
+	width: 10%;
+	padding-bottom: 10px;
+	
+}
+DIV.topouterboxdm {
+	PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:825px;
+}
+DIV.bottomouterboxdm {
+PADDING-RIGHT: 5px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:425px;
+}
+DIV.topintroboxdmr {
+	PADDING-RIGHT: 10px;
+	MARGIN-TOP: 10px;
+	PADDING-LEFT: 5px;
+	MARGIN-BOTTOM: 10px;
+	PADDING-BOTTOM: 5px;
+	FONT: 100% Arial, Verdana, Helvetica, sans-serif;
+	PADDING-TOP: 5px;
+	clear: both;
+	width: 95%;
+	height:100px;
+}
+
+/*
+     FILE ARCHIVED ON 16:08:09 Jan 05, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:22:34 Oct 01, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
