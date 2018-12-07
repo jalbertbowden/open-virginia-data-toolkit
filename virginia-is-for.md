@@ -1,0 +1,3 @@
+# Virginia is for (VIF)...  
+
+[Virginia is for CraftBeer Lovers](http://virginiacraftbrewers.org/img/Content/valogo.jpg)  
