@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>22908</name>
+<description><![CDATA[22908]]></description>
+<Folder>
+<Placemark>
+	<name>22908</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-78.499627,38.034038,0.0
+ -78.500029,38.034264,0.0
+ -78.500888,38.034547,0.0
+ -78.502127,38.034183,0.0
+ -78.50276,38.032933,0.0
+ -78.503645,38.032057,0.0
+ -78.502599,38.03208,0.0
+ -78.501997,38.032116,0.0
+ -78.501837,38.032133,0.0
+ -78.501608,38.032171,0.0
+ -78.501068,38.032305,0.0
+ -78.499854,38.03264,0.0
+ -78.499142,38.032847,0.0
+ -78.499452,38.033563,0.0
+ -78.499627,38.034038,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

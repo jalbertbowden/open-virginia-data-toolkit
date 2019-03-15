@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>24607</name>
+<description><![CDATA[24607]]></description>
+<Folder>
+<Placemark>
+	<name>24607</name>
+	<styleUrl>#poly-1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-82.286979999759,37.3007470001268,0.0
+ -82.284791,37.300139,0.0
+ -82.283979,37.299445,0.0
+ -82.282224,37.296452,0.0
+ -82.280488,37.29582,0.0
+ -82.280347,37.294689,0.0
+ -82.278555,37.293255,0.0
+ -82.277454,37.292098,0.0
+ -82.275121,37.291187,0.0
+ -82.274356000315265,37.292195000039612,0.0
+ -82.276892,37.292854,0.0
+ -82.280075,37.294652,0.0
+ -82.28015,37.295899,0.0
+ -82.281181,37.296888,0.0
+ -82.282432,37.299042,0.0
+ -82.283423,37.29913,0.0
+ -82.284736,37.300493,0.0
+ -82.286979999759,37.3007470001268,0.0
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-82.294953000016534,37.306506000379386,0.0
+ -82.294507,37.306049,0.0
+ -82.293166,37.306022,0.0
+ -82.292203,37.305653,0.0
+ -82.290842,37.304247,0.0
+ -82.290478,37.30334,0.0
+ -82.289419,37.302417,0.0
+ -82.287919,37.301719,0.0
+ -82.287707,37.300823,0.0
+ -82.286979999759,37.3007470001268,0.0
+ -82.287686,37.301807,0.0
+ -82.289635,37.303168,0.0
+ -82.290439,37.304503,0.0
+ -82.291723,37.306161,0.0
+ -82.292654000199036,37.306757999659389,0.0
+ -82.290856,37.308361,0.0
+ -82.289243,37.309396,0.0
+ -82.288276000177291,37.311067999684568,0.0
+ -82.288515000159137,37.312657999970433,0.0
+ -82.288584000124445,37.311113999910852,0.0
+ -82.289031,37.310685,0.0
+ -82.289554,37.309345,0.0
+ -82.29093,37.308922,0.0
+ -82.292176,37.30825,0.0
+ -82.292583,37.307498,0.0
+ -82.294953000016534,37.306506000379386,0.0
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry></Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>22035</name>
+<description><![CDATA[22035]]></description>
+<Folder>
+<Placemark>
+	<name>22035</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-77.360592,38.857416,0.0
+ -77.36104,38.857658,0.0
+ -77.36178,38.858061,0.0
+ -77.362779,38.858598,0.0
+ -77.364165,38.857869,0.0
+ -77.364249,38.857651,0.0
+ -77.364717,38.855154,0.0
+ -77.364114,38.855044,0.0
+ -77.362686,38.854255,0.0
+ -77.361337,38.854228,0.0
+ -77.36044,38.853281,0.0
+ -77.359056,38.852706,0.0
+ -77.357549,38.852042,0.0
+ -77.354549,38.85279,0.0
+ -77.353371,38.854178,0.0
+ -77.352428,38.854686,0.0
+ -77.351132,38.854947,0.0
+ -77.35028,38.85572,0.0
+ -77.350923,38.856127,0.0
+ -77.351555,38.85635,0.0
+ -77.353857,38.856532,0.0
+ -77.354097,38.856561,0.0
+ -77.354499,38.856593,0.0
+ -77.355012,38.856605,0.0
+ -77.357023,38.856481,0.0
+ -77.359077,38.856762,0.0
+ -77.360592,38.857416,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

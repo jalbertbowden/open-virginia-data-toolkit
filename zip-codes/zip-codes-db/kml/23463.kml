@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>23463</name>
+<description><![CDATA[23463]]></description>
+<Folder>
+<Placemark>
+	<name>23463</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-76.189748,36.804526,0.0
+ -76.190687,36.804971,0.0
+ -76.191928,36.805586,0.0
+ -76.191679,36.805309,0.0
+ -76.191657,36.805067,0.0
+ -76.192266,36.804659,0.0
+ -76.193146,36.80464,0.0
+ -76.19359,36.80359,0.0
+ -76.192671,36.802976,0.0
+ -76.193201,36.801732,0.0
+ -76.192067,36.800422,0.0
+ -76.190246,36.799316,0.0
+ -76.188766,36.800827,0.0
+ -76.188286,36.801251,0.0
+ -76.187684,36.802106,0.0
+ -76.186966,36.803249,0.0
+ -76.188045,36.803738,0.0
+ -76.188927,36.80414,0.0
+ -76.189748,36.804526,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

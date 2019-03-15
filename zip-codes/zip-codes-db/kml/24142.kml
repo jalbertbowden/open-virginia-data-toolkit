@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>24142</name>
+<description><![CDATA[24142]]></description>
+<Folder>
+<Placemark>
+	<name>24142</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-80.548409,37.139256,0.0
+ -80.550811,37.140557,0.0
+ -80.552119,37.141101,0.0
+ -80.553743,37.141149,0.0
+ -80.553691,37.140565,0.0
+ -80.553601,37.140348,0.0
+ -80.553166,37.139699,0.0
+ -80.552823,37.136812,0.0
+ -80.552881,37.13581,0.0
+ -80.552526,37.134638,0.0
+ -80.551762,37.133931,0.0
+ -80.551131,37.134011,0.0
+ -80.550493,37.134737,0.0
+ -80.549249,37.134028,0.0
+ -80.548246,37.135166,0.0
+ -80.547914,37.13554,0.0
+ -80.549152,37.136247,0.0
+ -80.548138,37.137393,0.0
+ -80.547975,37.137567,0.0
+ -80.547465,37.138138,0.0
+ -80.547123,37.138537,0.0
+ -80.548409,37.139256,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

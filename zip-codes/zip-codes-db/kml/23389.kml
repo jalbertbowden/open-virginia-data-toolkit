@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>23389</name>
+<description><![CDATA[23389]]></description>
+<Folder>
+<Placemark>
+	<name>23389</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-75.836284,37.665337,0.0
+ -75.836928,37.664896,0.0
+ -75.836505,37.662937,0.0
+ -75.836636,37.662422,0.0
+ -75.837911,37.653084,0.0
+ -75.835304,37.652341,0.0
+ -75.834458,37.651945,0.0
+ -75.829352,37.656616,0.0
+ -75.829821,37.658161,0.0
+ -75.829057,37.658631,0.0
+ -75.828773,37.659639,0.0
+ -75.827524,37.66052,0.0
+ -75.827715,37.662463,0.0
+ -75.828316,37.663461,0.0
+ -75.830525,37.664293,0.0
+ -75.830651,37.664884,0.0
+ -75.830237,37.666523,0.0
+ -75.832369,37.666194,0.0
+ -75.834204,37.66672,0.0
+ -75.834409,37.665826,0.0
+ -75.836284,37.665337,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

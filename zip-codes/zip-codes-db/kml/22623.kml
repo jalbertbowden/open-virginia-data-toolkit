@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>22623</name>
+<description><![CDATA[22623]]></description>
+<Folder>
+<Placemark>
+	<name>22623</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-78.131175,38.861697,0.0
+ -78.132988,38.861991,0.0
+ -78.135451,38.860753,0.0
+ -78.135674,38.859958,0.0
+ -78.137166,38.85937,0.0
+ -78.139196,38.858986,0.0
+ -78.140827,38.859006,0.0
+ -78.141424,38.859644,0.0
+ -78.142228,38.859839,0.0
+ -78.142948,38.859266,0.0
+ -78.142825,38.856767,0.0
+ -78.14353,38.855395,0.0
+ -78.149547,38.8544,0.0
+ -78.152641,38.854384,0.0
+ -78.152076,38.850774,0.0
+ -78.152492,38.850452,0.0
+ -78.151685,38.84919,0.0
+ -78.151423,38.848482,0.0
+ -78.150068,38.846075,0.0
+ -78.14483,38.846113,0.0
+ -78.142843,38.846617,0.0
+ -78.141524,38.84649,0.0
+ -78.140408,38.846029,0.0
+ -78.136641,38.845485,0.0
+ -78.135092,38.842732,0.0
+ -78.134742,38.841865,0.0
+ -78.131397,38.841444,0.0
+ -78.128201,38.841465,0.0
+ -78.125096,38.842008,0.0
+ -78.124521,38.842565,0.0
+ -78.125439,38.843934,0.0
+ -78.125273,38.844851,0.0
+ -78.124842,38.845818,0.0
+ -78.124677,38.84623,0.0
+ -78.124254,38.847494,0.0
+ -78.124739,38.848278,0.0
+ -78.125168,38.848538,0.0
+ -78.127051,38.851204,0.0
+ -78.127413,38.851746,0.0
+ -78.127664,38.852322,0.0
+ -78.127807,38.852874,0.0
+ -78.128329,38.855084,0.0
+ -78.128627,38.856064,0.0
+ -78.128953,38.856841,0.0
+ -78.131175,38.861697,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

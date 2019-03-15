@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>24515</name>
+<description><![CDATA[24515]]></description>
+<Folder>
+<Placemark>
+	<name>24515</name>
+	<styleUrl>#poly-1</styleUrl>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-79.180105,37.348734,0.0
+ -79.179594,37.348745,0.0
+ -79.179511,37.348728,0.0
+ -79.179205,37.348614,0.0
+ -79.178586,37.349184,0.0
+ -79.177391,37.350187,0.0
+ -79.174462,37.352591,0.0
+ -79.174827,37.353036,0.0
+ -79.176291,37.352996,0.0
+ -79.177873,37.354328,0.0
+ -79.179219,37.354662,0.0
+ -79.179952,37.355801,0.0
+ -79.181127,37.355045,0.0
+ -79.182079,37.353659,0.0
+ -79.181663,37.353114,0.0
+ -79.1826,37.35132,0.0
+ -79.182701,37.350618,0.0
+ -79.181906,37.34987,0.0
+ -79.180292,37.349437,0.0
+ -79.180105,37.348734,0.0
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>

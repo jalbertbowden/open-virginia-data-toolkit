@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>24061</name>
+<description><![CDATA[24061]]></description>
+<Folder>
+<Placemark>
+	<name>24061</name>
+	<styleUrl>#poly-1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-80.416260000240982,37.227791000144272,0.0
+ -80.415899,37.227412,0.0
+ -80.415475,37.227722,0.0
+ -80.414584000245057,37.228353999885265,0.0
+ -80.414761,37.228784,0.0
+ -80.415575,37.228246,0.0
+ -80.415928,37.228008,0.0
+ -80.416260000240982,37.227791000144272,0.0
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+			<coordinates>
+-80.430637000246364,37.224312999841395,0.0
+ -80.429964,37.223919,0.0
+ -80.429701,37.222963,0.0
+ -80.428531,37.222485,0.0
+ -80.427271,37.220632,0.0
+ -80.426469,37.220307,0.0
+ -80.42434,37.217349,0.0
+ -80.423233,37.216741,0.0
+ -80.421791,37.216753,0.0
+ -80.419530000258291,37.217258999843047,0.0
+ -80.419836999961959,37.218079000095713,0.0
+ -80.419431999909989,37.219318000035557,0.0
+ -80.419519,37.221375,0.0
+ -80.4202240000874,37.222612999810181,0.0
+ -80.417291000119519,37.224660000132936,0.0
+ -80.41848,37.225969,0.0
+ -80.419824,37.226454,0.0
+ -80.420881000124027,37.227172999827509,0.0
+ -80.42004,37.227944,0.0
+ -80.419347,37.228115,0.0
+ -80.418779,37.228413,0.0
+ -80.417471999924985,37.229084999845334,0.0
+ -80.417480999791792,37.229286999915367,0.0
+ -80.4154629999096,37.230573999979448,0.0
+ -80.415981,37.231448,0.0
+ -80.416761,37.231215,0.0
+ -80.418353,37.230233,0.0
+ -80.419582,37.231554,0.0
+ -80.419532,37.23233,0.0
+ -80.419921,37.232491,0.0
+ -80.420676,37.232704,0.0
+ -80.422173,37.231583,0.0
+ -80.423089,37.232221,0.0
+ -80.424227,37.23261,0.0
+ -80.424521,37.23276,0.0
+ -80.424723,37.232932,0.0
+ -80.425026,37.233312,0.0
+ -80.425206,37.233229,0.0
+ -80.428243,37.231713,0.0
+ -80.428839000018954,37.2315000001577,0.0
+ -80.428386,37.230052,0.0
+ -80.426743999778125,37.228021999886181,0.0
+ -80.428014,37.2276,0.0
+ -80.42853,37.22656,0.0
+ -80.430637000246364,37.224312999841395,0.0
+			</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry></Placemark>
+</Folder>
+<Style id='NoneIconStyle'>
+	<IconStyle>
+		<Icon>
+			<href>http://www.zip-codes.com/images/markers/pin-blue-48.png</href>
+		</Icon>
+	</IconStyle>
+	<LabelStyle>
+		<color>ff0000cc</color>
+		<colorMode>random</colorMode>
+		<scale>1</scale>
+	</LabelStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-normal'>
+	<LineStyle id='poly-1-linestyle'>
+		<color>ff579D00</color><width>1</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<Style id='poly-009D57-1-76-nodesc-highlight'>
+	<LineStyle>
+		<color>ff579D00</color><width>2.0</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>4C579D00</color><fill>1</fill><outline>1</outline>
+	</PolyStyle>
+	<BalloonStyle>
+		<text><![CDATA[$[name]]]></text>
+	</BalloonStyle>
+</Style>
+<StyleMap id='poly-1'>
+	<Pair>
+		<key>normal</key><styleUrl>#poly-009D57-1-76-nodesc-normal</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key><styleUrl>#poly-009D57-1-76-nodesc-highlight</styleUrl>
+	</Pair>
+</StyleMap></Document>
+</kml>
