@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Layer #0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "22507", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -76.514066, 37.778709, 0.0 ] } }
+]
+}
